@@ -1,0 +1,25 @@
+<activity id="36bf203abe66416ab26caa89eea97a0b" pseudoID="SC_L3_AB_Ch2_p17_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>What does Ravi’s mother buy? Choose.</p>
+    </rubric>
+    <main>
+       <block class="mm_activityContainer mm_checkbox">
+            <p>
+                <checkbox id="checkbox_1" display="h" displayType="itemSelect" type="plain">
+                    <item id="item_1" correct="y">eggs</item>
+                    <item id="item_2" correct="y">chicken</item>
+                    <item id="item_3" correct="y">bread</item>
+                    <item id="item_4" correct="y">potatoes</item>
+                    <item id="item_5" correct="y">melons</item>
+                    <item id="item_6" correct="y">chocolate</item>
+                    <item id="item_7" correct="y">cake</item>
+                    <item id="item_8" correct="y" example="y">new dresses</item>
+                    <item id="item_9" correct="y">a bicycle</item>
+                    <item id="item_10">pears</item>
+                    <item id="item_11">tomatoes</item>
+                    <item id="item_12">apples</item>
+                </checkbox>
+            </p>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,13 @@
+.mm_selectableText  .selectable {
+    width: 6em;
+    display: inline-block;  
+    padding: .25em;
+}
+
+.mm_selectableText {
+    padding: 0.25em;
+}
+
+.mm_selectableTextBlock.mm_resetNumbering ol > li:before {
+    top: .7em; 
+}

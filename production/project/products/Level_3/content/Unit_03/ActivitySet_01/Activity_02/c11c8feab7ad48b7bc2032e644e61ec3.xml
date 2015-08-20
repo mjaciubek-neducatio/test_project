@@ -1,0 +1,48 @@
+<activity id="c11c8feab7ad48b7bc2032e644e61ec3" pseudoID="SC_L3_AB_Ch3_p23_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Look and choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_imageBorder mm_roundedImage">
+            <image src="p023a.jpg" title=""/>
+        </block>
+        <block class="mm_radio mm_itemSelectSeparator mm_itemSelectSeparatorMargin">
+            <p>Yesterday, we</p>
+            <radio id="radio_1" display="h" displayType="itemSelect" type="plain" example="y">
+                <item id="item_1">was</item>
+                <item id="item_2" correct="y">were </item>
+            </radio>
+            <p>at the aquarium. My brother</p>
+            <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                <item id="item_1" correct="y">was</item>
+                <item id="item_2">were </item>
+            </radio>
+            <p>very excited. Mom and Dad</p>
+            <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                <item id="item_1" correct="y">were</item>
+                <item id="item_2">weren’t</item>
+            </radio>
+            <p>there, too. All the people</p>
+            <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                <item id="item_1" correct="y">were</item>
+                <item id="item_2">weren’t</item>
+            </radio>
+            <p>happy because the rays</p>
+            <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                <item id="item_1">was</item>
+                <item id="item_2" correct="y">were</item>
+            </radio>
+            <p>funny. Mom and Dad liked the aquarium, too, but they</p>
+            <radio id="radio_6" display="h" displayType="itemSelect" type="plain">
+                <item id="item_1" correct="y">were</item>
+                <item id="item_2">weren’t</item>
+            </radio>
+            <p>surprised by the shark! My brother and I</p>
+            <radio id="radio_7" display="h" displayType="itemSelect" type="plain">
+                <item id="item_1">were</item>
+                <item id="item_2" correct="y">weren’t</item>
+            </radio>
+            <p>scared.</p>
+        </block>
+    </main>
+</activity>

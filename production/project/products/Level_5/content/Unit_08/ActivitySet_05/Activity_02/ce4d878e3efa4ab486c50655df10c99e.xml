@@ -1,0 +1,45 @@
+<activity id="ce4d878e3efa4ab486c50655df10c99e" pseudoID="SC_L5_AB_Ch8_p67_ACT03" class="mm_activityNumber3 mm_spellingCentral" seed="5">
+    <rubric>
+        <p>Unscramble the words to complete the puzzle.</p>
+    </rubric>
+    <main>
+        <block>
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>home</value>
+                        <clue>hemo</clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>nine</value>
+                        <clue>nein</clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>five</value>
+                        <clue>feiv</clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>arrive</value>
+                        <clue>verrai</clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>rice</value>
+                        <clue>crei</clue>
+                    </word>
+                    <word id="crossword_word_6">
+                        <value>mouse</value>
+                        <clue>semuo</clue>
+                    </word>
+                    <word id="crossword_word_7">
+                        <value>use</value>
+                        <clue>seu</clue>
+                    </word>
+                    <word id="crossword_word_8">
+                        <value>late</value>
+                        <clue>leta</clue>
+                    </word>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

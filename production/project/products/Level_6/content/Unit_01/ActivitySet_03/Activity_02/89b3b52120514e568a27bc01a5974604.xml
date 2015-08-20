@@ -1,0 +1,307 @@
+<activity class="mm_unit1 mm_activityNumber3 mm_spellingCentral" id="89b3b52120514e568a27bc01a5974604" pseudoID="SC_L6_AB_Ch1_p11_ACT03">
+    <rubric>
+        <p>Complete with <i>un-/dis-</i> and any other missing letters. Then write the opposite of the hidden word.</p>
+    </rubric>
+    <main>
+        <block class="mm_customTypein">
+            <list display="v" type="numbered">
+                <li>
+                    <p>
+                        <typeinGroup id="typeinGroup_1" example="y">
+                            <typein id="typein_1">
+                                <acceptable>
+                                    <item id="item_1">u</item>
+                                    <item id="item_2">U</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_2" example="y">
+                                <acceptable>
+                                    <item id="item_1">n</item>
+                                    <item id="item_2">N</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_3" example="y">
+                                <acceptable>
+                                    <item id="item_1">c</item>
+                                    <item id="item_2">C</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_4" example="y">
+                                <acceptable>
+                                    <item id="item_1">o</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_5" example="y">
+                                <acceptable>
+                                    <item id="item_1">m</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_6" example="y">
+                                <acceptable>
+                                    <item id="item_1">f</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_7" example="y">
+                                <acceptable>
+                                    <item id="item_1">o</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_8" example="y">
+                                <acceptable>
+                                    <item id="item_1">r</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_9" example="y">
+                                <acceptable>
+                                    <item id="item_1">t</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_10" example="y">
+                                <acceptable>
+                                    <item id="item_1">a</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_11" example="y">
+                                <acceptable>
+                                    <item id="item_1">b</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_12" example="y">
+                                <acceptable>
+                                    <item id="item_1">l</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_13" example="y">
+                                <acceptable>
+                                    <item id="item_1">e</item>
+                                </acceptable>
+                            </typein>
+                        </typeinGroup>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typeinGroup id="typeinGroup_2">
+                            <typein id="typein_14">
+                                <acceptable>
+                                    <item id="item_1">d</item>
+                                    <item id="item_2">D</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_15">
+                                <acceptable>
+                                    <item id="item_1">i</item>
+                                    <item id="item_2">I</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_16">
+                                <acceptable>
+                                    <item id="item_1">s</item>
+                                    <item id="item_2">S</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_17" example="y">
+                                <acceptable>
+                                    <item id="item_1">a</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_18" example="y">
+                                <acceptable>
+                                    <item id="item_1">p</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_19" example="y">
+                                <acceptable>
+                                    <item id="item_1">p</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_20" example="y">
+                                <acceptable>
+                                    <item id="item_1">e</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_21" example="y">
+                                <acceptable>
+                                    <item id="item_1">a</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_22" example="y">
+                                <acceptable>
+                                    <item id="item_1">r</item>
+                                </acceptable>
+                            </typein>
+                        </typeinGroup>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typeinGroup id="typeinGroup_3">
+                            <typein id="typein_23">
+                                <acceptable>
+                                    <item id="item_1">u</item>
+                                    <item id="item_2">U</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_24">
+                                <acceptable>
+                                    <item id="item_1">n</item>
+                                    <item id="item_2">N</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_25">
+                                <acceptable>
+                                    <item id="item_1">h</item>
+                                    <item id="item_2">H</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_26" example="y">
+                                <acceptable>
+                                    <item id="item_1">a</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_27" example="y">
+                                <acceptable>
+                                    <item id="item_1">p</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_28" example="y">
+                                <acceptable>
+                                    <item id="item_1">p</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_29" example="y">
+                                <acceptable>
+                                    <item id="item_1">y</item>
+                                </acceptable>
+                            </typein>
+                        </typeinGroup>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typeinGroup id="typeinGroup_4">
+                            <typein id="typein_30">
+                                <acceptable>
+                                    <item id="item_1">d</item>
+                                    <item id="item_2">D</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_31">
+                                <acceptable>
+                                    <item id="item_1">i</item>
+                                    <item id="item_2">I</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_32">
+                                <acceptable>
+                                    <item id="item_1">s</item>
+                                    <item id="item_2">S</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_33" example="y">
+                                <acceptable>
+                                    <item id="item_1">a</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_34" example="y">
+                                <acceptable>
+                                    <item id="item_1">g</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_35" example="y">
+                                <acceptable>
+                                    <item id="item_1">r</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_36" example="y">
+                                <acceptable>
+                                    <item id="item_1">e</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_37" example="y">
+                                <acceptable>
+                                    <item id="item_1">e</item>
+                                </acceptable>
+                            </typein>
+                        </typeinGroup>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typeinGroup id="typeinGroup_5">
+                            <typein id="typein_38">
+                                <acceptable>
+                                    <item id="item_1">u</item>
+                                    <item id="item_2">U</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_39">
+                                <acceptable>
+                                    <item id="item_1">n</item>
+                                    <item id="item_2">N</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_40">
+                                <acceptable>
+                                    <item id="item_1">e</item>
+                                    <item id="item_2">E</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_41" example="y">
+                                <acceptable>
+                                    <item id="item_1">x</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_42" example="y">
+                                <acceptable>
+                                    <item id="item_1">p</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_43" example="y">
+                                <acceptable>
+                                    <item id="item_1">l</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_44" example="y">
+                                <acceptable>
+                                    <item id="item_1">a</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_45" example="y">
+                                <acceptable>
+                                    <item id="item_1">i</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_46" example="y">
+                                <acceptable>
+                                    <item id="item_1">n</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_47" example="y">
+                                <acceptable>
+                                    <item id="item_1">e</item>
+                                </acceptable>
+                            </typein>
+                            <typein id="typein_48" example="y">
+                                <acceptable>
+                                    <item id="item_1">d</item>
+                                </acceptable>
+                            </typein>
+                        </typeinGroup>
+                    </p>
+                </li>
+            </list>
+        </block>
+        <block class="mm_customAnswer">
+            <p>Opposite of hidden word: </p>
+            <p>
+                <typein id="typein_49">
+                    <acceptable>
+                        <item id="item_1">unusual</item>
+                        <item id="item_2">UNUSUAL</item>
+                    </acceptable>
+                </typein>
+            </p>
+        </block>
+    </main>
+</activity>

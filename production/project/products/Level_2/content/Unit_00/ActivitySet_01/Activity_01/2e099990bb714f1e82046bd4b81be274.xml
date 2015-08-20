@@ -1,0 +1,35 @@
+<activity class="mm_unit0 mm_activityNumber1" id="2e099990bb714f1e82046bd4b81be274" desktopDraggable="n">
+    <rubric>
+        <p>Complete. Then ask and answer for the author.</p>
+    </rubric>
+    <main>
+        <block>
+            <image src="p004a.png" title="" class="mm_exercisePicture1"/>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">What’s your <droppable id="droppable_1" example="y" rank="2">name</droppable>?</p>
+                </li>
+                <li>
+                    <p>What’s your <droppable id="droppable_2" rank="4">favorite</droppable> story?</p>
+                </li>
+                <li>
+                    <p>Do you have any <droppable id="droppable_3" rank="6">pets</droppable>?</p>
+                </li>
+                <li>
+                    <p>Do you <droppable id="droppable_4" rank="5">like</droppable> pizza?</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_5" rank="3">Can</droppable> you skate?</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_6" rank="1">When’s</droppable> your birthday?</p>
+                </li>
+                <li>
+                    <p>Can you sign my book, <droppable id="droppable_7" rank="7">please</droppable>?</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

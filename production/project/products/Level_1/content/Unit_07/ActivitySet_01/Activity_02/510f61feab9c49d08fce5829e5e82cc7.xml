@@ -1,0 +1,28 @@
+<activity id="510f61feab9c49d08fce5829e5e82cc7" pseudoID="SC_L1_AB_Ch7_p54_ACT02" class="mm_unit7 mm_lesson1 mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in three groups for you.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>I have one</catName>
+                    <item id="item_1" example="y">head</item>
+                    <item id="item_2">body</item>
+                    <item id="item_3">neck</item>
+                </category>
+                <category id="category_2">
+                    <catName>I have two</catName>
+                    <item id="item_4">legs</item>
+                    <item id="item_5">arms</item>
+                    <item id="item_6">feet</item>
+                    <item id="item_7">hands</item>
+                </category>
+                <category id="category_3">
+                    <catName>I don’t have a</catName>
+                    <item id="item_8">tail</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,28 @@
+.mm_customText { 
+    background: #e7e7e8;
+    background: -moz-linear-gradient(left,  #e7e7e8 0%, #ffffff 50%, #ffffff 53%, #e8e8ea 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#e7e7e8), color-stop(50%,#ffffff), color-stop(53%,#ffffff), color-stop(100%,#e8e8ea));
+	background: -webkit-linear-gradient(left,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	background: -o-linear-gradient(left,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	background: -ms-linear-gradient(left,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	background: linear-gradient(to right,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e8', endColorstr='#e8e8ea',GradientType=1 );
+}
+.mm_customBorder {
+    background: url(../../production/project/products/Level_6/assets/images/p014b.png);
+    background-repeat: no-repeat;
+    background-size: 850px 400px;
+    padding: 1.2em;
+}
+.mm_customText img {
+    margin: 0.437em;
+    margin-top: -84px;
+}
+.mm_customText h2 {
+    color: #1dad8a;
+    background-color: #c7e7da;
+    width: 40%;
+    text-align: center;
+    padding: 0.218em;
+    margin-bottom: 0.437em;
+}

@@ -1,0 +1,15 @@
+ .mm_letter {
+    background-color: #f6f7f0;
+	border: 6px solid transparent;  
+    -moz-border-image: -moz-linear-gradient(top, #959595 0%, #c3c3c3 100%);  
+    -webkit-border-image: -webkit-linear-gradient(top, #959595 0%, #c3c3c3 100%);  
+    border-image: linear-gradient(to bottombottom, #959595 0%, #c3c3c3 100%);  
+    border-image-slice: 1;
+    clear: both;
+} 
+
+.mm_image {
+    float: right;
+    margin-bottom: -30px;
+}
+

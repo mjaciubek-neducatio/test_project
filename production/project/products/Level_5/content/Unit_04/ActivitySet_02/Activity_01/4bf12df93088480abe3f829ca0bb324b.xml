@@ -1,0 +1,90 @@
+<activity id="4bf12df93088480abe3f829ca0bb324b" pseudoID="SC_L5_AB_Ch4_p30_ACT04">
+    <rubric>
+        <p>Read the trip itinerary. Complete the sentences.</p>
+    </rubric>
+    <main>
+        <block>
+            <p>On Monday, I <sSpan class="mm_inlineNumber">1</sSpan><typein id="typein_1" example="y">
+                    <acceptable>
+                        <item id="item_1">’m flying</item>
+                    </acceptable>
+                </typein> to Houston. On Tuesday, we <sSpan class="mm_inlineNumber">2</sSpan><typein id="typein_2">
+                    <acceptable>
+                        <item id="item_1">’re watching</item>
+                    </acceptable>
+                </typein> a baseball game and then we <sSpan class="mm_inlineNumber">3</sSpan><typein id="typein_3">
+                    <acceptable>
+                        <item id="item_1">’re eating</item>
+                    </acceptable>
+                </typein> at The Nacho Café. On Wednesday, I <sSpan class="mm_inlineNumber">4</sSpan><typein id="typein_4">
+                    <acceptable>
+                        <item id="item_1">’m seeing</item>
+                    </acceptable>
+                </typein> the animals at Houston Zoo. On Thursday, I <sSpan class="mm_inlineNumber">5</sSpan><typein id="typein_5">
+                    <acceptable>
+                        <item id="item_1">’m visiting</item>
+                    </acceptable>
+                </typein> the Johnson Space Center. On Friday, <br/>we <sSpan class="mm_inlineNumber">6</sSpan><typein id="typein_6">
+                    <acceptable>
+                        <item id="item_1">’re going</item>
+                    </acceptable>
+                </typein> to a hot air balloon show and in the evening I <sSpan class="mm_inlineNumber">7</sSpan><typein id="typein_7">
+                    <acceptable>
+                        <item id="item_1">’m watching</item>
+                    </acceptable>
+                </typein> a movie!</p>
+        </block>
+        <block class="mm_facs mm_boxShadow">
+            <block class="mm_flexContainer mm_flexboxSet3">
+                <block class="mm_dayPlan">
+                    <p class="mm_dayName">
+                        <b>Monday</b>
+                    </p>
+                    <p class="mm_handwritten">Fly to Houston, Texas.</p>
+                    <block class="mm_picture">
+                        <image src="p031a.jpg" title=""/>
+                    </block>
+                </block>
+                <block class="mm_dayPlan">
+                    <p class="mm_dayName">
+                        <b>Tuesday</b>
+                    </p>
+                    <p class="mm_handwritten">2:00 p.m. watch a baseball game <br/>6:00 p.m. eat at The Nacho Café</p>
+                    <block class="mm_picture">
+                        <image src="p031b.jpg" title=""/>
+                    </block>
+                </block>
+                <block class="mm_dayPlan">
+                    <p class="mm_dayName">
+                        <b>Wednesday</b>
+                    </p>
+                    <p class="mm_handwritten">9:00 a.m. see the animals at Houston Zoo</p>
+                    <block class="mm_picture mm_polaroid">
+                        <image src="p031c.jpg" title=""/>
+                    </block>
+                </block>
+            </block>
+            <block class="mm_flexContainer mm_flexboxSet2">
+                <block class="mm_dayPlan">
+                    <p class="mm_dayName">
+                        <b>Thursday</b>
+                    </p>
+                    <p class="mm_handwritten">11:00 a.m. visit the Johnson Space Center</p>
+                    <block class="mm_picture mm_polaroid mm_imageHigher">
+                        <image src="p031d.jpg" title=""/>
+                    </block>
+                </block>
+                <block class="mm_dayPlan">
+                    <p class="mm_dayName">
+                        <b>Friday</b>
+                    </p>
+                    <p class="mm_handwritten">10:30 a.m. go to hot air balloon show <br/>7:00 p.m. watch a movie</p>
+                    <block class="mm_picture mm_polaroid mm_imageHigher">
+                        <image src="p031e.jpg" title=""/>
+                    </block>
+                </block>
+                
+            </block>
+        </block>
+    </main>
+</activity>

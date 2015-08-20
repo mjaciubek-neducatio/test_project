@@ -1,0 +1,31 @@
+<activity class="mm_unit9 mm_activityNumber2" id="f516c15ed4274b1ebe8b1db1fa918513" pseudoID="SC_L4_AB_Ch9_p72_ACT02">
+    <rubric>
+        <p>Read the story in your Student Book. Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_customMatching">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan>Ryan and Jack are very wet</matchItem>
+                    <matchTarget id="matchTarget_1" rank="8"><sSpan class="mm_matchingNumber">c.</sSpan>because of the heavy rain.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan>They can’t see the track</matchItem>
+                    <matchTarget id="matchTarget_2" rank="10"><sSpan class="mm_matchingNumber">e.</sSpan>so they have to stop.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan>They use branches</matchItem>
+                    <matchTarget id="matchTarget_3" rank="7"><sSpan class="mm_matchingNumber">b.</sSpan>to build a den.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan>They climb inside the den</matchItem>
+                    <matchTarget id="matchTarget_4" rank="6"><sSpan class="mm_matchingNumber">a.</sSpan>to keep dry.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan>They sleep in the den</matchItem>
+                    <matchTarget id="matchTarget_5" rank="9"><sSpan class="mm_matchingNumber">d.</sSpan>until morning.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

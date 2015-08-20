@@ -1,0 +1,41 @@
+<activity id="f1006827bc0f4dbf8b75b42fc9bf5ca9" pseudoID="SC_L5_AB_Ch9_p72_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>Dax visits the doctor because he needs <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">more</item>
+                            <item id="item_2">less</item>
+                        </dropDown> memory space.</p>
+                </li>
+                <li>
+                    <p>Dax needs to learn <dropDown id="dropDown_2">
+                            <item id="item_1">facts about brains</item>
+                            <item id="item_2" correct="y">information about planets</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>At the Memory Bank, his old memories are <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">stored on a chip</item>
+                            <item id="item_2">lost in space</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>When Dax can’t remember his address, he feels <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">confused</item>
+                            <item id="item_2">angry</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Dax will go back to the Memory Bank <dropDown id="dropDown_5">
+                            <item id="item_1">before</item>
+                            <item id="item_2" correct="y">after</item>
+                        </dropDown> his exam.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

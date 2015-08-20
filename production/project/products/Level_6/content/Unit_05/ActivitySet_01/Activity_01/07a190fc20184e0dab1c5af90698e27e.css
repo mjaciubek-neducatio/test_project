@@ -1,0 +1,39 @@
+.mm_customCrossword .across, .mm_customCrossword .down {
+    width: 350px;
+}
+
+.mm_customCrossword .down {
+    margin-top: 0.875em;
+}
+
+.mm_blockImages {
+    background-color: #c7e7da;
+    display: inline-block;
+    text-align: center;
+    margin-left: 3.5em;
+}
+
+.mm_blockImages.block img {
+    margin: .437em;
+}
+
+.mm_blockImages.block img:first-child {
+    margin-left: .875em;
+}
+
+.mm_blockImages.block .lastChild {
+    margin-right: .875em;
+}
+.mm_customAnswer {
+    position: absolute;
+    top: 280px;
+    left: 120px;
+    width: 250px;
+    text-align: center;
+    border: 2px solid #9fd6c2;
+    border-radius: 10px;
+    padding: 5px;
+}
+.mm_customAnswer p {
+    margin-bottom: 0;
+}

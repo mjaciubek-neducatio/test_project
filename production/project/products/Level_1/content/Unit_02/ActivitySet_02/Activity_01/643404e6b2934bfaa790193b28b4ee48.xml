@@ -1,0 +1,40 @@
+<activity id="643404e6b2934bfaa790193b28b4ee48" pseudoID="SC_L1_AB_Ch2_p16_ACT01" class="mm_unit2 mm_lesson3 mm_activityNumber1">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordBox">
+            <list display="h" type="plain">
+                <li>favorite</li>
+                <li>this</li>
+                <li>small</li>
+            </list>
+        </block>
+        <block class="mm_typeInList mm_speechBubbles mm_imageRight">
+            <image src="p014Toybox.jpg" title=""/>    
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_bubble">
+                        Hello! Is <typein id="typein_1">
+                            <acceptable>
+                                <item id="item_1">this</item>
+                            </acceptable>
+                        </typein> your book?</p>
+                    <p class="mm_bubble">Yes it is.</p>
+                </li>
+                <li>
+                    <p class="mm_bubble">What’s your <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">favorite</item>
+                            </acceptable>
+                        </typein> toy?</p>
+                    <p class="mm_bubble">My car. It’s <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">small</item>
+                            </acceptable>
+                        </typein> and red.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,26 @@
+<activity class="mm_unit9 mm_activityNumber1" id="2a75087706d84deb9513c2dfebc7c288" pseudoID="SC_L6_AB_Ch9_p74_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete. </p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>I’d rather use an encyclopedia <droppable id="droppable_1" example="y" rank="1">than</droppable> the Internet.</p>
+                </li>
+                <li>
+                    <p>I <droppable id="droppable_2" rank="3">prefer</droppable> to read a book in bed than watch TV.</p>
+                </li>
+                <li>
+                    <p>I <droppable id="droppable_3" rank="4">’d/would rather</droppable> read a comic book in my room than play music.</p>
+                </li>
+                <li>
+                    <p>I prefer to look at photos in an album <droppable id="droppable_4" rank="5">than</droppable> on the screen.</p>
+                </li>
+                <li>
+                    <p>I prefer stories in books <droppable id="droppable_5" rank="2">to</droppable> stories in movies.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

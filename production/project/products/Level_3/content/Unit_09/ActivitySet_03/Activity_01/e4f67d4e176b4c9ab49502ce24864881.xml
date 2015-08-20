@@ -1,0 +1,35 @@
+<activity id="e4f67d4e176b4c9ab49502ce24864881" pseudoID="SC_L3_AB_Ch9_p74_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">I’m going to take pictures. Don’t forget the</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9">camera!</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">The sun is hot. Be careful and use</matchItem>
+                    <matchTarget id="matchTarget_2" rank="11">sunblock.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">I can’t see. The sun is very bright. Where are my</matchItem>
+                    <matchTarget id="matchTarget_3" rank="7">sunglasses?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">I’m wet. I need a</matchItem>
+                    <matchTarget id="matchTarget_4" rank="12">towel.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">Are you going swimming? You can wear your new</matchItem>
+                    <matchTarget id="matchTarget_5" rank="8">bathing suit.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">Don’t take your boots. You need your</matchItem>
+                    <matchTarget id="matchTarget_6" rank="10">sandals.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,62 @@
+<activity id="50bd791c3ecc402fab05861e8d1be1a6" pseudoID="SC_L1_AB_Ch6_p50_ACT01" class="mm_unit6 mm_lesson5 mm_activityNumber1">
+    <rubric>
+        <p>Find ten animals.</p>
+    </rubric>
+    <main>
+        <block>
+        
+        <block class="mm_wordSearchClues mm_flexboxSet4">
+
+                <list display="v" type="numbered" class="">
+                    <li><image src="p050a.jpg"/></li>
+                    <li><image src="p050b.jpg"/></li>
+                    <li><image src="p050c.jpg"/></li>
+
+                </list>
+                
+                <list display="v" type="numbered" start="4">
+
+                    <li><image src="p050d.jpg"/></li>
+                    <li><image src="p050e.jpg"/></li>
+                    <li><image src="p050f.jpg"/></li>
+
+                </list>
+                
+                <list display="v" type="numbered" start="7">
+
+                    <li><image src="p050g.jpg"/></li>
+                    <li><image src="p050h.jpg"/></li>
+
+                </list>
+                
+                <list display="v" type="numbered" start="9">
+
+                    <li><image src="p050i.jpg"/></li>
+                    <li><image src="p050j.jpg"/></li>
+                </list>
+                
+            </block>
+        
+        
+            <block class="mm_wordSearch">
+                <wordSearch id="wordsearch_1" useVertical="y">
+                    <words>
+                        <word id="wordesearch_word_1">frog</word>
+                        <word id="wordesearch_word_2">hamster</word>
+                        <word id="wordesearch_word_3">dog</word>
+                        <word id="wordesearch_word_4" example="y">rabbit</word>
+                        <word id="wordesearch_word_5">turtle</word>
+                        <word id="wordesearch_word_6">bird</word>
+                        <word id="wordesearch_word_7">cat</word>
+                        <word id="wordesearch_word_8">mouse</word>
+                        <word id="wordesearch_word_9">rat</word>
+                        <word id="wordesearch_word_10">fish</word>
+                    </words>
+                    
+                </wordSearch>
+             </block> 
+
+             
+        </block>
+    </main>
+</activity>

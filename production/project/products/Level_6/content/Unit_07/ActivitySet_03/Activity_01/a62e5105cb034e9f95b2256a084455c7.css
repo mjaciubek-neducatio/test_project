@@ -1,0 +1,17 @@
+.mm_imageBlock {
+    margin-bottom: -500px;
+}
+.mm_imageBlock  {
+    position: absolute;
+    top: 330px;
+    left: 650px;
+}
+.mm_customBackground img {
+    position: relative;
+}
+.mm_customContent p{
+    position: absolute;
+    top: 82px;
+    left: 70px;
+    width: 740px;
+}

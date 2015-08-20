@@ -1,0 +1,67 @@
+<activity id="0123f309a89e43059a5565a88e120a79" pseudoID="SC_L5_AB_Ch3_p22_ACT01">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingCenter mm_vMatchingStaggeredItems mm_imageMatchItem mm_postitionNumbers mm_customMatching">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">
+                        <sSpan class="mm_matchingNumber">1.</sSpan> <image src="p022a.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_1" rank="4">
+                         amazing
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">
+                        <sSpan class="mm_matchingNumber">2.</sSpan> <image src="p022b.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_2" rank="6">
+                         confusing
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">
+                        <sSpan class="mm_matchingNumber">3.</sSpan> <image src="p022c.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_3" rank="2">
+                         disappointing
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">
+                        <sSpan class="mm_matchingNumber">4.</sSpan> <image src="p022d.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_4" rank="8">
+                         embarrassing
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">
+                        <sSpan class="mm_matchingNumber">5.</sSpan> <image src="p022e.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_5" rank="1">
+                         frightening
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">
+                        <sSpan class="mm_matchingNumber">6.</sSpan> <image src="p022f.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_6" rank="3">
+                         awful
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_7" rank="7">
+                        <sSpan class="mm_matchingNumber">7.</sSpan> <image src="p022g.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_7" rank="5">
+                         realistic
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_8" rank="8">
+                        <sSpan class="mm_matchingNumber">8.</sSpan> <image src="p022h.jpg" title=""/></matchItem>
+                    <matchTarget id="matchTarget_8" rank="7">
+                         weird
+                    </matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

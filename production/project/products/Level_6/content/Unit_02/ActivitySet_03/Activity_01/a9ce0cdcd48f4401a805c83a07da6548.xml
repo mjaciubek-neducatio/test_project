@@ -1,0 +1,32 @@
+<activity class="mm_unit2 mm_activityNumber1" id="a9ce0cdcd48f4401a805c83a07da6548" pseudoID="SC_L6_AB_Ch2_p18_ACT01">
+    <rubric>
+        <p>Complete with the correct verb forms.</p>
+    </rubric>
+    <main>
+        <block>
+            <block class="mm_customTypein">
+                <image src="p18b.png" title=""/>
+                <list display="v" type="numbered">
+                    <li class="mm_example">
+                        <p class="mm_handwritten">I wish I <sSpan class="mm_customText">have </sSpan><typein id="typein_1" example="y"><acceptable><item id="item_1">had</item><item id="item_2">HAD</item></acceptable></typein> something tasty to eat!</p>
+                    </li>
+                    <li>
+                        <p class="mm_handwritten">I wish we <sSpan class="mm_customText">can </sSpan><typein id="typein_2"><acceptable><item id="item_1">could</item><item id="item_2">COULD</item></acceptable></typein> play something.</p>
+                    </li>
+                    <li>
+                        <p class="mm_handwritten">I wish I <sSpan class="mm_customText">have </sSpan><typein id="typein_3"><acceptable><item id="item_1">had</item><item id="item_2">HAD</item></acceptable></typein> a best friend.</p>
+                    </li>
+                    <li>
+                        <p class="mm_handwritten">I wish I <sSpan class="mm_customText">be </sSpan><typein id="typein_4"><acceptable><item id="item_1">were</item><item id="item_2">WERE</item></acceptable></typein> a cat.</p>
+                    </li>
+                    <li>
+                        <p class="mm_handwritten">I wish I <sSpan class="mm_customText">not have </sSpan><typein id="typein_5"><acceptable><item id="item_1">didn’t have</item><item id="item_2">DIDN’T HAVE</item><item id="item_3">didn’t have</item><item id="item_4">DIDN’T HAVE</item><item id="item_5">did not have</item><item id="item_6">DID NOT HAVE</item></acceptable></typein> to go out.</p>
+                    </li>
+                </list>
+            </block>
+            <block class="mm_customImage mm_imageRight">
+                <image src="p18a.png" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

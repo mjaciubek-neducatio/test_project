@@ -1,0 +1,15 @@
+.mm_wordSnakeBackground {
+	background: url(../../production/project/products/Level_2/assets/images/p009a.png);
+	min-height: 288px;
+    width: 800px;
+    background-position: top right;
+    background-repeat: no-repeat;
+    margin-left: 8em;
+}
+
+.mm_wordSnakeContent {
+	position: relative;
+	top: 85px;
+	left: 70px;
+}
+

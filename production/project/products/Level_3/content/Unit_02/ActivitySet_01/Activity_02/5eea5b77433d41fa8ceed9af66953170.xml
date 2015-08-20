@@ -1,0 +1,119 @@
+<activity id="5eea5b77433d41fa8ceed9af66953170" pseudoID="SC_L3_AB_Ch2_p15_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Complete. Then calculate.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordBoxSimple">
+            <list display="h" type="plain">
+                <li>is</li>
+                <li>are</li>
+                <li>It’s</li>
+                <li>They’re</li>
+                <li>is</li>
+                <li>They’re</li>
+            </list>
+        </block>
+        <block class="mm_wordBoxSimple">
+            <list display="h" type="plain">
+                <li>3.00</li>
+                <li>2.50</li>
+                <li>2.00</li>
+            </list>
+        </block>
+        <block class="mm_dialogue mm_indent80">
+            <image src="p015a.jpg" title=""/>
+            <list display="v" type="plain">
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Billy:</sSpan>   Excuse me, how much <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">is</item>
+                                <item id="item_2">IS</item>
+                                <item id="item_3">Is</item>
+                            </acceptable>
+                        </typein> the rice?</p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Assistant:</sSpan>
+                        <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">It’s</item>
+                                <item id="item_2">IT’S</item>
+                                <item id="item_3">it’s</item>
+                            </acceptable>
+                        </typein> $<typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">3.00</item>
+                                <item id="item_2">3</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Billy:</sSpan>   And I need some eggs, too.</p>
+                    <p>How much <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">are</item>
+                                <item id="item_2">ARE</item>
+                                <item id="item_3">Are</item>
+                            </acceptable>
+                        </typein> the eggs?</p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Assistant:</sSpan>
+                        <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">They’re</item>
+                                <item id="item_2">THEY’RE</item>
+                                <item id="item_3">They’re</item>
+                            </acceptable>
+                        </typein> $<typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">2.50</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Billy:</sSpan>   How much are the green beans, please?</p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Assistant:</sSpan>
+                        <typein id="typein_7">
+                            <acceptable>
+                                <item id="item_1">They’re</item>
+                                <item id="item_2">THEY’RE</item>
+                                <item id="item_3">They’re</item>
+                            </acceptable>
+                        </typein> $<typein id="typein_8">
+                            <acceptable>
+                                <item id="item_1">2.00</item>
+                                <item id="item_2">2</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Billy:</sSpan>   How much <typein id="typein_9">
+                            <acceptable>
+                                <item id="item_1">is</item>
+                                <item id="item_2">IS</item>
+                                <item id="item_3">Is</item>
+                            </acceptable>
+                        </typein> all that?</p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_radioLabelNumber">Assistant:</sSpan>   It’s $<typein id="typein_10">
+                            <acceptable>
+                                <item id="item_1">7.50</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+            </list>
+        </block>        
+    </main>
+</activity>

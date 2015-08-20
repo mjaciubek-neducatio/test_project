@@ -1,0 +1,38 @@
+<activity id="bfbd571f5b5242e1b5ae8d30bf94c8a8" pseudoID="SC_L3_AB_Ch3_p26_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Complete the puzzle.</p>
+    </rubric>
+    <main>
+        <block>
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>dancer</value>
+                        <clue>this person dances</clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>teacher</value>
+                        <clue>this person teaches</clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>actor</value>
+                        <clue>this person acts on stage</clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>doctor</value>
+                        <clue>this person helps sick people</clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>singer</value>
+                        <clue>this person sings</clue>
+                    </word>
+                    <word id="crossword_word_6">
+                        <value>firefighter</value>
+                        <clue>this person puts out fires</clue>
+                    </word>
+                    <!-- <hiddenWord>cleaner</hiddenWord> -->
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

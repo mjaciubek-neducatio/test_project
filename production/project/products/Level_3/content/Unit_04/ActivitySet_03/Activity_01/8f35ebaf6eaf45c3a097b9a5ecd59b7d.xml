@@ -1,0 +1,35 @@
+<activity id="8f35ebaf6eaf45c3a097b9a5ecd59b7d" pseudoID="SC_L3_AB_Ch4_p34_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> clean</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9"><sSpan class="mm_matchingNumber">c.</sSpan>your room</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> turn</matchItem>
+                    <matchTarget id="matchTarget_2" rank="7"><sSpan class="mm_matchingNumber">a.</sSpan>off the lamp</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> put</matchItem>
+                    <matchTarget id="matchTarget_3" rank="12"><sSpan class="mm_matchingNumber">f.</sSpan>the kettle on</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> pick</matchItem>
+                    <matchTarget id="matchTarget_4" rank="8"><sSpan class="mm_matchingNumber">b.</sSpan>up your clothes</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> do</matchItem>
+                    <matchTarget id="matchTarget_5" rank="10"><sSpan class="mm_matchingNumber">d.</sSpan>the dishes</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan> sweep</matchItem>
+                    <matchTarget id="matchTarget_6" rank="11"><sSpan class="mm_matchingNumber">e.</sSpan>the floor</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

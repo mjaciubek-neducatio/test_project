@@ -1,0 +1,31 @@
+<activity id="4dfc4b3be6d8436ba7cb11e9dee49ba7" pseudoID="SC_L1_AB_ChW_p4_ACT02" class="mm_welcome mm_activity1">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageMatchItem mm_hMatching mm_postitionNumbers mm_hMatching4 mm_hMatchTarget1Line">
+            <matching id="matching_1" display="h">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> <image src="p004b.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_1" rank="2">Libby</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> <image src="p004c.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_2" rank="4">Tom</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> <image src="p004d.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_3" rank="1">Ellie</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> <image src="p004e.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_4" rank="3">Biblio</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

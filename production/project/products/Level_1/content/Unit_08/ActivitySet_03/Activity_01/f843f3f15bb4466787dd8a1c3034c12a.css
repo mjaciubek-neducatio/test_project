@@ -1,0 +1,20 @@
+.blockSet .mm_oval {
+    background-color: #feeed4;
+    border-radius: 50%;
+    line-height: 1.5em;
+/*    padding-top: 2.5em;*/
+    padding-bottom: 2.75em;
+    border: 2px solid #fff; 
+}
+
+.blockSet .mm_oval:last-of-type {
+
+/*    border-radius: 50%;*/
+/*    padding-top: 0.875em;*/
+    padding-bottom: 1em;
+}
+
+.mm_oval h3 {
+	color: #d6981d;
+    margin-bottom: 0;
+}

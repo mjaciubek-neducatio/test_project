@@ -1,0 +1,59 @@
+<activity class="mm_unit3 mm_activityNumber3 mm_spellingCentral" id="852dab7c54994b4fba60ff21857d10ca" pseudoID="SC_L6_AB_Ch3_p27_ACT03">
+    <rubric>
+        <p>Find the words with a <i>k</i> sound. Choose the one that doesn’t belong.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain" example="y">
+                        <item id="item_1">awake</item>
+                        <item id="item_2">dark</item>
+                        <item id="item_3" correct="y">cheap</item>
+                        <item id="item_4">confusing</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">crunchy</item>
+                        <item id="item_2" correct="y">juicy</item>
+                        <item id="item_3">joke</item>
+                        <item id="item_4">respect</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">scarf</item>
+                        <item id="item_2">silk</item>
+                        <item id="item_3" correct="y">watch</item>
+                        <item id="item_4">necklace</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">cycle</item>
+                        <item id="item_2">traffic</item>
+                        <item id="item_3">sidewalk</item>
+                        <item id="item_4" correct="y">center</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_5" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">captain</item>
+                        <item id="item_2" correct="y">rich</item>
+                        <item id="item_3">rock</item>
+                        <item id="item_4">crew</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_6" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">slice</item>
+                        <item id="item_2">cut</item>
+                        <item id="item_3">pick</item>
+                        <item id="item_4">make</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

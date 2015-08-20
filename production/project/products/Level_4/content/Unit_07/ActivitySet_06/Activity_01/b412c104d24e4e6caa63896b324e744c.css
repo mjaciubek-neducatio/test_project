@@ -1,0 +1,26 @@
+.mm_cWidth {
+    min-width: 50%;
+    display: inline-block;
+}
+
+.mm_letter {
+    background: url(../../production/project/products/Level_4/assets/images/p060a.jpg);
+    padding: 10px 20px;
+    margin-top: -10px;
+    transform: rotate(358deg) scale(1) skew(1deg) translate(0px);
+    -webkit-transform: rotate(358deg) scale(1) skew(1deg) translate(0px);
+    -moz-transform: rotate(358deg) scale(1) skew(1deg) translate(0px);
+    -o-transform: rotate(358deg) scale(1) skew(1deg) translate(0px);
+    -ms-transform: rotate(358deg) scale(1) skew(1deg) translate(0px);
+}
+
+.mm_headlines h2:nth-child(1) {
+    text-align: center;
+    font-family: "Georgia", serif;
+    font-weight: normal;
+    letter-spacing: 3px;
+}
+
+.mm_exerciseQustions {
+    margin-top: -10px;
+}

@@ -1,0 +1,35 @@
+<activity id="d7d9eff5052b4eee808f2fc79deb689c" pseudoID="SC_L3_AB_Ch7_p55_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> Did you</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9"><sSpan class="mm_matchingNumber">c.</sSpan> go to sports day?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> Yes,</matchItem>
+                    <matchTarget id="matchTarget_2" rank="7"><sSpan class="mm_matchingNumber">a.</sSpan> I did.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Did he win</matchItem>
+                    <matchTarget id="matchTarget_3" rank="10"><sSpan class="mm_matchingNumber">d.</sSpan> the discus event?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> No, he</matchItem>
+                    <matchTarget id="matchTarget_4" rank="12"><sSpan class="mm_matchingNumber">f.</sSpan> didn’t.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> Did she run</matchItem>
+                    <matchTarget id="matchTarget_5" rank="8"><sSpan class="mm_matchingNumber">b.</sSpan> in a race?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan> Yes, she</matchItem>
+                    <matchTarget id="matchTarget_6" rank="11"><sSpan class="mm_matchingNumber">e.</sSpan> did.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,22 @@
+<activity class="mm_unit3 mm_activityNumber1" id="af7be23ebdee43cb8125218e2f3bfbca" pseudoID="SC_L4_AB_Ch3_p26_ACT01">
+    <rubric>
+        <p>Find nine space words.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordSearchCentre mm_condensedWordSearch">
+            <wordSearch id="wordsearch_1">
+                <words>
+                    <word id="wordesearch_word_1" example="y">astronaut</word>
+                    <word id="wordesearch_word_2">galaxy</word>
+                    <word id="wordesearch_word_3">meteor</word>
+                    <word id="wordesearch_word_4">moon</word>
+                    <word id="wordesearch_word_5">orbit</word>
+                    <word id="wordesearch_word_6">planet</word>
+                    <word id="wordesearch_word_7">rocket</word>
+                    <word id="wordesearch_word_8">solarsystem</word>
+                    <word id="wordesearch_word_9">universe</word>
+                </words>
+            </wordSearch>
+        </block>
+    </main>
+</activity>

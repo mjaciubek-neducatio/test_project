@@ -1,0 +1,12 @@
+.mm_customImage {
+    width: 870px;
+    margin: 0 auto;
+    border: 3px solid #58585a;
+    border-radius: 28px;
+    margin-bottom: 0.875em;
+}  
+.mm_customText {
+    border: 3px dotted #5365a8;
+    border-radius: 15px;
+    padding: 0.437em;
+}

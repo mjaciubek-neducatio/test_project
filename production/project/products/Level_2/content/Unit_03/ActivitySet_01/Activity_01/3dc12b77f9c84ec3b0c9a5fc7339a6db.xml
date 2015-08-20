@@ -1,0 +1,23 @@
+<activity class="mm_unit3 mm_activityNumber1" id="3dc12b77f9c84ec3b0c9a5fc7339a6db">
+    <rubric>
+        <p>Find the words.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <image src="p022a.jpg" title=""/>
+            <wordSearch id="wordsearch_1" useDiagonal="n" useReverse="n">
+                <words>
+                    <word id="wordesearch_word_1">tshirt</word>
+                    <word id="wordesearch_word_2">boots</word>
+                    <word id="wordesearch_word_3">jeans</word>
+                    <word id="wordesearch_word_4">skirt</word>
+                    <word id="wordesearch_word_5">pants</word>
+                    <word id="wordesearch_word_6" example="y">dress</word>
+                    <word id="wordesearch_word_7">shorts</word>
+                    <word id="wordesearch_word_8">shirt</word>
+                    <word id="wordesearch_word_9">shoes</word>
+                </words>
+            </wordSearch>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,47 @@
+.crosswordClueContainer .across {
+   /*  width: 15.5%;
+    margin-top: 3px; */
+}
+
+.crosswordClueContainer .down {
+/*    background-color: #aaa;
+*/   /*  float: none; */
+/*	float: left;*/
+/* 	width: 33.7%; */
+}
+
+/* .crosswordClueContainer .down li {
+   width: 46.5%;
+    	display: inline-block;
+}
+
+.crosswordClueContainer .down li:nth-child(odd) {
+    margin-right: 1em;
+} 
+
+.crosswordClueContainer li:first-letter {
+    padding-left: 4px;
+}
+ */
+ 
+ .rcfCrossword {
+     /* float: none;
+     display: inline-block; */
+ }
+ 
+/* .crosswordClueContainer {
+     position: relative;
+     } */
+.crosswordClueContainer .across {
+    position: absolute;
+    top: 50%;
+    margin-top: .5em;
+ }
+ .crosswordClueContainer .down {
+    position: absolute;
+    top: 0;
+ }
+ 
+ .clue {
+    font-weight: bold;
+}

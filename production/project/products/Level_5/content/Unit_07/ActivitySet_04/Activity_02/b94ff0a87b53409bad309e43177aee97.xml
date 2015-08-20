@@ -1,0 +1,51 @@
+<activity id="b94ff0a87b53409bad309e43177aee97" pseudoID="SC_L5_AB_Ch7_p58_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Unscramble. True or false for you? Tell a friend.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="6">I</item>
+                        <item id="item_2" rank="1">eat</item>
+                        <item id="item_3" rank="5">too</item>
+                        <item id="item_4" rank="3">much</item>
+                        <item id="item_5" rank="4">chocolate</item>
+                        <item id="item_6" rank="2">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="1">I</item>
+                        <item id="item_2" rank="5">always</item>
+                        <item id="item_3" rank="6">eat</item>
+                        <item id="item_4" rank="2">enough</item>
+                        <item id="item_5" rank="4">fruit</item>
+                        <item id="item_6" rank="3">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="4">She</item>
+                        <item id="item_2" rank="1">doesn’t</item>
+                        <item id="item_3" rank="3">drink</item>
+                        <item id="item_4" rank="6">enough</item>
+                        <item id="item_5" rank="2">water</item>
+                        <item id="item_6" rank="5">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="5">I</item>
+                        <item id="item_2" rank="2">eat</item>
+                        <item id="item_3" rank="1">too</item>
+                        <item id="item_4" rank="4">many</item>
+                        <item id="item_5" rank="3">cookies</item>
+                        <item id="item_6" rank="6">.</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

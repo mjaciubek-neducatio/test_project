@@ -1,0 +1,17 @@
+.mm_cloudRight:before {
+    content: url(../../production/project/products/Level_4/assets/images/p064a.png);
+    margin-right: 0.437em;
+}
+
+.mm_cloudLeft:before {
+    content: url(../../production/project/products/Level_4/assets/images/p064b.png);
+    margin-right: 0.437em;
+}
+
+.mm_cloudRight {
+    margin-bottom: 0.437em;
+}
+
+.mm_cloudLeft {
+    margin-bottom: 0.437em;
+}

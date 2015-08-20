@@ -1,0 +1,35 @@
+<activity id="9be6fad8c34e4c04b198dacfd8b63dc8" pseudoID="SC_L3_AB_Ch8_p65_ACT05" class="mm_activityNumber2">
+    <rubric>
+        <p>Match the rhyming words.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1" display="h">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">hide</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9">wide</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">quick</matchItem>
+                    <matchTarget id="matchTarget_2" rank="7">slick</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">friend</matchItem>
+                    <matchTarget id="matchTarget_3" rank="12">end</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">rabbit</matchItem>
+                    <matchTarget id="matchTarget_4" rank="11">habit</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">cheese</matchItem>
+                    <matchTarget id="matchTarget_5" rank="10">please</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">snake</matchItem>
+                    <matchTarget id="matchTarget_6" rank="8">mistake</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

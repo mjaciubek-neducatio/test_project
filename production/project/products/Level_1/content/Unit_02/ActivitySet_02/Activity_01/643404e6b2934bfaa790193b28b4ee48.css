@@ -1,0 +1,8 @@
+.mm_bubble {
+    width: 35%;
+    display: inline-block;  
+}
+
+.mm_bubble + .mm_bubble {
+    margin-left: 3em;
+}

@@ -1,0 +1,60 @@
+<activity id="8bb0e965316d4d6c90c2abbc60e1abd4" pseudoID="SC_L5_AB_Ch3_p28_ACT01">
+    <rubric>
+        <p>Read and choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block>
+            <collapsibleBlock id="text" open="y">
+    			<collapseButton captionWhenClosed="Show the text" captionWhenOpened="Hide the text"/>
+				<block class="mm_boxShadow">
+                    <image src="p028c.jpg" title=""/>
+                </block>
+			</collapsibleBlock>
+        
+        <block class="mm_reading">
+            <block class="mm_image">
+                <image src="p028a.png" title=""/>
+            </block>
+            <block class="mm_radio mm_padder">
+                <list display="v" type="numbered">
+                    <li>
+                        <p class="mm_example">Electricity has changed how long we sleep.</p>
+                        <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect" example="y">
+                            <item id="item_1" correct="y">T</item>
+                            <item id="item_2">F</item>
+                        </radio>
+                    </li>
+                    <li>
+                        <p>People go to bed earlier now than in the past.</p>
+                        <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1">T</item>
+                            <item id="item_2" correct="y">F</item>
+                        </radio>
+                    </li>
+                    <li>
+                        <p>People used to sleep more in the past.</p>
+                        <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1" correct="y">T</item>
+                            <item id="item_2">F</item>
+                        </radio>
+                    </li>
+                    <li>
+                        <p>You sleep better when you watch TV before going to bed.</p>
+                        <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1">T</item>
+                            <item id="item_2" correct="y">F</item>
+                        </radio>
+                    </li>
+                    <li>
+                        <p>You shouldn't use your computer late at night.</p>
+                        <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1" correct="y">T</item>
+                            <item id="item_2">F</item>
+                        </radio>
+                    </li>
+                </list>
+            </block>
+            </block>
+    </block>
+    </main>
+</activity>

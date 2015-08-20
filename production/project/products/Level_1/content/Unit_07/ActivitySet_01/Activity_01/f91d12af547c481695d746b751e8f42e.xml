@@ -1,0 +1,26 @@
+<activity id="f91d12af547c481695d746b751e8f42e" pseudoID="SC_L1_AB_Ch7_p54_ACT01" class="mm_unit7 mm_lesson1 mm_activityNumber1">
+    <rubric>
+        <p>Find eight parts of the body.</p>
+    </rubric>
+    <main>
+        <!-- <block>
+            <image src="p054a.jpg" title=""/>
+        </block> -->
+        <block class="mm_wordSnake mm_wigglyContainer">
+            <block class="mm_snake1">
+            <wordSnake id="ws_1">
+                <words>
+                    <word id="w_1">legs</word>
+                    <word id="w_2">arms</word>
+                    <word id="w_3">body</word>
+                    <word id="w_4" example="y">head</word>
+                    <word id="w_5">feet</word>
+                    <word id="w_6">hands</word>
+                    <word id="w_7">tail</word>
+                    <word id="w_8">neck</word>
+                </words>
+            </wordSnake>
+        </block>
+        </block>
+    </main>
+</activity>

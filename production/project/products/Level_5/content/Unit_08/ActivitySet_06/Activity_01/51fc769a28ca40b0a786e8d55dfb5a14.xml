@@ -1,0 +1,12 @@
+<activity id="51fc769a28ca40b0a786e8d55dfb5a14" pseudoID="SC_L5_AB_Ch8_p68_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Read and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_letter mm_imageLeft mm_boxShadow">
+            <image src="p068a.png" title=""/>
+            <p>The author J. R. R. Tolkien wrote fantasy books full of strange creatures. He invented a group of <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y" rank="5">languages</droppable> called "Elvish". They were spoken by characters called elves and created just for his books. Tolkien said that the language was the first thing he imagined for a book. He created the world and the <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="4">story</droppable> after that.</p>
+            <p>Some people have studied Elvish so that they can <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="2">speak</droppable> to each other. They use websites that explain how to <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="3">pronounce</droppable> Elvish sounds. There are also online dictionaries that <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="1">translate</droppable> Elvish into your own language. Elvish is not easy to <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="6">understand</droppable> but it’s a very cool language!</p>
+        </block>
+    </main>
+</activity>

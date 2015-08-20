@@ -1,0 +1,36 @@
+<activity id="ecca6e71243947a3ae78b28c053ad1e2" pseudoID="SC_L5_AB_Ch4_p30_ACT01">
+    <rubric>
+        <p>Look and choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexContainer mm_flexboxSet2">
+            <block class="mm_mainText mm_padder">
+                <p>In the sky, there’s a big <sSpan class="mm_inlineNumber mm_halfSpace">1</sSpan><dropDown id="dropDown_1" example="y">
+                        <item id="item_1" correct="y">balloon</item>
+                        <item id="item_2">basket</item>
+                    </dropDown> with a star on it. On the left, another balloon is <sSpan class="mm_inlineNumber mm_halfSpace">2</sSpan><dropDown id="dropDown_2">
+                        <item id="item_1">landing</item>
+                        <item id="item_2" correct="y">taking off</item>
+                    </dropDown>. A boy is standing in the <sSpan class="mm_inlineNumber mm_halfSpace">3</sSpan><dropDown id="dropDown_3">
+                        <item id="item_1">ropes</item>
+                        <item id="item_2" correct="y">basket</item>
+                    </dropDown>. He’s looking at the <sSpan class="mm_inlineNumber mm_halfSpace">4</sSpan><dropDown id="dropDown_4">
+                        <item id="item_1">flight</item>
+                        <item id="item_2" correct="y">view</item>
+                    </dropDown> of the mountains. One of the <br/><sSpan class="mm_inlineNumber mm_halfSpace">5</sSpan><dropDown id="dropDown_5">
+                        <item id="item_1" correct="y">passengers</item>
+                        <item id="item_2">ropes</item>
+                    </dropDown> is a dog. A man is pulling the <sSpan class="mm_inlineNumber mm_halfSpace">6</sSpan><dropDown id="dropDown_6">
+                        <item id="item_1">passengers</item>
+                        <item id="item_2" correct="y">ropes</item>
+                    </dropDown> – it looks difficult. Look at the balloon on the right. There isn’t much <sSpan class="mm_inlineNumber mm_halfSpace">7</sSpan><dropDown id="dropDown_7">
+                        <item id="item_1" correct="y">hot air</item>
+                        <item id="item_2">view</item>
+                    </dropDown> in it.</p>
+            </block>
+            <block>
+                <image src="p030a.jpg" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

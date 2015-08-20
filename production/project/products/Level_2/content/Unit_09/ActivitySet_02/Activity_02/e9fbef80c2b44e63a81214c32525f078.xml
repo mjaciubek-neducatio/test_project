@@ -1,0 +1,25 @@
+<activity class="mm_unit9 mm_activityNumber1" id="e9fbef80c2b44e63a81214c32525f078" desktopDraggable="n">
+    <rubric>
+        <p>What do the mice like to do? Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block class="mm_smallCat">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>Freddie<image src="p073a.jpg" title=""/></catName>
+                    <item id="item_1" example="y">go to the movies</item>
+                    <item id="item_2">go shopping</item>
+                    <item id="item_3">have an exciting life</item>
+                    <item id="item_4">meet friends</item>
+                </category>
+                <category id="category_2">
+                    <catName>Wilbur<image src="p073b.jpg" title=""/>
+                    </catName>
+                    <item id="item_5">eat bread and cheese</item>
+                    <item id="item_6">walk in the countryside</item>
+                    <item id="item_7">have a quiet life</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

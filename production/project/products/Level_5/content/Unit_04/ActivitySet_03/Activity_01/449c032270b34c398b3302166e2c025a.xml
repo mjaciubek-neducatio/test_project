@@ -1,0 +1,14 @@
+<activity id="449c032270b34c398b3302166e2c025a" pseudoID="SC_L5_AB_Ch4_p32_ACT02" class="mm_activityNumber2 mm_itemSelectBigButtons">
+    <rubric>
+        <p>Read the story in your Student Book. Choose the sentence that describes the story.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <radio id="radio_1" display="v" type="numbered" displayType="itemSelect">
+                <item id="item_1">The story is about how people used to live every day in the past.</item>
+                <item id="item_2">Everything in the story is true.</item>
+                <item id="item_3" correct="y">Dangerous and exciting things happen.</item>
+            </radio>
+        </block>
+    </main>
+</activity>

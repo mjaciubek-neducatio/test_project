@@ -1,0 +1,42 @@
+<activity class="mm_unit6 mm_activityNumber2" id="d2488f3491294b2ead0d6f9d22b5ca8f" pseudoID="SC_L4_AB_Ch6_p46_ACT02">
+    <rubric>
+        <p>Look and choose the correct options.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <image src="p046a.jpg" title="" class="mm_exerciseImage"/>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">The king is wearing a <cSpan class="mm_noWrap"><dropDown id="dropDown_1" example="y" disabled="y">
+                            <item id="item_1">hat</item>
+                            <item id="item_2" correct="y">cloak</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>There are <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">jewels</item>
+                            <item id="item_2">swords</item>
+                        </dropDown> in the treasure chest.</p>
+                </li>
+                <li>
+                    <p>The mirror is above the <cSpan class="mm_noWrap"><dropDown id="dropDown_3">
+                            <item id="item_1">window</item>
+                            <item id="item_2" correct="y">lamp</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>The <dropDown id="dropDown_4">
+                            <item id="item_1">ring</item>
+                            <item id="item_2" correct="y">hat</item>
+                        </dropDown> is next to the sword.</p>
+                </li>
+                <li>
+                    <p>The <dropDown id="dropDown_5">
+                            <item id="item_1" correct="y">treasure chest</item>
+                            <item id="item_2">lamp</item>
+                        </dropDown> is under the table.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

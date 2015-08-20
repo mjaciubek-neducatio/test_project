@@ -1,0 +1,23 @@
+<activity id="46394527cc13456c979c3a24007fea4a" pseudoID="SC_L1_AB_Ch1_p6_ACT02" class="mm_unit1 mm_lesson1 mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block class="">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>big things</catName>
+                    <item id="item_1" example="y">door</item>
+                    <item id="item_2">table</item>
+                    <item id="item_3">chair</item>
+                </category>
+                <category id="category_2">
+                    <catName>small things</catName>
+                    <item id="item_4">pencil</item>
+                    <item id="item_5">book</item>
+                    <item id="item_6">pen</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

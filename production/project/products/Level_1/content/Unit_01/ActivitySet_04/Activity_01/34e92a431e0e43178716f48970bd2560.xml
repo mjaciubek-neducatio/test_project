@@ -1,0 +1,19 @@
+<activity id="34e92a431e0e43178716f48970bd2560" pseudoID="SC_L1_AB_Ch1_p10_ACT01" class="mm_unit1 mm_lesson5 mm_activityNumber1">
+    <rubric>
+        <p>Find six school items.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordSnake">
+            <wordSnake id="wordSnake_1">
+                <words>
+                    <word id="wordSnake_word_1" example="y">pencilcase</word>
+                    <word id="wordSnake_word_2">ruler</word>
+                    <word id="wordSnake_word_3">notebook</word>
+                    <word id="wordSnake_word_4">eraser</word>
+                    <word id="wordSnake_word_5">bag</word>
+                    <word id="wordSnake_word_6">crayon</word>
+                </words>
+            </wordSnake>
+        </block>
+    </main>
+</activity>

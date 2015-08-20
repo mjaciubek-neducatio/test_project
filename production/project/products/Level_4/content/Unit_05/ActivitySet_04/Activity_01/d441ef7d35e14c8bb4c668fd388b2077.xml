@@ -1,0 +1,21 @@
+<activity class="mm_unit5 mm_activityNumber1" id="d441ef7d35e14c8bb4c668fd388b2077" pseudoID="SC_L4_AB_Ch5_p42_ACT01">
+    <rubric>
+        <p>Find the sentences.</p>
+    </rubric>
+    <main>
+        <block class="mm_customSnake">
+            <wordSnake id="wordSnake_1">
+                <words>
+                    <word id="wordSnake_word_1" example="y">ireceiveemails</word>
+                    <word id="wordSnake_word_2">theywroteletters</word>
+                    <word id="wordSnake_word_3">iprintpictures</word>
+                    <word id="wordSnake_word_4">theyinventedTVs</word>
+                    <word id="wordSnake_word_5">wealwayscommunicate</word>
+                    <word id="wordSnake_word_6">wesendmessages</word>
+                    <word id="wordSnake_word_7">shemailedletters</word>
+                    <word id="wordSnake_word_8">sherepliedquickly</word>
+                </words>
+            </wordSnake>
+        </block>
+    </main>
+</activity>

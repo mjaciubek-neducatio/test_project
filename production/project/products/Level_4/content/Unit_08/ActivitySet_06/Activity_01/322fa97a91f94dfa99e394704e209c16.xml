@@ -1,0 +1,57 @@
+<activity class="mm_unit8 mm_activityNumber1" id="322fa97a91f94dfa99e394704e209c16" pseudoID="SC_L4_AB_Ch8_p68_ACT01">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+    <block>
+        <collapsibleBlock id="text" open="y">
+        <collapseButton captionWhenClosed="Show the text" captionWhenOpened="Hide the text"/>
+            <block class="mm_customTextBlock mm_padder">
+                <h2>Festivals of Light</h2>
+                <block class="mm_customText">
+                    <block class="mm_customImage">
+                        <image src="p068a.png" title=""/>
+                    </block>
+                    <p>Many holidays are celebrated with lights. In Thailand, there’s a Festival of Light called Loi Krathong. People make small boats from banana leaves. They put candles, flowers, and money in them. They light the candles and float the boats on the river by moonlight. People believe that the boats take away bad luck. Many cities around the world like Singapore and Sydney have light festivals. People use lights to make beautiful pictures on buildings or bridges. You can see the lights reflected in the water, too! These festivals often happen in winter because it’s nice to make the dark a little brighter.</p>
+                </block>
+            </block>
+        </collapsibleBlock>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <p><sSpan class="mm_cWidth">For Loi Krathong, people make small boats using paper.</sSpan>
+                    <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">The boats have lights and other objects in them.</sSpan>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">People believe that the boats can make good things happen.</sSpan>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Sydney’s light festival takes place at a hot time of year.</sSpan>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                    </p>
+                </li>
+            </list>
+        </block>
+        </block>
+    </main>
+</activity>

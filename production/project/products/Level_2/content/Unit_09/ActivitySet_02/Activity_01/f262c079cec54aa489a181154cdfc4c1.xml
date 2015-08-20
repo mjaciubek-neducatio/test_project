@@ -1,0 +1,46 @@
+<activity class="mm_unit9 mm_activityNumber2" id="f262c079cec54aa489a181154cdfc4c1">
+    <rubric>
+        <p>Read the story in your Student Book. Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_itemSelectSeparator">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>I like to go to the movies.</p>
+                    <radio id="radio_1" display="h" example="y" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">Town Mouse</item>
+                        <item id="item_2">Country Mouse</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>I like to go shopping.</p>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">Town Mouse</item>
+                        <item id="item_2">Country Mouse</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>It’s very quiet.</p>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">Town Mouse</item>
+                        <item id="item_2" correct="y">Country Mouse</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Look at the flowers.</p>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">Town Mouse</item>
+                        <item id="item_2" correct="y">Country Mouse</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>It’s noisy and scary.</p>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">Town Mouse</item>
+                        <item id="item_2" correct="y">Country Mouse</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

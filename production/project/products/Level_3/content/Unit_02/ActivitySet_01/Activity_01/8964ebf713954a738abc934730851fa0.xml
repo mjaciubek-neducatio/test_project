@@ -1,0 +1,42 @@
+<activity id="8964ebf713954a738abc934730851fa0" pseudoID="SC_L3_AB_Ch2_p14_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Look and match.</p>
+    </rubric>
+    <main>
+        <block>
+            <block>
+                <image src="p014a.jpg" title=""/>
+            </block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">mouth</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9">mayonnaise, turkey</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">ears</matchItem>
+                    <matchTarget id="matchTarget_2" rank="14">cucumber</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">eyes</matchItem>
+                    <matchTarget id="matchTarget_3" rank="12">eggs</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">nose</matchItem>
+                    <matchTarget id="matchTarget_4" rank="13">a tomato, mustard</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">hair</matchItem>
+                    <matchTarget id="matchTarget_5" rank="11">green pepper, onion</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">teeth</matchItem>
+                    <matchTarget id="matchTarget_6" rank="10">olives</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_7" rank="7">face</matchItem>
+                    <matchTarget id="matchTarget_7" rank="8">bread</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

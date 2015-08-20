@@ -1,0 +1,47 @@
+<activity id="123c99ffc83b445583db28b4bf2c61c0" pseudoID="SC_L3_AB_Ch4_p31_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Choose <i>true</i> or <i>false.</i>
+        </p>
+    </rubric>
+    <main>
+        <block class="mm_inlineQuestion">
+            <list display="v" type="numbered">
+                <li>
+                    <p>In 1900, there wasn’t electricity.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain" example="y">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>In 1900, there were washing machines.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">true</item>
+                        <item id="item_2" correct="y">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>In 1900, there weren’t microwaves.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>In 1900, there weren’t vacuum cleaners.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>In 1900, there were dishwashers.</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">true</item>
+                        <item id="item_2" correct="y">false</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,57 @@
+<activity id="05380c76cc564e40acdfd588422c293e" pseudoID="SC_L5_AB_Ch4_p33_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Unscramble.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" display="h" mark="item">
+                        <item id="item_1" rank="5">Later,</item>
+                        <item id="item_2" rank="1">I</item>
+                        <item id="item_3" rank="6">repaired</item>
+                        <item id="item_4" rank="4">the</item>
+                        <item id="item_5" rank="3">balloon</item>
+                         <item id="item_6" rank="2">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" display="h" mark="item">
+                        <item id="item_1" rank="4">Meanwhile,</item>
+                        <item id="item_2" rank="2">Richard</item>
+                        <item id="item_3" rank="7">was</item>
+                        <item id="item_4" rank="1">looking</item>
+                        <item id="item_5" rank="8">very</item>
+                        <item id="item_6" rank="3">worried</item>
+                        <item id="item_7" rank="5">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" display="h" mark="item">
+                        <item id="item_1" rank="6">Suddenly,</item>
+                        <item id="item_2" rank="1">there</item>
+                        <item id="item_3" rank="4">were</item>
+                        <item id="item_4" rank="3">crocodiles</item>
+                        <item id="item_5" rank="2">everywhere</item>
+                        <item id="item_6" rank="5">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" display="h" mark="item">
+                        <item id="item_1" rank="5">One</item>
+                        <item id="item_2" rank="1">month</item>
+                        <item id="item_3" rank="7">later,</item>
+                        <item id="item_4" rank="2">we</item>
+                        <item id="item_5" rank="4">arrived</item>
+                        <item id="item_6" rank="6">home</item>
+                        <item id="item_7" rank="3">again</item>
+                        <item id="item_8" rank="8">.</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+        <block class="mm_image">
+                <image src="p049a.png" title=""/>
+        </block>
+    </main>
+</activity>

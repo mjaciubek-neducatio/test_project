@@ -1,0 +1,24 @@
+.mm_activityNumber1 .wordBox {
+	margin-bottom: 0.875em;
+}
+
+.mm_flexContainer > .block {
+    display: inline-block;
+    text-align: center;
+}
+
+.mm_flexContainer > .block > span {
+    display: block;
+}
+.mm_flexContainer div {
+    margin-bottom: 0.875em;
+}
+
+.mm_flexContainer img {
+    margin-left: 1.2em;
+}
+
+.mm_numbers .lastChild {
+    color: #E01E78;
+    font-weight: bold;
+}

@@ -1,0 +1,51 @@
+<activity id="b9af758cd38142f28980682deae9be04" pseudoID="SC_L3_AB_Ch6_p48_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Unscramble the sentences. Then act out.</p>
+    </rubric>
+    <main>
+        <block class="mm_horizontalOrdering">
+            <list display="v" type="plain">
+                <li>
+                    <sSpan class="mm_radioLabelNumber">A. </sSpan>
+                    <ordering id="ordering_1" capitalise="y" display="h" example="y">
+                        <item id="item_1">This</item>
+                        <item id="item_2">book</item>
+                        <item id="item_3">looks</item>
+                        <item id="item_4">good.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <sSpan class="mm_radioLabelNumber">B. </sSpan>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1">No,</item>
+                        <item id="item_2">I</item>
+                        <item id="item_3">like</item>
+                        <item id="item_4">this</item>
+                        <item id="item_5">book</item>
+                        <item id="item_6">better.</item>
+                    </ordering>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1">It’s</item>
+                        <item id="item_2">longer,</item>
+                        <item id="item_3">too.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <sSpan class="mm_radioLabelNumber">A. </sSpan>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1">OK,</item>
+                        <item id="item_2">you</item>
+                        <item id="item_3">win!</item>
+                    </ordering>
+                    <ordering id="ordering_5" capitalise="y" display="h">
+                        <item id="item_1">Let’s</item>
+                        <item id="item_2">check</item>
+                        <item id="item_3">out</item>
+                        <item id="item_4">that</item>
+                        <item id="item_5">book.</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

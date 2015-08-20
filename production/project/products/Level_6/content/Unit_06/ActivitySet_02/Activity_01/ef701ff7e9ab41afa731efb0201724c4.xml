@@ -1,0 +1,60 @@
+<activity class="mm_unit6 mm_activityNumber2" id="ef701ff7e9ab41afa731efb0201724c4" pseudoID="SC_L6_AB_Ch6_p50_ACT02">
+    <rubric>
+        <p>Unscramble the questions.</p>
+    </rubric>
+    <main>
+        <block class="mm_custmoOrdering">
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" display="h" example="y">
+                        <item id="item_1">How</item>
+                        <item id="item_2">long</item>
+                        <item id="item_3">have</item>
+                        <item id="item_4">you</item>
+                        <item id="item_5">been</item>
+                        <item id="item_6">dancing</item>
+                        <item id="item_7">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1" rank="2">Have</item>
+                        <item id="item_2" rank="8">you</item>
+                        <item id="item_3" rank="4">been</item>
+                        <item id="item_4" rank="1">practicing</item>
+                        <item id="item_5" rank="6">for</item>
+                        <item id="item_6" rank="3">the</item>
+                        <item id="item_7" rank="7">audition</item>
+                        <item id="item_8" rank="5">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1" rank="6">How</item>
+                        <item id="item_2" rank="5">long</item>
+                        <item id="item_3" rank="3">have</item>
+                        <item id="item_4" rank="1">we</item>
+                        <item id="item_5" rank="7">been</item>
+                        <item id="item_6" rank="4">preparing</item>
+                        <item id="item_7" rank="2">the</item>
+                        <item id="item_8" rank="8">stage</item>
+                        <item id="item_9" rank="9">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1" rank="5">Has</item>
+                        <item id="item_2" rank="8">she</item>
+                        <item id="item_3" rank="7">been</item>
+                        <item id="item_4" rank="2">performing</item>
+                        <item id="item_5" rank="3">for</item>
+                        <item id="item_6" rank="4">a</item>
+                        <item id="item_7" rank="9">long</item>
+                        <item id="item_8" rank="1">time</item>
+                        <item id="item_9" rank="6">?</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

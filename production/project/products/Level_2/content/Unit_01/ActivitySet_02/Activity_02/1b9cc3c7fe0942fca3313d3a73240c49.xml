@@ -1,0 +1,59 @@
+<activity class="mm_unit1 mm_activityNumber2" id="1b9cc3c7fe0942fca3313d3a73240c49">
+    <rubric>
+        <p>Who says it? Write the names.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>
+                        <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">Jack</item>
+                                <item id="item_2">JACK</item>
+                                <item id="item_3">jack</item>
+                            </acceptable>
+                        </typein>: Mom, there’s a giant up the beanstalk.</p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">Giant’s wife</item>
+                                <item id="item_2">GIANT’S WIFE</item>
+                                <item id="item_3">giant’s wife</item>
+                                <item id="item_4">The Giant’s Wife</item>
+                                <item id="item_5">The giant’s wife</item>
+                                <item id="item_6">THE GIANT’S WIFE</item>
+                                <item id="item_7">the giant’s wife</item>
+                            </acceptable>
+                        </typein>: Shh! Come in. Here, this is for you.</p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">Giant</item>
+                                <item id="item_2">GIANT</item>
+                                <item id="item_3">giant</item>
+                                <item id="item_4">The Giant</item>
+                                <item id="item_5">The giant</item>
+                                <item id="item_6">THE GIANT</item>
+                                <item id="item_7">the giant</item>
+                            </acceptable>
+                        </typein>: Who’s that boy?</p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">Mom</item>
+                                <item id="item_2">MOM</item>
+                                <item id="item_3">mom</item>
+                            </acceptable>
+                        </typein>: A gold egg! Thank you!</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

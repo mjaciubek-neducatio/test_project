@@ -1,0 +1,48 @@
+<activity class="mm_unit4 mm_activityNumber1" id="3e48f92691e34dcbab1f4f687420c170" pseudoID="SC_L4_AB_Ch4_p36_ACT01">
+    <rubric>
+		<p>Read and choose T (true) or F (false).</p>
+	</rubric>
+	<main>
+		<block>
+			<collapsibleBlock id="cb_1" open="y">
+				<collapseButton captionWhenClosed="Show text" captionWhenOpened="Hide text"/>
+				<block class="mm_customText mm_boxShadow mm_padder">
+					<h2 class="mm_secondImage">The History of Animation <image src="p036a.jpg" title=""/></h2>
+					<p>People started making animations more than 100 years ago. In traditional animations like <i>Mickey Mouse</i>, the artist drew a lot of pictures. </p><p class="mm_firstImage"><image src="p036b.jpg" title=""/>Later, artists started to use computers. <i>Toy Story</i>, the first full-length animated movie, came out in 1995. After this, a lot of animation artists used computers. Now, they didn’t have to draw all the pictures and could make the animations more exciting. </p><p class="mm_secondImage"><image src="p036c.jpg" title=""/>In stop motion animation, like <i>Chicken Run</i>, the artist makes an object, then moves it and photographs it for each frame. You need a lot of pictures – 21,600 to make a 30-minute movie!</p>
+				</block>
+			</collapsibleBlock>
+		</block>
+		<block>
+			<list display="v" type="numbered">
+				<li class="mm_radio">
+					<p><sSpan class="mm_cWidth">In traditional animation, the artist uses a computer.</sSpan>
+						<radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect">
+							<item id="item_1">T</item>
+							<item id="item_2" correct="y">F</item>
+						</radio></p>
+				</li>
+				<li class="mm_radio">
+					<p><sSpan class="mm_cWidth">You can make animations with computers.</sSpan>
+						<radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+							<item id="item_1" correct="y">T</item>
+							<item id="item_2">F</item>
+						</radio></p>
+				</li>
+				<li class="mm_radio">
+					<p><sSpan class="mm_cWidth">Stop motion animation uses only pictures.</sSpan>
+						<radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+							<item id="item_1">T</item>
+							<item id="item_2" correct="y">F</item>
+						</radio></p>
+				</li>
+				<li class="mm_radio">
+					<p><sSpan class="mm_cWidth">For a stop motion animation, you need a camera.</sSpan>
+						<radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+							<item id="item_1" correct="y">T</item>
+							<item id="item_2">F</item>
+						</radio></p>
+				</li>
+			</list>
+		</block>
+	</main>
+</activity>

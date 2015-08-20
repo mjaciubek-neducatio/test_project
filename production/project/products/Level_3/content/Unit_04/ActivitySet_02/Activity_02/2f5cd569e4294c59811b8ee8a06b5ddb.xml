@@ -1,0 +1,22 @@
+<activity id="2f5cd569e4294c59811b8ee8a06b5ddb" pseudoID="SC_L3_AB_Ch4_p33_ACT04" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Put the sentences in two groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>nice</catName>
+                    <item id="item_1">I can help you with your boots.</item>
+                    <item id="item_2">I can make the cake for the party.</item>
+                </category>
+                <category id="category_2">
+                    <catName>not nice</catName>
+                    <item id="item_3" example="y">Bring my shoes!</item>
+                    <item id="item_4">Cinderella, my bedroom is a mess.</item>
+                    <item id="item_5">Pick up my clothes.</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

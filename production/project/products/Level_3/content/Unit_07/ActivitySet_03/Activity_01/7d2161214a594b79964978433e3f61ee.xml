@@ -1,0 +1,38 @@
+<activity id="7d2161214a594b79964978433e3f61ee" pseudoID="SC_L3_AB_Ch7_p58_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Complete the puzzle with words ending in <sSpan>-ay</sSpan>. Find the hidden Olympic™ word.</p>
+    </rubric>
+    <main>
+        <block>
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>say</value>
+                        <clue>Another word for “tell”.</clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>play</value>
+                        <clue>Let’s … a game!</clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>today</value>
+                        <clue>The weather … is sunny.</clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>gray</value>
+                        <clue>The color of an elephant.</clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>birthday</value>
+                        <clue>You get gifts and a cake on this day.</clue>
+                    </word>
+                    <word id="crossword_word_6">
+                        <value>Saturday</value>
+                        <clue>Friday, …, Sunday</clue>
+                    </word>
+                    <hiddenWord>sports</hiddenWord>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

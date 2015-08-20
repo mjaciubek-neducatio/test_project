@@ -1,0 +1,26 @@
+.mm_images {
+	display: flex;
+	padding: 0 .875em;
+    float: right;
+}
+
+
+.mm_week1 {
+	color: #1f91d0;
+	font-weight: bold;
+    margin-top: 6em;
+}
+
+.mm_activity01 {
+	padding: 0.875em 1.5em;
+	margin-bottom: 0.875em;
+	background: rgba(159,160,164,0.88);
+	background: -moz-linear-gradient(left, rgba(159,160,164,0.88) 0%, rgba(255,255,255,0.88) 4%, rgba(255,255,255,0.88) 95%, rgba(159,160,164,0.88) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(159,160,164,0.88)), color-stop(4%, rgba(255,255,255,0.88)), color-stop(95%, rgba(255,255,255,0.88)), color-stop(100%, rgba(159,160,164,0.88)));
+	background: -webkit-linear-gradient(left, rgba(159,160,164,0.88) 0%, rgba(255,255,255,0.88) 4%, rgba(255,255,255,0.88) 95%, rgba(159,160,164,0.88) 100%);
+	background: -o-linear-gradient(left, rgba(159,160,164,0.88) 0%, rgba(255,255,255,0.88) 4%, rgba(255,255,255,0.88) 95%, rgba(159,160,164,0.88) 100%);
+	background: -ms-linear-gradient(left, rgba(159,160,164,0.88) 0%, rgba(255,255,255,0.88) 4%, rgba(255,255,255,0.88) 95%, rgba(159,160,164,0.88) 100%);
+	background: linear-gradient(to right, rgba(159,160,164,0.88) 0%, rgba(255,255,255,0.88) 4%, rgba(255,255,255,0.88) 95%, rgba(159,160,164,0.88) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9fa0a4', endColorstr='#9fa0a4', GradientType=1 );
+	border: 1px solid #888888;
+}

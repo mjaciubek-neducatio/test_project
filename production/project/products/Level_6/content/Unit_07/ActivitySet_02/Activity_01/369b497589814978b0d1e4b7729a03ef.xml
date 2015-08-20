@@ -1,0 +1,28 @@
+<activity class="mm_unit7 mm_activityNumber1" id="369b497589814978b0d1e4b7729a03ef" pseudoID="SC_L6_AB_Ch7_p57_ACT01">
+    <rubric>
+        <p>When did these events happen in the story? Choose <i>beginning</i>, <i>middle</i>, <br/>or <i>end</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="radioTable" mobileDisplay="radioTable">
+                <category id="category_1">
+                    <catName>beginning</catName>
+                    <item id="item_1" rank="3"><sSpan class="mm_inlineNumber">3. </sSpan>A baby elephant was alone.</item>
+                    <item id="item_2" rank="4"><sSpan class="mm_inlineNumber">4. </sSpan>Vets watched the young elephant.</item>
+                </category>
+                <category id="category_2">
+                    <catName>middle</catName>
+                    <item id="item_3" rank="6"><sSpan class="mm_inlineNumber">6. </sSpan>Vets took the orphan to the hospital.</item>
+                    <item id="item_4" rank="8"><sSpan class="mm_inlineNumber">8. </sSpan>A sheep named Albert arrived.</item>
+                    <item id="item_5" rank="5"><sSpan class="mm_inlineNumber">5. </sSpan>At first, they didn’t get along at all.</item>
+                </category>
+                <category id="category_3">
+                    <catName>end</catName>
+                    <item id="item_6" rank="2"><sSpan class="mm_inlineNumber">2. </sSpan>The two animals became friends.</item>
+                    <item id="item_7" rank="7"><sSpan class="mm_inlineNumber">7. </sSpan>Then Themba started to drink milk.</item>
+                    <item id="item_8" rank="1"><sSpan class="mm_inlineNumber">1. </sSpan>Themba became healthier.</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

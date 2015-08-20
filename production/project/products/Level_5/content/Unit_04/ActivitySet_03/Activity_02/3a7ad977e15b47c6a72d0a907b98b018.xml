@@ -1,0 +1,46 @@
+<activity id="3a7ad977e15b47c6a72d0a907b98b018" pseudoID="SC_L5_AB_Ch4_p32_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>The doctor is flying the balloon.</p>
+                    <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect" example="y">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The birds aren’t dangerous.</p>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Hot air should make the balloon go up.</p>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The birds make a hole in the balloon.</p>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The men throw out the food because they aren’t hungry.</p>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

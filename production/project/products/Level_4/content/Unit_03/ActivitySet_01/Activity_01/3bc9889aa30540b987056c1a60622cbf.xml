@@ -1,0 +1,31 @@
+<activity class="mm_unit3 mm_activityNumber1" id="3bc9889aa30540b987056c1a60622cbf" pseudoID="SC_L4_AB_Ch3_p23_ACT04">
+    <rubric>
+        <p>Read and choose the correct options.</p>
+    </rubric>
+    <main>
+        <block class="mm_customText">
+            <block class="mm_customImage">
+                <image src="p023a.png" title=""/>
+            </block>
+            <p>Scientists have discovered a new galaxy! The Big Snack System is different from our galaxy – the planets are all food! Bread Planet is the <dropDown id="dropDown_1" example="y" disabled="y">
+                    <item id="item_1" correct="y">closest to</item>
+                    <item id="item_2">farthest from</item>
+                </dropDown> the Big Snack. Onion Planet is much <dropDown id="dropDown_2">
+                    <item id="item_1" correct="y">closer to</item>
+                    <item id="item_2">farther from</item>
+                </dropDown> the Big Snack than Salad Planet, but still <dropDown id="dropDown_3">
+                    <item id="item_1">closer</item>
+                    <item id="item_2" correct="y">farther</item>
+                </dropDown> than Cucumber Planet. The <dropDown id="dropDown_4">
+                    <item id="item_1">most dangerous</item>
+                    <item id="item_2" correct="y">most interesting</item>
+                </dropDown> planet is Olive Planet. It has rings around it, but it’s perfectly safe. Burger Planet is <dropDown id="dropDown_5">
+                    <item id="item_1">smaller than</item>
+                    <item id="item_2" correct="y">bigger than</item>
+                </dropDown> Salad Planet. Mayonnaise Volcano is <dropDown id="dropDown_6">
+                    <item id="item_1">smaller</item>
+                    <item id="item_2" correct="y">higher</item>
+                </dropDown> than Mustard Mountain.</p>
+        </block>
+    </main>
+</activity>

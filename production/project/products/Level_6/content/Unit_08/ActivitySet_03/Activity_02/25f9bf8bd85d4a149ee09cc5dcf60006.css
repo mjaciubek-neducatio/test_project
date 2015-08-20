@@ -1,0 +1,36 @@
+.mm_email {
+    border-radius: 12px;
+    padding: 0;
+    padding-bottom: 0.875em;
+	background: rgba(219,239,230,1);
+background: -moz-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(219,239,230,1)), color-stop(49%, rgba(32,175,139,1)), color-stop(99%, rgba(219,239,230,1)), color-stop(100%, rgba(219,239,230,1)));
+background: -webkit-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: -o-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbefe6', endColorstr='#dbefe6', GradientType=1 );
+    border: 2px solid #eeeeef;
+}
+
+.mm_content {
+    background-color: #f1f8f5;
+    margin: 0.875em;
+    border-radius: 15px;
+}
+
+.mm_browserBar {
+    width: 100%;
+}
+
+.mm_emailImage {
+    margin-left: 15%;
+}
+
+.mm_emailText {
+    line-height: 1.75em;
+}
+
+.mm_email div {
+    margin-bottom: 0;
+}

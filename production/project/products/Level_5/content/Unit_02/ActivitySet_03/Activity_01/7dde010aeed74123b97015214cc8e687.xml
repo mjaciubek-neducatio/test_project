@@ -1,0 +1,53 @@
+<activity id="7dde010aeed74123b97015214cc8e687" pseudoID="SC_L5_AB_Ch2_p16_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Complete the answers.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example"><sSpan class="mm_cWidth">Is Grant happy with his life?</sSpan> <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">Yes, he is.</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Does Andy think Grant is smart?</sSpan> <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">No, he doesn’t.</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Why doesn’t Grant collect food for the winter?</sSpan> <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">There is plenty of food now.</item>
+                                <item id="item_2">He’s doing other things.</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Where does Andy put the food?</sSpan> <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">In a hole in the ground.</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">When is Andy going to relax?</sSpan> <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">In the fall.</item>
+                                <item id="item_2">winter.</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

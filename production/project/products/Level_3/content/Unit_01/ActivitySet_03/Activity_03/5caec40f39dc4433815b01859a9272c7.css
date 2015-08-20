@@ -1,0 +1,9 @@
+.crosswordClueContainer .across, .crosswordClueContainer .down {
+	margin-bottom: 1em;
+	padding: 0.93em 0.75em;
+	width: 89.5%;
+}
+.crosswordClueContainer {
+	float: left;
+	width: 44%;
+}

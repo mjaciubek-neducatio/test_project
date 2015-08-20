@@ -1,0 +1,46 @@
+<activity class="mm_unit5 mm_activityNumber1" id="b11d1e91103f414a944b5702d3c39290" pseudoID="SC_L6_AB_Ch5_p42_ACT01">
+    <rubric>
+        <p>Choose the correct answers.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio mm_exContent mm_itemSelectSeparator">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>Had Yasmin heard about the tsunami before Angelo told her about it?</p>
+                    <radio id="radio_1" display="h" type="plain" displayType="itemSelect" example="y">
+                        <item id="item_1" correct="y">Yes, she’d seen it on the news on TV.</item>
+                        <item id="item_2">Yes, she’s seen it on the news on TV.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Had Rufus seen the tsunami on the TV news?</p>
+                    <radio id="radio_2" display="h" type="plain" displayType="itemSelect">
+                        <item id="item_1">No, he hasn’t.</item>
+                        <item id="item_2" correct="y">No, he hadn’t.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Had the children ever seen a tsunami?</p>
+                    <radio id="radio_3" display="h" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">No, they hadn’t.</item>
+                        <item id="item_2">No, they haven’t.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Had Scarlett seen photos of the tsunami?</p>
+                    <radio id="radio_4" display="h" type="plain" displayType="itemSelect">
+                        <item id="item_1">Yes, she’s seen them on a website.</item>
+                        <item id="item_2" correct="y">Yes, she’d seen them on a website.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Had Angelo read about other disasters?</p>
+                    <radio id="radio_5" display="h" type="plain" displayType="itemSelect">
+                        <item id="item_1">Yes, he has.</item>
+                        <item id="item_2" correct="y">Yes, he had.</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

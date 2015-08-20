@@ -1,0 +1,27 @@
+.mm_imageRight img {
+    border: 3px solid #5160ac;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 110px;
+    left: 570px;
+}
+.mm_exerciseContent ol li {
+    margin-bottom: 7px;
+}
+.mm_exerciseContent {
+    margin-bottom: 0px;
+}
+.collapsibleContainer br {
+    display: none;
+}
+.collapsibleContainer {
+    margin: 0 auto;
+    width: 645px;
+}
+.singleButton {
+    float: right;
+    margin-left: 1em;
+}

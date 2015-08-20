@@ -1,0 +1,15 @@
+.crosswordClueContainer li {
+	color: #000;
+}
+.crosswordClueContainer .across, .crosswordClueContainer .down {
+	margin-bottom: 1em;
+	padding: 1em 0.75em;
+	width: 90.5%;
+}
+.crosswordClueContainer {
+	float: left;
+	width: 44%;
+}
+.rubric span.sSpan {
+    font-style: italic;
+}

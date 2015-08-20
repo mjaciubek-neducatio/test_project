@@ -1,0 +1,53 @@
+.main div.block {
+	background: url('../../production/project/products/Level_3/assets/images/p010a.jpg') -64px 0px no-repeat;
+	background-size: 1075px 370px;
+	width: 100%;
+	height: 370px;
+	position: relative;
+}
+.wordBox {
+	margin-bottom: 1em;
+}
+.main div.block p {
+	position: absolute;
+}
+.main div.block p:nth-child(1) {
+	width: 171px;
+	top: 8px;
+	left: 418px;
+}
+.main div.block p:nth-child(2) {
+	width: 171px;
+	top: 58px;
+	left: 316px;
+}
+.main div.block p:nth-child(3) {
+	font-size: 0.95em;
+	line-height: 1.3em;
+	width: 176px;
+	top: 115px;
+	left: 111px;
+}
+.main div.block p:nth-child(4) {
+	top: 180px;
+	left: 612px;
+	width: 211px;
+}
+.main div.block p:nth-child(5) {
+	top: 252px;
+	left: 114px;
+	width: 254px;
+}
+.main div.block p:nth-child(6) {
+	top: 320px;
+	left: 564px;
+	width: 254px;
+}
+.mm_droppableTarget {
+	background-color: #fff;
+	border-radius: 0.25em;
+	padding: 0 2px 0 5px;
+}
+.dragTarget, .main .example .dragTarget.populated, .main .example .dragTarget {
+/* 	border-color: #a05599 !important; */
+}

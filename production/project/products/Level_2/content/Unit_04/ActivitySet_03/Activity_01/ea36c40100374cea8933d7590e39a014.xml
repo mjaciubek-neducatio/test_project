@@ -1,0 +1,31 @@
+<activity class="mm_unit4 mm_activityNumber1" id="ea36c40100374cea8933d7590e39a014" desktopDraggable="n">
+    <rubric>
+        <p>Put the verbs in the correct column.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>eating</catName>
+                    <item id="item_1" example="y">work</item>
+                    <item id="item_2" rank="2">do</item>
+                    <item id="item_3" rank="3">sleep</item>
+                    <item id="item_4" rank="5">read</item>
+                    <item id="item_5" rank="7">watch TV</item>
+                    <item id="item_6" rank="10">go</item>
+                </category>
+                <category id="category_2">
+                    <catName>ridɇing</catName>
+                    <item id="item_7" rank="6">dance</item>
+                    <item id="item_8" rank="9">make</item>
+                    <item id="item_9" rank="11">come</item>
+                </category>
+                <category id="category_3">
+                    <catName>run<u>n</u>ing</catName>
+                    <item id="item_10" rank="4">sit</item>
+                    <item id="item_11" rank="8">swim</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

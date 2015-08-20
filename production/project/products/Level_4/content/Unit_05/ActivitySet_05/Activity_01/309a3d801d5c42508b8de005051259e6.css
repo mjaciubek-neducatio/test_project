@@ -1,0 +1,20 @@
+.mm_exerciseImage {
+    float: left;
+    margin-left: 20px;
+}
+
+.mm_email {
+    border-radius: 12px;
+	padding: 0;
+	padding-bottom: 0.875em;
+	background: rgba(243,244,250,1);
+    border: 3px solid #eeeeef;
+}
+
+.mm_email div img {
+    width: 100%;
+}
+
+.mm_exerciseContent {
+    margin-left: 200px;
+}

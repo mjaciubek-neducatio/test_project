@@ -1,0 +1,6 @@
+.main p {
+	display: inline;
+}
+.radioItemSelect .selectable, p .radioItemSelect .selectable {
+    padding: .1em .5em;
+}

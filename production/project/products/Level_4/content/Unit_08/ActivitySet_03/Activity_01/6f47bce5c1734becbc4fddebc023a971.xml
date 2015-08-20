@@ -1,0 +1,20 @@
+<activity desktopDraggable="n" class="mm_unit8 mm_activityNumber1" id="6f47bce5c1734becbc4fddebc023a971" pseudoID="SC_L4_AB_Ch8_p64_ACT01">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_customDialogue">
+            <list display="v" type="plain">
+                <li class="mm_example">
+                    <p class="mm_cloudRight">Hey, you look <cSpan class="mm_noWrap"><droppable id="droppable_1" example="y" rank="3">happy</droppable>!</cSpan></p>
+                </li>
+                <li>
+                    <p class="mm_cloudLeft">I <droppable id="droppable_2" rank="2">got</droppable> an A+ on my <cSpan class="mm_noWrap"><droppable id="droppable_3" rank="5">test</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p class="mm_cloudRight">That’s <droppable id="droppable_4" rank="1">because</droppable> you <droppable id="droppable_5" rank="4">worked</droppable> very hard.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

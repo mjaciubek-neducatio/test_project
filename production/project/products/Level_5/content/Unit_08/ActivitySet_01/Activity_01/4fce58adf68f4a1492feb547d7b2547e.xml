@@ -1,0 +1,84 @@
+<activity id="4fce58adf68f4a1492feb547d7b2547e" pseudoID="SC_L5_AB_Ch8_p62_ACT01">
+    <rubric>
+        <p>Solve the clues and complete the words.</p>
+    </rubric>
+    <main>
+    <block class="mm_wordBoxSimple">
+                <list display="h" type="plain">
+                    <li>agree</li>
+                    <li>respect</li>
+                    <li>laugh</li>
+                    <li>lie</li>
+                    <li>share</li>
+                    <li>offer</li>
+                    <li>decide</li>
+                    <li>disagree</li>
+                    <li>joke</li>
+                    <li>argue</li>   
+                    <li><sSpan class="mm_exampleItem">tell</sSpan></li>                    
+                </list>
+            </block>
+        <block class="mm_imageRight">
+            <image src="p062a.jpg" title=""/>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">say something to someone: <typein id="typein_1" example="y">
+                        <acceptable>
+                            <item id="item_1">tell</item>
+                        </acceptable>
+                    </typein></p>
+                </li>
+                <li>
+                    <p>say that another person is wrong: <typein id="typein_2"><acceptable>
+                            <item id="item_2">disagree</item>
+                        </acceptable></typein></p>
+                </li>
+                <li>
+                    <p>speak to someone angrily: <typein id="typein_3"><acceptable>
+                            <item id="item_3">argue</item>
+                        </acceptable></typein></p>
+                </li>
+                <li>
+                    <p>say something that isn’t true: <typein id="typein_4"><acceptable>
+                            <item id="item_4">lie</item>
+                        </acceptable></typein></p>
+                </li>
+                <li>
+                    <p>say that another person is right: <typein id="typein_5"><acceptable>
+                            <item id="item_5">agree</item>
+                        </acceptable></typein></p>
+                </li>
+    			<li>
+                    <p>something funny you say or do: <typein id="typein_6"><acceptable>
+                            <item id="item_6">joke</item>
+                        </acceptable></typein></p>
+                </li>
+                <li>
+                    <p>choose what you're going to do: <typein id="typein_7"><acceptable>
+                            <item id="item_7">decide</item>
+                        </acceptable></typein></p>
+                </li>
+                <li>
+                    <p>do this when something is funny: <typein id="typein_8"><acceptable>
+                            <item id="item_8">laugh</item>
+                        </acceptable></typein></p>
+                </li>
+                <li>
+                    <p>give some of what you have to someone: <typein id="typein_9"><acceptable>
+                            <item id="item_9">share</item>
+                        </acceptable></typein></p>
+                </li>
+				<li>
+                    <p>treat someone well, like a parent or teacher: <typein id="typein_10"><acceptable>
+                            <item id="item_10">respect</item>
+                        </acceptable></typein></p>
+                </li>
+                <li>
+                    <p>let a person know you can give them something: <typein id="typein_11"><acceptable>
+                            <item id="item_11">offer</item>
+                        </acceptable></typein></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

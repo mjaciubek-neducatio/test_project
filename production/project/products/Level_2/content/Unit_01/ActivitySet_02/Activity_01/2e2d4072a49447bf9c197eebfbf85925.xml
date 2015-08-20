@@ -1,0 +1,21 @@
+<activity class="mm_unit1 mm_activityNumber1" id="2e2d4072a49447bf9c197eebfbf85925">
+    <rubric>
+        <p>Find the words from the story.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordSnakeBackground">
+            <block class="mm_wordSnakeContent">
+                <wordSnake id="wordSnake_1">
+                <words>
+                    <word id="wordSnake_word_1" example="y">brown</word>
+                    <word id="wordSnake_word_2">small</word>
+                    <word id="wordSnake_word_3">happy</word>
+                    <word id="wordSnake_word_4">climb</word>
+                    <word id="wordSnake_word_5">beard</word>
+                    <word id="wordSnake_word_6">castle</word>
+                </words>
+            </wordSnake>
+        </block>
+        </block>
+    </main>
+</activity>

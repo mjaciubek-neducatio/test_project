@@ -1,0 +1,15 @@
+<activity id="f5dce27ad97847a8bee470ef68f91e84" pseudoID="SC_L5_AB_Ch3_p27_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_textContainer">
+            <block class="mm_text mm_boxShadow mm_imageLeft">
+                <block class="mm_image mm_padder">
+                    <image src="p027a.png" title=""/>
+                </block>
+                <p class="mm_padder">You’re tired. It’s time to <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y" rank="6">lie down</droppable>, turn off the light, and relax your head on a comfortable <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="3">pillow</droppable>. But what happens if you’re an astronaut? In space, it’s hard to sleep. There’s no difference between night and day and astronauts often <br/><sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="2">stay awake</droppable> for a long time. But it’s good if you’re scared of <br/><sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="4">the dark</droppable> because the sun comes up every 90 minutes in space! It would be exciting to <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="5">stay up</droppable> late and watch the stars through the window. When astronauts finally <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="1">fall asleep</droppable>, they dream about discovering new planets.</p>
+            </block>
+        </block>
+    </main>
+</activity>

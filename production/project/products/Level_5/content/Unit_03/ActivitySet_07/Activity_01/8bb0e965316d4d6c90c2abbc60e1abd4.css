@@ -1,0 +1,10 @@
+.mm_image {
+	float: right;
+}
+.mm_reading {
+    background: url('../../production/project/products/Level_5/assets/images/p28b.png') repeat-y;
+    background-position: right;
+	-webkit-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, 0.85);
+	-moz-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, 0.85);
+	box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, 0.85);
+}

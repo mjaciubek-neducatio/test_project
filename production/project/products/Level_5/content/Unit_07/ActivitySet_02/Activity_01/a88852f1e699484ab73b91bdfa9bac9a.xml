@@ -1,0 +1,40 @@
+<activity id="a88852f1e699484ab73b91bdfa9bac9a" pseudoID="SC_L5_AB_Ch7_p55_ACT05" desktopDraggable="n">
+    <rubric>
+        <p>Complete with the correct adverbs.</p>
+    </rubric>
+    <main>
+        <block class="mm_dialogue">
+            <list display="v" type="plain">
+                <li>
+                    <p class="mm_example">
+                    <b>Charlie:</b> We have to make dinner <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" rank="2" example="y">quickly</droppable> because I have a lot of homework.</p>
+
+                </li>
+                <li>
+                    <p>
+                        <b>Olivia:</b>  What about a rice salad? We can do it <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="6">easily</droppable>—it's simple.</p>
+                </li>
+                <li>
+                    <p>
+                        <b>Charlie:</b> Great. Why don’t you boil the water? Then add the rice. It has to cook <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="3">slowly</droppable> but we have time. I’m going to chop the peppers!</p>
+                </li>
+                <li>
+                    <p>
+                        <b>Olivia:</b>  But it’s boring cooking the rice. I want to chop the peppers!</p>
+                </li>
+                <li>
+                    <p>
+                        <b>Charlie:</b> Stop talking so <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="4">loudly</droppable>. I’m standing next to you.</p>
+                </li>
+                <li>
+                    <p>
+                        <b>Olivia:</b>  But you always tell me what to do. I’m shouting because I’m angry and I don’t cook <br/><sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="5">well</droppable> when I’m angry.</p>
+                </li>
+                <li>
+                    <p>
+                        <b>Charlie:</b> Calm down and chop the peppers. Do it <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="1">carefully</droppable>, please!</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

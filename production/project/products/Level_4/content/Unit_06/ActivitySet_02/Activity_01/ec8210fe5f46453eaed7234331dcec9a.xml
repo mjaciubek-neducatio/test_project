@@ -1,0 +1,41 @@
+<activity class="mm_unit6 mm_activityNumber1" id="ec8210fe5f46453eaed7234331dcec9a" pseudoID="SC_L4_AB_Ch6_p47_ACT04">
+    <rubric>
+        <p>Match the words.</p>
+    </rubric>
+    <main>
+        <block>
+            <image src="p047b.png" title="" class="mm_snakePicture1"/>
+            <image src="p047a.png" title="" class="mm_snakePicture2"/>
+        </block>
+        <block class="mm_matchingCenter mm_exerciseContent mm_hMatching6">
+            <block class="mm_matchingNoImages">
+            <matching id="matching_1" display="h">
+                <pair>
+                    <matchItem id="matchItem_1" rank="1">me</matchItem>
+                    <matchTarget id="matchTarget_1" rank="3">mine</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">you</matchItem>
+                    <matchTarget id="matchTarget_2" rank="1">yours</matchTarget>
+                </pair>
+                <pair example="y">
+                    <matchItem id="matchItem_3" rank="3">he</matchItem>
+                    <matchTarget id="matchTarget_3" rank="2">his</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">she</matchItem>
+                    <matchTarget id="matchTarget_4" rank="6">hers</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">we</matchItem>
+                    <matchTarget id="matchTarget_5" rank="4">ours</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">they</matchItem>
+                    <matchTarget id="matchTarget_6" rank="5">theirs</matchTarget>
+                </pair>
+            </matching>
+            </block>
+        </block>
+    </main>
+</activity>

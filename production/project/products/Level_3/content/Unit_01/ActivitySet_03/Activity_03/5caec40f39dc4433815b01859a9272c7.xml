@@ -1,0 +1,38 @@
+<activity id="5caec40f39dc4433815b01859a9272c7" pseudoID="SC_L3_AB_Ch1_p10_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Complete the puzzle. Then find the hidden animal.</p>
+    </rubric>
+    <main>
+        <block>
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>pizza</value>
+                        <clue>a kind of food that children love</clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>tall</value>
+                        <clue>not short</clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>rabbit</value>
+                        <clue>a pet with long ears</clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>giraffe</value>
+                        <clue>an animal with a long neck</clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>soccer</value>
+                        <clue>a game you play with a ball</clue>
+                    </word>
+                    <word id="crossword_word_6">
+                        <value>bottle</value>
+                        <clue>plastic, and has water or juice in it</clue>
+                    </word>
+                    <hiddenWord>parrot</hiddenWord>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

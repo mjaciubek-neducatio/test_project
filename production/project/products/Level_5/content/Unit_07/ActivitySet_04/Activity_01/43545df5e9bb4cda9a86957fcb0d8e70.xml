@@ -1,0 +1,44 @@
+<activity id="43545df5e9bb4cda9a86957fcb0d8e70" pseudoID="SC_L5_AB_Ch7_p58_ACT01">
+    <rubric>
+        <p>Complete Yasmin's food diary. Use <i>too much</i>, <i>too many</i>, or <i>enough</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_activity01 mm_boxShadow">
+        <block class="mm_images mm_flexContainer mm_flexboxSet">
+                <image src="p058a.jpg" title=""/>
+                <image src="p058b.jpg" title=""/>
+                <image src="p058c.jpg" title=""/>
+                <image src="p058d.jpg" title=""/>
+                <image src="p058e.jpg" title=""/>
+        </block>
+        <block class="mm_handwritten">
+            <h3 class="mm_week1">Week 1</h3>
+            <p>I’ve decided to keep a food diary so that I know when I’m eating the wrong things and not drinking <sSpan class="mm_inlineNumber">1</sSpan><typein id="typein_1" example="y">
+                    <acceptable>
+                        <item id="item_1">enough</item>
+                    </acceptable>
+                </typein> water. Monday was awful because I ate <sSpan class="mm_inlineNumber">2</sSpan><typein id="typein_2">
+                    <acceptable>
+                        <item id="item_1">too much</item>
+                    </acceptable>
+                </typein> bread. On Tuesday, I drank a lot of water but I didn’t eat <sSpan class="mm_inlineNumber">3</sSpan><typein id="typein_3">
+                    <acceptable>
+                        <item id="item_1">enough</item>
+                    </acceptable>
+                </typein> vegetables. On Wednesday, I ate <sSpan class="mm_inlineNumber">4</sSpan><typein id="typein_4">
+                    <acceptable>
+                        <item id="item_1">too many</item>
+                    </acceptable>
+                </typein> strawberries and had a stomach ache! I ate a lot of fruit and vegetables on Thursday. Today it’s Friday, and it’s Angelo’s party. I’m going to eat <sSpan class="mm_inlineNumber">5</sSpan><typein id="typein_5">
+                    <acceptable>
+                        <item id="item_1">too many</item>
+                    </acceptable>
+                </typein> chips and drink <sSpan class="mm_inlineNumber">6</sSpan><typein id="typein_6">
+                    <acceptable>
+                        <item id="item_1">too much</item>
+                    </acceptable>
+                </typein> cola, but it is the weekend!</p>
+        </block>
+    </block>
+    </main>
+</activity>

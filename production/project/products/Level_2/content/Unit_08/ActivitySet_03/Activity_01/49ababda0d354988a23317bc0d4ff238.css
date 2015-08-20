@@ -1,0 +1,46 @@
+.mm_droppableImage {
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: -10px;
+}
+.mm_droppableGaps p {
+    position: absolute;
+    background: #fff;
+    padding: 2px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+.mm_droppableGaps .mm_dropNumber {
+    color: #E01E78;
+    font-weight:700;
+}
+
+
+.mm_droppableGaps p:nth-child(1) {
+    top: 20px;
+    left: 270px;
+    background-color: #fff;
+}
+.mm_droppableGaps p:nth-child(2) {
+    top: 35px;
+    left: 100px;
+}
+.mm_droppableGaps p:nth-child(3) {
+    top: 100px;
+    left: 190px;
+}
+.mm_droppableGaps p:nth-child(4) {
+    top: 260px;
+    left: 80px;
+}
+.mm_droppableGaps p:nth-child(5) {
+    top: 290px;
+    left: 240px;
+    
+}
+.mm_droppableGaps p:nth-child(6) {
+    top: 210px;
+    left: 300px;
+}

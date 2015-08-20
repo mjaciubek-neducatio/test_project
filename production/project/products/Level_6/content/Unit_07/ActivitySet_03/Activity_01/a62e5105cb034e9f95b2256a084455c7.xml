@@ -1,0 +1,46 @@
+<activity class="mm_unit7 mm_activityNumber1" id="a62e5105cb034e9f95b2256a084455c7" pseudoID="SC_L6_AB_Ch7_p58_ACT01">
+    <rubric>
+    	<p>Complete with comparative adverbs.</p>
+	</rubric>
+	<main>
+		<block class="mm_customBackground">
+			<image src="p058b.png" title=""/>
+			<block class="mm_imageBlock">
+				<image src="p058a.png" title=""/>
+			</block>
+			<block class="mm_customContent">
+				<p>I don’t know. I think there are a lot of things Yasmin and her friends could do <cSpan class="mm_noWrap mm_inlineNumber">1 (good) <typein id="typein_1" example="y">
+						<acceptable>
+							<item id="item_1">better</item>
+							<item id="item_2">BETTER</item>
+						</acceptable>
+					</typein>.</cSpan> They should watch me <cSpan class="mm_noWrap mm_inlineNumber">2 (careful) <typein id="typein_2">
+						<acceptable>
+							<item id="item_1">more carefully</item>
+							<item id="item_2">MORE CAREFULLY</item>
+						</acceptable>
+					</typein>!</cSpan> I wait <cSpan class="mm_noWrap mm_inlineNumber">3 (patient) <typein id="typein_3">
+						<acceptable>
+							<item id="item_1">more patiently</item>
+							<item id="item_2">MORE PATIENTLY</item>
+						</acceptable>
+					</typein></cSpan> than Rufus for my food even when I’m very hungry. I sometimes eat <cSpan class="mm_noWrap mm_inlineNumber">4 (loud) <typein id="typein_4">
+						<acceptable>
+							<item id="item_1">more loudly</item>
+							<item id="item_2">MORE LOUDLY</item>
+						</acceptable>
+					</typein></cSpan> than they do but that’s because I’m a dog. I can run <cSpan class="mm_noWrap mm_inlineNumber">5 (quick) <typein id="typein_5">
+						<acceptable>
+							<item id="item_1">more quickly</item>
+							<item id="item_2">MORE QUICKLY</item>
+						</acceptable>
+					</typein></cSpan> than all of them and when they’re sad I can look <cSpan class="mm_noWrap mm_inlineNumber">6 (nice) <typein id="typein_6">
+						<acceptable>
+							<item id="item_1">more nicely</item>
+							<item id="item_2">MORE NICELY</item>
+						</acceptable>
+					</typein></cSpan> at them.<br/>That’s why they all love me.</p>
+			</block>
+		</block>
+	</main>
+</activity>

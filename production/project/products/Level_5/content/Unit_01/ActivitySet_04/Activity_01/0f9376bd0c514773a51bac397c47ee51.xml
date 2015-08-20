@@ -1,0 +1,45 @@
+<activity id="0f9376bd0c514773a51bac397c47ee51" pseudoID="SC_L5_AB_Ch1_p10_ACT01">
+    <rubric>
+        <p>Complete Yasmin's text.</p>
+    </rubric>
+    <main>
+        <block class="mm_text mm_padder mm_boxShadow mm_handwritten">
+            <block>
+                <p>When I was young, I <sSpan class="mm_inlineNumber">1</sSpan> ✘ <typein id="typein_1" example="y">   
+                        <acceptable>
+                            <item id="item_1">didn’t use to</item>
+                        </acceptable>
+                    </typein> have an imaginary friend. 
+                    <br/>I <sSpan class="mm_inlineNumber">2</sSpan> ✔ <typein id="typein_2">
+                        <acceptable>
+                            <item id="item_1">used to</item>
+                        </acceptable>
+                    </typein> have a pet spider. His name was Arthur. I liked spiders. <cSpan class="mm_noWrap">I liked birds, too.</cSpan> My mom <sSpan class="mm_inlineNumber">3</sSpan> ✔ <typein id="typein_3">
+                        <acceptable>
+                            <item id="item_1">used to</item>
+                        </acceptable>
+                    </typein> take me to the park to watch the birds. We <sSpan class="mm_inlineNumber">4</sSpan> ✔ <typein id="typein_4">
+                        <acceptable>
+                            <item id="item_1">used to</item>
+                        </acceptable>
+                    </typein> take my favorite peanut butter sandwiches. I <sSpan class="mm_inlineNumber">5</sSpan> ✘ <typein id="typein_5">
+                        <acceptable>
+                            <item id="item_1">didn’t use to</item>
+                        </acceptable>
+                    </typein> like any other food!<br/>I <sSpan class="mm_inlineNumber">6</sSpan> ✔ <typein id="typein_6">
+                        <acceptable>
+                            <item id="item_1">used to</item>
+                        </acceptable>
+                    </typein> read a lot of books about animals.<br/>I <sSpan class="mm_inlineNumber">7</sSpan> ✘ <typein id="typein_7">
+                        <acceptable>
+                            <item id="item_1">didn’t use to</item>
+                        </acceptable>
+                    </typein> like sports or watching TV or playing with dolls.</p>
+            </block>
+        </block>
+        <block>
+            <image class="mm_imageTwo" src="p010b.png" title=""/>
+            <image class="mm_imageOne" src="p010a.png" title=""/>
+        </block>
+    </main>
+</activity>

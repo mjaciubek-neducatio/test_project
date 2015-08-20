@@ -1,0 +1,10 @@
+.main img {
+	width: 36%;
+	float: left;
+	margin-right: 2em;
+    margin-bottom: 0;
+}
+.main li p {
+	line-height: 1.4em;
+	margin-bottom: 0.2em;
+}

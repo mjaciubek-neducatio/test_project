@@ -1,0 +1,28 @@
+<activity desktopDraggable="n" class="mm_unit7 mm_activityNumber2" id="3ec9d9cc1a4c4e54bc9e63498eef347b" pseudoID="SC_L4_AB_Ch7_p57_ACT02">
+    <rubric>
+        <p>Who said it? Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_iCanReadBadge">
+            <image src="p041a.png" title=""/>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p><sSpan class="mm_cWidth">I was putting some flowers in a vase in the hall.</sSpan> <droppable id="droppable_1" example="y" rank="1">Grandma Agatha</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">I was digging in the yard.</sSpan> <droppable id="droppable_2" rank="4">a gardener</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">I was making the birthday cake in the kitchen.</sSpan> <droppable id="droppable_3" rank="2">the cook</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">I was getting in everyone’s way.</sSpan> <droppable id="droppable_4" rank="3">Peter</droppable>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

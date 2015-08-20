@@ -1,0 +1,27 @@
+.main div.block div.block {
+	width: 40%;
+	display: inline-block;
+    margin-left: 1em;
+}
+.main div.block h3 {
+    padding-left: 4em;
+}
+/* .main div.block div.block.mm_milo {
+    
+} */
+
+.mm_Rise {
+    background-image: url(../../production/project/products/Level_3/assets/images/p057a.jpg);
+	background-position: center left;
+	background-size: 13.5%;
+	background-repeat: no-repeat;
+    padding-left: 4em;
+}
+
+.mm_Fall {
+    background-image: url(../../production/project/products/Level_3/assets/images/p057b.jpg);
+    background-position: center right;
+	background-size: 15%;
+	background-repeat: no-repeat;
+    padding-right: 2em;
+}

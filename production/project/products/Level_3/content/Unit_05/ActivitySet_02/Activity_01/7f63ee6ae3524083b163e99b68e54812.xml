@@ -1,0 +1,26 @@
+<activity id="7f63ee6ae3524083b163e99b68e54812" pseudoID="SC_L3_AB_Ch5_p41_ACT04" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>What did you learn about Ancient Egyptians in the story? Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="plain">
+                <li>
+                    <p>They hunted<cSpan class="mm_noWrap"><droppable id="droppable_1" example="y">ducks</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>They lived along the<cSpan class="mm_noWrap"><droppable id="droppable_2">Nile River</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>They used papyrus to make<cSpan class="mm_noWrap"><droppable id="droppable_3">paper</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>They believed<br/>in a lot of <cSpan class="mm_noWrap"><droppable id="droppable_4">gods and goddesses</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>We know<br/>about Ancient<br/>Egypt because<br/>scribes kept <cSpan class="mm_noWrap"><droppable id="droppable_5">records</droppable>.</cSpan></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,40 @@
+<activity class="mm_unit1 mm_activityNumber1" id="81957118ac3241c0b7be29c6604aa182" pseudoID="SC_L4_AB_Ch1_p11_ACT01">
+    <rubric>
+        <p>Look and match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingBackground">
+            <block class="mm_matchingImage">
+                <image src="p011a.png" title=""/>
+            </block>
+            <block class="mm_customMatching">
+            <matching id="matching_1" display="v">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> There isn’t much</matchItem>
+                    <matchTarget id="matchTarget_1" rank="12"><sSpan class="mm_matchingNumber">f.</sSpan> chicken.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> There are a lot of</matchItem>
+                    <matchTarget id="matchTarget_2" rank="9"><sSpan class="mm_matchingNumber">c.</sSpan> cookies.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> There aren’t many</matchItem>
+                    <matchTarget id="matchTarget_3" rank="8"><sSpan class="mm_matchingNumber">b.</sSpan> burgers.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> There are a few</matchItem>
+                    <matchTarget id="matchTarget_4" rank="11"><sSpan class="mm_matchingNumber">e.</sSpan> grapes.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> There’s a lot of</matchItem>
+                    <matchTarget id="matchTarget_5" rank="7"><sSpan class="mm_matchingNumber">a.</sSpan> fruit.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan> There isn’t much</matchItem>
+                    <matchTarget id="matchTarget_6" rank="10"><sSpan class="mm_matchingNumber">d.</sSpan> chocolate cake.</matchTarget>
+                </pair>
+            </matching>
+            </block>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,29 @@
+<activity class="mm_unit3 mm_activityNumber1" id="1f34d64be5e547ceaecf83ca90aa7362" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_listImages">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                <image src="p027a.jpg" title="" class="mm_exerciseImages"/>
+                    <p>Can you turn off the light, please?</p>
+                    <p>Yes, <droppable id="droppable_1" example="y" rank="6">sure</droppable>. Goodnight.</p>
+                </li>
+                <li>
+                <image src="p027b.jpg" title="" class="mm_exerciseImages"/>
+                    <p>
+                        <droppable id="droppable_2" rank="2">Can</droppable> you open the window, <droppable id="droppable_3" rank="4">please</droppable>?</p>
+                    <p>
+                        <droppable id="droppable_4" rank="3">Yes</droppable>, I can.</p>
+                </li>
+                <li>
+                <image src="p027c.jpg" title="" class="mm_exerciseImages"/>
+                    <p>Can you close the door, please?</p>
+                    <p>
+                        <droppable id="droppable_5" rank="5">No</droppable>, I <droppable id="droppable_6" rank="1">can’t</droppable>. It’s windy.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

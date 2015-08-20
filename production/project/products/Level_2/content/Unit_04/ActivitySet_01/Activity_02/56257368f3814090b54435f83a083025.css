@@ -1,0 +1,8 @@
+.mm_customCategories .category {
+    margin: 0 0.875em 0 0;
+    width: 30%;
+}
+
+.mm_customCategories .category:last-child {
+    margin: 0;
+}

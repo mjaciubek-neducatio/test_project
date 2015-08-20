@@ -1,0 +1,35 @@
+<activity id="993122a85d0c4249b2ccd047f3dc294a" pseudoID="SC_L5_AB_Ch9_p73_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Match to make sentences.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1" display="v">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> A space academy is a school</matchItem>
+                    <matchTarget id="matchTarget_1" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> where you can learn about planets.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> A doctor is a person</matchItem>
+                    <matchTarget id="matchTarget_2" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan> who takes care of people.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> A computer is a machine</matchItem>
+                    <matchTarget id="matchTarget_3" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> that you can send emails from.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> Mars is a planet</matchItem>
+                    <matchTarget id="matchTarget_4" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> that is part of our solar system.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> Mia is a student</matchItem>
+                    <matchTarget id="matchTarget_5" rank="6"><sSpan class="mm_matchingNumber">f.</sSpan> who goes to the academy.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan> Kepler is the village</matchItem>
+                    <matchTarget id="matchTarget_6" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> where the K2 sky tram goes.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

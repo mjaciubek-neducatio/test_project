@@ -1,0 +1,32 @@
+.mm_bubble {
+    background: #e7e7e8;
+	background: -moz-linear-gradient(left,  #e7e7e8 0%, #ffffff 50%, #ffffff 53%, #e8e8ea 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#e7e7e8), color-stop(50%,#ffffff), color-stop(53%,#ffffff), color-stop(100%,#e8e8ea));
+	background: -webkit-linear-gradient(left,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	background: -o-linear-gradient(left,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	background: -ms-linear-gradient(left,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	background: linear-gradient(to right,  #e7e7e8 0%,#ffffff 50%,#ffffff 53%,#e8e8ea 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e8', endColorstr='#e8e8ea',GradientType=1 );
+    margin-top: 7%;
+    width:100%;
+}
+.mm_firstImage {
+    position: absolute;
+    top: -18%;
+    left: 60%;
+}
+.mm_secondImage {
+    margin-top: -30px;
+}
+.mm_speechBubbles .mm_customBubble:after {
+    left: 100px;
+}
+
+.mm_speechBubbles .mm_customBubble:before {
+	left: 100px;
+}
+.mm_speechBubbles {
+    width: 620px;
+    margin: auto;
+    margin-top: 60px;
+}

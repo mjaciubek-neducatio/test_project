@@ -1,0 +1,34 @@
+<activity id="d97f260ab27c46ab9259e43cacf9a563" pseudoID="SC_L3_AB_Ch4_p35_ACT04" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Look and complete. Then choose <i>yes</i> or <i>no</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <image src="p035a.jpg" title=""/>
+        </block>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <p>Bob <droppable id="droppable_1" example="y">never</droppable> cleans his room. It’s a mess.</p>
+                </li>
+                <li>
+                    <p>He <droppable id="droppable_2">sometimes</droppable> sweeps the kitchen floor – maybe once a week.</p>
+                </li>
+                <li>
+                    <p>He <droppable id="droppable_3">always</droppable> watches TV – every day!</p>
+                </li>
+                <li>
+                    <p>Bob <droppable id="droppable_4">often</droppable> plays soccer in the yard – four or five times a week.</p>
+                </li>
+                <li>
+                    <p>He <droppable id="droppable_5">never</droppable> does his homework and his teacher gets angry.</p>
+                </li>
+            </list>
+            <p>Does Bob help at home a lot?</p>
+            <radio id="radio_1" display="h" displayType="itemSelect" type="plain">
+                <item id="item_1">yes</item>
+                <item id="item_2" correct="y">no</item>
+            </radio>
+        </block>
+    </main>
+</activity>

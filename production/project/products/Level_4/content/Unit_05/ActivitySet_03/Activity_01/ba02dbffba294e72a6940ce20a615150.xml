@@ -1,0 +1,49 @@
+<activity class="mm_unit5 mm_activityNumber2" id="ba02dbffba294e72a6940ce20a615150" pseudoID="SC_L4_AB_Ch5_p41_ACT02">
+    <rubric>
+        <p>Unscramble..</p>
+    </rubric>
+    <main>
+        <block class="mm_iCanReadBadge mm_horizontalOrderingSuffix">
+            <image src="p041a.png" title=""/>
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" display="h">
+                        <item id="item_1" rank="4">Go</item>
+                        <item id="item_2" rank="2">to</item>
+                        <item id="item_3" rank="1">the</item>
+                        <item id="item_4" rank="3">cave</item>
+                        <!-- <suffix>.</suffix> -->
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1" rank="3">Copy</item>
+                        <item id="item_2" rank="1">the </item>
+                        <item id="item_3" rank="4">pirate</item>
+                        <item id="item_4" rank="2">code</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1" rank="1">Take</item>
+                        <item id="item_2" rank="3">a</item>
+                        <item id="item_3" rank="2">compasss</item>
+                        <item id="item_4" rank="5">with</item>
+                        <item id="item_5" rank="4">you</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1" rank="2">Don’t</item>
+                        <item id="item_2" rank="4">forget</item>
+                        <item id="item_3" rank="1">a</item>
+                        <item id="item_4" rank="3">shovel</item>
+                        <suffix>!</suffix>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

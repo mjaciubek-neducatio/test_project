@@ -1,0 +1,14 @@
+<activity id="4cd29a41623f4984b31ff63fee3e8ba2" pseudoID="SC_L5_AB_Ch7_p56_ACT02" class="mm_activityNumber2 mm_itemSelectBigButtons">
+    <rubric>
+        <p>Read the story in your Student Book. Choose the most important thing Picture 2 tells us about Mrs. Kapoor.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <radio id="radio_1" displayType="itemSelect">
+                <item id="item_1">She really loves food.</item>
+                <item id="item_2">She really likes her neighbor.</item>
+                <item id="item_3" correct="y">She’s very proud of her sons.</item>
+            </radio>
+        </block>
+    </main>
+</activity>

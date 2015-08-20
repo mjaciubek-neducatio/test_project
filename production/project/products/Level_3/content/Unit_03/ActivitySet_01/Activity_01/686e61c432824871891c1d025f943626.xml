@@ -1,0 +1,59 @@
+<activity id="686e61c432824871891c1d025f943626" pseudoID="SC_L3_AB_Ch3_p22_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageMatchItem mm_hMatching8 mm_hMatchTarget1Line mm_matchingCenter mm_postitionNumbers">
+            <matching id="matching_1" display="h">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1</sSpan>
+                        <image src="p022e.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_1">worried</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2</sSpan>
+                        <image src="p022b.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_2">sad</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3</sSpan>
+                        <image src="p022c.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_3">excited</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4</sSpan>
+                        <image src="p022d.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_4">angry</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5</sSpan>
+                        <image src="p022a.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_5">happy</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6</sSpan>
+                        <image src="p022f.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_6">surprised</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_7" rank="7"><sSpan class="mm_matchingNumber">7</sSpan>
+                        <image src="p022g.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_7">scared</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_8" rank="8"><sSpan class="mm_matchingNumber">8</sSpan>
+                        <image src="p022h.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_8">tired</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

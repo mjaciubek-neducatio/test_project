@@ -1,0 +1,24 @@
+<activity id="28e9db15aee84208b4baf7e8eef6f5e2" pseudoID="SC_L5_AB_Ch3_p22_ACT02" class="mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>It was <droppable id="droppable_1">disappointing</droppable> that we were too late to see the movie.</p>
+                </li>
+                <li>
+                    <p>This story is <droppable id="droppable_2">confusing</droppable>. I can’t understand it at all.</p>
+                </li>
+                <li>
+                    <p>The movie was <droppable id="droppable_3">awful</droppable> – we really didn’t like it.</p>
+                </li>
+                <li>
+                    <p>Everyone laughed when I dropped my cake! It was <droppable id="droppable_4">embarrassing</droppable>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

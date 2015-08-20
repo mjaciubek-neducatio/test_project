@@ -1,0 +1,25 @@
+.mm_bubble {
+    width: 17%;
+    text-align: center;
+    height: 1.5em;
+    /* margin-left: 65%; */
+    float: right;
+    margin-right: 12.5%;
+}
+
+.mm_speechBubbles .mm_bubble:before {
+    left: 72px;
+}
+.mm_speechBubbles .mm_bubble:after {
+    left: 75px;
+}
+
+.mm_imageRight img {
+    width: 35%;
+    padding-right: 5%;
+    clear: right;
+}
+
+.mm_imageRight ol {
+    /* padding-top: 2.5em; */
+}

@@ -1,0 +1,14 @@
+.mm_speechBubbles .matchingContainer .matchItem:before,
+.mm_speechBubbles .mm_bubble:before {
+    right: 100px;
+	left:auto;
+}
+
+.mm_speechBubbles .mm_bubble:after,
+.mm_speechBubbles .matchingContainer .matchItem:after {
+	right: 103px;
+	left:auto;
+}
+.mm_imageRight {
+	margin-top:-30px;
+}

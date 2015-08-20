@@ -1,0 +1,46 @@
+<activity id="72312da00af0435d8654d69c5ed800e6" pseudoID="SC_L5_AB_Ch3_p24_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">Alice is enjoying listening to the story.</p>
+                    <radio id="radio_1" display="h" name="" type="plain" example="y" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>She sees a white rabbit asleep on the grass.</p>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Alice often sees white rabbits.</p>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Alice falls down the rabbit hole.</p>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The story takes place a long time ago.</p>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

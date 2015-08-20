@@ -1,0 +1,9 @@
+.mm_inlineBlock p {
+    display: inline-block;
+    width: 68%;
+}
+
+.mm_inlineBlock p + p {
+    display: inline-block;
+    width: 23%;
+}

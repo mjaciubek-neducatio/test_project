@@ -1,0 +1,60 @@
+<activity class="mm_unit8 mm_activityNumber1" id="25680e7944f04a829000088d8bb565de" pseudoID="SC_L6_AB_Ch8_p63_ACT05">
+    <rubric>
+        <p>Unscramble the sentences.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" display="h">
+                        <item id="item_1" rank="3">It</item>
+                        <item id="item_2" rank="5">wasn’t</item>
+                        <item id="item_3" rank="4">designed</item>
+                        <item id="item_4" rank="2">for</item>
+                        <item id="item_5" rank="1">adults</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1" rank="7">A</item>
+                        <item id="item_2" rank="8">lot</item>
+                        <item id="item_3" rank="1">of</item>
+                        <item id="item_4" rank="2">photos</item>
+                        <item id="item_5" rank="4">were</item>
+                        <item id="item_6" rank="3">shared</item>
+                        <item id="item_7" rank="9">on</item>
+                        <item id="item_8" rank="6">the</item>
+                        <item id="item_9" rank="5">website</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1" rank="7">The</item>
+                        <item id="item_2" rank="6">funny</item>
+                        <item id="item_3" rank="4">jokes</item>
+                        <item id="item_4" rank="5">were</item>
+                        <item id="item_5" rank="3">loved</item>
+                        <item id="item_6" rank="8">by</item>
+                        <item id="item_7" rank="1">the</item>
+                        <item id="item_8" rank="2">kids</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1" rank="7">The</item>
+                        <item id="item_2" rank="3">website</item>
+                        <item id="item_3" rank="1">was</item>
+                        <item id="item_4" rank="6">copied</item>
+                        <item id="item_5" rank="5">in</item>
+                        <item id="item_6" rank="4">other</item>
+                        <item id="item_7" rank="2">countries</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

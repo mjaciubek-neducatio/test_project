@@ -1,0 +1,31 @@
+.mm_speechBubbles {
+	margin-bottom: 0;
+}
+
+.mm_bubble {
+	display: inline-block;
+}
+
+.mm_leftBubble {
+	float: right;
+	margin-right: .875em;
+}
+
+.mm_rightBubble {
+	float: left;
+	margin-left: .875em;
+}
+
+.mm_speechBubbles .mm_leftBubble:after {
+	left: auto;
+	right: 24px;
+}
+
+.mm_speechBubbles .mm_leftBubble:before {
+	left: auto;
+	right: 23px;
+}
+
+.mm_boys {
+	text-align: center;
+}

@@ -1,0 +1,24 @@
+<activity class="mm_unit8 mm_activityNumber1" id="49ababda0d354988a23317bc0d4ff238" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in the correct place.</p>
+    </rubric>
+    <main>
+        <block class="mm_droppableImage">
+            <image src="p066a.jpg" title=""/>
+            <block class="mm_droppableGaps">
+                <p class="mm_example"><sSpan class="mm_dropNumber">1.</sSpan> <droppable id="droppable_1" example="y">sky</droppable>
+                </p>
+                <p><sSpan class="mm_dropNumber">2.</sSpan> <droppable id="droppable_2">forest</droppable>
+                </p>
+                <p><sSpan class="mm_dropNumber">3.</sSpan> <droppable id="droppable_3">jungle</droppable>
+                </p>
+                <p><sSpan class="mm_dropNumber">4.</sSpan> <droppable id="droppable_4">cave</droppable>
+                </p>
+                <p><sSpan class="mm_dropNumber">5.</sSpan> <droppable id="droppable_5">ocean</droppable>
+                </p>
+                <p><sSpan class="mm_dropNumber">6.</sSpan> <droppable id="droppable_6">river</droppable>
+            </p>
+            </block>
+        </block>
+    </main>
+</activity>

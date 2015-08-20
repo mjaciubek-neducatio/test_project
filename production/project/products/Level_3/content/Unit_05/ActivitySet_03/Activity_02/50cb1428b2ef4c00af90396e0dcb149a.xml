@@ -1,0 +1,101 @@
+<activity id="50cb1428b2ef4c00af90396e0dcb149a" pseudoID="SC_L3_AB_Ch5_p43_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Complete with the present tense of the verb.</p>
+    </rubric>
+    <main>
+        <block class="mm_inlineQuestion">
+            <list display="v" type="plain">
+                <li>
+                    <p>sold</p>
+                    <typein id="typein_1" example="y">
+                        <acceptable>
+                            <item id="item_1">sell</item>
+                            <item id="item_2">SELL</item>
+                            <item id="item_3">Sell</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>grew</p>
+                    <typein id="typein_2">
+                        <acceptable>
+                            <item id="item_1">grow</item>
+                            <item id="item_2">GROW</item>
+                            <item id="item_3">Grow</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>kept</p>
+                    <typein id="typein_3">
+                        <acceptable>
+                            <item id="item_1">keep</item>
+                            <item id="item_2">KEEP</item>
+                            <item id="item_3">Keep</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>wrote</p>
+                     <typein id="typein_4">
+                        <acceptable>
+                            <item id="item_1">write</item>
+                            <item id="item_2">WRITE</item>
+                            <item id="item_3">Write</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>spoke</p>
+                     <typein id="typein_5">
+                        <acceptable>
+                            <item id="item_1">speak</item>
+                            <item id="item_2">SPEAK</item>
+                            <item id="item_3">Speak</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>went</p>
+                    <typein id="typein_6">
+                        <acceptable>
+                            <item id="item_1">go</item>
+                            <item id="item_2">GO</item>
+                            <item id="item_3">Go</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>took</p>
+                    <typein id="typein_7">
+                        <acceptable>
+                            <item id="item_1">take</item>
+                            <item id="item_2">TAKE</item>
+                            <item id="item_3">Take</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>built</p>
+                     <typein id="typein_8">
+                        <acceptable>
+                            <item id="item_1">build</item>
+                            <item id="item_2">BUILD</item>
+                            <item id="item_3">Build</item>
+                        </acceptable>
+                    </typein>
+                </li>
+                <li>
+                    <p>sang</p>
+                    <typein id="typein_9">
+                        <acceptable>
+                            <item id="item_1">sing</item>
+                            <item id="item_2">SING</item>
+                            <item id="item_3">Sing</item>
+                        </acceptable>
+                    </typein>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

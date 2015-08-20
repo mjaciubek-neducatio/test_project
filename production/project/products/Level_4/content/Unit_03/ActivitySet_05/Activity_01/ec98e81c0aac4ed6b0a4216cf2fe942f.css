@@ -1,0 +1,10 @@
+.mm_customImage {
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border: 3px solid #5160ac;
+    border-radius: 25px;
+}
+.mm_customMatching .matchItem, .mm_customMatching .matchTarget {
+    text-align: left;
+}

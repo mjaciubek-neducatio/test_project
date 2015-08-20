@@ -1,0 +1,31 @@
+<activity desktopDraggable="n" class="mm_unit5 mm_activityNumber2" id="43635fe668e94126b76620fe26a2666e" pseudoID="SC_L4_AB_Ch5_p38_ACT02">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p><sSpan class="mm_cWidth">Long and short sounds used to send a message.</sSpan> <droppable id="droppable_1" example="y" rank="2">Morse code</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Egyptian pictures that are really words.</sSpan> <droppable id="droppable_2" rank="4">hieroglyphics</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Writing sent from one cell phone to another.</sSpan> <droppable id="droppable_3" rank="5">text message</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">You listen to music or the news using this.</sSpan> <droppable id="droppable_4" rank="3">radio</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">The first machine to make books.</sSpan> <droppable id="droppable_5" rank="1">printing press</droppable>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,37 @@
+<activity class="mm_unit2 mm_activityNumber3" id="1e603e315ded44b2a4f63edda5196747" pseudoID="SC_L4_AB_Ch2_p18_ACT03">
+    <rubric>
+        <p>Complete the puzzle.</p>
+    </rubric>
+    <main>
+        <block class="mm_customCrossword">
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>numbers</value>
+                        <clue><image src="p018a.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>nurse</value>
+                        <clue><image src="p018b.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>shirt</value>
+                        <clue><image src="p018c.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>girl</value>
+                        <clue><image src="p018d.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>feathers</value>
+                        <clue><image src="p018e.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_6">
+                        <value>curly</value>
+                        <clue><image src="p018f.jpg" title=""/></clue>
+                    </word>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

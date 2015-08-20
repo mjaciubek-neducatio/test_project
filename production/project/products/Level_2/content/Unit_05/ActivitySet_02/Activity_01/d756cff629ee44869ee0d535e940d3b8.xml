@@ -1,0 +1,31 @@
+<activity class="mm_unit5 mm_activityNumber2" id="d756cff629ee44869ee0d535e940d3b8">
+    <rubric>
+        <p>Read the story in your Student Book. Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingLeft">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> What animal is Chesney?</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9"><sSpan class="mm_matchingNumber">d.</sSpan> He’s a cheetah.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> What are the animals doing?</matchItem>
+                    <matchTarget id="matchTarget_2" rank="8"><sSpan class="mm_matchingNumber">c.</sSpan> They’re running.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Who’s winning?</matchItem>
+                    <matchTarget id="matchTarget_3" rank="7"><sSpan class="mm_matchingNumber">b.</sSpan> Chesney.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> Who’s second?</matchItem>
+                    <matchTarget id="matchTarget_4" rank="10"><sSpan class="mm_matchingNumber">e.</sSpan> The lion.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> Who’s third?</matchItem>
+                    <matchTarget id="matchTarget_5" rank="6"><sSpan class="mm_matchingNumber">a.</sSpan> The ostrich.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

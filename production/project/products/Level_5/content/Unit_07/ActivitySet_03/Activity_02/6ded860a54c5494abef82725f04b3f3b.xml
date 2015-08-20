@@ -1,0 +1,59 @@
+<activity id="6ded860a54c5494abef82725f04b3f3b" pseudoID="SC_L5_AB_Ch7_p56_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Choose: Mrs. Kapoor, Kuntal, Shabar, or Rashmi.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">Who wants the house to look nice? <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">Mrs. Kapoor</item>
+                            <item id="item_2">Kuntal</item>
+                            <item id="item_3">Shabar</item>
+                            <item id="item_4">Rashmi</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Who’s the youngest of Mrs. Kapoor’s children? <dropDown id="dropDown_2">
+                            <item id="item_1">Mrs. Kapoor</item>
+                            <item id="item_2">Kuntal</item>
+                            <item id="item_3">Shabar</item>
+                            <item id="item_4" correct="y">Rashmi</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Who’s Kuntal’s younger brother? <dropDown id="dropDown_3">
+                            <item id="item_1">Mrs. Kapoor</item>
+                            <item id="item_2">Kuntal</item>
+                            <item id="item_3" correct="y">Shabar</item>
+                            <item id="item_4">Rashmi</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Who's cooking for the family that night? <dropDown id="dropDown_4">
+                            <item id="item_1">Mrs. Kapoor</item>
+                            <item id="item_2">Kuntal</item>
+                            <item id="item_3" correct="y">Kuntal and Shabar</item>
+                            <item id="item_4">Rashmi</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Who’s Maa? <dropDown id="dropDown_5">
+                            <item id="item_1" correct="y">Mrs. Kapoor</item>
+                            <item id="item_2">Kuntal</item>
+                            <item id="item_3">Shabar</item>
+                            <item id="item_4">Rashmi</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Who is taller than she used to be? <dropDown id="dropDown_6">
+                            <item id="item_1">Mrs. Kapoor</item>
+                            <item id="item_2">Kuntal</item>
+                            <item id="item_3">Shabar</item>
+                            <item id="item_4" correct="y">Rashmi</item>
+                        </dropDown>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

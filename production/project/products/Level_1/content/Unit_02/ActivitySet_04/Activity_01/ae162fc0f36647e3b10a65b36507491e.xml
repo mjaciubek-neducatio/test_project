@@ -1,0 +1,39 @@
+<activity id="ae162fc0f36647e3b10a65b36507491e" pseudoID="SC_L1_AB_Ch2_p18_ACT01" class="mm_unit2 mm_lesson5 mm_activityNumber1 " desktopDraggable="n">
+    <rubric>
+        <p>Complete with the missing months.</p>
+    </rubric>
+    <main>
+        <block class="mm_centeredTable">
+            <table>
+                <tr>
+                    <td>January</td>
+                    <td>
+                        <droppable id="droppable_1" example="y">February</droppable>
+                    </td>
+                    <td>March</td>
+                    <td>April</td>
+                </tr>
+                <tr>
+                    <td>
+                        <droppable id="droppable_2">May</droppable>
+                    </td>
+                    <td>June</td>
+                    <td>
+                        <droppable id="droppable_3">July</droppable>
+                    </td>
+                    <td>August</td>
+                </tr>
+                <tr>
+                    <td>September</td>
+                    <td>
+                        <droppable id="droppable_4">October</droppable>
+                    </td>
+                    <td>November</td>
+                    <td>
+                        <droppable id="droppable_5">December</droppable>
+                    </td>
+                </tr>
+            </table>
+        </block>
+    </main>
+</activity>

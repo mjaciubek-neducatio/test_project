@@ -1,0 +1,23 @@
+<activity class="mm_unit2 mm_activityNumber1" id="a49d98e328cf4eb48e0d41522e05ef35" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>Oh no! The cup <droppable id="droppable_1" rank="3" example="y">isn’t</droppable> on the <droppable id="droppable_2">shelf</droppable>.</p>
+                </li>
+                <li>
+                    <p>Footprints on the floor! <droppable id="droppable_3" rank="5">Whose</droppable> footprints are they?</p>
+                </li>
+                <li>
+                    <p>Where’s Mrs. Parker? <droppable id="droppable_4" rank="6">Her</droppable> jacket isn’t here.</p>
+                </li>
+                <li>
+                    <p>She’s at the jewelry store in <droppable id="droppable_5" rank="2">town</droppable>. Now the cup says “<droppable id="droppable_6" rank="1">Winners</droppable>: Hilltop.”</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,15 @@
+.mm_centerImage {
+    text-align: center;
+    margin-bottom: 0.875em;
+}
+.mm_centerImage img {
+    height: 180px;
+    border: 2px solid #676778;
+    border-radius: 10px;
+}
+.mm_noLineBreak {
+    white-space:nowrap;
+}
+.mm_exerciseContent p {
+    display: inline;
+}

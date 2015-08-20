@@ -1,0 +1,29 @@
+<activity id="3b04e21edcf64c738148f653be65a1ac" pseudoID="SC_L3_AB_Ch9_p76_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <h2>Summer Camp Safety Tips</h2>
+            <h3>Summer camp vacations are great!</h3>
+            <h3>But don’t forget to stay safe!</h3>
+            <list display="v" type="numbered">
+                <li>
+                    <p>Don’t bring <droppable id="droppable_1" example="y">snacks</droppable> or candy into your tent. (Bugs and other animals like these.)</p>
+                </li>
+                <li>
+                    <p>When it’s <droppable id="droppable_2">sunny</droppable>, wear a <droppable id="droppable_3">hat</droppable>. Take a water bottle and drink a lot of water.</p>
+                </li>
+                <li>
+                    <p>Use <droppable id="droppable_4">sunblock</droppable>. Put it on your face, neck, and ears!</p>
+                </li>
+                <li>
+                    <p>Always wear <droppable id="droppable_5">shoes</droppable> so that you don’t cut your feet on stones.</p>
+                </li>
+                <li>
+                    <p>Be <droppable id="droppable_6">careful</droppable> with camp fires.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

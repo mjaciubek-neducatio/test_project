@@ -1,0 +1,30 @@
+<activity class="mm_unit4 mm_activityNumber1" id="82b69c1871e2408ca68259510f15a266">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_exerciseContent1">
+                <block class="mm_exercisePicture1">
+                     <image src="p031a.jpg" title=""/>
+                </block>
+            <matching id="matching_1" class="mm_matchingLeft">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan>  What’s the boy doing?</matchItem>
+                    <matchTarget id="matchTarget_1"><sSpan class="mm_matchingNumber">b.</sSpan> He’s walking.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan>  What’s the dog doing?</matchItem>
+                    <matchTarget id="matchTarget_2"><sSpan class="mm_matchingNumber">c.</sSpan> It’s barking.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan>  What’s the girl doing?</matchItem>
+                    <matchTarget id="matchTarget_3"><sSpan class="mm_matchingNumber">d.</sSpan> She’s eating.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan>  What’s Mom doing?</matchItem>
+                    <matchTarget id="matchTarget_4"><sSpan class="mm_matchingNumber">a.</sSpan>She’s sitting down.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

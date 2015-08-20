@@ -1,0 +1,55 @@
+<activity class="mm_unit6 mm_activityNumber2" id="b3dd3cb0df97436cb9141147da86a853" pseudoID="SC_L6_AB_Ch6_p46_ACT02">
+    <rubric>
+        <p>Look at the picture. Then read and choose.</p>
+    </rubric>
+    <main>
+    <block class="mm_imageCenter">
+        <block class="mm_image">
+        </block> 
+    </block>
+        <block class="mm_radio mm_imageRight mm_imageBorder mm_roundedImage">
+            <image src="p46_aV2.jpg" title=""/> 
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>
+                        <i>The Singing Lion</i>
+                        <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect" example="y">
+                            <item id="item_1" correct="y">is</item>
+                            <item id="item_2">isn’t</item>
+                        </radio> a musical.</p>
+                </li>
+                <li>
+                    <p>The <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1">auditions</item>
+                            <item id="item_2" correct="y">rehearsals</item>
+                        </radio> last for two hours.</p>
+                </li>
+                <li>
+                    <p>
+                        <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1" correct="y">One person is</item>
+                            <item id="item_2">Two people are</item>
+                        </radio> performing on the stage.</p>
+                </li>
+                <li>
+                    <p>The boy in glasses wants to be a <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1">cleaner</item>
+                            <item id="item_2" correct="y">superstar</item>
+                        </radio>.</p>
+                </li>
+                <li>
+                    <p>The little girl’s talent is <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1">dancing</item>
+                            <item id="item_2" correct="y">singing</item>
+                        </radio>.</p>
+                </li>
+                <li>
+                    <p>She has a great <radio id="radio_6" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1" correct="y">voice</item>
+                            <item id="item_2">stage</item>
+                        </radio>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

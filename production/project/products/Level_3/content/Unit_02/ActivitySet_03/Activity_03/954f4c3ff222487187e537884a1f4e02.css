@@ -1,0 +1,9 @@
+.main p {
+	display: inline-block;
+	width: 30%;
+}
+.mm_image img {
+	width: 50%;
+    margin: 0 auto;
+    display: block;
+}

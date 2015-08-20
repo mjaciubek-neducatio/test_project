@@ -1,0 +1,14 @@
+<activity id="81f4d97d04ad491b86006ac46992cebb" pseudoID="SC_L5_AB_Ch3_p24_ACT02" class="mm_activityNumber2 mm_itemSelectBigButtons">
+    <rubric>
+        <p>Read the story in your Student Book. Choose the sentence that describes the story.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <radio id="radio_1" display="v" type="numbered" displayType="itemSelect">
+                <item id="item_1" correct="y">Strange and magical things happen in the story.</item>
+                <item id="item_2">The story is about things that happen in real life.</item>
+                <item id="item_3">The story is about things that happened in history.</item>
+            </radio>
+        </block>
+    </main>
+</activity>

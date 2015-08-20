@@ -1,0 +1,16 @@
+.mm_laptop {
+/*     border: 1px solid red; */
+   /*  -webkit-transform: rotate(-4deg); */
+    padding-left: 37%;
+    font-size: 0.9em;
+    margin-top: -1.5em;
+}
+
+.mm_laptop p {
+    margin-bottom: 0.425em;
+    line-height: 1.4em;
+}
+
+.mm_activityBackgroundImage:before {
+    background-image: url(../../production/project/products/Level_1/assets/images/p051Laptop.jpg);
+}

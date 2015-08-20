@@ -1,0 +1,73 @@
+<activity class="mm_unit2 mm_activityNumber2" id="fa095ab1b1774420ba50c7351bf67763">
+    <rubric>
+        <p>Choose the correct word to complete the sentences.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexContainer mm_flexboxSet2 mm_exerciseContent mm_bigLineHeight">
+            <block class="mm_speechBubbles">
+            <list display="v" type="numbered" class="mm_bubble">
+                <li numbered="n">
+                    <p>
+                        <dropDown id="dropDown_1" example="y">
+                            <item id="item_1">Our</item>
+                            <item id="item_2">Their</item>
+                            <item id="item_3" correct="y">Whose</item>
+                        </dropDown> sneakers are these?</p>
+                </li>
+  
+                <li>
+                
+                     <p>They’re <dropDown id="dropDown_2" example="y">
+                            <item id="item_1">their</item>
+                            <item id="item_2" correct="y">our</item>
+                            <item id="item_3">whose</item>
+                        </dropDown> sneakers.</p>
+                              </li>
+                 <li>
+                    <p>They’re <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">their</item>
+                            <item id="item_2">our</item>
+                            <item id="item_3">whose</item>
+                        </dropDown> sneakers.</p>
+                </li>
+                </list>
+                <image src="p015b.jpg" title="" class="mm_exercisePicture"/>
+            </block>
+            <block class="mm_speechBubbles">
+            <list display="v" type="numbered" start="3" class="mm_bubble">
+                <li numbered="n">
+                    <p>
+                        <dropDown id="dropDown_4">
+                            <item id="item_1">Their</item>
+                            <item id="item_2" correct="y">Whose</item>
+                            <item id="item_3">Our</item>
+                        </dropDown> caps are these?</p>
+                </li>
+                <li>
+                    <p>They’re <dropDown id="dropDown_5">
+                            <item id="item_1">whose</item>
+                            <item id="item_2" correct="y">their</item>
+                            <item id="item_3">our</item>
+                        </dropDown> caps.</p>
+                </li>
+                <li>
+                    <p>They’re <dropDown id="dropDown_6">
+                            <item id="item_1" correct="y">our</item>
+                            <item id="item_2">whose</item>
+                            <item id="item_3">their</item>
+                        </dropDown> caps.</p>
+                </li>
+                </list>
+                <image src="p015a.jpg" title="" class="mm_exercisePicture"/>
+            </block>
+            <block class="mm_relativeContainer">
+                <block class="mm_imageNumbers">
+                    <p>1</p>
+                    <p>2</p>
+                    <p>3</p>
+                    <p>4</p>
+                </block>
+            </block>
+        </block>
+    </main>
+</activity>

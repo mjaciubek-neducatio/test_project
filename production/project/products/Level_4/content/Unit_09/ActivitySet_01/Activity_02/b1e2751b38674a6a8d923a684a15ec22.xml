@@ -1,0 +1,46 @@
+<activity class="mm_unit9 mm_activityNumber2" id="b1e2751b38674a6a8d923a684a15ec22" pseudoID="SC_L4_AB_Ch9_p70_ACT02">
+    <rubric>
+        <p>Complete with the correct activities.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>"Look at all these leaves and branches." – "Let’s <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">build a den</item>
+                            </acceptable>
+                        <suffix>."</suffix></typein></p>
+                </li>
+                <li>
+                    <p>"It’s very windy today." – "Let’s <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">fly a kite</item>
+                            </acceptable>
+                        <suffix>."</suffix></typein></p>
+                </li>
+                <li>
+                    <p>"It’s lovely on the beach! The water is blue." – "Let’s <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">swim in the ocean</item>
+                            </acceptable>
+                        <suffix>."</suffix></typein></p>
+                </li>
+                <li>
+                    <p>I want to see the moon and planets." – "Let’s <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">go stargazing</item>
+                            </acceptable>
+                        <suffix>."</suffix></typein></p>
+                </li>
+                <li>
+                    <p>"We have a hat, a scarf – and all this snow!" – "Let’s <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">make a snowman</item>
+                            </acceptable>
+                        <suffix>."</suffix></typein></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

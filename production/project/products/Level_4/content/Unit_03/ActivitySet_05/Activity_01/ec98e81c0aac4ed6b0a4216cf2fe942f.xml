@@ -1,0 +1,30 @@
+<activity class="mm_unit3 mm_activityNumber1" id="ec98e81c0aac4ed6b0a4216cf2fe942f" pseudoID="SC_L4_AB_Ch3_p27_ACT01">
+    <rubric>
+        <p>Match the sentence halves.</p>
+    </rubric>
+    <main>
+        <block class="mm_customImage">
+            <image src="p027a.png" title=""/>
+        </block>
+        <block class="mm_customMatching">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> When the water evaporates, </matchItem>
+                    <matchTarget id="matchTarget_1" rank="7"><sSpan class="mm_matchingNumber">c.</sSpan> it cools and forms clouds.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> If the clouds are big and gray,</matchItem>
+                    <matchTarget id="matchTarget_2" rank="5"><sSpan class="mm_matchingNumber">a.</sSpan> it rains.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> If it’s hot,</matchItem>
+                    <matchTarget id="matchTarget_3" rank="8"><sSpan class="mm_matchingNumber">d.</sSpan> the water evaporates into the sky.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> When it rains,</matchItem>
+                    <matchTarget id="matchTarget_4" rank="6"><sSpan class="mm_matchingNumber">b.</sSpan> the water runs into the rivers and lakes.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

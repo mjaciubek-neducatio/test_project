@@ -1,0 +1,66 @@
+<activity id="f6de26c03d5542e7bfc7e95e3e4a3b07" pseudoID="SC_L1_AB_Ch8_p63_ACT05" class="mm_unit8 mm_lesson2 mm_activityNumber1">
+    <rubric>
+        <p>Look, read, and choose the correct answers.</p>
+    </rubric>
+    <main>
+        <block class="mm_typeInList mm_listHFloat2Col mm_resetNumbering mm_pictures">
+            <list display="v" type="numbered">
+                <li>
+                    <image src="p063a.jpg" title=""/>
+                </li>
+                <li>
+                    <image src="p063b.jpg" title=""/>
+                </li>
+                <li>
+                    <image src="p063c.jpg" title=""/>
+                </li>
+                <li>
+                    <image src="p063d.jpg" title=""/>
+                </li>
+            </list>
+
+            </block>
+
+        <block class="mm_typeInList">
+            <list display="v" type="numbered">
+                <li>
+                    <p>I <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">like</item>
+                            <item id="item_2">don’t like</item>
+                        </dropDown> chicken, but I <dropDown id="dropDown_2" example="y">
+                            <item id="item_1">like</item>
+                            <item id="item_2" correct="y">don’t like</item>
+                        </dropDown> peas.</p>
+                </li>
+                <li>
+                    <p>I <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">like</item>
+                            <item id="item_2">don’t like</item>
+                        </dropDown> pasta, but I <dropDown id="dropDown_4">
+                            <item id="item_1">like</item>
+                            <item id="item_2" correct="y">don’t like</item>
+                        </dropDown> fish.</p>
+                </li>
+                <li>
+                    <p>I <dropDown id="dropDown_5">
+                            <item id="item_1">like</item>
+                            <item id="item_2" correct="y">don’t like</item>
+                        </dropDown> pizza, but I <dropDown id="dropDown_6">
+                            <item id="item_1" correct="y">like</item>
+                            <item id="item_2">don’t like</item>
+                        </dropDown> burgers.</p>
+                </li>
+                <li>
+                    <p>I <dropDown id="dropDown_7">
+                            <item id="item_1" correct="y">like</item>
+                            <item id="item_2">don’t like</item>
+                        </dropDown> fries, but I <dropDown id="dropDown_8">
+                            <item id="item_1">like</item>
+                            <item id="item_2" correct="y">don’t like</item>
+                        </dropDown> salad.</p>
+                </li>
+            </list>
+            
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,20 @@
+<activity id="07763c68170f4b0e9eda1ee58d741b04" pseudoID="SC_L3_AB_Ch5_p39_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Find seven verbs in the past.</p>
+    </rubric>
+    <main>
+        <block class="mm_roundedWordSearch">
+            <wordSearch id="wordsearch_1">
+                <words>
+                    <word id="wordesearch_word_1" example="y">lived</word>
+                    <word id="wordesearch_word_2">hunted</word>
+                    <word id="wordesearch_word_3">used</word>
+                    <word id="wordesearch_word_4">fished</word>
+                    <word id="wordesearch_word_5">painted</word>
+                    <word id="wordesearch_word_6">prepared</word>
+                    <word id="wordesearch_word_7">believed</word>
+                </words>
+            </wordSearch>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,58 @@
+<activity class="mm_unit7 mm_activityNumber1" id="47063d67df1d41b9a3b4f84f42494c8d">
+    <rubric>
+        <p>Complete the puzzle.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <block class="mm_crosswordImage">
+                <image src="p054a.jpg" title=""/>
+                <block class="mm_crosswordNumbers">
+                    <p>5</p>
+                    <p>3</p>
+                    <p>6</p>
+                    <p>4</p>
+                    <p>8</p>
+                    <p>1</p>
+                    <p>7</p>
+                    <p>2</p>
+                </block>
+            </block>
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>vet</value>
+                        <clue>1.</clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>cleaner</value>
+                        <clue>2.</clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>officeworker</value>
+                        <clue>3.</clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>doctor</value>
+                        <clue>4.</clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>teacher</value>
+                        <clue>5.</clue>
+                    </word>
+                    <word id="crossword_word_6">
+                        <value>firefighter</value>
+                        <clue>6.</clue>
+                    </word>
+                    <word id="crossword_word_7">
+                        <value>chef</value>
+                        <clue>7.</clue>
+                    </word>
+                    <word id="crossword_word_8">
+                        <value>policeofficer</value>
+                        <clue>8.</clue>
+                    </word>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

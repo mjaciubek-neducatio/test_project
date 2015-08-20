@@ -1,0 +1,7 @@
+.mm_cWidth {
+    min-width: 50%;
+    display: inline-block;
+}
+.mm_iCanReadBadge img {
+    margin-top: -20px;
+}

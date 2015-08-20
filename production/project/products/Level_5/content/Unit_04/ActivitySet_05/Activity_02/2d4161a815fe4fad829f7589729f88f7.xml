@@ -1,0 +1,29 @@
+<activity id="2d4161a815fe4fad829f7589729f88f7" pseudoID="SC_L5_AB_Ch4_p34_ACT02" desktopDraggable="n" class="mm_activityNumber2">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_dialogue">
+            <list display="v" type="plain">
+                <li>
+                    <p><b>Daniel:</b>   This encyclopedia’s great. It has <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" rank="4" example="y">everything</droppable> you need to know about flying.</p>
+                </li>
+                <li>
+                    <p><b>Angelo:</b>   You’re right, but you could also look on the internet. There’s always <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="7">something</droppable> interesting there.</p>
+                </li>
+                <li>
+                    <p><b>Daniel:</b>   Sometimes I look for ages on the internet and I don’t find <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="2">anything</droppable>.</p>
+                </li>
+                <li>
+                    <p><b>Angelo:</b>   I know <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="3">someone</droppable> who finds jokes on the internet. They’re awful! <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="1">No one</droppable> thinks they’re funny.</p>
+                </li>
+                <li>
+                    <p><b>Yasmin:</b>   I don’t know <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="5">anyone</droppable> who uses an encyclopedia now … except you, Daniel.</p>
+                </li>
+                <li>
+                    <p><b>Daniel:</b>   There’s <sSpan class="mm_inlineNumber">7</sSpan><droppable id="droppable_7" rank="6">nothing</droppable> wrong with that, Yasmin!</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

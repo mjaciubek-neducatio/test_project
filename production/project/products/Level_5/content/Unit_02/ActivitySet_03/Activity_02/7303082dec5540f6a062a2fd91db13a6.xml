@@ -1,0 +1,22 @@
+<activity id="7303082dec5540f6a062a2fd91db13a6" pseudoID="SC_L5_AB_Ch2_p16_ACT04" class="mm_itemSelectBigButtons mm_activityNumber4">
+    <rubric>
+        <p>Imagine Andy at home in the winter. Choose the correct descriptions.</p>
+    </rubric>
+    <main>
+        <block>
+            <h3>At home in the winter, Andy …</h3>
+        </block>
+        <block class="mm_imageBackground">
+            <checkbox class="mm_checkboxItems" id="checkbox_1" display="h" type="plain" displayType="itemSelect">
+                <item id="item_2" correct="y">is warm</item>
+                <item id="item_3">is alone</item>
+                <item id="item_4" correct="y">relaxes</item>
+                <item id="item_5">is cold</item>
+                <item id="item_6">is hungry</item>
+                <item id="item_7">works</item>
+                <item id="item_8" correct="y">is with his family</item>
+                <item id="item_9" correct="y">has a lot to eat</item>
+            </checkbox>
+        </block>
+    </main>
+</activity>

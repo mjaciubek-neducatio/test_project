@@ -1,0 +1,24 @@
+<activity id="301932b7bc1a4bdaa688eb0e0da3aa9f" pseudoID="SC_L3_AB_Ch6_p46_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Label the picture.</p>
+    </rubric>
+    <main>
+        <block>
+            <image src="p046a.jpg" title=""/>
+            <p><sSpan class="mm_droppableTarget mm_inlineNumber">1.</sSpan> <droppable id="droppable_1" example="y">desert</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_inlineNumber">2.</sSpan> <droppable id="droppable_2">volcano</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_inlineNumber">3.</sSpan> <droppable id="droppable_3">mountain</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_inlineNumber">4.</sSpan> <droppable id="droppable_4">lake</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_inlineNumber">5.</sSpan> <droppable id="droppable_5">island</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_inlineNumber">6.</sSpan> <droppable id="droppable_6">waterfall</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_inlineNumber">7.</sSpan> <droppable id="droppable_7">ocean</droppable>
+            </p>
+        </block>
+    </main>
+</activity>

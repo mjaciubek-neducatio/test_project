@@ -1,0 +1,36 @@
+<activity id="305eb9e3c5b9402d9af0c1ee73b10f89" pseudoID="SC_L3_AB_Ch4_p30_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Look and complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>The floor is dirty. I need the <droppable id="droppable_1" example="y">vacuum cleaner</droppable>.</p>
+                </li>
+                <li>
+                    <p>The dishes are dirty, but the <droppable id="droppable_2">dishwasher</droppable> is full.</p>
+                </li>
+                <li>
+                    <p>My clothes are dirty. Put them in the <droppable id="droppable_3">washing machine</droppable>.</p>
+                </li>
+                <li>
+                    <p>Hurry up! I’m hungry. Cook it in the <droppable id="droppable_4">microwave</droppable>.</p>
+                </li>
+                <li>
+                    <p>It’s dark in here. Switch on the <droppable id="droppable_5">lamp</droppable>.</p>
+                </li>
+                <li>
+                    <p>Let’s have a hot drink. Can you put the <droppable id="droppable_6">kettle</droppable> on?</p>
+                </li>
+                <li>
+                    <p>The yard is full of leaves. Bring the <droppable id="droppable_7">broom</droppable>.</p>
+                </li>
+                <li>
+                    <p>It’s dark and there’s no electricity. Do we have a <droppable id="droppable_8">candle</droppable>?</p>
+                </li>
+            </list>
+            <image class="mm_border mm_roundedCorner" src="p030a.jpg" title=""/>
+        </block>
+    </main>
+</activity>

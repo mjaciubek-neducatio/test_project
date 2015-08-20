@@ -1,0 +1,36 @@
+<activity class="mm_unit6 mm_activityNumber1" desktopDraggable="n" id="56fdc8a97cf4447bb6ea452ffc4b0df7">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_speechBubbles mm_flexContainer mm_flexboxSet2">
+            <block>
+                <block class="mm_bubble mm_leftBubble">
+                    <p class="mm_example">I 
+                    
+                        <droppable example="y" id="droppable_1">get</droppable>
+                        dressed.</p>
+                    <p>I 
+                    
+                        <droppable id="droppable_2" rank="2">take</droppable>
+                        a shower.</p>
+                </block>
+            </block>
+            <block>
+                <block class="mm_bubble mm_rightBubble">
+                    <p>I 
+                    
+                        <droppable id="droppable_3" rank="1">don’t</droppable>
+                        brush my teeth.</p>
+                    <p>I don’t comb my 
+                    
+                        <droppable id="droppable_4" rank="3">hair</droppable>
+                        .</p>
+                </block>
+            </block>
+        </block>
+        <block class="mm_boys">
+            <image src="p047a.jpg" title=""/>
+        </block>
+    </main>
+</activity>

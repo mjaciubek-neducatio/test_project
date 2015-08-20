@@ -1,0 +1,34 @@
+<activity id="f29d529bb1c1436195627ea7bc1b9086" pseudoID="SC_L5_AB_Ch6_p47_ACT05">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+    <block class="mm_flexContainer mm_flexboxSet2">
+        <block class="mm_titleimg">
+            <h1>A lucky dog!</h1>
+            <image src="p047a.png" title=""/>
+        </block>
+        <block>
+            <p>He has his life jacket on now, but Buddy <br/><sSpan class="mm_inlineNumber mm_halfSpace">1</sSpan><dropDown id="dropDown_1" example="y">
+                    <item id="item_1" correct="y">wasn’t wearing</item>
+                    <item id="item_2">didn’t wear</item>
+                </dropDown> it yesterday when he <br/><sSpan class="mm_inlineNumber mm_halfSpace">2</sSpan><dropDown id="dropDown_2">
+                    <item id="item_1" correct="y">landed</item>
+                    <item id="item_2">was landing</item>
+                </dropDown> in the lake. Buddy has lived next to the lake with Mr. and Mrs. Marley for ten years. Last night, he <sSpan class="mm_inlineNumber mm_halfSpace">3</sSpan><dropDown id="dropDown_3">
+                    <item id="item_1">waited</item>
+                    <item id="item_2" correct="y">was waiting</item>
+                </dropDown> for Mr. Marley to come home when he <sSpan class="mm_inlineNumber mm_halfSpace">4</sSpan><dropDown id="dropDown_4">
+                    <item id="item_1" correct="y">heard</item>
+                    <item id="item_2">was hearing</item>
+                </dropDown> the sound of a car. Buddy ran outside. The car <br/><sSpan class="mm_inlineNumber mm_halfSpace">5</sSpan><dropDown id="dropDown_5">
+                    <item id="item_1" correct="y">was coming</item>
+                    <item id="item_2">came</item>
+                </dropDown> around the corner when Buddy suddenly <sSpan class="mm_inlineNumber mm_halfSpace">6</sSpan><dropDown id="dropDown_6">
+                    <item id="item_1" correct="y">jumped</item>
+                    <item id="item_2">was jumping</item>
+                </dropDown> in through the window and sat on Mr. Marley. Seconds later, the car was in the lake. Fortunately, both Mr. Marley and Buddy are fine.</p>
+        </block>
+    </block>
+    </main>
+</activity>

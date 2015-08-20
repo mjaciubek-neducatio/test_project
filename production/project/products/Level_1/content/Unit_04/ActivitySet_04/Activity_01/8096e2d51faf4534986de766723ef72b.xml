@@ -1,0 +1,62 @@
+<activity id="8096e2d51faf4534986de766723ef72b" pseudoID="SC_L1_AB_Ch4_p33_ACT02" class="mm_unit4 mm_lesson4 mm_activityNumber2">
+    <rubric>
+        <p>Choose "?" or "."</p>
+    </rubric>
+    <main>
+        
+        <block class="mm_radio mm_inlineRadio mm_flexContainer mm_flexboxSet2">
+            <list display="v" type="numbered">
+                <li>
+                    <p>Can I come in
+                        <radio id="radio_1" display="h" displayType="itemSelect" example="y" name="" type="plain">
+                            <item id="item_1" correct="y">?</item>
+                            <item id="item_2">.</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>What’s that
+                        <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_1" correct="y">?</item>
+                            <item id="item_2">.</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>It’s a cat
+                        <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_1">?</item>
+                            <item id="item_2" correct="y">.</item>
+                        </radio>
+                    </p>
+                </li>
+            </list>
+            <list display="v" type="numbered" start="4">
+                <li>
+                    <p>It’s in the bedroom
+                        <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_1">?</item>
+                            <item id="item_2" correct="y">.</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>What’s on the shelf
+                        <radio id="radio_5" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_1" correct="y">?</item>
+                            <item id="item_2">.</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>Is this your cat
+                        <radio id="radio_6" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_1" correct="y">?</item>
+                            <item id="item_2">.</item>
+                        </radio>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

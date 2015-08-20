@@ -1,0 +1,33 @@
+<activity class="mm_unit1 mm_activityNumber1" id="3c8af84ddc344b388786cbc40f961148" seed="8">
+    <rubric>
+        <p>Write the opposite words in the crossword puzzle.</p>
+    </rubric>
+    <main>
+        <block class="mm_customCrossword">
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>asleep</value>
+                        <clue>awake</clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>light</value>
+                        <clue>dark</clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>poor</value>
+                        <clue>rich</clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>down</value>
+                        <clue>up</clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>night</value>
+                        <clue>day</clue>
+                    </word>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

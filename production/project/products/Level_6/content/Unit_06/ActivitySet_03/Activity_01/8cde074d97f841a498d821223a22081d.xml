@@ -1,0 +1,13 @@
+<activity class="mm_unit6 mm_activityNumber1" id="8cde074d97f841a498d821223a22081d" pseudoID="SC_L6_AB_Ch6_p52_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Read and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_dottedBorder mm_boxShadow">
+        <block class="mm_exerciseContent mm_padder">
+            <image src="p052a.png" title=""/>
+            <p>Opera is a traditional performing <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y" rank="6">art</droppable></cSpan> in China. Chinese operas include singing, acting, dancing, and story-telling in one amazing <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2" rank="2">performance</droppable></cSpan> on the stage. Traditional musical instruments are used and the songs tell <cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3" rank="1">folktales</droppable></cSpan> from long ago. The <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_4" rank="4">sets</droppable></cSpan> are very simple but the actors wear fantastic costumes and colorful masks or <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_5" rank="5">make-up</droppable>.</cSpan> The color of their make-up tells the audience about the character of the actors. Red means the character is brave, and white means <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_6" rank="3">evil</droppable>.</cSpan> The Chinese have been performing these operas for over a thousand years.</p>
+        </block>
+        </block>
+    </main>
+</activity>

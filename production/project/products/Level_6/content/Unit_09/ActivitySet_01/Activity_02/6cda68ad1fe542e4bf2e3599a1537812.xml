@@ -1,0 +1,40 @@
+<activity class="mm_unit9 mm_activityNumber1" id="6cda68ad1fe542e4bf2e3599a1537812" pseudoID="SC_L6_AB_Ch9_p71_ACT05">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan>Alex has made movies since 2009.</matchItem>
+                    <matchTarget id="matchTarget_1" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan>present perfect</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan>Alex didn’t do well at school.</matchItem>
+                    <matchTarget id="matchTarget_2" rank="6"><sSpan class="mm_matchingNumber">f.</sSpan>simple past</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan>Ten people work for the company.</matchItem>
+                    <matchTarget id="matchTarget_3" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan>simple present</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan>The models are made by hand.</matchItem>
+                    <matchTarget id="matchTarget_4" rank="7"><sSpan class="mm_matchingNumber">g.</sSpan>present passive</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan>Alex has been designing some new models.</matchItem>
+                    <matchTarget id="matchTarget_5" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan>present perfect progressive</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan>The company’s going to make more movies.</matchItem>
+                    <matchTarget id="matchTarget_6" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan>
+                        <i>going to</i> for future</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_7" rank="7"><sSpan class="mm_matchingNumber">7.</sSpan>He’d already made a short movie at school.</matchItem>
+                    <matchTarget id="matchTarget_7" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan>past perfect</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

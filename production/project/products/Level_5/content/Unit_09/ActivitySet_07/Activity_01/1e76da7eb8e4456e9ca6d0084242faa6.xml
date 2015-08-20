@@ -1,0 +1,33 @@
+<activity id="1e76da7eb8e4456e9ca6d0084242faa6" class="mm_spellingCentral" pseudoID="SC_L5_AB_Ch9_p76_ACT01">
+    <rubric>
+        <p>Read and choose.</p>
+    </rubric>
+    <main>
+        <block>
+            <block class="mm_exerciseContent mm_imageRight mm_boxShadow">
+                <block class="mm_dottedBorder"/>
+                <image src="p076b.png" title=""/>
+                <p>Everyone has 
+                    <sSpan class="mm_inlineNumber mm_halfSpace">1</sSpan><dropDown example="y" id="dropDown_1">
+                        <item id="item_1">the same</item>
+                        <item correct="y" id="item_2">a different</item></dropDown> face, fingerprints, eyes, and voice. Biometric systems use this information to recognize who 
+                    <sSpan class="mm_inlineNumber mm_halfSpace">2</sSpan><dropDown id="dropDown_2">
+                        <item id="item_1">something</item>
+                        <item correct="y" id="item_2">someone</item></dropDown> is. "Face recognition" is already used for 
+                    <sSpan class="mm_inlineNumber mm_halfSpace">3</sSpan><dropDown id="dropDown_3">
+                        <item correct="y" id="item_1">passports</item>
+                        <item id="item_2">library books</item></dropDown>. A picture is taken of your face and a computer looks at its shape and size, the color of your eyes, how long your nose is, and how big your mouth is. Then the information is stored on a big computer. It’s also stored on a 
+                    <sSpan class="mm_inlineNumber mm_halfSpace">4</sSpan><dropDown id="dropDown_4">
+                        <item correct="y" id="item_1">chip</item>
+                        <item id="item_2">computer</item></dropDown> inside the passport so that no one else can 
+                    <br/><sSpan class="mm_inlineNumber mm_halfSpace">5</sSpan><dropDown id="dropDown_5">
+                        <item id="item_1">steal</item>
+                        <item correct="y" id="item_2">use</item></dropDown> it. In the 
+                    <sSpan class="mm_inlineNumber mm_halfSpace">6</sSpan><dropDown id="dropDown_6">
+                        <item correct="y" id="item_1">future</item>
+                        <item id="item_2">past</item></dropDown>, more biometric gadgets will be used in houses. Touch screen controls will be used more for reading fingerprints. And you might be able to open the door and turn on the TV just with your face!</p>
+                <block class="mm_dottedBorder2"/>
+            </block>
+        </block>
+    </main>
+</activity>

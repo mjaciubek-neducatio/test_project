@@ -1,0 +1,35 @@
+<activity class="mm_unit0 mm_activityNumber1" id="770dd69322004ee7829c2c4b453f41ff" pseudoID="SC_L6_AB_ChW_p4_ACT01">
+    <rubric>
+        <p>Match to make questions.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> What are your</matchItem>
+                    <matchTarget id="matchTarget_1" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan> favorite hobbies?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> What are you</matchItem>
+                    <matchTarget id="matchTarget_2" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> good at?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> How long</matchItem>
+                    <matchTarget id="matchTarget_3" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> have you done this hobby?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> What have you always</matchItem>
+                    <matchTarget id="matchTarget_4" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> wanted to do?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> What would you like to</matchItem>
+                    <matchTarget id="matchTarget_5" rank="6"><sSpan class="mm_matchingNumber">f.</sSpan> learn more about?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan> What do you think</matchItem>
+                    <matchTarget id="matchTarget_6" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> you will do in the future?</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

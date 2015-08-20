@@ -1,0 +1,13 @@
+<activity class="mm_unit8 mm_activityNumber3" id="32e5dc3f38014d79b950ac57ed8625b5" desktopDraggable="n">
+    <rubric>
+        <p>Find Joey. Then complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_centerImage">
+                <image src="p065b.jpg" title=""/>
+        </block>
+        <block class="mm_exerciseContent">
+            <p>Mrs. Kangaroo is very <droppable id="droppable_1" example="y">nice</droppable>. She takes care of Mr. Wombat. Mr. Wombat eats </p><p class="mm_noLineBreak"><cSpan class="mm_inlineNumber"> 1.<droppable id="droppable_2" rank="2">grass</droppable></cSpan></p><p> and drinks water. Watch out! There’s a <sSpan class="mm_inlineNumber"> 2.</sSpan><droppable id="droppable_3" rank="4">hunter</droppable>. He has a boomerang. “You can’t <sSpan class="mm_inlineNumber">3.</sSpan><droppable id="droppable_4" rank="3">catch</droppable> me, Mr. Hunter!” shouts Mrs. Kangaroo. Mr. Wombat gives Mrs. Kangaroo a <sSpan class="mm_inlineNumber">4.</sSpan><droppable id="droppable_5" rank="1">pouch</droppable>. Joey sleeps in it.</p>
+        </block>
+    </main>
+</activity>

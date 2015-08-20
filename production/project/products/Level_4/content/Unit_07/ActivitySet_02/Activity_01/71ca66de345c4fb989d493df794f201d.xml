@@ -1,0 +1,51 @@
+<activity class="mm_unit7 mm_activityNumber2" id="71ca66de345c4fb989d493df794f201d" pseudoID="SC_L4_AB_Ch7_p56_ACT02">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p><sSpan class="mm_cWidth">Grandma is going to celebrate her birthday.</sSpan>
+                    <radio id="radio_1" display="h" example="y" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">A lot of people are preparing for the party.</sSpan>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">The cooks are digging in the yard.</sSpan>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Cousin Flo is happy.</sSpan>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Peter wants to help.</sSpan>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

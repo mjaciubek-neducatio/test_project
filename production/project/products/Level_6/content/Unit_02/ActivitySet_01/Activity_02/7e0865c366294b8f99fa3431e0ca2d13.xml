@@ -1,0 +1,31 @@
+<activity class="mm_unit2 mm_activityNumber2" id="7e0865c366294b8f99fa3431e0ca2d13" pseudoID="SC_L6_AB_Ch2_p14_ACT02">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> get pleasure from something</matchItem>
+                    <matchTarget id="matchTarget_1" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> enjoy</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> do something a lot so that you get better</matchItem>
+                    <matchTarget id="matchTarget_2" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan> practice</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> say you can do something for a person</matchItem>
+                    <matchTarget id="matchTarget_3" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> offer</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> make a choice</matchItem>
+                    <matchTarget id="matchTarget_4" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> decide</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> give advice about an idea or plan</matchItem>
+                    <matchTarget id="matchTarget_5" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> suggest</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

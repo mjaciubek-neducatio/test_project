@@ -1,0 +1,61 @@
+.mm_realiaContainer {
+    padding: 1em;
+    border: 2px solid #e6e7e8;  
+}
+
+.mm_realia {
+    border: 1px solid #F9B122;
+    margin: 0;
+    padding: 0.425em 0.425em 1em;
+    position: relative;
+    z-index: 2;
+}
+
+.mm_realia:before {
+   content: " ";
+   position: absolute;
+   z-index: -1;
+   top: 2px;
+   left: 2px;
+   right: 2px;
+   bottom: 2px;
+   border: 1px solid #F9B122;
+}
+
+.mm_realia h3 {
+    font-family: 'Copperplate', 'Copperplate Gothic Light', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
+}
+
+.blockSet {
+    padding-left: .5em;
+}
+.blockSet .block {
+    padding-top: 0;
+    padding-bottom: 0;
+    border-right: 2px dotted #ccc;
+}
+
+.blockSet .block:last-of-type {
+    border-right: none;
+}
+
+.rcfContentContainer .activity {
+    /* overflow: hidden; */
+}
+.imageContainer {
+    position: relative;
+}
+.caption {
+    background-color: transparent;
+    top: 0;
+    left: -.875em;
+    bottom: auto;
+    font-weight: 700;
+}
+.caption:after {
+    content: ".";
+    margin-left: -.5em;
+}

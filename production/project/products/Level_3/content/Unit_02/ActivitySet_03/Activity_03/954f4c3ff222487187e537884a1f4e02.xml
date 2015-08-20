@@ -1,0 +1,49 @@
+<activity id="954f4c3ff222487187e537884a1f4e02" pseudoID="SC_L3_AB_Ch2_p19_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Look and choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_image mm_roundedImage mm_imageBorder ">
+            <image src="p019a.jpg" title=""/>
+        </block>
+        <block class="mm_radio mm_itemSelectSeparator">
+            <list display="v" type="numbered">
+                <li>
+                    <p>Are there any bananas?</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">Yes, there are.</item>
+                        <item id="item_2">No, there aren’t.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Are there any sandwiches?</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">Yes, there are.</item>
+                        <item id="item_2" correct="y">No, there aren’t.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Is there any cake?</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">Yes, there is.</item>
+                        <item id="item_2" correct="y">No, there isn’t.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Is there any fruit?</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">Yes, there is.</item>
+                        <item id="item_2">No, there isn’t.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Are there any drinks?</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">Yes, there are.</item>
+                        <item id="item_2">No, there aren’t.</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

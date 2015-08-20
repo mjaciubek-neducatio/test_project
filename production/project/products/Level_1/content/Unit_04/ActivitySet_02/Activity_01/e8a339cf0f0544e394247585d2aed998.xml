@@ -1,0 +1,31 @@
+<activity id="e8a339cf0f0544e394247585d2aed998" pseudoID="SC_L1_AB_Ch4_p31_ACT04" class="mm_unit4 mm_lesson2 mm_activityNumber2">
+    <rubric>
+        <p>Look and match.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageCenter mm_matchingRoundNumbers mm_matchingLeft">
+            <block class="mm_image">
+                <image src="p031Room.jpg"/>
+            </block>
+                
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> Where’s the doll?</matchItem>
+                    <matchTarget id="matchTarget_1" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> It’s under the table.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> Where’s the bag?</matchItem>
+                    <matchTarget id="matchTarget_2" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> It’s on the table.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Where’s the ball?</matchItem>
+                    <matchTarget id="matchTarget_3" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> It’s behind the bag.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> Where’s the ruler?</matchItem>
+                    <matchTarget id="matchTarget_4" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> It’s in the bag.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

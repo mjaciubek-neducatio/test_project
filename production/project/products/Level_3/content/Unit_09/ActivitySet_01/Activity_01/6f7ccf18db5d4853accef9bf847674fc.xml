@@ -1,0 +1,10 @@
+<activity id="6f7ccf18db5d4853accef9bf847674fc" pseudoID="SC_L3_AB_Ch9_p71_ACT05" class="mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_border mm_roundedCorner">
+            <p>This summer, I’m not <droppable id="droppable_1" example="y">going</droppable> to go swimming but I <droppable id="droppable_2">’m going</droppable> to play volleyball. I’m going to go <droppable id="droppable_3">camping</droppable> with my family. We’re going to <droppable id="droppable_4">have barbecues</droppable>! My friend <droppable id="droppable_5">isn’t going</droppable> to play soccer. She doesn’t like outdoor sports! She’s <droppable id="droppable_6">going to</droppable> play ping-pong and do <droppable id="droppable_7">gymnastics</droppable>, too.</p>
+        </block>
+    </main>
+</activity>

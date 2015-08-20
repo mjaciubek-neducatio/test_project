@@ -1,0 +1,69 @@
+<activity id="f2d637beff88459cbef93f4f392bb454" pseudoID="SC_L1_AB_Ch7_p58_ACT02" class="mm_unit7 mm_lesson5 mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in four groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="radioTable">
+                <category id="category_1">
+                    <catName>parts of the body</catName>
+                    <item id="item_6">eyes</item>
+
+                    <item id="item_7">legs</item>
+
+                    <item id="item_9">feet</item>
+
+                    <item id="item_11">head</item>
+
+                    <item id="item_14">arms</item>
+
+                    <item id="item_16">face</item>
+
+
+                </category>
+
+                <category id="category_2">
+                    <catName>colors</catName>
+                    <item id="item_1">red</item>
+
+                    <item id="item_5">blue</item>
+
+                    <item id="item_12">black</item>
+
+                    <item id="item_15">yellow</item>
+
+                </category>
+
+                <category id="category_3">
+                    <catName>numbers</catName>
+
+                    <item id="item_2">six</item>
+
+                    <item id="item_4">four</item>
+
+                    <item id="item_10">two</item>
+
+                    <item id="item_13">nine</item>
+
+
+                </category>
+
+
+                <category id="category_4">
+                    <catName>other adjectives</catName>
+
+                    <item id="item_3">short</item>
+
+                    <item id="item_8">big</item>
+
+
+                </category>
+
+
+
+                
+            </categorise>
+
+        </block>
+    </main>
+</activity>

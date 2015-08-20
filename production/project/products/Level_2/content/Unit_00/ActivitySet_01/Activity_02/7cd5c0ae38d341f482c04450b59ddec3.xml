@@ -1,0 +1,80 @@
+<activity class="mm_unit0 mm_activityNumber3" id="7cd5c0ae38d341f482c04450b59ddec3" desktopDraggable="n">
+    <rubric>
+        <p>Put the topic words in the correct places.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_pSmaller mm_customTable">
+            <image src="p005a.jpg" title=""/>            
+            <table>
+    <tr>
+                <td>
+                    <p>
+                       <sSpan class="mm_number">1.</sSpan><droppable id="droppable_1" example="y" rank="3">birthdays</droppable>
+                    </p>
+                    <p>December</p>
+                    <p>April</p>
+                    <p>September</p>
+                </td>
+                <td>
+                    <p>
+                        <sSpan class="mm_number">2.</sSpan><droppable id="droppable_2" rank="4">toys</droppable>
+                    </p>
+                    <p>doll</p>
+                    <p>ball</p>
+                    <p>car</p>
+                </td>
+                <td>
+                    <p>
+                        <sSpan class="mm_number">3.</sSpan><droppable id="droppable_3" rank="2">hobbies</droppable>
+                    </p>
+                    <p>ride a bike</p>
+                    <p>dance</p>
+                    <p>play soccer</p>
+                </td>
+                <td>
+                    <p>
+                        <sSpan class="mm_number">4.</sSpan><droppable id="droppable_4" rank="5">animals</droppable>
+                    </p>
+                    <p>crocodile</p>
+                    <p>rabbit</p>
+                    <p>monkey</p>
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <p>
+                        <sSpan class="mm_number">5.</sSpan><droppable id="droppable_5" rank="6">house</droppable>
+                    </p>
+                    <p>bathroom</p>
+                    <p>garage</p>
+                    <p>yard</p>
+                </td>
+                <td>
+                    <p>
+                        <sSpan class="mm_number">6.</sSpan><droppable id="droppable_6" rank="1">food</droppable>
+                    </p>
+                    <p>hamburger</p>
+                    <p>green beans</p>
+                    <p>peas</p>
+                </td>
+                <td>
+                    <p>
+                        <sSpan class="mm_number">7.</sSpan><droppable id="droppable_7" rank="7">town</droppable>
+                    </p>
+                    <p>hotel</p>
+                    <p>mall</p>
+                    <p>swimming pool</p>
+                </td>
+                <td>
+                    <p>
+                        <sSpan class="mm_number">8.</sSpan><droppable id="droppable_8" rank="8">family</droppable>
+                    </p>
+                    <p>mom</p>
+                    <p>grandma</p>
+                    <p>uncle</p>
+                </td>
+        </tr>
+    </table>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,8 @@
+.mm_exerciseImages img {
+    margin-bottom: 15px;
+    border: 3px solid #5160ac;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    vertical-align: top;
+}

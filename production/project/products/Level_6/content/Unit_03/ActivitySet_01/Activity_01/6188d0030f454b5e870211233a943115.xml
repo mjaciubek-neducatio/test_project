@@ -1,0 +1,43 @@
+<activity class="mm_unit3 mm_activityNumber1" id="6188d0030f454b5e870211233a943115" pseudoID="SC_L6_AB_Ch3_p22_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete the text. Then match the pictures to the words.</p>
+    </rubric>
+    <main>
+        <block class="mm_padder mm_boxShadow mm_customText">
+            <block class="mm_customImages">
+                <block class="mm_customBlock">
+                    <p>
+                        <sSpan class="mm_customNumber">a</sSpan>
+                        <image src="p022a.jpg" title=""/>
+                    </p>
+                </block>
+                <block class="mm_customBlock">
+                    <p>
+                        <sSpan class="mm_customNumber">b</sSpan>
+                        <image src="p022b.jpg" title=""/>
+                    </p>
+                </block>
+                <block class="mm_customBlock">
+                    <p>
+                        <sSpan class="mm_customNumber">c</sSpan>
+                        <image src="p022c.jpg" title=""/>
+                    </p>
+                </block>
+                <block class="mm_customBlock">
+                    <p>
+                        <sSpan class="mm_customNumber">d</sSpan>
+                        <image src="p022d.jpg" title=""/>
+                    </p>
+                </block>
+                <block class="mm_customBlock">
+                    <p>
+                        <sSpan class="mm_customNumber">e</sSpan>
+                        <image src="p022e.jpg" title=""/>
+                    </p>
+                </block>
+            </block>
+            <h3>It’s our planet …</h3>
+            <p>Our modern <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y">lifestyle</droppable></cSpan> isn’t always good and it’s <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2" rank="7">causing</droppable></cSpan> a lot of problems for our planet. There are more people in the world now. Each year, the <cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3" rank="4">population</droppable></cSpan> grows. <droppable id="droppable_4" example="y" class="mm_letterDroppable">d</droppable> Sometimes the weather is very bad. This is called <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_5" rank="1">climate change</droppable></cSpan>. <droppable id="droppable_6" rank="14" class="mm_letterDroppable">e</droppable> It will get worse if we don’t <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_7" rank="3">save</droppable></cSpan> energy. <droppable id="droppable_8" rank="9" class="mm_letterDroppable">a</droppable> It’s also important not to <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_9" rank="6">waste</droppable></cSpan> water – take a shower, not a bath! Cars use <cSpan class="mm_noWrap mm_inlineNumber">7 <droppable id="droppable_10" rank="5">fuel</droppable></cSpan><droppable id="droppable_11" rank="11" class="mm_letterDroppable">c</droppable>, which causes a lot of <cSpan class="mm_noWrap mm_inlineNumber">8 <droppable id="droppable_12" rank="8">pollution</droppable></cSpan>. Plastic bags are also dangerous. They can <cSpan class="mm_noWrap mm_inlineNumber">9 <droppable id="droppable_13" rank="2">harm</droppable></cSpan> fish and animals. <droppable id="droppable_14" rank="10" class="mm_letterDroppable">b</droppable></p>
+        </block>
+    </main>
+</activity>

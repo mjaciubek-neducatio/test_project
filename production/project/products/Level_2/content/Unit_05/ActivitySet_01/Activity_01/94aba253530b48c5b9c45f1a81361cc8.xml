@@ -1,0 +1,20 @@
+<activity class="mm_unit5 mm_activityNumber1" id="94aba253530b48c5b9c45f1a81361cc8">
+    <rubric>
+        <p>Find six sports.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <image src="p038a.jpg" title=""/>
+            <wordSearch id="wordsearch_1" useDiagonal="n" useReverse="n">
+                <words>
+                    <word id="wordesearch_word_1" example="y">volleyball</word>
+                    <word id="wordesearch_word_2">gymnastics</word>
+                    <word id="wordesearch_word_3">basketball</word>
+                    <word id="wordesearch_word_4">pingpong</word>
+                    <word id="wordesearch_word_5">tennis</word>
+                    <word id="wordesearch_word_6">judo</word>
+                </words>
+            </wordSearch>
+        </block>
+    </main>
+</activity>

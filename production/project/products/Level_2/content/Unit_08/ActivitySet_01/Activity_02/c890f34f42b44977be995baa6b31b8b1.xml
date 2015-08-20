@@ -1,0 +1,48 @@
+<activity class="mm_unit8 mm_activityNumber1" id="c890f34f42b44977be995baa6b31b8b1">
+    <rubric>
+        <p>Read and choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio mm_floatLeft">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>Fish have fins.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" example="y" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Birds have beaks.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Fish don’t have fur.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+            </list>
+            <list display="v" type="numbered" start="4">
+                <li>
+                    <p>Birds have pouches.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Birds don’t have wings.</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

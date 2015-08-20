@@ -1,0 +1,16 @@
+.mm_flexboxSet  {
+    justify-content: space-between;
+    width: 100%;
+}
+.mm_flexboxSet .mm_reader {
+    padding: 0.875em;
+    box-sizing: border-box;
+    width: 49% !important;
+    margin: 0;
+}
+
+.mm_imageLeft img {
+    float: left;
+   /*  width: 22%; */
+    padding-right: 3%;
+}

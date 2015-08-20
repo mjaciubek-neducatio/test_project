@@ -1,0 +1,59 @@
+<activity class="mm_unit7 mm_activityNumber2" id="fa7252589fa84cf6bd243d368afc858a" pseudoID="SC_L6_AB_Ch7_p55_ACT06">
+    <rubric>
+        <p>Complete with the correct reflexive pronouns.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>I introduced <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">myself</item>
+                                <item id="item_2">MYSELF</item>
+                            </acceptable>
+                        </typein> to the new teacher.</p>
+                </li>
+                <li>
+                    <p>My friends enjoyed <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">themselves</item>
+                                <item id="item_2">THEMSELVES</item>
+                            </acceptable>
+                        </typein> at the party.</p>
+                </li>
+                <li>
+                    <p>You all played well. You should be happy with <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">yourselves</item>
+                                <item id="item_2">YOURSELVES</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+                <li>
+                    <p>Sofia is teaching <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">herself</item>
+                                <item id="item_2">HERSELF</item>
+                            </acceptable>
+                        </typein> to speak Chinese.</p>
+                </li>
+                <li>
+                    <p>We weren’t laughing at you! We were laughing at <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">ourselves</item>
+                                <item id="item_2">OURSELVES</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+                <li>
+                    <p>Be careful with that glass, Sam! You might cut <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">yourself</item>
+                                <item id="item_2">YOURSELF</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

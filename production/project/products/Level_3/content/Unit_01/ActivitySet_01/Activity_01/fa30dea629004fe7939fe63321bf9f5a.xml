@@ -1,0 +1,35 @@
+<activity id="fa30dea629004fe7939fe63321bf9f5a" pseudoID="SC_L3_AB_Ch1_p6_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">Get</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9">your parents’ permission.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">Wear</matchItem>
+                    <matchTarget id="matchTarget_2" rank="10">your school uniform.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">Bring</matchItem>
+                    <matchTarget id="matchTarget_3" rank="12">a packed lunch.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">Listen</matchItem>
+                    <matchTarget id="matchTarget_4" rank="7">to your teacher.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">Meet</matchItem>
+                    <matchTarget id="matchTarget_5" rank="8">at school in your classroom.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">Arrive</matchItem>
+                    <matchTarget id="matchTarget_6" rank="11">on time.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

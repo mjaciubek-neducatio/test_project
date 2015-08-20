@@ -1,0 +1,31 @@
+<activity class="mm_unit4 mm_activityNumber1" id="f2b496df7f504519a0fc9344bc5d5813" pseudoID="SC_L6_AB_Ch4_p31_ACT05">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> If I were practical,</matchItem>
+                    <matchTarget id="matchTarget_1" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> I’d know what to do.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> If I were sporty,</matchItem>
+                    <matchTarget id="matchTarget_2" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan> I’d exercise every day.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> If I were patient,</matchItem>
+                    <matchTarget id="matchTarget_3" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> I’d wait all day for you.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> If I were sociable,</matchItem>
+                    <matchTarget id="matchTarget_4" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> I’d have a lot of friends.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> If I were artistic,</matchItem>
+                    <matchTarget id="matchTarget_5" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> I’d paint you a picture.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

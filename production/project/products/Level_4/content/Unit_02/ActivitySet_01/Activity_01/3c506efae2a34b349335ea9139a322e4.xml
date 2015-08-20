@@ -1,0 +1,14 @@
+<activity desktopDraggable="n" class="mm_unit2 mm_activityNumber2" id="3c506efae2a34b349335ea9139a322e4" pseudoID="SC_L4_AB_Ch2_p14_ACT02">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_handwritten mm_boxShadow mm_padder">
+            <p class="mm_example">Patient A has a red nose. She’s sneezing. She has <cSpan class="mm_noWrap"><droppable id="droppable_1" example="y">a cold</droppable>.</cSpan></p>
+            <p>Patient B needs a very quiet room. She has <cSpan class="mm_noWrap"><droppable id="droppable_2">a headache</droppable>.</cSpan></p>
+            <p>Patient C’s ear hurts. He has <cSpan class="mm_noWrap"><droppable id="droppable_3">an earache</droppable>.</cSpan></p>
+            <p>Patient D needs a stick to walk. He’s 80. He has <cSpan class="mm_noWrap"><droppable id="droppable_4">a backache</droppable>.</cSpan></p>
+            <p>Patient E ate six burgers for lunch. He has <cSpan class="mm_noWrap"><droppable id="droppable_5">a stomach ache</droppable>.</cSpan></p>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,234 @@
+/* ACTIVITY BACKGROUND IMAGE */
+.activity {
+    background-image: url(../images/ABBackground.png);
+}
+
+
+/* RUBRIC ACTIVITY NUMBER */
+.rubric .rubricBody p:before {
+    background-image: url(../images/activityNumbersAB.png);
+}
+
+
+/*  COLOUR NOTES */
+.mm_matchingNumber,
+.mm_inlineNumber,
+.caption,
+.main ol > li,
+li.mm_example,
+.generalUserColour,
+.generalInteractivityColour,
+.levelColor,
+.crosswordClueNumber,
+.locating_answer {
+    color: #20AD8A;
+}
+
+
+/*TypeIn spacing fix*/
+.typein input.text,
+.typeinGroup input.typeinGroup {
+    margin-bottom: 2px;
+    line-height: 1;
+    height: auto;
+}
+
+.dragTarget, .dragTarget.populated { /* this was in master css but appears to have been removed. I've added it here as L6/U06/AS01/A01 was breaking without it */
+    min-width: 4em;
+}
+
+/*	UNMARKED ELEMENTS AND STYLE HELPERS */
+
+.mm_wordBoxSimple,
+.mm_border,
+.mm_imageBorder img,
+.category {
+    border-color: #20AD8A;
+}
+
+.mm_imageShadow img {
+    -webkit-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+       -moz-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+            box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+}
+
+.mm_boxShadow {
+    -webkit-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+       -moz-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+            box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+}
+
+.mm_padder {
+    padding: 0.875em;
+}
+
+.mm_handwritten {
+    font-family: 'Shadows Into Light Two';
+    letter-spacing: 1px;
+    line-height: 1.6em;
+}
+
+.mm_handwritten .typein input.text,
+.mm_handwritten .typeinGroup input.typeinGroup {
+    font-family: 'Shadows Into Light Two';
+    letter-spacing: 1px;
+}
+
+.mm_letter {
+    padding: 0.875em;
+
+    border: 1px solid #e3e5dc;
+    background-color: #f6f7f0;
+}
+
+.mm_dialogue {
+    margin-left: 85px;
+}
+
+.mm_dialogue b {
+    display: inline-block;
+    min-width: 80px;
+    margin-left: -85px;
+}
+
+.mm_matchingNumber,
+.mm_inlineNumber,
+.caption,
+ol > li,
+li.mm_example {
+    color: #20AD8A;
+}
+
+ol > li p {
+    color: #000;
+}
+
+
+/* WORDBOX THEME */
+
+.wordBox ul,
+.mm_wordBox ul,
+.rcfWordSearchGridChosenWords .wordSearchWords {
+    background-color: #20AD8A;
+    background-position: -5px -5px, -5px -5px;
+}
+
+
+/* SHARED SELECTED ELEMENT COLOURS */
+
+/* SELECTED ITEM FONT COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.desktop .checkboxItemSelect.horizontal .selected, /* checkbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */
+.rcfWordSearchGrid .ws-selected,
+.selected .mm_matchingNumber,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+    color: #fff;
+}
+.crosswordClueNumber {
+    color: #20AD8A;
+}
+
+/* SELECTED ITEM BACKGROUND COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.droppable.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dragTarget.selected, /* selected dropped droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.checkboxItemSelect .selectable.selected, /* checbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper /* ordering */,
+.radioTable th /* categorise radiotable header */ {
+    background-color: #20AD8A;
+}
+
+.rcfWordSearchGrid .ws-highlight,
+.rcfWordSearchGrid .ws-selected,
+.mobile .rcfWordSearchGrid .ws-start,
+.wordSearchContainer[data-draggable="n"] .rcfWordSearchGrid .ws-start,
+.rcfWordSearchGrid .ws-glowing,
+table.crossword input.editing,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+    background-color: #7ccfba;
+}
+
+table.crossword input.hiddenLetter {
+    background-color: #4dbda1;
+}
+
+table.crossword input.editing:focus {
+    background-color: #7ccfba;
+}
+
+/* SELECTED ITEM BORDER COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated,
+/* dropped droppables in droppable */
+.wordBox li.dragItem.selected,
+/* selected droppables */
+.dropTarget li.dragItem,
+/* dropped droppables in categorise */
+.checkboxItemSelect .selectable.selected,
+/* checbox item select */
+.radioItemSelect .selectable.selected,
+/* radio item select */
+ul.ordering li.ui-sortable-helper,
+/* ordering */
+.category {
+    border-color: #20AD8A;
+}
+.desktop .checkboxItemSelect .selectable.selected,
+.radioItemSelect .selectable.selected {
+    border-color: #20AD8A  !important; /* separated from above + !important to overwrite RCF core */
+}
+table.crossword input.editing:focus {
+    background-color: #7ccfba;
+}
+
+/* SELECTED ITEM MARGINS */
+.desktop .radioItemSelect.horizontal .selectable:last-child,
+.desktop .checkboxItemSelect.horizontal .selectable:last-child {
+    margin-right: 0;
+}
+
+/* OTHER SELECTED ITEM COLOURS */
+.matchingContainer .selected ~ ._jsPlumb_endpoint circle {
+    fill: #20AD8A;
+}
+
+/* MATCHING ITEMS & TARGETS */
+.matchItem,
+.matchTarget {
+    text-align: left;
+}
+
+/* TYPEIN GLOW ON FOCUS */
+.typein input.text:focus,
+.typeinGroup input.typeinGroup:focus {
+    box-shadow: 2px 2px 19px #20AD8A;
+}
+
+/* DROPABLE TARGETS */
+.dragTarget.inline.populated {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+/*LEVEL LAYOUT STYLES*/
+
+
+
+/*LEVEL MODULE STYLES*/
+
+.vertical ul.ordering li {
+    margin-bottom: 0.425em;
+}

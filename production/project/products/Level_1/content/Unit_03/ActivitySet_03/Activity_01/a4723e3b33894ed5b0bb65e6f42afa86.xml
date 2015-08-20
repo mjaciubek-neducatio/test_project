@@ -1,0 +1,23 @@
+<activity id="a4723e3b33894ed5b0bb65e6f42afa86" pseudoID="SC_L1_AB_Ch3_p25_ACT01" class="mm_unit3 mm_lesson4 mm_activityNumber1">
+    <rubric>
+        <p>Find seven words.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordSnake mm_wigglyContainer">
+            <block class="mm_snake1">
+                <wordSnake id="wordSnake_1">
+                    <words>
+                       
+                        <word id="wordSnake_word_2" example="y">giraffe</word>
+                        <word id="wordSnake_word_3">neck</word>
+                        <word id="wordSnake_word_4">tall</word>
+                        <word id="wordSnake_word_5">trees</word>
+                        <word id="wordSnake_word_6">green</word>
+                        <word id="wordSnake_word_7">leaves</word>
+                        <word id="wordSnake_word_1">hungry</word>
+                    </words>
+                </wordSnake>
+            </block>
+        </block>
+    </main>
+</activity>

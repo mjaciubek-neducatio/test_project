@@ -1,0 +1,31 @@
+.wordBox {
+    margin-bottom: 1em;
+}
+
+/* .mm_flexboxSet {
+    padding-left: 10%;
+}
+.mm_flexboxSet > .block {
+    margin-bottom: 0;
+    width: 44%;
+
+} */
+
+.mm_flexboxSet .mm_reader {
+    padding: 0;
+    box-sizing: border-box;
+    width: 30% !important;
+    margin: 0 8%;
+    text-align: center;
+}
+.mm_flexboxSet .mm_reader {
+
+}
+
+.mm_flexboxSet .mm_reader img {
+    margin: 0 auto;
+}
+
+.mm_questions {
+    padding-top: .875em;
+}

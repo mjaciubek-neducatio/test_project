@@ -1,0 +1,23 @@
+.mm_imagesSubbed {
+    float: right;
+    width: 380px;
+}
+.mm_imagesSubbed img {
+    display: block;
+}
+.mm_imagesSubbed p {
+    text-align: center;
+    font-weight: 700;
+}
+.mm_cWidth {
+    min-width: 30%;
+    display: inline-block;
+}
+.mm_singleImage {
+    margin-bottom: -50px;
+    float: left;
+    clear: both;
+}
+.mm_singleImage:nth-child(2n) {
+    float: right;
+}

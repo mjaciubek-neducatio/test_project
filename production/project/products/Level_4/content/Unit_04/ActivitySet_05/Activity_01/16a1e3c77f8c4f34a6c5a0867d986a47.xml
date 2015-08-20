@@ -1,0 +1,45 @@
+<activity class="mm_unit4 mm_activityNumber1" id="16a1e3c77f8c4f34a6c5a0867d986a47" pseudoID="SC_L4_AB_Ch4_p35_ACT01">
+    <rubric>
+        <p>Choose the correct options.</p>
+    </rubric>
+    <main>
+        <block class="mm_dialogue mm_indent80">
+            <list display="v" type="plain">
+                <li>
+                    <p class="mm_speaker">Ben:</p>
+                    <p class="mm_talk">Have you seen the sharks <cSpan class="mm_noWrap"><dropDown id="dropDown_1">
+                            <item id="item_1">already</item>
+                            <item id="item_2" correct="y">yet</item>
+                        </dropDown>?</cSpan></p>
+                </li>
+                <li>
+                    <p class="mm_speaker">Katy:</p>
+                    <p class="mm_talk">Yes, we’ve <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">already</item>
+                            <item id="item_2">yet</item>
+                        </dropDown> seem them – they’re scary! But we haven’t seen the rays <cSpan class="mm_noWrap"><dropDown id="dropDown_3">
+                            <item id="item_1">already</item>
+                            <item id="item_2" correct="y">yet</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p class="mm_speaker">Ben:</p>
+                    <p class="mm_talk">What about the other animals? Have you seen them <cSpan class="mm_noWrap"><dropDown id="dropDown_4">
+                            <item id="item_1">already</item>
+                            <item id="item_2" correct="y">yet</item>
+                        </dropDown>?</cSpan></p>
+                </li>
+                <li>
+                    <p class="mm_speaker">Katy:</p>
+                    <p class="mm_talk">Well, we’ve <dropDown id="dropDown_5">
+                            <item id="item_1" correct="y">already</item>
+                            <item id="item_2">yet</item>
+                        </dropDown> visited the penguin enclosure. But we haven’t seen the dolphins <cSpan class="mm_noWrap"><dropDown id="dropDown_6">
+                            <item id="item_1">already</item>
+                            <item id="item_2" correct="y">yet</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

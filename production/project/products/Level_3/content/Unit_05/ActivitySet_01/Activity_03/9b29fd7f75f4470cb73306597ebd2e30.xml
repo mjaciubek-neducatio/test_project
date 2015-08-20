@@ -1,0 +1,55 @@
+<activity id="9b29fd7f75f4470cb73306597ebd2e30" pseudoID="SC_L3_AB_Ch5_p39_ACT06" class="mm_activityNumber2">
+    <rubric>
+        <p>Complete with the past of the verbs.</p>
+    </rubric>
+    <main>
+        <block class="mm_image mm_roundedImage mm_imageBorder">
+            <image src="p039.jpg" title=""/>
+        </block>
+        <block class="mm_lineHide2">
+            <p>Ancient Egyptians <b><sSpan class="mm_inlineNumber">1.</sSpan> live</b>
+                <typein id="typein_1" example="y">
+                    <acceptable>
+                        <item id="item_1">lived</item>
+                        <item id="item_2">LIVED</item>
+                        <item id="item_3">Lived</item>
+                    </acceptable>
+                </typein> in houses beside the Nile River. The river was very important. People <b><sSpan class="mm_inlineNumber">2.</sSpan> hunt</b>
+                <typein id="typein_2">
+                    <acceptable>
+                        <item id="item_1">hunted</item>
+                        <item id="item_2">HUNTED</item>
+                        <item id="item_3">Hunted</item>
+                    </acceptable>
+                </typein> crocodiles and <b><sSpan class="mm_inlineNumber">3.</sSpan> fish</b>
+                <typein id="typein_3">
+                    <acceptable>
+                        <item id="item_1">fished</item>
+                        <item id="item_2">FISHED</item>
+                        <item id="item_3">Fished</item>
+                    </acceptable>
+                </typein> in the water. They <b><sSpan class="mm_inlineNumber">4.</sSpan> believe</b>
+                <typein id="typein_4">
+                    <acceptable>
+                        <item id="item_1">believed</item>
+                        <item id="item_2">BELIEVED</item>
+                        <item id="item_3">Believed</item>
+                    </acceptable>
+                </typein> that animals were symbols of gods. Bastet was the cat goddess. They <b><sSpan class="mm_inlineNumber">5.</sSpan> use</b>
+                <typein id="typein_5">
+                    <acceptable>
+                        <item id="item_1">used</item>
+                        <item id="item_2">USED</item>
+                        <item id="item_3">Used</item>
+                    </acceptable>
+                </typein> pictures called hieroglyphics. They <b><sSpan class="mm_inlineNumber">6.</sSpan> paint</b>
+                <typein id="typein_6">
+                    <acceptable>
+                        <item id="item_1">painted</item>
+                        <item id="item_2">PAINTED</item>
+                        <item id="item_3">Painted</item>
+                    </acceptable>
+                </typein> these pictures on tomb walls.</p>
+        </block>
+    </main>
+</activity>

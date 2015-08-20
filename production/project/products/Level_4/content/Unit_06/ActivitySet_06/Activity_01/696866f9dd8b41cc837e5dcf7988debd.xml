@@ -1,0 +1,72 @@
+<activity class="mm_unit6 mm_activityNumber2" id="696866f9dd8b41cc837e5dcf7988debd" pseudoID="SC_L4_AB_Ch6_p51_ACT02">
+    <rubric>
+        <p>Look and unscramble.</p>
+    </rubric>
+    <main>
+        <block class="mm_exerciseImages mm_flexContainer mm_flexboxSet4">
+            <p class="mm_matchingNumber">1. <image src="p051a.png" title=""/></p>
+            <p class="mm_matchingNumber">2. <image src="p051b.png" title=""/></p>
+            <p class="mm_matchingNumber">3. <image src="p051c.png" title=""/></p>
+            <p class="mm_matchingNumber">4. <image src="p051d.png" title=""/></p>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <ordering id="ordering_1" capitalise="y" display="h" example="y">
+                        <item id="item_1" rank="3">When</item>
+                        <item id="item_2" rank="4">I</item>
+                        <item id="item_3" rank="6">opened</item>
+                        <item id="item_4" rank="9">my</item>
+                        <item id="item_5" rank="1">eyes,</item>
+                        <item id="item_6" rank="8">I</item>
+                        <item id="item_7" rank="7">saw</item>
+                        <item id="item_8" rank="2">the</item>
+                        <item id="item_9" rank="5">ants</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1" rank="3">When</item>
+                        <item id="item_2" rank="7">I</item>
+                        <item id="item_3" rank="8">looked</item>
+                        <item id="item_4" rank="1">behind</item>
+                        <item id="item_5" rank="4">the</item>
+                        <item id="item_6" rank="6">TV,</item>
+                        <item id="item_7" rank="2">they</item>
+                        <item id="item_8" rank="5">ran</item>
+                        <item id="item_9" rank="9">away</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1" rank="3">When</item>
+                        <item id="item_2" rank="5">I</item>
+                        <item id="item_3" rank="7">chased</item>
+                        <item id="item_4" rank="9">them,</item>
+                        <item id="item_5" rank="6">they</item>
+                        <item id="item_6" rank="1">climbed</item>
+                        <item id="item_7" rank="4">up</item>
+                        <item id="item_8" rank="8">the</item>
+                        <item id="item_9" rank="2">table</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1" rank="7">When</item>
+                        <item id="item_2" rank="2">I</item>
+                        <item id="item_3" rank="9">pushed</item>
+                        <item id="item_4" rank="3">the</item>
+                        <item id="item_5" rank="5">table,</item>
+                        <item id="item_6" rank="6">they</item>
+                        <item id="item_7" rank="10">jumped</item>
+                        <item id="item_8" rank="1">onto</item>
+                        <item id="item_9" rank="8">the</item>
+                        <item id="item_10" rank="4">floor</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

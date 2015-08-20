@@ -1,0 +1,22 @@
+<activity class="mm_unit2 mm_activityNumber1" id="38fe47ddcee346bdbdc281d1eb10651f">
+    <rubric>
+        <p>Find nine words.</p>
+    </rubric>
+    <main>
+        <block class="mm_customSnake">
+            <wordSnake id="wordSnake_1">
+                <words>
+                    <word id="wordSnake_word_1" example="y">English</word>
+                    <word id="wordSnake_word_2">art</word>
+                    <word id="wordSnake_word_3">math</word>
+                    <word id="wordSnake_word_4">computer studies</word>
+                    <word id="wordSnake_word_5">science</word>
+                    <word id="wordSnake_word_6">PE</word>
+                    <word id="wordSnake_word_7">Spanish</word>
+                    <word id="wordSnake_word_8">history</word>
+                    <word id="wordSnake_word_9">recess</word>
+                </words>
+            </wordSnake>
+        </block>
+    </main>
+</activity>

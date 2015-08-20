@@ -1,0 +1,39 @@
+<activity class="mm_unit7 mm_activityNumber1 mm_itemSelectBigButtons" id="55eb04a05b82494391bb31d848cc4b61">
+    <rubric>
+        <p>Choose the facts about Shelly the Superhero.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <image src="p057a.jpg" title=""/>
+            <list display="v" type="numbered">
+                <li>
+                    <p>She wears …</p>
+                    <checkbox id="checkbox_1" display="h" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">a mask</item>
+                        <item id="item_2" correct="y">a cape</item>
+                        <item id="item_3" correct="y">boots</item>
+                        <item id="item_4">shorts</item>
+                    </checkbox>
+                </li>
+                <li>
+                    <p>She …</p>
+                    <checkbox id="checkbox_2" display="h" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">rescues animals</item>
+                        <item id="item_2">rides a bike</item>
+                        <item id="item_3" correct="y">catches thieves</item>
+                        <item id="item_4" correct="y">cooks pizza</item>
+                    </checkbox>
+                </li>
+                <li>
+                    <p>She’s good at …</p>
+                    <checkbox id="checkbox_3" display="h" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">climbing</item>
+                        <item id="item_2" correct="y">running</item>
+                        <item id="item_3">dancing</item>
+                        <item id="item_4" correct="y">cooking</item>
+                    </checkbox>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

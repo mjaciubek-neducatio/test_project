@@ -1,0 +1,46 @@
+<activity id="15abd98f5f7446669bee60eabce752a1" pseudoID="SC_L3_AB_Ch9_p72_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <p>How does Holly feel about going to summer camp?</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" example="y" type="plain">
+                        <item id="item_1" correct="y">a. happy</item>
+                        <item id="item_2">b. worried</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>How long do you think Holly is going to stay at summer camp?</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1"><sSpan class="mm_inlineNumber">a.</sSpan> a day</item>
+                        <item id="item_2" correct="y"><sSpan class="mm_inlineNumber">b.</sSpan> a weekend</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Is Holly going to do water activities?</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y"><sSpan class="mm_inlineNumber">a.</sSpan> yes</item>
+                        <item id="item_2"><sSpan class="mm_inlineNumber">b.</sSpan> no</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Did Holly know about her grandparents’ gift?</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1"><sSpan class="mm_inlineNumber">a.</sSpan> yes</item>
+                        <item id="item_2" correct="y"><sSpan class="mm_inlineNumber">b.</sSpan> no</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>What is Holly going to do with the camera?</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1"><sSpan class="mm_inlineNumber">a.</sSpan> leave it at home</item>
+                        <item id="item_2" correct="y"><sSpan class="mm_inlineNumber">b.</sSpan> take it to summer camp</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

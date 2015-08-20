@@ -1,0 +1,55 @@
+<activity class="mm_unit2 mm_activityNumber1" id="76d06f7c40f74662aa8553e8c91eb5ed" pseudoID="SC_L4_AB_Ch2_p19_ACT01">
+    <rubric>
+        <p>Complete with <i>could</i> or<i> couldn’t</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_dialogue mm_indent80">
+            <list display="v" type="plain">
+                <li>
+                    <p class="mm_speaker">Rob:</p>
+                    <p class="mm_talk">I did a lot of water sports at camp but I wasn’t very good! I tried snorkeling but I <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">couldn’t</item>
+                            </acceptable>
+                        </typein> swim under water very well.</p>
+                </li>
+                <li>
+                    <p class="mm_speaker">Steve:</p>
+                    <p class="mm_talk"><typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">Could</item>
+                            </acceptable>
+                        </typein> you do other sports?</p>
+                </li>
+                <li>
+                    <p class="mm_speaker">Rob:</p>
+                    <p class="mm_talk">Yes, I tried horseback riding – but I <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">couldn’t</item>
+                            </acceptable>
+                        </typein> stay on the horse. I tried my best, but I fell of six times! The last time, I got hurt.</p>
+                </li>
+                <li>
+                    <p class="mm_speaker">Steve:</p>
+                    <p class="mm_talk"><typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">Could</item>
+                            </acceptable>
+                        </typein> you walk?</p>
+                </li>
+                <li>
+                    <p class="mm_speaker">Rob:</p>
+                    <p class="mm_talk">Yes, I <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">could</item>
+                            </acceptable>
+                        <suffix>.</suffix></typein> But I <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">couldn’t</item>
+                            </acceptable>
+                        </typein> play soccer or baseball for three days.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

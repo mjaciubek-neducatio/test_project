@@ -1,0 +1,27 @@
+<activity id="c256ff2fd17046bc87cd48fa90766bba" pseudoID="SC_L1_AB_Ch3_p26_ACT02" class="mm_unit3 mm_lesson5 mm_activityNumber2">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingRoundNumbers mm_matchingLeft">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> Giraffes</matchItem>
+                    <matchTarget id="matchTarget_1" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan>are tall and thin.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> Monkeys</matchItem>
+                    <matchTarget id="matchTarget_2" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan>are small and brown.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Crocodiles</matchItem>
+                    <matchTarget id="matchTarget_3" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan>are long and green.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> Elephants</matchItem>
+                    <matchTarget id="matchTarget_4" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan>are big and gray.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

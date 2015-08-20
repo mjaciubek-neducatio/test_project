@@ -1,0 +1,60 @@
+<activity id="023571b5e97b45cb89a0e57361658452" pseudoID="SC_L5_AB_ChW_p4_ACT01">
+    <rubric>
+        <p>Complete the questions to ask a friend.</p>
+    </rubric>
+    <main>
+        <block class="mm_text">
+            <list display="v" type="numbered">
+                <li>
+                    <p>What’s <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">your</item>
+                            </acceptable>
+                        </typein> name?</p>
+                </li>
+                <li>
+                    <p>Where <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">do you</item>
+                            </acceptable>
+                        </typein> live?</p>
+                </li>
+                <li>
+                    <p>Where <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">have you</item>
+                            </acceptable>
+                        </typein> been to?</p>
+                </li>
+                <li>
+                    <p>Where <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">are you going to</item>
+                            </acceptable>
+                        </typein> go for vacation?</p>
+                </li>
+                <li>
+                    <p>What’s <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">your</item>
+                            </acceptable>
+                        </typein> favorite place?</p>
+                </li>
+                <li>
+                    <p>How <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">do you</item>
+                            </acceptable>
+                        </typein> like to travel?</p>
+                </li>
+                <li>
+                    <p>Where would <typein id="typein_7">
+                            <acceptable>
+                                <item id="item_1">you like to</item>
+                            </acceptable>
+                        </typein> go? Why?</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,42 @@
+<activity id="f843f3f15bb4466787dd8a1c3034c12a" pseudoID="SC_L1_AB_Ch8_p66_ACT02" class="mm_unit8 mm_lesson5 mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Put the food from the song on each plate.</p>
+    </rubric>
+    <main>
+
+        <block blockSet="y" class="mm_4colBB">
+
+            <block class="mm_oval mm_border mm_shadow">
+                <h3>Monday</h3>
+                <p><droppable id="droppable_1" example="y">salad</droppable></p>
+            </block>
+            <block class="mm_oval mm_border mm_shadow">
+                <h3>Tuesday</h3>
+                <p><droppable id="droppable_2">cheese</droppable></p>
+            </block>
+            <block class="mm_oval mm_border mm_shadow">
+                <h3>Wednesday</h3>
+                <p><droppable id="droppable_3">chicken</droppable></p>
+            </block>
+            <block class="mm_oval mm_border mm_shadow">
+                <h3>Thursday</h3>
+                <p><droppable id="droppable_4">pasta</droppable></p>
+            </block>
+            <block class="mm_oval mm_border mm_shadow">
+                <h3>Friday</h3>
+                <p><droppable id="droppable_5">rice</droppable></p>
+            </block>
+            <block class="mm_oval mm_border mm_shadow">
+                <h3>Saturday</h3>
+                <p><droppable id="droppable_6">pizza</droppable></p>
+            </block>
+            <block class="mm_oval mm_border mm_shadow">
+                <h3>Sunday</h3>
+                <p>
+                    <droppable id="droppable_7">ice cream</droppable>
+                    <droppable id="droppable_8">cake</droppable>
+                </p>
+            </block>
+        </block>
+    </main>
+</activity>

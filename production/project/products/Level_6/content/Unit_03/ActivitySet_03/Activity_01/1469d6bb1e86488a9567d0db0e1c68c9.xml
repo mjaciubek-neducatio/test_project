@@ -1,0 +1,81 @@
+<activity class="mm_unit3 mm_activityNumber1" id="1469d6bb1e86488a9567d0db0e1c68c9" pseudoID="SC_L6_AB_Ch3_p26_ACT01">
+    <rubric>
+        <p>Unscramble the questions.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" display="h" example="y">
+                        <item id="item_1">What</item>
+                        <item id="item_2">will</item>
+                        <item id="item_3">happen</item>
+                        <item id="item_4">if</item>
+                        <item id="item_5">animals</item>
+                        <item id="item_6">can’t</item>
+                        <item id="item_7">find</item>
+                        <item id="item_8">food</item>
+                        <item id="item_9">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1" rank="6 ">If</item>
+                        <item id="item_2" rank="1">the</item>
+                        <item id="item_3" rank="8">planet</item>
+                        <item id="item_4" rank="2">gets</item>
+                        <item id="item_5" rank="9">hotter,</item>
+                        <item id="item_6" rank="5">will</item>
+                        <item id="item_7" rank="7">the</item>
+                        <item id="item_8" rank="3">weather</item>
+                        <item id="item_9" rank="4">be</item>
+                        <item id="item_10" rank="10">better</item>
+                        <item id="item_11" rank="11">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1" rank="10">If</item>
+                        <item id="item_2" rank="1">the</item>
+                        <item id="item_3" rank="5">ice</item>
+                        <item id="item_4" rank="2">melts,</item>
+                        <item id="item_5" rank="3">will</item>
+                        <item id="item_6" rank="7">we</item>
+                        <item id="item_7" rank="4">have</item>
+                        <item id="item_8" rank="6">more</item>
+                        <item id="item_9" rank="8">rain</item>
+                        <item id="item_10" rank="9">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1" rank="4">If</item>
+                        <item id="item_2" rank="1">climate change</item>
+                        <item id="item_3" rank="7">happens,</item>
+                        <item id="item_4" rank="3">where</item>
+                        <item id="item_5" rank="8">will</item>
+                        <item id="item_6" rank="6">we</item>
+                        <item id="item_7" rank="10">want</item>
+                        <item id="item_8" rank="9">to</item>
+                        <item id="item_9" rank="2">live</item>
+                        <item id="item_10" rank="5">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_5" capitalise="y" display="h">
+                        <item id="item_1" rank="9">What</item>
+                        <item id="item_2" rank="7">food</item>
+                        <item id="item_3" rank="2">will</item>
+                        <item id="item_4" rank="8">we</item>
+                        <item id="item_5" rank="10">eat</item>
+                        <item id="item_6" rank="6">if</item>
+                        <item id="item_7" rank="3">the</item>
+                        <item id="item_8" rank="1">weather</item>
+                        <item id="item_9" rank="4">changes</item>
+                        <item id="item_10" rank="5">?</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

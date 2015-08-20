@@ -1,0 +1,41 @@
+<activity id="96558c4dde9d4da5a97cedbfa2b9a3ed" pseudoID="SC_L5_AB_Ch4_p34_ACT01">
+    <rubric>
+        <p>Choose. Then ask and answer.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>Do you find <dropDown id="dropDown_1" example="y">
+                            <item id="item_1">nothing</item>
+                            <item id="item_2" correct="y">everything</item>
+                        </dropDown> you need on the internet?</p>
+                </li>
+                <li>
+                    <p>Do you think that <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">everyone</item>
+                            <item id="item_2">everything</item>
+                        </dropDown> uses the internet for homework?</p>
+                </li>
+                <li>
+                    <p>Are you reading <dropDown id="dropDown_3">
+                            <item id="item_1">nothing</item>
+                            <item id="item_2" correct="y">anything</item>
+                        </dropDown> exciting now?</p>
+                </li>
+                <li>
+                    <p>Would you like to do <dropDown id="dropDown_4">
+                            <item id="item_1">everything</item>
+                            <item id="item_2" correct="y">something</item>
+                        </dropDown> this weekend?</p>
+                </li>
+                <li>
+                    <p>Do you know <dropDown id="dropDown_5">
+                            <item id="item_1" correct="y">anyone</item>
+                            <item id="item_2">no one</item>
+                        </dropDown> who’s learning Japanese?</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

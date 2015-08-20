@@ -1,0 +1,18 @@
+<activity class="mm_unit1 mm_activityNumber1" id="2af5a9cb61ef4f3eaa957ef54b6f97f0" pseudoID="SC_L6_AB_Ch1_p10_ACT01">
+    <rubric>
+        <p>Choose from <i>can’t be</i>, <i>must be</i>, or <i>might be</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_speechBubbles">
+            <block class="mm_firstImage">
+                <image src="p010a.png" title=""/>
+            </block>
+            <block class="mm_bubble mm_customBubble">
+                <p>Scarlett has found dirty footprints in the building. It <cSpan class="mm_noWrap mm_inlineNumber">1 <dropDown id="dropDown_1"><item id="item_1">can’t be</item><item id="item_2">must be</item><item id="item_3" correct="y">might be</item></dropDown></cSpan> a strange creature or a mysterious beast! It <cSpan class="mm_noWrap mm_inlineNumber">2 <dropDown id="dropDown_2"><item id="item_1" correct="y">can’t be</item><item id="item_2">must be</item><item id="item_3">might be</item></dropDown></cSpan> The Beast because there are four footprints and The Beast walks on two legs. Scarlett thinks they <cSpan class="mm_noWrap mm_inlineNumber">3 <dropDown id="dropDown_3"><item id="item_1">can’t be</item><item id="item_2" correct="y">must be</item><item id="item_3">might be</item></dropDown></cSpan> Hamish’s footprints because he’s the only animal here. They <cSpan class="mm_noWrap mm_inlineNumber">4 <dropDown id="dropDown_4"><item id="item_1" correct="y">can’t be</item><item id="item_2">must be</item><item id="item_3">might be</item></dropDown></cSpan> his footprints because they’re too big. Poor Hamish. It <cSpan class="mm_noWrap mm_inlineNumber">5 <dropDown id="dropDown_5"><item id="item_1" correct="y">can’t be</item><item id="item_2">must be</item><item id="item_3">might be</item></dropDown></cSpan> easy being a dog because he can’t talk. I’m just not sure – I think it <cSpan class="mm_noWrap mm_inlineNumber">6 <dropDown id="dropDown_6"><item id="item_1">can’t be</item><item id="item_2">must be</item><item id="item_3" correct="y">might be</item></dropDown></cSpan> a joke.</p>
+            </block>
+            <block class="mm_secondImage">
+                <image src="p010b.png" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

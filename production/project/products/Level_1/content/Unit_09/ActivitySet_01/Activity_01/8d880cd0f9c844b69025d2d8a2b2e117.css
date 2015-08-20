@@ -1,0 +1,49 @@
+.crosswordClueContainer {
+    padding-bottom: 0;
+}
+.crosswordClueContainer .across {
+	/* width: 15.5%; */
+    margin-bottom: 0.875em;
+    margin-top: 3px;
+}
+
+.crosswordClueContainer .down {
+    float: none;
+}
+
+.crosswordClueContainer h3 {
+    display: inline;
+}
+
+.crosswordClueContainer ul,
+.crosswordClueContainer li {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.crosswordClueContainer li {
+    float: left;
+    width: 32% !important; 
+	display: inline-block;
+    position: relative;
+    margin: 0 1% 0 0;
+    padding: 0;
+}
+
+.crosswordClueNumber {
+    padding-left: 4px;
+}
+
+.crosswordClueContainer span {
+    width: auto;
+}
+
+.crosswordClueContainer img {
+    /* width: 90%; */
+    display: inline;
+    margin-bottom: 1px;
+}
+
+.clue {
+    font-weight: bold;
+}
+

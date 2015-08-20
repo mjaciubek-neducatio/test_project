@@ -1,0 +1,48 @@
+<activity desktopDraggable="n" class="mm_unit1 mm_activityNumber1" id="d0f3827a0664484fae35b9c883a0d7c5" pseudoID="SC_L4_AB_Ch1_p9_ACT01">
+    <rubric>
+		<p>Complete the information about Claire’s trip.</p>
+	</rubric>
+	<main>
+		<block class="mm_customImage mm_handwritten">
+			<image src="p009a.jpg" title=""/>
+			<block class="mm_singleBlock mm_blockOne">
+				<p class="mm_example">
+					<droppable id="droppable_1" example="y">France</droppable></p><p> She </p><p><droppable id="droppable_2" example="y">danced</droppable>.</p>
+			</block>
+			<block class="mm_singleBlock mm_blockTwo">
+				<p>
+					<droppable id="droppable_3" rank="2">Germany</droppable></p><p>She rode the </p><p>carousel.</p>
+			</block>
+			<block class="mm_singleBlock mm_blockThree">
+				<p>Egypt</p><p>She saw</p><p><droppable id="droppable_4">Arabic</droppable></p><p>writing. </p>
+			</block>
+			<block class="mm_singleBlock mm_blockFour">
+				<p>
+					<droppable id="droppable_5" rank="3">Mexico</droppable></p><p>She said hello</p><p>in Spanish. </p>
+			</block>
+			<block class="mm_singleBlock mm_blockFive">
+				<p>
+					<droppable id="droppable_6" rank="4">Japan</droppable></p><p>She <droppable id="droppable_7" rank="5">walked</droppable></p><p>in the sand</p><p>garden.</p>
+			</block>
+			<block class="mm_singleBlock mm_blockSix">
+				<p>
+					<droppable id="droppable_8" rank="1">China</droppable></p><p>She went on</p><p>the dragon roller</p><p>coaster.</p>
+			</block>
+			<block class="mm_arrowOne">
+				<image src="p017b.png" title=""/>
+			</block>
+			<block class="mm_arrowTwo">
+				<image src="p017b.png" title=""/>
+			</block>
+			<block class="mm_arrowThree">
+				<image src="p017c.png" title=""/>
+			</block>
+			<block class="mm_arrowFour">
+				<image src="p017b.png" title=""/>
+			</block>
+			<block class="mm_arrowFive">
+				<image src="p017b.png" title=""/>
+			</block>
+		</block>
+	</main>
+</activity>

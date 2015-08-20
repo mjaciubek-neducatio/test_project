@@ -1,0 +1,61 @@
+<activity class="mm_unit1 mm_activityNumber2" id="769d8b2a31ff4cbaa6388e1fa9934a5e" pseudoID="SC_L6_AB_Ch1_p9_ACT02">
+    <rubric>
+		<p>Complete with the verbs in the correct tense.</p>
+	</rubric>
+	<main>
+		<block class="mm_imageRight">
+			<image src="p041a.png" title=""/>
+			<block class="mm_wordBoxSimple">
+				<list display="h" type="plain">
+					<li>see</li>
+					<li>hear</li>
+					<li><sSpan class="mm_exampleItem">smell</sSpan></li>
+					<li>taste</li>
+					<li>feel</li>
+				</list>
+			</block>
+			<list display="v" type="numbered">
+				<li class="mm_example">
+					<p>I could <typein id="typein_1" example="y">
+							<acceptable>
+								<item id="item_1">smell</item>
+								<item id="item_2">SMELL</item>
+							</acceptable>
+						</typein> onions frying in the kitchen.</p>
+				</li>
+				<li>
+					<p>He <typein id="typein_2">
+							<acceptable>
+								<item id="item_1">felt</item>
+								<item id="item_2">FELT</item>
+							</acceptable>
+						</typein> the cold air on his face.</p>
+				</li>
+				<li>
+					<p>They <typein id="typein_3">
+							<acceptable>
+								<item id="item_1">heard</item>
+								<item id="item_2">HEARD</item>
+							</acceptable>
+						</typein> a beast howling at night.</p>
+				</li>
+				<li>
+					<p>I can <typein id="typein_4">
+							<acceptable>
+								<item id="item_1">taste</item>
+								<item id="item_2">TASTE</item>
+							</acceptable>
+						</typein> salt in this soup.</p>
+				</li>
+				<li>
+					<p>No one has ever <typein id="typein_5">
+							<acceptable>
+								<item id="item_1">seen</item>
+								<item id="item_2">SEEN</item>
+							</acceptable>
+						</typein> the beast in the day.</p>
+				</li>
+			</list>
+		</block>
+	</main>
+</activity>

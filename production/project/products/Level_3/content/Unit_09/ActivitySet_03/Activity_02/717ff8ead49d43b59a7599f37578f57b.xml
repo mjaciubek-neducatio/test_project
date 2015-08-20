@@ -1,0 +1,55 @@
+<activity id="717ff8ead49d43b59a7599f37578f57b" pseudoID="SC_L3_AB_Ch9_p75_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Unscramble the questions about your next vacation. Then say your answers.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" display="h" example="y">
+                        <item id="item_1">Are</item>
+                        <item id="item_2">you</item>
+                        <item id="item_3">going</item>
+                        <item id="item_4">to</item>
+                        <item id="item_5">go</item>
+                        <item id="item_6">to</item>
+                        <item id="item_7">the</item>
+                        <item id="item_8">beach?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1">What</item>
+                        <item id="item_2">are</item>
+                        <item id="item_3">you</item>
+                        <item id="item_4">going</item>
+                        <item id="item_5">to</item>
+                        <item id="item_6">take?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1">Are</item>
+                        <item id="item_2">you</item>
+                        <item id="item_3">going</item>
+                        <item id="item_4">to</item>
+                        <item id="item_5">take</item>
+                        <item id="item_6">your</item>
+                        <item id="item_7">camera?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1">What</item>
+                        <item id="item_2">are</item>
+                        <item id="item_3">you</item>
+                        <item id="item_4">going</item>
+                        <item id="item_5">to</item>
+                        <item id="item_6">do</item>
+                        <item id="item_7">there?</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

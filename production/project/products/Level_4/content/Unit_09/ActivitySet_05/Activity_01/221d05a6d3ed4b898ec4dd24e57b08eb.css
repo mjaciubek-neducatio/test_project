@@ -1,0 +1,22 @@
+.mm_email {
+    border-radius: 12px;
+    padding: 0;
+	padding-bottom: 0.437em;
+	background: rgba(243,244,250,1);
+    border: 3px solid #eeeeef;
+}
+.mm_topBar {
+    margin-bottom: 0.5em;
+}
+.mm_exerciseContent {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mm_activityContentU09 div.wordBox.movable {
+    margin-bottom: 1em;
+}
+
+.mm_email img {
+    width: 100%;
+}

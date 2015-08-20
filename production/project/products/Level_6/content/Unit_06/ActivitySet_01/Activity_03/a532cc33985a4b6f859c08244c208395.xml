@@ -1,0 +1,46 @@
+<activity class="mm_unit6 mm_activityNumber1" id="a532cc33985a4b6f859c08244c208395" pseudoID="SC_L6_AB_Ch6_p47_ACT05">
+    <rubric>
+        <p>Correct the sentences that are wrong.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>I <locating id="locating_1" example="y">been ‘ve<typein id="typein_1">
+                                <acceptable>
+                                    <item id="item_1">‘ve been</item>
+                                    <item id="item_2">’VE BEEN</item>
+                                    <item id="item_3">’ve been</item>
+                                    <item id="item_4">’VE BEEN</item>
+                                </acceptable>
+                            </typein>
+                        </locating> watching <i>You’ve Got Talent</i> since 2011.</p>
+                </li>
+                <li>
+                    <p>I’ve been singing since I was five.</p>
+                </li>
+                <li>
+                    <p>I haven’t <locating id="locating_2">been see<typein id="typein_2">
+                                <acceptable>
+                                    <item id="item_1">been seeing</item>
+                                    <item id="item_2">BEEN SEEING</item>
+                                </acceptable>
+                            </typein>
+                        </locating> much of my friends.</p>
+                </li>
+                <li>
+                    <p>I haven’t <locating id="locating_3">be<typein id="typein_3">
+                                <acceptable>
+                                    <item id="item_1">been</item>
+                                    <item id="item_2">BEEN</item>
+                                </acceptable>
+                            </typein>
+                        </locating> performing on stage for long.</p>
+                </li>
+                <li>
+                    <p>I haven’t been doing any auditions.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

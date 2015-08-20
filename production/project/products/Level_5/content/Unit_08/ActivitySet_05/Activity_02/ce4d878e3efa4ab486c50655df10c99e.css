@@ -1,0 +1,12 @@
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+  color: #000;
+}
+
+.crosswordClueNumber {
+  color: #000;
+}
+
+table.crossword input.editing {
+  color: #fff;
+} 

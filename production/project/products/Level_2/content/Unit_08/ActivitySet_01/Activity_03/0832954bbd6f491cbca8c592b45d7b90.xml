@@ -1,0 +1,88 @@
+<activity class="mm_unit8 mm_activityNumber3" id="0832954bbd6f491cbca8c592b45d7b90">
+    <rubric>
+        <p>Complete the text about fish.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered" class="mm_inlineBlock">
+                <li>
+                    <p class="mm_example">Do fish have fins?</p>
+                    <p>
+                    <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">Yes, they do</item>
+                                <item id="item_2">YES, THEY DO</item>
+                                <item id="item_3">yes, they do</item>
+                                <item id="item_4">Yes they do</item>
+                                <item id="item_5">YES THEY DO</item>
+                                <item id="item_6">yes they do</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">Do</item>
+                                <item id="item_2">DO</item>
+                                <item id="item_3">do</item>
+                            </acceptable>
+                        </typein> they <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">have</item>
+                                <item id="item_2">HAVE</item>
+                                <item id="item_3">Have</item>
+                            </acceptable>
+                        </typein> scales?</p>
+                        <p>
+                        <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">Yes, they do</item>
+                                <item id="item_2">YES, THEY DO</item>
+                                <item id="item_3">yes, they do</item>
+                                <item id="item_4">Yes they do</item>
+                                <item id="item_5">YES THEY DO</item>
+                                <item id="item_6">yes they do</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">Do</item>
+                                <item id="item_2">DO</item>
+                                <item id="item_3">do</item>
+                            </acceptable>
+                        </typein>
+                        <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">they</item>
+                                <item id="item_2">THEY</item>
+                                <item id="item_3">They</item>
+                            </acceptable>
+                        </typein>
+                        <typein id="typein_7">
+                            <acceptable>
+                                <item id="item_1">have</item>
+                                <item id="item_2">HAVE</item>
+                                <item id="item_3">Have</item>
+                            </acceptable>
+                        </typein> wings?
+                        </p>
+                        <p>
+                        <typein id="typein_8">
+                            <acceptable>
+                                <item id="item_1">No, they don’t</item>
+                                <item id="item_2">NO, THEY DON’T</item>
+                                <item id="item_3">no, they don’t</item>
+                                <item id="item_4">No they don’t</item>
+                                <item id="item_5">NO THEY DON’T</item>
+                                <item id="item_6">no they don’t</item>
+                            </acceptable>
+                        </typein>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

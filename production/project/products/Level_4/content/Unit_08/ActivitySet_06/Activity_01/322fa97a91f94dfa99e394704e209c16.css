@@ -1,0 +1,24 @@
+.mm_cWidth {
+    min-width: 70%;
+    display: inline-block;
+}
+.mm_customTextBlock {
+	background-color: #5a5a5c;
+	color: #fff;
+	border: 5px dotted #fff;
+	border-radius: 30px;
+	position: relative;
+}
+.mm_customTextBlock h2 {
+	margin-bottom: 0.218em;
+	text-transform: uppercase;
+}
+.mm_customText {
+	display: inline-block;
+	float: left;
+}
+.mm_customImage {
+	display: inline-block;
+	float: right;
+	margin: -110px -60px 10px 0;
+}

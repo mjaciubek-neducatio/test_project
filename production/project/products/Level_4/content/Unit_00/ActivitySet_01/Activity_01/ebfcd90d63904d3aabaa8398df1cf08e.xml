@@ -1,0 +1,65 @@
+<activity class="mm_unit0 mm_activityNumber2" id="ebfcd90d63904d3aabaa8398df1cf08e" pseudoID="SC_L4_AB_ChW_p4_ACT02">
+    <rubric>
+        <p>Who is it? Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_imagesSubbed">
+            <block class="mm_singleImage">
+                <p>Miguel
+                <image src="p004a.jpg" title=""/></p>
+            </block>
+            <block class="mm_singleImage">
+                <p>Cheng
+                <image src="p004b.jpg" title=""/></p>
+            </block>
+            <block class="mm_singleImage">
+                <p>Felicity
+            <image src="p004c.jpg" title=""/></p>
+            </block>
+        </block>
+        <block class="mm_speechBubbles">
+            <list display="v" type="numbered">
+                <li>
+                    <p><sSpan class="mm_cWidth mm_bubble">I bought some comic books.</sSpan> <typein id="typein_1">
+                            <acceptable>
+                                <item id="item_1">Miguel</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth mm_bubble">I made cookies.</sSpan> <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">Felicity</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth mm_bubble">I’m going to buy ice cream.</sSpan> <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">Miguel</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth mm_bubble">I bought some cookies.</sSpan> <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">Cheng</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth mm_bubble">I didn’t visit the science stall.</sSpan> <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">Felicity</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

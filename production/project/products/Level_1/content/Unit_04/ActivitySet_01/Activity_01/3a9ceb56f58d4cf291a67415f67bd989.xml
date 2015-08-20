@@ -1,0 +1,37 @@
+<activity id="3a9ceb56f58d4cf291a67415f67bd989" pseudoID="SC_L1_AB_Ch4_p30_ACT01" class="mm_unit4 mm_lesson1 mm_activityNumber1" seed="340">
+    <rubric>
+        <p>Where do you find these things? Complete the puzzle.</p>
+    </rubric>
+    <main>
+            <block class="mm_crossword mm_clues3Col mm_pictureClues">
+                <crossword id="cw_1" marked="y">
+                    <words>
+                        <word id="crossword_word_1" example="y">
+                            <value>bathroom</value>
+                            <clue><image src="p030a.jpg" title=""/></clue>
+                        </word>
+                        <word id="crossword_word_2">
+                            <value>garage</value>
+                            <clue><image src="p030b.jpg" title=""/></clue>
+                        </word>
+                        <word id="crossword_word_3">
+                            <value>kitchen</value>
+                            <clue><image src="p030c.jpg" title=""/></clue>
+                        </word>
+                        <word id="crossword_word_4">
+                            <value>livingroom</value>
+                            <clue><image src="p030d.jpg" title=""/></clue>
+                        </word>
+                        <word id="crossword_word_5">
+                            <value>yard</value>
+                            <clue><image src="p030e.jpg" title=""/></clue>
+                        </word>
+                        <word id="crossword_word_6">
+                            <value>bedroom</value>
+                            <clue><image src="p030f.jpg" title=""/></clue>
+                        </word>
+                    </words>
+                </crossword>
+            </block>
+    </main>
+</activity>

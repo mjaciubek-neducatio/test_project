@@ -1,0 +1,13 @@
+.wordBox {
+	margin-bottom: 1.3em;
+}
+ol.numbered > li {
+	margin-bottom: 0.5em;
+}
+.main img {
+	float: right;
+	width: 29%;
+}
+.main div.block ol.numbered {
+	float: left;
+}

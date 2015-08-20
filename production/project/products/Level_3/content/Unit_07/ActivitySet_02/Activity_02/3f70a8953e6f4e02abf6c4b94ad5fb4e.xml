@@ -1,0 +1,23 @@
+<activity id="3f70a8953e6f4e02abf6c4b94ad5fb4e" pseudoID="SC_L3_AB_Ch7_p57_ACT04" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <block class="mm_milo mm_Rise">
+                <h3>Milo’s Rise</h3>
+                <p>He lifted the <droppable id="droppable_1">roof</droppable> up.</p>
+                <p>He carried a heavy <droppable id="droppable_2">ox</droppable>.</p>
+                <p>He <droppable id="droppable_3">trained</droppable> hard.</p>
+                <p>Milo won the <droppable id="droppable_4" example="y">wrestling</droppable> competition.</p>
+            </block>
+            <block class="mm_Fall">
+                <h3>Milo’s Fall</h3>
+                <p>He became old and <droppable id="droppable_5">weak</droppable>.</p>
+                <p>He didn’t want any <droppable id="droppable_6">help</droppable>.</p>
+                <p>He dropped the <droppable id="droppable_7">tree</droppable>.</p>
+                <p>He was all alone in the <droppable id="droppable_8">forest</droppable>.</p>
+            </block>
+        </block>
+    </main>
+</activity>

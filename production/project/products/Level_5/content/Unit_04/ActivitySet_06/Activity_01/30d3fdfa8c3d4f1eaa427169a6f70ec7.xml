@@ -1,0 +1,35 @@
+<activity id="30d3fdfa8c3d4f1eaa427169a6f70ec7" pseudoID="SC_L5_AB_Ch4_p36_ACT01">
+    <rubric>
+        <p>Read and choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_reading mm_padder mm_boxShadow mm_imageRight">
+            <image src="p036a.png" title=""/>
+            <block class="mm_readingText">
+                <h2>BE CAREFUL! TURTLES CROSSING!</h2>
+                <p>Some animals use the sun, moon, and stars as clues to find which way to go. Baby turtles don’t have <sSpan class="mm_inlineNumber mm_halfSpace">1</sSpan><dropDown id="dropDown_1" example="y">
+                        <item id="item_1" correct="y">maps</item>
+                        <item id="item_2">watches</item>
+                    </dropDown> to get to the <sSpan class="mm_inlineNumber mm_halfSpace">2</sSpan><dropDown id="dropDown_2">
+                        <item id="item_1">town</item>
+                        <item id="item_2" correct="y">ocean</item>
+                    </dropDown>! They use the light from the moon. And they need to get to the water as quickly as they can. Lights from houses and cars can <sSpan class="mm_inlineNumber mm_halfSpace">3</sSpan><dropDown id="dropDown_3">
+                        <item id="item_1">help</item>
+                        <item id="item_2" correct="y">confuse</item>
+                    </dropDown> them. They go the wrong way and sometimes try to cross roads, which is very dangerous. But <sSpan class="mm_inlineNumber mm_halfSpace">4</sSpan><dropDown id="dropDown_4">
+                        <item id="item_1" correct="y">everyone</item>
+                        <item id="item_2">no one</item>
+                    </dropDown> can help. When there are baby turtles, please turn <sSpan class="mm_inlineNumber mm_halfSpace">5</sSpan><dropDown id="dropDown_5">
+                        <item id="item_1">on</item>
+                        <item id="item_2" correct="y">off</item>
+                    </dropDown> your lights! Don’t use <sSpan class="mm_inlineNumber mm_halfSpace">6</sSpan><dropDown id="dropDown_6">
+                        <item id="item_1" correct="y">flashlights</item>
+                        <item id="item_2">computers</item>
+                    </dropDown> or <sSpan class="mm_inlineNumber mm_halfSpace">7</sSpan><dropDown id="dropDown_7">
+                        <item id="item_1" correct="y">light fires</item>
+                        <item id="item_2">play music</item>
+                    </dropDown> on the beach at night. Then the turtles will get to the water safely.</p>
+            </block>
+        </block>
+    </main>
+</activity>

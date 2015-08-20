@@ -1,0 +1,21 @@
+<activity class="mm_unit4 mm_activityNumber3 mm_spellingCentral" id="1d06c2d64ea04292b7ca842994855371" pseudoID="SC_L6_AB_Ch4_p35_ACT03">
+    <rubric>
+        <p>Find words with <i>qu</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_customSnake">
+            <wordSnake id="wordSnake_1">
+                <words>
+                    <word id="wordSnake_word_1" example="y">squid</word>
+                    <word id="wordSnake_word_2">quick</word>
+                    <word id="wordSnake_word_3">square</word>
+                    <word id="wordSnake_word_4">quiz</word>
+                    <word id="wordSnake_word_5">quietly</word>
+                    <word id="wordSnake_word_6">question</word>
+                    <word id="wordSnake_word_7">mosquito</word>
+                    <word id="wordSnake_word_8">queen</word>
+                </words>
+            </wordSnake>
+        </block>
+    </main>
+</activity>

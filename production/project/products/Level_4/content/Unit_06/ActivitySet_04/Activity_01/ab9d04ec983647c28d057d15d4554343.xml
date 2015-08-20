@@ -1,0 +1,29 @@
+<activity class="mm_unit6 mm_activityNumber2" id="ab9d04ec983647c28d057d15d4554343" pseudoID="SC_L4_AB_Ch6_p49_ACT02">
+    <rubric>
+        <p>Choose the negative words.</p>
+    </rubric>
+    <main>
+        <block class="mm_iCanReadBadge mm_inlineDropdown">
+        <image src="p041a.png" title=""/>
+            <p>I went into a <dropDown id="dropDown_1" example="y" disabled="y">
+                    <item id="item_1">warm</item>
+                    <item id="item_2" correct="y">chilly</item>
+                </dropDown> cave. Inside, it was very <dropDown id="dropDown_2">
+                    <item id="item_1" correct="y">dark</item>
+                    <item id="item_2">light</item>
+                </dropDown> and <cSpan class="mm_noWrap"><dropDown id="dropDown_3">
+                    <item id="item_1">bright</item>
+                    <item id="item_2" correct="y">damp</item>
+                </dropDown>.</cSpan> I felt <cSpan class="mm_noWrap"><dropDown id="dropDown_4">
+                    <item id="item_1" correct="y">scared</item>
+                    <item id="item_2">happy</item>
+                </dropDown>.</cSpan> I saw the <cSpan class="mm_noWrap"><dropDown id="dropDown_5">
+                    <item id="item_1">nice</item>
+                    <item id="item_2" correct="y">dangerous</item>
+                </dropDown> wizard.</cSpan> He was looking into a big treasure chest. The wizard saw me and shouted <cSpan class="mm_noWrap"><dropDown id="dropDown_6">
+                    <item id="item_1">nicely</item>
+                    <item id="item_2" correct="y">angrily</item>
+                </dropDown>.</cSpan></p>
+        </block>
+    </main>
+</activity>

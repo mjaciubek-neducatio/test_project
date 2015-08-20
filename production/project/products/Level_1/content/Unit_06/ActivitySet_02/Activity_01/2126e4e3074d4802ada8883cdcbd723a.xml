@@ -1,0 +1,71 @@
+<activity id="2126e4e3074d4802ada8883cdcbd723a" pseudoID="SC_L1_AB_Ch6_p47_ACT03" class="mm_unit6 mm_lesson2 mm_activityNumber1">
+    <rubric>
+        <p>Look and choose the correct answers.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexboxSet3070 mm_flexBoxReverse ">
+            <block>
+                <image src="p047a.jpg" title=""/>
+            </block>
+            <block>
+                <list display="v" type="numbered">
+                    <li>
+                        <p>
+                            <dropDown id="dropDown_1" type="plain" example="y">
+                                <item id="item_1" correct="y">I have </item>
+                                <item id="item_2">I don’t have </item>
+                            </dropDown>
+                             a mom and dad.
+                        </p>
+                        
+                    </li>
+                    <li>
+                        <p>
+                            <dropDown id="dropDown_2" type="plain" example="y">
+                                <item id="item_1">I have </item>
+                                <item id="item_2" correct="y">I don’t have </item>
+                            </dropDown>
+                             any sisters.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <dropDown id="dropDown_3" type="plain">
+                                <item id="item_1" correct="y">I have </item>
+                                <item id="item_2">I don’t have </item>
+                            </dropDown>
+                             two brothers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <dropDown id="dropDown_4" type="plain">
+                                <item id="item_1" correct="y">I have </item>
+                                <item id="item_2">I don’t have </item>
+                            </dropDown>
+                             two grandmas.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <dropDown id="dropDown_5" type="plain">
+                                <item id="item_1" correct="y">I have </item>
+                                <item id="item_2">I don’t have </item>
+                            </dropDown>
+                             a grandpa.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <dropDown id="dropDown_6" type="plain">
+                                <item id="item_1">I have </item>
+                                <item id="item_2" correct="y">I don’t have </item>
+                            </dropDown>
+                             any aunts or uncles.
+                        </p>
+                    </li>
+                </list>
+            </block>
+        </block>
+    </main>
+</activity>

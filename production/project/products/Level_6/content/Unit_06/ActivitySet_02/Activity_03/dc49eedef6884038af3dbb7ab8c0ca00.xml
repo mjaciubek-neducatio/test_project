@@ -1,0 +1,45 @@
+<activity class="mm_unit6 mm_activityNumber3 mm_spellingCentral" id="dc49eedef6884038af3dbb7ab8c0ca00" pseudoID="SC_L6_AB_Ch6_p51_ACT03">
+    <rubric>
+        <p>Choose the word in each group that doesn’t have the <i>s</i> sound.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">audience</item>
+                        <item id="item_2" correct="y">crew</item>
+                        <item id="item_3">cast</item>
+                        <item id="item_4">stage</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">magazine</item>
+                        <item id="item_2">rehearsal</item>
+                        <item id="item_3">waste</item>
+                        <item id="item_4">currents</item>
+                    </radio>
+                </li>
+    
+            
+                <li>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">ceiling</item>
+                        <item id="item_2">genius</item>
+                        <item id="item_3">dance</item>
+                        <item id="item_4" correct="y">champion</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">disaster</item>
+                        <item id="item_2" correct="y">shipwreck</item>
+                        <item id="item_3">tsunami</item>
+                        <item id="item_4">coast</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

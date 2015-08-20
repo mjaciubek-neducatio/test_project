@@ -1,0 +1,31 @@
+<activity id="98066b3a073c4efd99e2c33cb3706893" pseudoID="SC_L3_AB_Ch1_p10_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> We buy our tickets</matchItem>
+                    <matchTarget id="matchTarget_1" rank="9"><sSpan class="mm_matchingNumber">d.</sSpan> at the ticket office.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> We see the show</matchItem>
+                    <matchTarget id="matchTarget_2" rank="6"><sSpan class="mm_matchingNumber">a.</sSpan> in the shark enclosure.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> We touch the rabbits</matchItem>
+                    <matchTarget id="matchTarget_3" rank="7"><sSpan class="mm_matchingNumber">b.</sSpan> in the petting zoo.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> We eat our lunch</matchItem>
+                    <matchTarget id="matchTarget_4" rank="10"><sSpan class="mm_matchingNumber">e.</sSpan> in the picnic area.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> We play with our friends</matchItem>
+                    <matchTarget id="matchTarget_5" rank="8"><sSpan class="mm_matchingNumber">c.</sSpan> in the playground.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

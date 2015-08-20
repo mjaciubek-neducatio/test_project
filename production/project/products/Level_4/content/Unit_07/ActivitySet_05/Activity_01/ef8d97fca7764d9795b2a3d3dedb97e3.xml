@@ -1,0 +1,47 @@
+<activity class="mm_unit7 mm_activityNumber1" id="ef8d97fca7764d9795b2a3d3dedb97e3" pseudoID="SC_L4_AB_Ch7_p59_ACT01">
+    <rubric>
+        <p>Choose the correct options.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>I <dropDown id="dropDown_1" example="y" disabled="y">
+                            <item id="item_1">walked</item>
+                            <item id="item_2" correct="y">was walking</item>
+                        </dropDown> in the park when I <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">found</item>
+                            <item id="item_2">was finding</item>
+                        </dropDown> a ring.</p>
+                </li>
+                <li>
+                    <p>He <dropDown id="dropDown_3">
+                            <item id="item_1">ran</item>
+                            <item id="item_2" correct="y">was running</item>
+                        </dropDown> home when he <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">fell</item>
+                            <item id="item_2">was falling</item>
+                        </dropDown> and hurt his knee.</p>
+                </li>
+                <li>
+                    <p>I <dropDown id="dropDown_5">
+                            <item id="item_1">cooked</item>
+                            <item id="item_2" correct="y">was cooking</item>
+                        </dropDown> dinner when my sister <cSpan class="mm_noWrap"><dropDown id="dropDown_6">
+                            <item id="item_1" correct="y">shouted</item>
+                            <item id="item_2">was shouting</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>She <dropDown id="dropDown_7">
+                            <item id="item_1">put</item>
+                            <item id="item_2" correct="y">was putting</item>
+                        </dropDown> on her shoes when she <dropDown id="dropDown_8">
+                            <item id="item_1" correct="y">heard</item>
+                            <item id="item_2">was hearing</item>
+                        </dropDown> the phone.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

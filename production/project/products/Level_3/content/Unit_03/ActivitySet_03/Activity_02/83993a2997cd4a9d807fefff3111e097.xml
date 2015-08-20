@@ -1,0 +1,27 @@
+<activity id="83993a2997cd4a9d807fefff3111e097" pseudoID="SC_L3_AB_Ch3_p27_ACT03" class="mm_activityNumber1">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> When was it?</matchItem>
+                    <matchTarget id="matchTarget_1" rank="6"><sSpan class="mm_matchingNumber">b.</sSpan>It was last week.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> Where was it?</matchItem>
+                    <matchTarget id="matchTarget_2" rank="8"><sSpan class="mm_matchingNumber">d.</sSpan>It was in the school hall.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Who were the actors?</matchItem>
+                    <matchTarget id="matchTarget_3" rank="5"><sSpan class="mm_matchingNumber">a.</sSpan>My friends, Megan and Stephan.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> Were they good?</matchItem>
+                    <matchTarget id="matchTarget_4" rank="7"><sSpan class="mm_matchingNumber">c.</sSpan>They were great!</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

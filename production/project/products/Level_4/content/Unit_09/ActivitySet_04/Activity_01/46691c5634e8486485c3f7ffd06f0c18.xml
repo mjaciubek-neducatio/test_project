@@ -1,0 +1,33 @@
+<activity class="mm_unit9 mm_activityNumber3" id="46691c5634e8486485c3f7ffd06f0c18" pseudoID="SC_L4_AB_Ch9_p74_ACT03" seed="1">
+    <rubric>
+        <p>Complete the puzzle.</p>
+    </rubric>
+    <main>
+        <block class="mm_customCrossword">
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>geography</value>
+                        <clue>When you study this subject in school, you learn about other countries.</clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>musician</value>
+                        <clue>Someone who plays an instrument.</clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>beautiful</value>
+                        <clue>The opposite of <sSpan class="mm_italicsClue">ugly</sSpan>.</clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>abroad</value>
+                        <clue>A country different from your own.</clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>dangerous</value>
+                        <clue>Venus has … clouds of gas and acid!</clue>
+                    </word>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

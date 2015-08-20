@@ -1,0 +1,36 @@
+<activity class="mm_unit8 mm_activityNumber1" id="82e0db6b47d949b894eb374fcbebdb64">
+    <rubric>
+        <p>Match the animals with the sentences.</p>
+    </rubric>
+    <main>
+        <block class="mm_customMatching mm_imageMatchItem mm_hMatching mm_postitionNumbers mm_hMatching5 mm_hMatchTarget1Line">
+            <matching id="matching_1" display="h">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> <image src="p068a.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_1"><b>live in caves.</b></matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> <image src="p068d.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_2"><b>live in rivers.</b></matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> <image src="p068c.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_3"><b>live in the Arctic.</b></matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> <image src="p068b.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_4"><b>live in oceans.</b></matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> <image src="p068e.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_5"><b>live in jungles.</b></matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,54 @@
+<activity id="51e6ba671b434a70b7c4849f1b5304ec" pseudoID="SC_L1_AB_Ch9_p76_ACT01" class="mm_unit9 mm_lesson7 mm_activityNumber1">
+    <rubric>
+        <p>Read and choose <i>tuba</i> or <i>bouzouki</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_readerContainer mm_flexboxSet">
+            <block class="mm_reader mm_border mm_roundedCorner mm_imageLeft mm_tuba">
+                <image src="p076a.jpg" title=""/>
+                <p>This instrument is from Germany. It’s called a tuba. It isn’t small. It’s very big. You play it with your mouth and hands.</p>
+            </block>
+            <block class="mm_reader mm_border mm_roundedCorner mm_imageLeft mm_bouzouki">
+                <image src="p076b.jpg" title=""/>
+                <p>This instrument is from Greece. It’s called a bouzouki. It isn’t very big. It’s small. You play it with your hands.</p>
+            </block>
+        </block>
+        <block/>
+        <block class="mm_radio mm_flexContainer mm_flexboxSet2">
+            <list display="v" type="numbered">
+                <li>
+                    <p>It isn’t small.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain" example="y">
+                        <item id="item_1" correct="y">tuba</item>
+                        <item id="item_2">bouzouki</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>It’s from Germany.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">tuba</item>
+                        <item id="item_2">bouzouki</item>
+                    </radio>
+                </li>
+            </list>
+            
+            <list display="v" type="numbered" start="3">
+                <li>
+                    <p>It’s from Greece.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">tuba</item>
+                        <item id="item_2" correct="y">bouzouki</item>
+                    </radio>
+                    
+                </li>
+                <li>
+                    <p>You don’t play it with your mouth.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">tuba</item>
+                        <item id="item_2" correct="y">bouzouki</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

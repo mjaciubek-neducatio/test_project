@@ -1,0 +1,56 @@
+<activity class="mm_unit9 mm_activityNumber3" id="1f7d9f5f6f504b7cb569366156967613" pseudoID="SC_L4_AB_Ch9_p72_ACT03">
+    <rubric>
+        <p>Choose R (Ryan), J (Jack), or B (both).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p><sSpan class="mm_cWidth">He brought his smartphone.</sSpan>
+                    <radio id="radio_1" display="h" example="y" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">R</item>
+                        <item id="item_2">J</item>
+                        <item id="item_3">B</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">He knows how to catch and cook an animal.</sSpan>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">R</item>
+                        <item id="item_2" correct="y">J</item>
+                        <item id="item_3">B</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">He’s climbed mountains before.</sSpan>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">R</item>
+                        <item id="item_2" correct="y">J</item>
+                        <item id="item_3">B</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">He’s interested in nature.</sSpan>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">R</item>
+                        <item id="item_2">J</item>
+                        <item id="item_3" correct="y">B</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">He hasn’t slept in the wild before.</sSpan>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">R</item>
+                        <item id="item_2">J</item>
+                        <item id="item_3">B</item>
+                    </radio>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

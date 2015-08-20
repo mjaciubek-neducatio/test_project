@@ -1,0 +1,12 @@
+.mm_floatRight img {
+    float: right;
+    margin-right: 6.5em;
+}
+
+.mm_floatRight img + img {
+    clear: both;
+}
+
+
+
+

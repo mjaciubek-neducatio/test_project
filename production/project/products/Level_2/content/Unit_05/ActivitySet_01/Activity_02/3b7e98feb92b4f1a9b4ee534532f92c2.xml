@@ -1,0 +1,23 @@
+<activity class="mm_unit5 mm_activityNumber2" id="3b7e98feb92b4f1a9b4ee534532f92c2" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>play</catName>
+                    <item id="item_1" example="y">volleyball</item>
+                    <item id="item_2">ping-pong</item>
+                    <item id="item_3">basketball</item>
+                    <item id="item_4">tennis</item>
+                </category>
+                <category id="category_2">
+                    <catName>do</catName>
+                    <item id="item_5">judo</item>
+                    <item id="item_6">gymnastics</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

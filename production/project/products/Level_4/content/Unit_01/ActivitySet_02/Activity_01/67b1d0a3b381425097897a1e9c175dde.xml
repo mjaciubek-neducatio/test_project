@@ -1,0 +1,30 @@
+<activity class="mm_unit1 mm_activityNumber1" id="67b1d0a3b381425097897a1e9c175dde" pseudoID="SC_L4_AB_Ch1_p7_ACT04">
+    <rubric>
+        <p>Look and match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingImage">
+            <image src="p007a.jpg" title=""/>  
+        </block>
+        <block class="mm_customMatching">
+            <matching id="matching_1" display="v">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> Was there a swimming pool?</matchItem>
+                    <matchTarget id="matchTarget_1" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> Yes, there was.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> Were there any restaurants?</matchItem>
+                    <matchTarget id="matchTarget_2" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> Yes, there were.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Was there a river?</matchItem>
+                    <matchTarget id="matchTarget_3" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> No, there wasn’t.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> Were there any birds?</matchItem>
+                    <matchTarget id="matchTarget_4" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> No, there weren’t.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,129 @@
+<activity class="mm_unit9 mm_activityNumber1" id="e69de7b29e8e4dcca159f0b2e1a36db1" pseudoID="SC_L4_AB_Ch9_p70_ACT01">
+    <rubric>
+        <p>Match. Then write the letters.</p>
+    </rubric>
+    <main>
+        <block class="mm_exerciseImagesBlock mm_flexContainer mm_flexboxSet4">
+            <p class="mm_matchingNumber">a.</p><image src="p070a.png" title=""/>
+            <p class="mm_matchingNumber">b.</p><image src="p070b.png" title=""/>
+            <p class="mm_matchingNumber">c.</p><image src="p070c.png" title=""/>
+            <p class="mm_matchingNumber">d.</p><image src="p070d.png" title=""/>
+            <p class="mm_matchingNumber">e.</p><image src="p070e.png" title=""/>
+            <p class="mm_matchingNumber">f.</p><image src="p070f.png" title=""/>
+            <p class="mm_matchingNumber">g.</p><image src="p070g.png" title=""/>
+            <p class="mm_matchingNumber">h.</p><image src="p070h.png" title=""/>
+        </block>
+        <block class="mm_matchingExNarrow mm_customMatching">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">make</matchItem>
+                    <matchTarget id="matchTarget_1">a snowman</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">climb</matchItem>
+                    <matchTarget id="matchTarget_2">a tree</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">fly</matchItem>
+                    <matchTarget id="matchTarget_3">a kite</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">catch</matchItem>
+                    <matchTarget id="matchTarget_4">a fish</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">build</matchItem>
+                    <matchTarget id="matchTarget_5">a den</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">swim</matchItem>
+                    <matchTarget id="matchTarget_6">in the ocean</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_7" rank="7">go</matchItem>
+                    <matchTarget id="matchTarget_7">stargazing</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_8" rank="8">watch</matchItem>
+                    <matchTarget id="matchTarget_8">the sunrise</matchTarget>
+                </pair>
+            </matching>
+        </block>
+        <block class="mm_fillInAct">
+            <list display="v" type="numbered">
+                <li>
+                    <p>
+                        <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">f</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">a</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">c</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">h</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">b</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">e</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_7">
+                            <acceptable>
+                                <item id="item_1">g</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_8">
+                            <acceptable>
+                                <item id="item_1">d</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

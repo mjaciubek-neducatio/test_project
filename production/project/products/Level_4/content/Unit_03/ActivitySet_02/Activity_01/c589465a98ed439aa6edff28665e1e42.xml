@@ -1,0 +1,41 @@
+<activity class="mm_unit3 mm_activityNumber2" id="c589465a98ed439aa6edff28665e1e42" pseudoID="SC_L4_AB_Ch3_p24_ACT02">
+    <rubric>
+        <p>Read the story in your Student Book. Choose the correct answers.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>There are <dropDown id="dropDown_1">
+                            <item id="item_1" correct="y">fewer</item>
+                            <item id="item_2">more</item>
+                        </dropDown> trees than before.</p>
+                </li>
+                <li>
+                    <p>The air is <dropDown id="dropDown_2">
+                            <item id="item_1">better</item>
+                            <item id="item_2" correct="y">worse</item>
+                        </dropDown> than before.</p>
+                </li>
+                <li>
+                    <p>It’s <dropDown id="dropDown_3">
+                            <item id="item_1">healthier</item>
+                            <item id="item_2" correct="y">unhealthier</item>
+                        </dropDown> than before.</p>
+                </li>
+                <li>
+                    <p>It’s <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">dirtier</item>
+                            <item id="item_2">cleaner</item>
+                        </dropDown> than before.</p>
+                </li>
+                <li>
+                    <p>The aliens like Earth <dropDown id="dropDown_5">
+                            <item id="item_1">more</item>
+                            <item id="item_2" correct="y">less</item>
+                        </dropDown> than before.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

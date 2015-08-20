@@ -1,0 +1,39 @@
+<activity class="mm_unit9 mm_activityNumber1" id="c00a4aa244534fe6a46fe89fa3cfcf01">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingLeft">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan>go</matchItem>
+                    <matchTarget id="matchTarget_1" rank="2">shopping</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan>meet</matchItem>
+                    <matchTarget id="matchTarget_2" rank="7">my friends</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan>go horseback</matchItem>
+                    <matchTarget id="matchTarget_3" rank="5">riding</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan>go to</matchItem>
+                    <matchTarget id="matchTarget_4" rank="3">the movies</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan>stay</matchItem>
+                    <matchTarget id="matchTarget_5" rank="1">home</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">f.</sSpan>play</matchItem>
+                    <matchTarget id="matchTarget_6" rank="4">computer games</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_7" rank="7"><sSpan class="mm_matchingNumber">g.</sSpan>listen</matchItem>
+                    <matchTarget id="matchTarget_7" rank="6">to music</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

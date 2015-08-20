@@ -1,0 +1,17 @@
+.mm_dialogue {
+    margin-left: 100px;
+    margin-bottom: 0;
+}
+
+.mm_dialogue b {
+    min-width: 100px;
+    margin-left: -105px;
+}
+
+.mm_dialogue ul p, .mm_dialogue .block p {
+    padding-bottom: .75em;
+}
+
+.mm_dialogue ul li:last-child p, .mm_dialogue li:last-child .block p {
+    padding-bottom: 0;
+}

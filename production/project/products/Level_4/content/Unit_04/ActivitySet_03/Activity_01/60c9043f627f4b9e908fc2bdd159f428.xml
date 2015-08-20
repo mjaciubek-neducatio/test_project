@@ -1,0 +1,46 @@
+<activity class="mm_unit4 mm_activityNumber2" id="60c9043f627f4b9e908fc2bdd159f428" pseudoID="SC_L4_AB_Ch4_p32_ACT02">
+    <rubric>
+        <p>Read and choose <i>yes</i> or <i>no</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_radio mm_example">
+                    <p><sSpan class="mm_cWidth">Tom and Sadie are visiting friends.</sSpan>
+                    <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect" example="y">
+                        <item id="item_1">yes</item>
+                        <item id="item_2" correct="y">no</item>
+                    </radio></p>
+                </li>
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">Tom thinks there are people in the house.</sSpan>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">yes</item>
+                        <item id="item_2">no</item>
+                    </radio></p>
+                </li>
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">The house is very dirty.</sSpan>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">yes</item>
+                        <item id="item_2">no</item>
+                    </radio></p>
+                </li>
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">Sadie is scared to go upstairs.</sSpan>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">yes</item>
+                        <item id="item_2" correct="y">no</item>
+                    </radio></p>
+                </li>
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">Tom and Sadie have seen people in the house.</sSpan>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">yes</item>
+                        <item id="item_2" correct="y">no</item>
+                    </radio></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,18 @@
+.mm_customCrossword .across, .mm_customCrossword .down {
+    margin-left:50px;
+}
+
+.mm_missingWord {
+    position: absolute;
+    top: 360px;
+    left: 522px;
+    width: 150px;
+    text-align: center;
+    border: 2px solid #9fd6c2;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.mm_missingWord p:nth-child(2) {
+    margin-top: -10px;
+}

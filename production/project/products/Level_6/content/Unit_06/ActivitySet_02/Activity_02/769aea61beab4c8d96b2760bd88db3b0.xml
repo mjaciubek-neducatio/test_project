@@ -1,0 +1,26 @@
+<activity class="mm_unit6 mm_activityNumber1" id="769aea61beab4c8d96b2760bd88db3b0" pseudoID="SC_L6_AB_Ch6_p51_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_exContent mm_boxShadow">
+            <block class="mm_exHeading mm_handwritten">
+            <p class="mm_left">
+                <sSpan class="mm_customStarOne">★</sSpan>
+                <sSpan class="mm_customStarTwo">★</sSpan>
+                <sSpan class="mm_customStarThree">★</sSpan>
+            </p>
+                <h3>Welcome to Superstar Stage School!</h3>
+            <p class="mm_right">
+                <sSpan class="mm_customStarThree">★</sSpan>
+                <sSpan class="mm_customStarTwo">★</sSpan>
+                <sSpan class="mm_customStarOne">★</sSpan>
+            </p>
+            </block>
+                <p>There’s a place for everyone here. You don’t have to be one of the <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y" rank="5">cast</droppable>.</cSpan> Every <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2" rank="2">performance</droppable></cSpan> we do for the public needs people to help behind the stage. Why not be one of our <cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3" rank="1">backstage crew</droppable>?</cSpan> It’s a great team! Maybe you’re artistic? The stage needs to look good – you could paint the <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_4" rank="3">set</droppable>.</cSpan> Or if you’re good with <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_5" rank="4">make-up</droppable></cSpan> and can paint faces quickly, call us. It’s important that everyone can see what’s happening on stage – why not join our <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_6" rank="7">lighting crew</droppable>?</cSpan> Our <cSpan class="mm_noWrap mm_inlineNumber">7 <droppable id="droppable_7" rank="6">audience</droppable></cSpan> wants to see a great show. Come and help us make it happen!</p>
+                <block class="mm_exUnderline">
+                  
+                </block>
+        </block>
+    </main>
+</activity>

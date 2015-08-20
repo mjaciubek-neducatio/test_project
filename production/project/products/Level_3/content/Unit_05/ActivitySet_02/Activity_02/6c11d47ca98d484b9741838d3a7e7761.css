@@ -1,0 +1,13 @@
+.mm_border {
+	width: 55%;
+	padding: 2em 2em 1.7em;
+	overflow: visible;
+}
+ul.plain > li {
+	margin-bottom: 0.3em;
+}
+
+.mm_itemCenter .mm_centeredItem {
+    margin: auto;
+    text-align: left;
+}

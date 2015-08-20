@@ -1,0 +1,19 @@
+.mm_bubble {
+    width: 30%;
+    display: inline-block;  
+}
+
+.mm_bubble + .mm_bubble {
+    margin-left: 1em;
+}
+
+.mm_typeInList img {
+    width: 3.5em;
+}
+/* .mm_typeInList.mm_resetNumbering ol > li:before {
+    top: 1.6em; 
+} */
+
+/* .activity {
+    background-image: url(../../production/project/products/Level_1/assets/images/ABBackground_arc2.png);
+} */

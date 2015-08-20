@@ -1,0 +1,9 @@
+.mm_imageMatch .matchItem img, .mm_imageMatch .matchTarget img, .mm_imageMatchItem .matchItem img, .mm_imageMatchTarget .matchTarget img {
+    width: auto;
+}
+.mm_customMatching .matchTarget {
+    height: 55px;
+    display: table-cell;
+    vertical-align: middle;
+    width:140px;
+}

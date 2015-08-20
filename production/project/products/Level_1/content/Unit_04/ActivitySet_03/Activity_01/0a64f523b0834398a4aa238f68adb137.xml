@@ -1,0 +1,28 @@
+<activity id="0a64f523b0834398a4aa238f68adb137" pseudoID="SC_L1_AB_Ch4_p32_ACT02" class="mm_unit4 mm_lesson3 mm_activityNumber2 mm_wordBoxBorderSample" desktopDraggable="n">
+    <rubric>
+        <p>Read the story in your Student Book. Complete the sentences about the cat.</p>
+    </rubric>
+    <main>
+    <block class="mm_flexboxSet2575 mm_flexBoxReverse ">
+            <block>
+                <image src="p032a.jpg" title=""/>
+            </block>
+        <block class="mm_typeInList">
+            <list display="v" type="numbered">
+                <li>
+                    <p>The cat is <droppable id="droppable_1" example="y">behind</droppable> the door in the living room.</p>
+                </li>
+                <li>
+                    <p>It isn’t under the <droppable id="droppable_2">table</droppable>.</p>
+                </li>
+                <li>
+                    <p>It <droppable id="droppable_3">isn’t</droppable> in the kitchen.</p>
+                </li>
+                <li>
+                    <p>It<droppable id="droppable_4">’s</droppable> in the bedroom.</p>
+                </li>
+            </list>
+        </block>
+        </block>
+    </main>
+</activity>

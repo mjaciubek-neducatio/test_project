@@ -1,0 +1,42 @@
+<activity class="mm_unit1 mm_activityNumber1" id="010f6917b4b64d81a648e15eb44d977d">
+    <rubric>
+        <p>Look and choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_itemSelectSeparator">
+            <image src="p006a.png" class="mm_exercisePicture1" title=""/>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <radio id="radio_1" display="h" displayType="itemSelect" example="y" type="plain">
+                        <item id="item_1">long hair</item>
+                        <item id="item_2" correct="y">short hair</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">curly hair</item>
+                        <item id="item_2">straight hair</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">blond hair</item>
+                        <item id="item_2" correct="y">black hair</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">beard</item>
+                        <item id="item_2" correct="y">mustache</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">hat</item>
+                        <item id="item_2">glasses</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

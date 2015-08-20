@@ -1,0 +1,26 @@
+<activity id="a2c2b7313dc449c092d610b66c6470dc" pseudoID="SC_L1_AB_Ch7_p55_ACT03" class="mm_unit7 mm_lesson2 mm_itemSelectBigButtons mm_activityNumber1">
+    <rubric>
+        <p>Look, read, and choose the correct descriptions.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexboxSet">
+            <block class="mm_checkbox mm_checkboxItemSelectNumbers">       
+                <image src="p055a.jpg" title=""/>
+                <checkbox id="checkbox_1" display="h" type="numbered" displayType="itemSelect">
+                    <item id="item_1" correct="y" example="y">It has a big body.</item>
+                    <item id="item_2">It has two legs.</item>
+                    <item id="item_3" correct="y">It doesn’t have any arms.</item>
+                </checkbox>
+            </block>
+            
+            <block class="mm_checkbox mm_checkboxItemSelectNumbers mm_monkey">       
+                <image src="p055b.jpg" title=""/>
+                <checkbox id="checkbox_2" display="h" start="4" type="numbered" displayType="itemSelect">
+                    <item id="item_1" correct="y">It has two hands.</item>
+                    <item id="item_2">It doesn’t have a tail.</item>
+                    <item id="item_3">It has a long neck.</item>
+                </checkbox>
+            </block>
+        </block>
+    </main>
+</activity>

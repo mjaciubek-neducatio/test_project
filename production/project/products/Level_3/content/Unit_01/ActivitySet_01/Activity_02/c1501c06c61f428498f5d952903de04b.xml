@@ -1,0 +1,66 @@
+<activity id="c1501c06c61f428498f5d952903de04b" pseudoID="SC_L3_AB_Ch1_p7_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Look and choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio mm_itemSelectSeparator mm_inlineQuestion">
+            <list display="v" type="plain">
+                <li>
+                    <p class="mm_roundedImage mm_imageBorder">
+                        <image src="p007a.jpg" title=""/><sSpan class="mm_radioLabelNumber">1.</sSpan> In my school, we</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" example="y" type="plain">
+                        <item id="item_1" correct="y">have to</item>
+                        <item id="item_2">don’t have to</item>
+                    </radio>
+                    <p>wear a school uniform.</p>
+                </li>
+                <li>
+                    <p class="mm_roundedImage mm_imageBorder">
+                        <image src="p007b.jpg" title=""/><sSpan class="mm_radioLabelNumber">2.</sSpan> We</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">have to</item>
+                        <item id="item_2">don’t have to</item>
+                    </radio>
+                    <p>do a lot of homework.</p>
+                </li>
+                <li>
+                    <p class="mm_roundedImage mm_imageBorder">
+                        <image src="p007c.jpg" title=""/><sSpan class="mm_radioLabelNumber">3.</sSpan> On Saturdays, we</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">have to</item>
+                        <item id="item_2" correct="y">don’t have to</item>
+                    </radio>
+                    <p>go to school.</p>
+                </li>
+     
+                <li>
+                    <p class="mm_roundedImage mm_imageBorder">
+                        <image src="p007d.jpg" title=""/><sSpan class="mm_radioLabelNumber">4.</sSpan> You</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">have to</item>
+                        <item id="item_2" correct="y">don’t have to</item>
+                    </radio>
+                    <p>stay in the classroom at recess.</p>
+                </li>
+                <li>
+                    <p class="mm_roundedImage mm_imageBorder">
+                        <image src="p007e.jpg" title=""/><sSpan class="mm_radioLabelNumber">5.</sSpan> You</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">have to</item>
+                        <item id="item_2">don’t have to</item>
+                    </radio>
+                    <p>get your parents’ permission.</p>
+                </li>
+                <li>
+                    <p class="mm_roundedImage mm_imageBorder">
+                        <image src="p007f.jpg" title=""/><sSpan class="mm_radioLabelNumber">6.</sSpan> You</p>
+                    <radio id="radio_6" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">have to</item>
+                        <item id="item_2" correct="y">don’t have to</item>
+                    </radio>
+                    <p>bring a packed lunch.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

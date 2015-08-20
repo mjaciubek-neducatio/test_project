@@ -1,0 +1,27 @@
+<activity id="ec0318dbe17c40f9a574a7d45ca63089" pseudoID="SC_L3_AB_ChW_p5_ACT03" class="mm_activityNumber3" desktopDraggable="n">
+    <rubric>
+        <p>Match the names to the sentences.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>She has long, blond hair and green eyes. She likes bright clothes. <droppable id="droppable_1" example="y">Felicity</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p>He’s very good at sports. He often wears sporty clothes. <droppable id="droppable_2">Cheng</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p>He’s clever. He likes computers and video games. <droppable id="droppable_3">Miguel</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p>He’s a student at college. He helps the children in Story Central. <droppable id="droppable_4">Jason</droppable>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

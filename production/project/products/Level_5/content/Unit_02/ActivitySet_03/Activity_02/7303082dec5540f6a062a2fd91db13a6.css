@@ -1,0 +1,11 @@
+.mm_imageBackground {
+  	min-height: 250px;
+ 	background-image: url(../../production/project/products/Level_5/assets/images/p016a.png);
+ 	margin-top: 0.875em;
+ 	margin-left: 0.437em;
+ }
+
+.mm_checkboxItems {
+	margin-top: 3em;
+	width: 700px;
+}

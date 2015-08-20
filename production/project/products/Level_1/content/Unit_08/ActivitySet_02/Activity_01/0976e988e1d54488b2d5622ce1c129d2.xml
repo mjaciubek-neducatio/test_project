@@ -1,0 +1,24 @@
+<activity id="0976e988e1d54488b2d5622ce1c129d2" pseudoID="SC_L1_AB_Ch8_p65_ACT01" class="mm_unit8 mm_lesson4 mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>green</catName>
+                    <item id="item_1" example="y">green beans</item>
+                    <item id="item_2">broccoli</item>
+                    <item id="item_3">salad</item>
+                </category>
+                <category id="category_2">
+                    <catName>not green</catName>
+                    <item id="item_4" example="y">pizza</item>
+                    <item id="item_5">fries</item>
+                    <item id="item_6">burger</item>
+                    <item id="item_7">cake</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

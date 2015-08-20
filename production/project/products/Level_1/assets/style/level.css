@@ -1,0 +1,125 @@
+/* ACTIVITY BACKGROUND IMAGE */
+.activity {
+	background-image: url(../images/ABBackground.png);
+}
+
+
+/* RUBRIC ACTIVITY NUMBER */
+.rubric .rubricBody p:before {
+	background-image: url(../images/activityNumbersAB.png);
+}
+
+
+/*  COLOUR NOTES */
+.generalUserColour,
+.generalInteractivityColour,
+.levelColor,
+.locating_answer {
+	color: #F9B122;
+}
+
+
+/*	UNMARKED ELEMENTS AND STYLE HELPERS */
+
+.mm_wordBox,
+.mm_border,
+.mm_imageBorder img,
+.category {
+	border-color: #F9B122;
+}
+
+.mm_matchingNumber,
+.caption,
+ol > li,
+li.mm_example {
+	color: #F9B122;
+}
+
+ol > li p {
+	color: #000;
+}
+
+
+/* WORDBOX THEME */
+
+.wordBox ul,
+.rcfWordSearchGridChosenWords .wordSearchWords {
+	background-color:#F9B122;
+	background-position:-5px -5px, -5px -5px;
+}
+
+
+/* SHARED SELECTED ELEMENT COLOURS */
+
+/* SELECTED ITEM FONT COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.desktop .mm_itemSelectBigButtons .checkboxItemSelect.horizontal .selected, /* checkbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */
+.rcfWordSearchGrid .ws-selected,
+.selected .mm_matchingNumber,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+	color: #fff;
+}
+.crosswordClueContainer li,
+.mm_postitionNumbers .selected .mm_matchingNumber {
+	color: #F9B122;
+}
+
+/* SELECTED ITEM BACKGROUND COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dragTarget.selected, /* selected dropped droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.desktop .mm_itemSelectBigButtons .checkboxItemSelect.horizontal .selected, /* checkbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */ 
+.rcfWordSearchGrid .ws-highlight,
+.rcfWordSearchGrid .ws-selected,
+.mobile .rcfWordSearchGrid .ws-start,
+.wordSearchContainer[data-draggable='n'] .rcfWordSearchGrid .ws-start,
+.rcfWordSearchGrid .ws-glowing,
+table.crossword input.editing,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+    background-color: #F9B122;
+}
+
+/* SELECTED ITEM BORDER COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.desktop .mm_itemSelectBigButtons .checkboxItemSelect.horizontal .selected, /* checkbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */
+.category {
+	border-color: #F9B122;
+}
+.desktop .checkboxItemSelect .selectable.selected,
+.radioItemSelect .selectable.selected {
+	border-color: #F9B122  !important; /* separated from above + !important to overwrite RCF core */
+}
+table.crossword input.editing:focus {
+    background-color: #ffcd6b;
+}
+
+
+/* OTHER SELECTED ITEM COLOURS */
+.matchingContainer .selected ~._jsPlumb_endpoint circle {
+	fill: #F9B122;
+}
+
+/* TYPEIN GLOW ON FOCUS */
+.typein input.text:focus,
+.typeinGroup input.typeinGroup:focus {
+	box-shadow: 2px 2px 19px #F9B122;
+}

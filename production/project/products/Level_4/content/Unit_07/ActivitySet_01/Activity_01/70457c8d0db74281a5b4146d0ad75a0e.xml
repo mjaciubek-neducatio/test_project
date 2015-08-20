@@ -1,0 +1,72 @@
+<activity class="mm_unit7 mm_activityNumber1" id="70457c8d0db74281a5b4146d0ad75a0e" pseudoID="SC_L4_AB_Ch7_p54_ACT01">
+    <rubric>
+        <p>Look and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageBlockLeft">
+            <image src="p054a.jpg" title=""/>
+        </block>
+        <block class="mm_flexcontainer mm_flexboxSet3 mm_exerciseContent">
+        <block>
+            <image src="p054b.jpg" title=""/>
+            <p><sSpan class="mm_matchingNumber">1. </sSpan><typein id="typein_1" example="y">
+                    <acceptable>
+                        <item id="item_1">button</item>
+                    </acceptable>
+                </typein>
+            </p>
+        </block>
+        <block>
+            <image src="p054c.jpg" title=""/>
+            <p><sSpan class="mm_matchingNumber">2. </sSpan><typein id="typein_2">
+                <prefix>n</prefix>
+                    <acceptable>
+                        <item id="item_1">ecklace</item>
+                    </acceptable>
+                </typein>
+            </p>
+            </block>
+            <block>
+            <image src="p054d.jpg" title=""/>
+            <p><sSpan class="mm_matchingNumber">3. </sSpan><typein id="typein_3">
+                <prefix>g</prefix>
+                    <acceptable>
+                        <item id="item_1">loves</item>
+                    </acceptable>
+                </typein>
+            </p>
+            </block>
+            <block>
+            <image src="p054e.jpg" title=""/>
+            <p><sSpan class="mm_matchingNumber">4. </sSpan><typein id="typein_4">
+                <prefix>b</prefix>
+                    <acceptable>
+                        <item id="item_1">elt</item>
+                    </acceptable>
+                </typein>
+            </p>
+            </block>
+            <block>
+            <image src="p054f.jpg" title=""/>
+            <p><sSpan class="mm_matchingNumber">5. </sSpan><typein id="typein_5">
+                <prefix>s</prefix>
+                    <acceptable>
+                        <item id="item_1">carf</item>
+                    </acceptable>
+                </typein>
+            </p>
+            </block>
+            <block>
+            <image src="p054g.jpg" title=""/>
+            <p><sSpan class="mm_matchingNumber">6. </sSpan><typein id="typein_6">
+                <prefix>t</prefix>
+                    <acceptable>
+                        <item id="item_1">ie</item>
+                    </acceptable>
+                </typein>
+            </p>
+            </block>
+            </block>
+    
+    </main>
+</activity>

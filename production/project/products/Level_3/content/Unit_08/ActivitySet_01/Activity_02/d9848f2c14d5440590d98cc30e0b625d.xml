@@ -1,0 +1,50 @@
+<activity id="d9848f2c14d5440590d98cc30e0b625d" pseudoID="SC_L3_AB_Ch8_p63_ACT04" class="mm_activityNumber1">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio mm_inlineQuestion mm_itemSelectSeparator">
+            <list display="v" type="numbered">
+                <li>
+                    <p>I</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" type="plain" example="y">
+                        <item id="item_1" correct="y">got</item>
+                        <item id="item_2">get</item>
+                    </radio>
+                    <p>a new video game for my birthday last year.</p>
+                </li>
+                <li>
+                    <p>My uncle</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">gave</item>
+                        <item id="item_2">gives</item>
+                    </radio>
+                    <p>me a present, too.</p>
+                </li>
+                <li>
+                    <p>When you press the red button, the car
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">moves</item>
+                        <item id="item_2">moved</item>
+                    </radio>.</p>
+                </li>
+                <li>
+                    <p>My sister</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">loves</item>
+                        <item id="item_2">’s loving</item>
+                    </radio>
+                    <p>video games, too.</p>
+                </li>
+                <li>
+                    <p>He</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">’s playing</item>
+                        <item id="item_2">plays</item>
+                    </radio>
+                    <p>a game right now.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

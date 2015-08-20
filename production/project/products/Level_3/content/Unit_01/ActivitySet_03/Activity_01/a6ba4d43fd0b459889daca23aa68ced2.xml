@@ -1,0 +1,21 @@
+<activity id="a6ba4d43fd0b459889daca23aa68ced2" pseudoID="SC_L3_AB_Ch1_p10_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <p class="mm_example"><sSpan class="mm_droppableTarget mm_awCircleNumbering">1</sSpan> <droppable id="droppable_1" example="y">entrance</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_awCircleNumbering">2</sSpan> <droppable id="droppable_2">ticket office</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_awCircleNumbering">3</sSpan> <droppable id="droppable_3">aquarium</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_awCircleNumbering">4</sSpan> <droppable id="droppable_4">enclosures</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_awCircleNumbering">5</sSpan> <droppable id="droppable_5">playground</droppable>
+            </p>
+            <p><sSpan class="mm_droppableTarget mm_awCircleNumbering">6</sSpan> <droppable id="droppable_6">picnic area</droppable>
+            </p>
+        </block>
+    </main>
+</activity>

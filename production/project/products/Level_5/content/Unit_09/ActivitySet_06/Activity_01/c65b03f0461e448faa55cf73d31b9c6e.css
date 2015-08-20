@@ -1,0 +1,81 @@
+.mm_tabletTemplate {
+	width: 70%;
+	margin: -1.5em auto 0;
+	position: relative;
+	background: #7f8083;
+	background: -moz-linear-gradient(-45deg,  #7f8083 0%, #231f20 41%);
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#7f8083), color-stop(41%,#231f20));
+	background: -webkit-linear-gradient(-45deg,  #7f8083 0%,#231f20 41%);
+	background: -o-linear-gradient(-45deg,  #7f8083 0%,#231f20 41%);
+	background: -ms-linear-gradient(-45deg,  #7f8083 0%,#231f20 41%);
+	background: linear-gradient(135deg,  #7f8083 0%,#231f20 41%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f8083', endColorstr='#231f20',GradientType=1 );
+	padding: 16px 16px 16px 60px;
+	border-radius: 20px;
+}
+.mm_tabletContent {
+	background: #fff url('../../production/project/products/Level_5/assets/images/p075a.gif') repeat-x top center;
+	background: #fff;
+	background: url('../../production/project/products/Level_5/assets/images/p075a.gif') repeat-x top center, -moz-linear-gradient(45deg,  #e0edf8 0%, #ffffff 50%, #e0edf8 100%);
+	background: url('../../production/project/products/Level_5/assets/images/p075a.gif') repeat-x top center, -webkit-gradient(linear, left bottom, right top, color-stop(0%,#e0edf8), color-stop(50%,#ffffff), color-stop(100%,#e0edf8));
+	background: url('../../production/project/products/Level_5/assets/images/p075a.gif') repeat-x top center, -webkit-linear-gradient(45deg,  #e0edf8 0%,#ffffff 50%,#e0edf8 100%);
+	background: url('../../production/project/products/Level_5/assets/images/p075a.gif') repeat-x top center, -o-linear-gradient(45deg,  #e0edf8 0%,#ffffff 50%,#e0edf8 100%);
+	background: url('../../production/project/products/Level_5/assets/images/p075a.gif') repeat-x top center, -ms-linear-gradient(45deg,  #e0edf8 0%,#ffffff 50%,#e0edf8 100%);
+	background: url('../../production/project/products/Level_5/assets/images/p075a.gif') repeat-x top center, linear-gradient(45deg,  #e0edf8 0%,#ffffff 50%,#e0edf8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0edf8', endColorstr='#e0edf8',GradientType=1 );
+
+	border: 1px solid;
+	border-radius: 10px;
+	-moz-box-shadow:    inset 0 0 20px #454545;
+    -webkit-box-shadow: inset 0 0 20px #454545;
+    box-shadow:         inset 0 0 20px #454545;
+}
+.mm_tabletContent h2 {
+	margin-bottom: 0.437em;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 0.437em;
+	color: #fff;
+	text-shadow: 2px 2px 1px rgba(0, 0, 0, 4);
+	text-align: center;
+}
+.mm_tabletContent h2 .sSpan {
+	text-transform: uppercase;
+	color: #a2c8eb;
+}
+.mm_tabletContent p {
+	padding: 0.437em 0.875em;
+	padding-top: 0;
+}
+.mm_buttonContainer {
+	position: absolute;
+	margin: 0;
+	height: 100%;
+	top: 0;
+	left: 0;
+	width: 60px;
+}
+.mm_tabletButton {
+	position: absolute;
+	left: 10px;
+	top: 50%;
+	margin-top: -20px;
+	width: 40px;
+	height: 40px;
+	background: #666;
+	border-radius: 50%;
+	-webkit-box-shadow: inset 5px 5px 15px 0px #333;
+	-moz-box-shadow:    inset 5px 5px 15px 0px #333;
+	box-shadow:         inset 5px 5px 15px 0px #333;
+}
+.mm_tabletButton:before {
+	content: "";
+	position: absolute;
+	top: 13px;
+	left: 13px;
+	width: 14px;
+	height: 14px;
+	border: 1px solid #888;
+	border-radius: 25%;
+
+}

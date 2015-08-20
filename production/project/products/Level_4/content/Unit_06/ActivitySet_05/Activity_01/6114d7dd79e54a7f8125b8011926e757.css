@@ -1,0 +1,39 @@
+.mm_activityContent {
+    margin: 15px auto 0;
+    position: relative;
+    width: 320px;
+}
+
+.mm_customTable:before {
+    content: "";
+    position: absolute;
+    top: -15px;
+    left: 0;
+    width: 100%;
+    height: 15px;
+    background: rgba(139,152,217,1);
+	background: -moz-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(139,152,217,1)), color-stop(98%, rgba(81,96,172,1)));
+	background: -webkit-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: -o-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: -ms-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: linear-gradient(to bottom, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b98d9', endColorstr='#5160ac', GradientType=0 );
+}
+
+.mm_customTable:after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 15px;
+	background: rgba(139,152,217,1);
+	background: -moz-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(139,152,217,1)), color-stop(98%, rgba(81,96,172,1)));
+	background: -webkit-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: -o-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: -ms-linear-gradient(top, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	background: linear-gradient(to bottom, rgba(139,152,217,1) 0%, rgba(81,96,172,1) 98%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b98d9', endColorstr='#5160ac', GradientType=0 );
+}

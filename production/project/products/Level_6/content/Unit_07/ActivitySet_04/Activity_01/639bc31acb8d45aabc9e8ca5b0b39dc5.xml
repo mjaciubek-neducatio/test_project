@@ -1,0 +1,38 @@
+<activity class="mm_unit7 mm_activityNumber1" id="639bc31acb8d45aabc9e8ca5b0b39dc5" pseudoID="SC_L6_AB_Ch7_p60_ACT01">
+    <rubric>
+        <p>Read and match. </p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan>Smile and the whole world</matchItem>
+                    <matchTarget id="matchTarget_1" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan>smiles with you.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan>Laughter is</matchItem>
+                    <matchTarget id="matchTarget_2" rank="6"><sSpan class="mm_matchingNumber">f.</sSpan>the best medicine.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan>The best way to be cheerful</matchItem>
+                    <matchTarget id="matchTarget_3" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan>is to make someone else cheerful.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan>We don’t laugh because we’re happy ‒</matchItem>
+                    <matchTarget id="matchTarget_4" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan>we’re happy because we laugh.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan>Dogs laugh,</matchItem>
+                    <matchTarget id="matchTarget_5" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan>but they laugh with their tails.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan>Everyone smiles</matchItem>
+                    <matchTarget id="matchTarget_6" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan>in the same language.</matchTarget>
+                </pair>
+            </matching>
+            <block class="mm_exImage">
+                <image src="p060a.png" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

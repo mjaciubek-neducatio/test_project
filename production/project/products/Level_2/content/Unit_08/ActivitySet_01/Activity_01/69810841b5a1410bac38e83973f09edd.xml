@@ -1,0 +1,45 @@
+<activity class="mm_unit8 mm_activityNumber1" id="69810841b5a1410bac38e83973f09edd" desktopDraggable="n">
+    <rubric>
+        <p>Match the words with the animals.</p>
+    </rubric>
+    <main>
+        <block class="mm_smallCat">
+            <complexCategorise id="complexCategorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <items>
+                    <item id="cd_1">a beak</item>
+                    <item id="cd_2">a pouch</item>
+                    <item id="cd_3">a tail</item>
+                    <item id="cd_4">feathers</item>
+                    <item id="cd_5">fins</item>
+                    <item id="cd_6">fur</item>
+                    <item id="cd_7">scales</item>
+                    <item id="cd_8">wings</item>
+                </items>
+                <categories>
+                    <category id="complexCategory_1">
+                        <catName>parrot</catName>
+                        <item id="cd_8"/>
+                        <item id="cd_3"/>
+                        <item id="cd_1"/>
+                        <item id="cd_4"/>
+                    </category>
+                    <category id="complexCategory_2">
+                        <catName>kangaroo</catName>
+                        <item id="cd_3"/>
+                        <item id="cd_2"/>
+                        <item id="cd_6"/>
+                    </category>
+                    <category id="complexCategory_3">
+                        <catName>snake</catName>
+                        <item id="cd_7"/>
+                    </category>
+                    <category id="complexCategory_4">
+                        <catName>fish</catName>
+                        <item id="cd_3"/>
+                        <item id="cd_5"/>
+                    </category>
+                </categories>
+            </complexCategorise>
+        </block>
+    </main>
+</activity>

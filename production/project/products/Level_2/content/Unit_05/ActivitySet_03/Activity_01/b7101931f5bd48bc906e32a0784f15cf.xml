@@ -1,0 +1,72 @@
+<activity class="mm_unit5 mm_activityNumber1" id="b7101931f5bd48bc906e32a0784f15cf">
+    <rubric>
+        <p>Unscramble the words.</p>
+    </rubric>
+    <main>
+        <block class="mm_floatLeft">
+            <list display="v" type="numbered">
+            
+                <li class="mm_example">
+                    <ordering id="ordering_1" display="h" example="y">
+                        <item id="item_1">t</item>
+                        <item id="item_2">h</item>
+                        <item id="item_3">r</item>
+                        <item id="item_4">o</item>
+                        <item id="item_5">w</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" display="h">
+                        <item id="item_1" rank="1">c</item>
+                        <item id="item_2" rank="2">a</item>
+                        <item id="item_3" rank="5">t</item>
+                        <item id="item_4" rank="4">c</item>
+                        <item id="item_5" rank="3">h</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" display="h">
+                        <item id="item_1" rank="2">b</item>
+                        <item id="item_2" rank="1">o</item>
+                        <item id="item_3" rank="3">u</item>
+                        <item id="item_4" rank="4">n</item>
+                        <item id="item_5" rank="6">c</item>
+                        <item id="item_6" rank="5">e</item>
+                    </ordering>
+                </li>
+                
+            </list>
+        </block>
+        <block class="mm_floatLeft">
+            <list display="v" type="numbered" start="4">
+            
+                <li>
+                    <ordering id="ordering_4" display="h">
+                        <item id="item_1" rank="3">s</item>
+                        <item id="item_2" rank="4">c</item>
+                        <item id="item_3" rank="1">o</item>
+                        <item id="item_4" rank="2">r</item>
+                        <item id="item_5" rank="5">e</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_5" display="h">
+                        <item id="item_1" rank="2">w</item>
+                        <item id="item_2" rank="1">i</item>
+                        <item id="item_3" rank="3">n</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_6" display="h">
+                        <item id="item_1" rank="3">s</item>
+                        <item id="item_2" rank="1">h</item>
+                        <item id="item_3" rank="2">o</item>
+                        <item id="item_4" rank="4">u</item>
+                        <item id="item_5" rank="5">t</item>
+                    </ordering>
+                </li>
+                
+            </list>
+       </block>
+    </main>
+</activity>

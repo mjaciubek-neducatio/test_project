@@ -1,0 +1,41 @@
+<activity id="587f7ccda1ac473793335e5b3b18c0b6" pseudoID="SC_L3_AB_Ch1_p9_ACT05" class="mm_activityNumber2">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>The children <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">like</item>
+                            <item id="item_2">don’t like</item>
+                        </dropDown> Nicholas.</p>
+                </li>
+                <li>
+                    <p>They think Nicholas is <dropDown id="dropDown_2">
+                            <item id="item_1">silly</item>
+                            <item id="item_2" correct="y">funny</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Nicholas is <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">good at</item>
+                            <item id="item_2">not very good at</item>
+                        </dropDown> making things.</p>
+                </li>
+                <li>
+                    <p>Tom <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">is</item>
+                            <item id="item_2">isn’t</item>
+                        </dropDown> nice to Nicholas.</p>
+                </li>
+                <li>
+                    <p>Nicholas wants to <dropDown id="dropDown_5">
+                            <item id="item_1" correct="y">thank</item>
+                            <item id="item_2">help</item>
+                        </dropDown> his friends.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

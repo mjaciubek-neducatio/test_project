@@ -1,0 +1,20 @@
+/* WORDSNAKE */
+
+/* Activity specific wordsnake code */
+
+.mm_wordSnake {
+    letter-spacing: -1.5px; /* adjustment to cope with reduced .main width */
+    -webkit-transform: rotate(-2deg);
+    Firefox
+    -moz-transform: rotate(-2deg);
+	IE
+	-ms-transform: rotate(-2deg);
+	Opera
+	-o-transform: rotate(-2deg);
+    padding: 144px 0;
+	background-image: url(../../production/project/products/Level_1/assets/images/p010_ruler.png);
+}
+
+/* .activity {
+    background-image: url(../../production/project/products/Level_1/assets/images/ABBackground_curl.png);
+} */

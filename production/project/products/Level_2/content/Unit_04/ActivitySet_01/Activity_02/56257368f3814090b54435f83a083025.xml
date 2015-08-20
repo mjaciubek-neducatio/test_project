@@ -1,0 +1,26 @@
+<activity class="mm_unit4 mm_activityNumber2" id="56257368f3814090b54435f83a083025" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in three groups.</p>
+    </rubric>
+    <main>
+        <block class="mm_customCategories">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>In the park, dogs …</catName>
+                    <item id="item_1" rank="5" example="y">walk</item>
+                    <item id="item_2" rank="6">jump</item>
+                </category>
+                <category id="category_2">
+                    <catName>In the park and at home, dogs…</catName>
+                    <item id="item_3" rank="2">bark</item>
+                    <item id="item_4" rank="1">sit</item>
+                </category>
+                <category id="category_3">
+                    <catName>At home, dogs…</catName>
+                    <item id="item_5" rank="4">sleep</item>
+                    <item id="item_6" rank="3">eat</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

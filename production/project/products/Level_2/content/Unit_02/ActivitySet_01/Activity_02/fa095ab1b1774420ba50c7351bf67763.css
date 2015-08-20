@@ -1,0 +1,52 @@
+ .mm_bigLineHeight {
+     line-height: 2em;
+ }
+
+.mm_exerciseColumn1 {
+	float:left;
+}
+
+.mm_exerciseContent ol li {
+	list-style-position: inside; 
+    margin-bottom: 0;
+}
+
+.mm_bubble {
+	width: 78%;
+}
+
+.mm_exercisePicture {
+	margin-top: 50px;
+}
+
+.mm_relativeContainer {
+    position: relative;
+}
+
+.mm_imageNumbers p {
+	position: absolute;
+	color: #E01E78;
+	font-weight: bold;
+}
+
+.mm_imageNumbers {
+	position: absolute;
+    top: -9.5em;
+	left: 1.5em;
+	width: 100%;
+	height: 100%;
+}
+
+.mm_imageNumbers p:nth-child(1) {
+    left: 115px;
+}
+.mm_imageNumbers p:nth-child(2) {
+	left: 230px;
+}
+.mm_imageNumbers p:nth-child(3) {
+    left: 585px;
+}
+
+.mm_imageNumbers p:nth-child(4) {
+    left: 675px;
+}

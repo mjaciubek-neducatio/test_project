@@ -1,0 +1,42 @@
+.mm_background {
+    background-image: url(../../production/project/products/Level_6/assets/images/p046c.jpg);
+    background-size: cover;
+    padding-bottom: 390px;
+    margin-top: -40px;
+}
+
+.mm_exContent p:nth-child(1) {
+    position: absolute;
+    top: 115px;
+    left: 40px;
+}
+
+.mm_exContent p:nth-child(2) {
+    position: absolute;
+    top: 120px;
+    left: 630px;
+}
+
+.mm_exContent p:nth-child(3) {
+    position: absolute;
+    top: 305px;
+    left: 80px;
+    font-size: 0.8em;
+}
+
+.mm_exContent p:nth-child(4) {
+    position: absolute;
+    top: 240px;
+    left: 800px;
+}
+
+.mm_exContent p:nth-child(5) {
+    position: absolute;
+    top: 333px;
+    left: 506px;
+}
+
+.mm_title {
+    color: #1dad8a;
+    font-weight: 700;
+}

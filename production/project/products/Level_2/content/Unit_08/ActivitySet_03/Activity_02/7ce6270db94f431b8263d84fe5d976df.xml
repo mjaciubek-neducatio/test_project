@@ -1,0 +1,49 @@
+<activity class="mm_unit8 mm_activityNumber1" id="7ce6270db94f431b8263d84fe5d976df">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_floatRight mm_radio mm_itemSelectSeparator">
+            <image src="p067a.jpg" title=""/>
+            <image src="p067b.jpg" title=""/>
+        
+            <list display="v" type="numbered" class="mm_floatLeft">
+                <li class="mm_example">
+                    <p>They eat grass.</p>
+                    <radio id="radio_1" display="h" example="y" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">kangaroos</item>
+                        <item id="item_2">dolphins</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>They eat fish.</p>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">kangaroos</item>
+                        <item id="item_2" correct="y">dolphins</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>They live in oceans around the world.</p>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">kangaroos</item>
+                        <item id="item_2" correct="y">dolphins</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>They live in forests in Australia.</p>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">kangaroos</item>
+                        <item id="item_2">dolphins</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The swim and sleep at the same time.</p>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">kangaroos</item>
+                        <item id="item_2" correct="y">dolphins</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

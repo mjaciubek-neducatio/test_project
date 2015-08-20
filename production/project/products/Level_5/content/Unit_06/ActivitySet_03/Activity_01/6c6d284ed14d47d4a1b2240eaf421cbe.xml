@@ -1,0 +1,56 @@
+<activity id="6c6d284ed14d47d4a1b2240eaf421cbe" pseudoID="SC_L5_AB_Ch6_p49_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Write the sentences as a playscript.</p>
+    </rubric>
+    <main>
+  <block class="mm_imageRight">
+          <block>
+            <image src="p049a.png" title=""/>
+            </block>
+            <block class="mm_list">
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">"Are we safe now?" asked Amy. <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">Amy: Are we safe now?</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>"Where’s my journal?" asked Amy. <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">Amy: Where’s my journal?</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>"Look at that iceberg!" said the girl. <typein id="typein_3">
+                            <acceptable>
+                            <item id="item_1">Girl: Look at that iceberg!</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>Aunt Edith said, "I’m cold so I’m going inside." <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">Aunt Edith: I’m cold so I’m going inside.</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>The officer shouted, "Come to the boat deck!" <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">Officer: Come to the boat deck!</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+            </list>
+            </block>
+        </block>
+    </main>
+</activity>

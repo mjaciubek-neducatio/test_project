@@ -1,0 +1,29 @@
+<activity class="mm_unit2 mm_activityNumber1" id="5d497c9d46a049c7b2f5618eb6cda66c" pseudoID="SC_L6_AB_Ch2_p20_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Read and sort into two paragraphs.</p>
+    </rubric>
+    <main>
+        <block class="mm_customCategory">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>Graffiti</catName>
+                    <item id="item_1">It’s a type of street art.</item>
+                    <item id="item_2">It’s found on walls in cities.</item>
+                    <item id="item_3">The artists usually use colorful paints.</item>
+                    <item id="item_4">Artists write words and paint pictures.</item>
+                    <item id="item_5">Artists usually work very quickly.</item>
+                    <item id="item_6">It lasts a long time and is difficult to remove.</item>
+                </category>
+                <category id="category_2">
+                    <catName>Sand art</catName>
+                    <item id="item_7">It’s usually done on beaches.</item>
+                    <item id="item_8">The artists make models.</item>
+                    <item id="item_9">Sand and water are used.</item>
+                    <item id="item_10">Popular shapes are animals, people, and castles.</item>
+                    <item id="item_11">Artists have to be very patient.</item>
+                    <item id="item_12">It disappears when it rains.</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

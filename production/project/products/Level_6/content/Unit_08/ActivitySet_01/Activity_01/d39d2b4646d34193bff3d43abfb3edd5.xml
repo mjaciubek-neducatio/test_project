@@ -1,0 +1,52 @@
+<activity class="mm_unit8 mm_activityNumber1" id="d39d2b4646d34193bff3d43abfb3edd5" pseudoID="SC_L6_AB_Ch8_p62_ACT01" seed="2">
+    <rubric>
+        <p>Complete the puzzle. Then write the hidden word.</p>
+    </rubric>
+    <main>
+        <block class="mm_customCrossword">
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>social</value>
+                        <clue><image src="p062a.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>connect</value>
+                        <clue><image src="p062b.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>network</value>
+                        <clue><image src="p062a.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>smartphone</value>
+                        <clue><image src="p062c.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>click</value>
+                        <clue><image src="p062d.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_6">
+                        <value>networking</value>
+                        <clue><image src="p062e.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_7">
+                        <value>password</value>
+                        <clue><image src="p062f.jpg" title=""/></clue>
+                    </word>
+                    <hiddenWord>settings</hiddenWord>
+                </words>
+            </crossword>
+        </block>
+        <block class="mm_missingWord">
+            <p>Hidden word: </p>
+            <p><typein id="typein_49">
+                    <acceptable>
+                        <item id="item_1">settings</item>
+                        <item id="item_2">SETTINGS</item>
+                    </acceptable>
+                </typein>
+            </p>
+        </block>
+    </main>
+</activity>

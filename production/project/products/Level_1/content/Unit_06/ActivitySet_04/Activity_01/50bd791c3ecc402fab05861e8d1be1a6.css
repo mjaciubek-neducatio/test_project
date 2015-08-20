@@ -1,0 +1,44 @@
+.rcfWordSearchGrid {
+   /*  margin-left: 10%; */
+}
+
+/* .mm_imageRight img {
+    width: 30%;
+    margin-right: 10%;
+    margin-bottom: 0.875em;
+} */
+
+.rcfWordSearchGridChosenWords {
+    clear: both;
+}
+
+
+
+.mm_wordSearchClues {
+    width: 66%;
+    position: relative;
+}
+
+.mm_wordSearchClues ol {
+    padding: 0;
+    vertical-align: top;
+   justify-content: flex-start;
+
+}
+
+.mm_flexboxSet4 > ol {
+    width: 17.55%;
+/*     box-sizing: border-box; */
+    padding: 0;
+    vertical-align: top; 
+    margin-left: 5%;
+}
+
+.mm_flexboxSet4 > li:nth-child(4n) {
+    margin-right: 0;
+}
+
+.mm_flexboxSet4 > li img {
+    vertical-align: top;
+    width: 100%;
+}

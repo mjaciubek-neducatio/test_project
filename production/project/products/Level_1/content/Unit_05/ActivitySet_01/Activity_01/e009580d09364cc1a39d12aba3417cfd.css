@@ -1,0 +1,4 @@
+p .typein:nth-child(odd) .markable .text {
+    max-width: 8em;
+
+}

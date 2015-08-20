@@ -1,0 +1,35 @@
+<activity id="bedf887fcfd5483da2343244be8dbc65" pseudoID="SC_L1_AB_Ch9_p73_ACT02" class="mm_unit9 mm_lesson4 mm_activityNumber2">
+    <rubric>
+        <p>Match the words that rhyme.</p>
+    </rubric>
+    <main>
+        <block class="mm_hMatching6">
+            <matching id="matching_1" display="h">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">Tim</matchItem>
+                    <matchTarget id="matchTarget_1" rank="3">violin</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">boy</matchItem>
+                    <matchTarget id="matchTarget_2" rank="4">toy</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">man</matchItem>
+                    <matchTarget id="matchTarget_3" rank="6">van</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">tree</matchItem>
+                    <matchTarget id="matchTarget_4" rank="2">three</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">play</matchItem>
+                    <matchTarget id="matchTarget_5" rank="1">say</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">run</matchItem>
+                    <matchTarget id="matchTarget_6" rank="5">fun</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

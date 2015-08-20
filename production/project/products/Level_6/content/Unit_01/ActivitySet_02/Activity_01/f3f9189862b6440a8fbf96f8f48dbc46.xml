@@ -1,0 +1,21 @@
+<activity class="mm_unit1 mm_activityNumber2 mm_itemSelectBigButtons" id="f3f9189862b6440a8fbf96f8f48dbc46" pseudoID="SC_L6_AB_Ch1_p8_ACT02">
+    <rubric>
+        <p>Read the story in your Student Book. Choose what David Tennison does. Then choose the correct ending to the sentence.</p>
+    </rubric>
+    <main>
+        <block class="mm_customCheckbox">
+            <checkbox id="checkbox_1" display="v" type="numbered" displayType="itemSelect" class="mm_numberedItemSelect">
+                <item id="item_1" correct="y"><sSpan class="mm_matchingNumber">1.</sSpan>He tries to talk to the villagers.</item>
+                <item id="item_2"><sSpan class="mm_matchingNumber">2.</sSpan>He takes a picture of the beast.</item>
+                <item id="item_3" correct="y"><sSpan class="mm_matchingNumber">3.</sSpan>He listens to the story about the tomb.</item>
+                <item id="item_4" correct="y"><sSpan class="mm_matchingNumber">4.</sSpan>He looks for clues.</item>
+            </checkbox>
+            <p>David does these things to
+            <radio id="radio_1" display="h" type="plain" displayType="itemSelect">
+                <item id="item_1" correct="y">find out the truth</item>
+                <item id="item_2">write a story</item>
+                <item id="item_3">have an adventure</item>
+            </radio>.</p>
+        </block>
+    </main>
+</activity>

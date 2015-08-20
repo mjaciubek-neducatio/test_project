@@ -1,0 +1,29 @@
+<activity id="f663892708f645d99923926a69654148" pseudoID="SC_L3_AB_Ch9_p73_ACT04" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <!-- <block>
+                <image src="p073a.jpg" title=""/>
+            </block> -->
+            <list display="v" type="plain">
+                <li>
+                    <p>Holly<br/>is going<br/>to summer camp. She feels <droppable id="droppable_1" example="y">excited</droppable>.</p>
+                </li>
+                <li>
+                    <p>After<br/>lunch, she<br/>goes mountain<br/>biking. She <droppable id="droppable_2">isn’t good at</droppable> it!</p>
+                </li>
+                <li>
+                    <p>Later<br/>on, they<br/>have a<br/>barbecue and sing.<br/>It’s fun. Holly feels <droppable id="droppable_3">happy</droppable>.</p>
+                </li>
+                <li>
+                    <p>That<br/>night, Holly<br/>takes a picture<br/>of an owl.<br/>She <droppable id="droppable_4">’s good at</droppable><br/>taking pictures.</p>
+                </li>
+                <li>
+                    <p>Holly’s<br/>picture<br/>wins a prize! She’s<br/>very <droppable id="droppable_5">surprised</droppable>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

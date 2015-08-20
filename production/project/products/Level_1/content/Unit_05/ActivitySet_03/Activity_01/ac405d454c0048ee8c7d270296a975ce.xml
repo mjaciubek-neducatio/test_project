@@ -1,0 +1,48 @@
+<activity id="ac405d454c0048ee8c7d270296a975ce" pseudoID="SC_L1_AB_Ch5_p42_ACT01" class="mm_unit5 mm_lesson5 mm_activityNumber1">
+    <rubric>
+        <p>Choose the one that doesn't belong.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+
+                <li>
+                    <p>
+                        <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain" example="y">
+                            <item id="item_1">bus</item>
+                            <item id="item_2" correct="y">street</item>
+                            <item id="item_3">van</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_4" correct="y">truck</item>
+                            <item id="item_5">three</item>
+                            <item id="item_6">five</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_7">van</item>
+                            <item id="item_8">motorcycle</item>
+                            <item id="item_9" correct="y">mall</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                            <item id="item_10" correct="y">library</item>
+                            <item id="item_11">taxi</item>
+                            <item id="item_12">car</item>
+                        </radio>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

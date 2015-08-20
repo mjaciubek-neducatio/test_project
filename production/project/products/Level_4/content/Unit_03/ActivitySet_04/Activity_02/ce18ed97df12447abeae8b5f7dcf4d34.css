@@ -1,0 +1,18 @@
+.mm_customTypein img {
+    margin-bottom: 0.875em;
+    border: 3px solid #5160ac;
+}
+.mm_customTypein .mm_singleBlock {
+    width: 250px;
+}
+.mm_customTypein {
+    border: 4px dotted #5160ac;
+    border-radius: 15px;
+    padding: 10px;
+    width: 877px;
+    margin: 0 auto;
+}    
+.mm_singleBlock {
+    width: 250px;
+    margin: 0 auto;
+}

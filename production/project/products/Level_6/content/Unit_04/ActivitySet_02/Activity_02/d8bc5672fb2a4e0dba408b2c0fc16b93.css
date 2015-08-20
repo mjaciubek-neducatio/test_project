@@ -1,0 +1,10 @@
+.mm_borderImage img {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+.mm_customOrdering {
+    position: absolute;
+    top: 75px;
+    left: 120px;
+}

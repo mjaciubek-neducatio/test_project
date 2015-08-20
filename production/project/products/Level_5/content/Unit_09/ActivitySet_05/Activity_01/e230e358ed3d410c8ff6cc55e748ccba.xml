@@ -1,0 +1,14 @@
+<activity id="e230e358ed3d410c8ff6cc55e748ccba" pseudoID="SC_L5_AB_Ch9_p74_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete what Hamish is thinking. You can use the phrases more than once.</p>
+    </rubric>
+    <main>
+        <block class="mm_speechBubbles">
+            <p class="mm_bubble">
+                <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y">What will</droppable> life be like for dogs in the future? I think a robot will take care of me. Will it remember to feed me? Hmm. <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="2">Will</droppable> they ever stop talking about computers? <br/><sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="1">Who will</droppable> take me for a walk this afternoon? <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="6">Where will</droppable> we go? To the village? To see wildlife in the park? Hmm. Where will I find something to eat in this place? WHAT’S THAT? <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="7">What will</droppable> it taste like? Will it still be there when we come back? <br/><sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="4">Will</droppable> they see that it’s missing? No, they <sSpan class="mm_inlineNumber">7</sSpan><droppable id="droppable_7" rank="3">won’t</droppable>! I’ll just eat it while no one is looking! <sSpan class="mm_inlineNumber">8</sSpan><droppable id="droppable_8" rank="5">How will</droppable> anyone know?</p>
+        </block>
+        <block class="mm_imageRight">
+            <image src="p074a.png" title=""/>
+        </block>
+    </main>
+</activity>

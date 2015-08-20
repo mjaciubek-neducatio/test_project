@@ -1,0 +1,59 @@
+<activity class="mm_unit4 mm_activityNumber2" desktopDraggable="n" id="af414b219faa4be0929965d712073c7c" pseudoID="SC_L4_AB_Ch4_p30_ACT02">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_outerBackground">
+            <block class="mm_customDroppable">
+                <block class="mm_innerBackground">
+                    <block class="mm_customHeading">
+                        <h2>DVD Reviews</h2>
+                    </block>
+                    <block class="mm_flexContainer mm_flexboxSet2">
+                        <block>
+                            <list display="v" type="numbered">
+                                <li>
+                                    <p><i>The Runaway Car</i>
+                                        <droppable example="y" id="droppable_1">comedy</droppable></p>
+                                    <p>You’ll laugh at this funny story about a car that comes to life!</p>
+                                </li>
+                                <li>
+                                    <p><i>Orbit 3000</i>
+                                        <droppable id="droppable_2">science fiction</droppable></p>
+                                    <p>Astronauts travel around the galaxy, fighting against dangerous aliens.</p>
+                                </li>
+                                <li>
+                                    <p><i>Across the World</i> 
+                                        <droppable id="droppable_3">romance</droppable></p>
+                                    <p>A boy and a girl in different countries. They meet, they talk, they fall in love!</p>
+                                </li>
+                            </list>
+                        </block>
+                        <block>
+                            <list display="v" start="4" type="numbered">
+                                <li>
+                                    <p><i>Food-a-rama</i> 
+                                        <droppable id="droppable_4">animation</droppable></p>
+                                    <p>Different foods come to life – they move and talk! A fun-filled movie for all the family!</p>
+                                </li>
+                                <li>
+                                    <p><i>Frankenstein Comes Back</i> 
+                                        <droppable id="droppable_5">horror</droppable></p>
+                                    <p>The monster wakes up in 2020 and scares people in a big city.</p>
+                                </li>
+                                <li>
+                                    <p><i>Dance City</i> 
+                                        <droppable id="droppable_6">musical</droppable></p>
+                                    <p>A small US town comes to life when a school for dance opens. Great music and songs!</p>
+                                </li>
+                            </list>
+                        </block>
+                    </block>
+                </block>
+            </block>
+            <block class="mm_customImage">
+                <image src="p030a.png" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

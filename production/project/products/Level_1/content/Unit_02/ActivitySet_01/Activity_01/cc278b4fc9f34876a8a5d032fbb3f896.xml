@@ -1,0 +1,23 @@
+<activity id="cc278b4fc9f34876a8a5d032fbb3f896" pseudoID="SC_L1_AB_Ch2_p14_ACT02" class="mm_unit2 mm_lesson1 mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block class="mm_categoryIcons">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>in the house</catName>
+                    <item id="item_1" example="y">doll</item>
+                    <item id="item_2">teddy bear</item>
+                    <item id="item_3">robot</item>
+                    <item id="item_4">car</item>
+                </category>
+                <category id="category_2">
+                    <catName>in the yard</catName>
+                    <item id="item_5">ball</item>
+                    <item id="item_6">bike</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

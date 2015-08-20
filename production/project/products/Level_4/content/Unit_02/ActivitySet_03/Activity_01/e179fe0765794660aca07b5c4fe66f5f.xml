@@ -1,0 +1,41 @@
+<activity class="mm_unit2 mm_activityNumber2" id="e179fe0765794660aca07b5c4fe66f5f" pseudoID="SC_L4_AB_Ch2_p16_ACT02">
+    <rubric>
+        <p>Choose the correct options.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>Lulu wants to <cSpan class="mm_noWrap"><dropDown id="dropDown_1">
+                            <item id="item_1">go to school</item>
+                            <item id="item_2" correct="y">rest at home</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Lulu’s bedroom is <cSpan class="mm_noWrap"><dropDown id="dropDown_2">
+                            <item id="item_1">neat</item>
+                            <item id="item_2" correct="y">messy</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Today, Lulu’s class has a test in <cSpan class="mm_noWrap"><dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">math</item>
+                            <item id="item_2">English</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Lulu is a <dropDown id="dropDown_4">
+                            <item id="item_1">good</item>
+                            <item id="item_2" correct="y">bad</item>
+                        </dropDown> student.</p>
+                </li>
+                <li>
+                    <p>Lulu is going to <cSpan class="mm_noWrap"><dropDown id="dropDown_5">
+                            <item id="item_1">make her bed</item>
+                            <item id="item_2" correct="y">stay in bed</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

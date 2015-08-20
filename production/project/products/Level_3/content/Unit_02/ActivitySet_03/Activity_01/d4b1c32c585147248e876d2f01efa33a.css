@@ -1,0 +1,16 @@
+.mm_roundedWordSearch .rcfWordSearchGrid {
+    margin-bottom: 0.1em;  
+}
+.rcfWordSearchGrid table td {
+	min-height: 20px;
+	height: 25px;
+	line-height: 1em;
+	width: 25px;
+}
+/* .mm_roundedWordSearch .rcfWordSearchGrid table td, .wordSearchSelection span {
+    text-transform: lowercase;
+} */
+
+.wordSearchGridContainer {
+    text-align: center;
+}

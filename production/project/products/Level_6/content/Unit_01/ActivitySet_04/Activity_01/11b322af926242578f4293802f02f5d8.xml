@@ -1,0 +1,18 @@
+<activity class="mm_unit1 mm_activityNumber1" id="11b322af926242578f4293802f02f5d8" pseudoID="SC_L6_AB_Ch1_p12_ACT01">
+    <rubric>
+        <p>Read and put the sentences in order.</p>
+    </rubric>
+    <main>
+        <block class="mm_centeredContent">
+            <ordering id="ordering_1" display="v" mark="item">
+                <item id="item_1" rank="4">On December 22, 1967, Dan Burrack sailed out to sea with his friend, Patrick Horgan.</item>
+                <item id="item_2" rank="1">He wanted to show him the Christmas lights on the coast of Miami.</item>
+                <item id="item_3" rank="6">At 9:00 p.m., the boat hit something and Burrack called for help.</item>
+                <item id="item_4" rank="2">When the rescue boat arrived 19 minutes later, Burrack’s boat wasn’t there.</item>
+                <item id="item_5" rank="3">The rescue team looked for the boat and the two men, but they didn’t find anything.</item>
+                <item id="item_6" rank="7">They searched for five more days but they never found the boat or men.</item>
+                <item id="item_7" rank="5">Some people think the boat disappeared in a storm but the mystery is still unexplained.</item>
+            </ordering>
+        </block>
+    </main>
+</activity>

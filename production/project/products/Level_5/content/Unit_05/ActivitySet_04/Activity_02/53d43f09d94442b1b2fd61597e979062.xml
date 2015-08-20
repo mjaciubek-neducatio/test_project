@@ -1,0 +1,61 @@
+<activity id="53d43f09d94442b1b2fd61597e979062" pseudoID="SC_L5_AB_Ch5_p42_ACT02" class="mm_activityNumber2">
+    <rubric>
+     <p>Unscramble. Then talk with a friend.</p>
+    </rubric>
+    <main>
+        <block class="mm_content">
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" display="h" mark="item" example="y">
+                        <item id="item_1">My</item>
+                        <item id="item_2">bedroom</item>
+                        <item id="item_3">is</item>
+                        <item id="item_4">painted</item>
+                        <item id="item_5">yellow</item>
+                        <item id="item_6">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="4">Two</item>
+                        <item id="item_2" rank="2">languages</item>
+                        <item id="item_3" rank="3">are</item>
+                        <item id="item_4" rank="5">spoken</item>
+                        <item id="item_5" rank="1">in my family</item>
+                        <item id="item_8" rank="6">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="3">In my house,</item>
+                        <item id="item_4" rank="6">cake</item>
+                        <item id="item_5" rank="5">is</item>
+                        <item id="item_6" rank="4">only eaten</item>
+                        <item id="item_8" rank="2">on Sundays</item>
+                        <item id="item_10" rank="1">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="2">Vegetables</item>
+                        <item id="item_2" rank="5">are</item>
+                        <item id="item_3" rank="1">grown</item>
+                        <item id="item_6" rank="3">in my garden</item>
+                        <item id="item_7" rank="4">.</item>
+                        
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_5" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="6">Lunch</item>
+                        <item id="item_2" rank="1">is</item>
+                        <item id="item_3" rank="5">always made</item>
+                        <item id="item_5" rank="4">by my mom</item>
+                        <item id="item_8" rank="2">or dad</item>
+                        <item id="item_10" rank="3">.</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

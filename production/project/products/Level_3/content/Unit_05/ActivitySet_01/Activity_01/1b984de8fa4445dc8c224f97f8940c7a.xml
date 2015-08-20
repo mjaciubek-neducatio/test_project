@@ -1,0 +1,38 @@
+<activity id="1b984de8fa4445dc8c224f97f8940c7a" pseudoID="SC_L3_AB_Ch5_p38_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <block class="mm_listHFloat3Col mm_resetNumbering">
+                <list display="v" type="numbered" class="mm_imageBorder">
+                    <li>
+                        <image src="p038a.jpg" title=""/>
+                        <droppable example="y" id="droppable_1">live</droppable>
+                    </li>
+                    <li>
+                        <image src="p038b.jpg" title=""/>
+                        <droppable id="droppable_2">prepare</droppable>
+                    </li>
+                    <li>
+                        <image src="p038c.jpg" title=""/>
+                        <droppable id="droppable_3">fish</droppable>; <droppable id="droppable_4">hunt</droppable>
+                    </li>
+                    <li>
+                        <image src="p038d.jpg" title=""/>
+                        <droppable id="droppable_5">paint</droppable>; <droppable id="droppable_6">use</droppable>
+                    </li>
+                    <li>
+                        <image src="p038e.jpg" title=""/>
+                        <droppable id="droppable_7">believe</droppable>
+                    </li>
+                    <li>
+                        <image src="p038f.jpg" title=""/>
+                        <droppable id="droppable_8">celebrate</droppable>
+                    </li>
+                </list>
+            </block>
+            <!-- <p>Hi, I’m Amina. I <droppable id="droppable_9">live</droppable> in Cairo with my family. On weekends, we <droppable id="droppable_10">prepare</droppable> our car to go to the lake to <droppable id="droppable_11">fish; hunt</droppable> and have fun. In my family, we <droppable id="droppable_12">paint; use</droppable> birthdays are important. We always <droppable id="droppable_13">believe</droppable> with a family party. We <droppable id="droppable_14">celebrate</droppable> delicious food.</p> -->
+        </block>
+    </main>
+</activity>

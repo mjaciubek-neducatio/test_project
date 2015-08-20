@@ -1,0 +1,7 @@
+.mm_dialogue ul p, .mm_dialogue .block p {
+    padding-bottom: .75em;
+}
+
+.mm_dialogue ul li:last-child p, .mm_dialogue .block li:last-child p {
+    padding-bottom: 0;
+}

@@ -1,0 +1,69 @@
+.mm_customCrossword .crosswordClueContainer {
+    background: url(../../production/project/products/Level_2/assets/images/p010a.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+    display: inline-block;
+    width: 320px;
+    height: 258px;
+    background-size: 320px;
+   
+}
+
+.mm_customCrossword .crosswordClueContainer .across,
+.mm_customCrossword .crosswordClueContainer .down {
+    position: absolute;
+    border: none; 
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.mm_customCrossword .crosswordClueContainer .down {
+    top: 80px;    
+}
+
+.mm_customCrossword .crosswordClueContainer .across h3,
+.mm_customCrossword .crosswordClueContainer .down h3 {
+    display: none;
+}
+
+.mm_customCrossword .crosswordClueContainer ul {
+    position: absolute;
+    top: 0;
+    height: 100%;
+}
+
+.mm_customCrossword .crosswordClueContainer ul .clue {
+    position: absolute;
+} 
+
+.mm_customCrossword .crosswordClueContainer .across ul .clue:nth-child(1) {
+    left: 60px;
+    top: 40px;
+    width: 74px;
+} 
+
+.mm_customCrossword .crosswordClueContainer .across ul .clue:nth-child(2) {
+    left: 225px;
+    top: 50px;
+    width: 58px;
+} 
+
+.mm_customCrossword .crosswordClueContainer .down ul .clue:nth-child(1) {
+    left: 65px;
+    top: 60px;
+    width: 56px;
+} 
+
+.mm_customCrossword .crosswordClueContainer .down ul .clue:nth-child(2) {
+    left: 155px;
+    top: 92px;
+    width: 49px;
+}
+
+.mm_customCrossword .crosswordClueContainer .down ul .clue:nth-child(3) {
+    left: 245px;
+    top: 67px;
+    width: 47px;
+} 

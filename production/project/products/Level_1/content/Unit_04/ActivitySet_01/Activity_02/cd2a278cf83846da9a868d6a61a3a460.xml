@@ -1,0 +1,23 @@
+<activity id="cd2a278cf83846da9a868d6a61a3a460" pseudoID="SC_L1_AB_Ch4_p30_ACT02" class="mm_unit4 mm_lesson1 mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block class="mm_categoryIcons mm_wordBoxBorderSample">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>inside the house</catName>
+                    <item id="item_1" example="y">bedroom</item>
+                    <item id="item_2">bathroom</item>
+                    <item id="item_3">living room</item>
+                    <item id="item_4">kitchen</item>
+                </category>
+                <category id="category_2">
+                    <catName>outside the house</catName>
+                    <item id="item_5">yard</item>
+                    <item id="item_6">garage</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

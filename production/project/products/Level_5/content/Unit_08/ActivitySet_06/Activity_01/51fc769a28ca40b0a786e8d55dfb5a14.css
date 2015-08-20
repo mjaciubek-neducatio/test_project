@@ -1,0 +1,11 @@
+.mm_imageLeft img {
+    float: left;
+}
+
+.mm_letter {
+    margin-top: -.473em;
+}
+
+.mm_letter p {
+    margin-left: 200px;
+}

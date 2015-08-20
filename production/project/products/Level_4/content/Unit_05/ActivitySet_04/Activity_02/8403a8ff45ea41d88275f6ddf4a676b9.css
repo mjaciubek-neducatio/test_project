@@ -1,0 +1,11 @@
+.mm_postitionNumbers img{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.matchTarget {
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    height: 56px;
+    width: 139px;
+}

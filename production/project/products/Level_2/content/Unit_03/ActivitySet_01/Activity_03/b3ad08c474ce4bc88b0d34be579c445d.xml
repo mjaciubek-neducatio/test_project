@@ -1,0 +1,47 @@
+<activity class="mm_unit3 mm_activityNumber1" id="b3ad08c474ce4bc88b0d34be579c445d">
+    <rubric>
+        <p>Read and match.</p>
+    </rubric>
+    <main>
+        <block class="mm_text">
+            Max is wearing jeans and a T-shirt. Sally is wearing a dress.
+            Annie is wearing a skirt and a T-shirt. She isn’t wearing
+            shoes. Jane is wearing jeans and a jacket. Peter isn’t
+            wearing jeans. He’s wearing pants and a shirt.
+        </block>
+            <block class="mm_matchingCenter">
+                <matching id="matching_1" display="h">
+                    <pair example="y">
+                        <matchItem id="matchItem_1" rank="1">Max</matchItem>
+                        <matchTarget id="matchTarget_1">
+                            <image src="p023b.jpg" title=""/>
+                        </matchTarget>
+                    </pair>
+                    <pair>
+                        <matchItem id="matchItem_2" rank="2">Annie</matchItem>
+                        <matchTarget id="matchTarget_2">
+                            <image src="p023e.jpg" title=""/>
+                        </matchTarget>
+                    </pair>
+                    <pair>
+                        <matchItem id="matchItem_3" rank="3">Peter</matchItem>
+                        <matchTarget id="matchTarget_3">
+                            <image src="p023a.jpg" title=""/>
+                        </matchTarget>
+                    </pair>
+                    <pair>
+                        <matchItem id="matchItem_4" rank="4">Sally</matchItem>
+                        <matchTarget id="matchTarget_4">
+                            <image src="p023d.jpg" title=""/>
+                        </matchTarget>
+                    </pair>
+                    <pair>
+                        <matchItem id="matchItem_5" rank="5">Jane</matchItem>
+                        <matchTarget id="matchTarget_5">
+                            <image src="p023c.jpg" title=""/>
+                        </matchTarget>
+                    </pair>
+                </matching>
+            </block>
+    </main>
+</activity>

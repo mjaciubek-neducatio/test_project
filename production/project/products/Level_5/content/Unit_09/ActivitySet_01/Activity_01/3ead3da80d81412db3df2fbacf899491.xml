@@ -1,0 +1,135 @@
+<activity id="3ead3da80d81412db3df2fbacf899491" pseudoID="SC_L5_AB_Ch9_p70_ACT01">
+    <rubric>
+        <p>Unscramble the words.</p>
+    </rubric>
+    <main>
+            <block class="mm_flexContainer mm_flexboxSet2 mm_imageShadow">
+            <block class="mm_ImageWithHeading">
+                <h3>SUN CITY</h3>
+                <p class="mm_number mm_numberOne">1</p>
+                <p class="mm_number mm_numberTwo">2</p>
+                <p class="mm_number mm_numberThree">3</p>
+                <p class="mm_number mm_numberFour">4</p>
+                <p class="mm_number mm_numberFive">5</p>
+                <image src="p070a.jpg" title=""/>
+            </block>
+            <block class="mm_ImageWithHeading mm_secondImage">
+                <h3>GREENFIELDS</h3>
+                <p class="mm_number mm_numberSix">6</p>
+                <p class="mm_number mm_numberSeven">7</p>
+                <p class="mm_number mm_numberEight">8</p>
+                <p class="mm_number mm_numberNine">9</p>
+                <image src="p070b.jpg" title=""/>
+            </block>
+        </block>
+            <block>
+                <list display="v" type="numbered">
+                    <li class="mm_example">
+                        <ordering display="h" id="ordering_1" example="y" mark="item">
+                            <item id="item_1">b</item>
+                            <item id="item_2">u</item>
+                            <item id="item_3">i</item>
+                            <item id="item_4">l</item>
+                            <item id="item_5">d</item>
+                            <item id="item_6">i</item>
+                            <item id="item_7">n</item>
+                            <item id="item_8">g</item>
+                            <item id="item_9">s</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_2" mark="item">
+                            <item id="item_1" rank="3">p</item>
+                            <item id="item_2" rank="2">o</item>
+                            <item id="item_3" rank="7">l</item>
+                            <item id="item_4" rank="8">l</item>
+                            <item id="item_5" rank="9">u</item>
+                            <item id="item_6" rank="1">t</item>
+                            <item id="item_7" rank="5">i</item>
+                            <item id="item_8" rank="6">o</item>
+                            <item id="item_9" rank="4">n</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_3" mark="item">
+                            <item id="item_1" rank="8">d</item>
+                            <item id="item_2" rank="3">o</item>
+                            <item id="item_3" rank="1">w</item>
+                            <item id="item_4" rank="6">n</item>
+                            <item id="item_5" rank="7">t</item>
+                            <item id="item_6" rank="2">o</item>
+                            <item id="item_7" rank="4">w</item>
+                            <item id="item_8" rank="5">n</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_4" mark="item">
+                            <item id="item_1" rank="4">t</item>
+                            <item id="item_2" rank="3">r</item>
+                            <item id="item_3" rank="2">a</item>
+                            <item id="item_4" rank="6">f</item>
+                            <item id="item_5" rank="7">f</item>
+                            <item id="item_6" rank="5">i</item>
+                            <item id="item_7" rank="1">c</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_5" mark="item">
+                            <item id="item_1" rank="3">s</item>
+                            <item id="item_2" rank="4">i</item>
+                            <item id="item_3" rank="7">d</item>
+                            <item id="item_4" rank="8">e</item>
+                            <item id="item_5" rank="1">w</item>
+                            <item id="item_6" rank="2">a</item>
+                            <item id="item_7" rank="6">l</item>
+                            <item id="item_8" rank="5">k</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_6" mark="item">
+                            <item id="item_1" rank="3">v</item>
+                            <item id="item_2" rank="7">i</item>
+                            <item id="item_3" rank="4">l</item>
+                            <item id="item_4" rank="5">l</item>
+                            <item id="item_5" rank="6">a</item>
+                            <item id="item_6" rank="1">g</item>
+                            <item id="item_7" rank="2">e</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_7" mark="item">
+                            <item id="item_1" rank="3">w</item>
+                            <item id="item_2" rank="7">i</item>
+                            <item id="item_3" rank="4">l</item>
+                            <item id="item_4" rank="1">d</item>
+                            <item id="item_5" rank="8">l</item>
+                            <item id="item_6" rank="5">i</item>
+                            <item id="item_7" rank="6">f</item>
+                            <item id="item_8" rank="2">e</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_8" mark="item">
+                            <item id="item_1" rank="4">b</item>
+                            <item id="item_2" rank="3">i</item>
+                            <item id="item_3" rank="2">k</item>
+                            <item id="item_4" rank="1">e</item>
+                            <item id="item_5" rank="5" fixed="y"> </item>
+                            <item id="item_6" rank="9">p</item>
+                            <item id="item_7" rank="7">a</item>
+                            <item id="item_8" rank="8">t</item>
+                            <item id="item_9" rank="6">h</item>
+                        </ordering>
+                    </li>
+                    <li>
+                        <ordering display="h" id="ordering_9" mark="item">
+                            <item id="item_1" rank="2">a</item>
+                            <item id="item_2" rank="4">r</item>
+                            <item id="item_3" rank="1">e</item>
+                            <item id="item_4" rank="3">a</item>
+                        </ordering>
+                    </li>
+                </list>
+            </block>
+    </main>
+</activity>

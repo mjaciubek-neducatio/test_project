@@ -1,0 +1,35 @@
+<activity id="1413c326671d4e5ebac1995e7aeeef12" pseudoID="SC_L1_AB_Ch6_p48_ACT02" class="mm_unit6 mm_lesson3 mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose the correct answers.</p>
+    </rubric>
+    <main>
+        <block class="mm_resetNumbering">
+            <list display="v" type="numbered">
+                <li>
+                    <p>I have a <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">big</item>
+                            <item id="item_2">small</item>
+                        </dropDown> family.</p>
+                </li>
+                <li>
+                    <p>I <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">have</item>
+                            <item id="item_2">don’t have</item>
+                        </dropDown> a sister.</p>
+                </li>
+                <li>
+                    <p>The turnip is <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">big</item>
+                            <item id="item_2">small</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Olga is <dropDown id="dropDown_4">
+                            <item id="item_1">happy</item>
+                            <item id="item_2" correct="y">hungry</item>
+                        </dropDown>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

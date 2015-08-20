@@ -1,0 +1,25 @@
+<activity desktopDraggable="n" class="mm_unit3 mm_activityNumber1" id="7392f209e0ed42048abe491c0dcfa775" pseudoID="SC_L4_AB_Ch3_p25_ACT01">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName><image src="p025a.png" title=""/> Before</catName>
+                    <item id="item_1">cool</item>
+                    <item id="item_2">quiet</item>
+                    <item id="item_3">lots of trees</item>
+                </category>
+                <category id="category_2">
+                    <catName><image src="p025b.png" title=""/> Now</catName>
+                    <item id="item_4">dirty air</item>
+                    <item id="item_5">warmer</item>
+                    <item id="item_6">lots of cars</item>
+                    <item id="item_7">noisy</item>
+                    <item id="item_8">fewer trees</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,51 @@
+<activity id="d45dd2df2f644e558fe2d75a378e9bce" pseudoID="SC_L1_AB_Ch4_p35_ACT01" class="mm_unit4 mm_lesson6 mm_activityNumber1">
+    <rubric>
+        <p>Read and complete the opposite instructions.</p>
+    </rubric>
+    <main>
+        <block class="mm_listP2Col mm_typeInList">
+            <list display="v" type="numbered">
+                <li>
+                    <p>Stand up.</p>
+                    <p>
+                        <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">Don’t stand up</item>
+                            </acceptable>
+                        </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>Don’t sit down.</p>
+                    <p>
+                        <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">Sit down</item>
+                            </acceptable>
+                        </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>Open the book.</p>
+                    <p>
+                        <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">Don’t open the book</item>
+                            </acceptable>
+                        </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>Don’t look.</p>
+                    <p>
+                        <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">Look</item>
+                            </acceptable>
+                        </typein>.
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,37 @@
+<activity id="8d880cd0f9c844b69025d2d8a2b2e117" pseudoID="SC_L1_AB_Ch9_p70_ACT01" class="mm_unit9 mm_lesson1 mm_activityNumber1" seed="336">
+    <rubric>
+        <p>What sport is it? Complete the puzzle.</p>
+    </rubric>
+    <main>
+            <block class="mm_crossword mm_clues3Col mm_pictureClues">
+            <crossword id="cw_1">
+                <words>
+                    <word id="w1" example="y">
+                        <value>playsoccer</value>
+                        <clue><image src="p070a.jpg" title=""/></clue>
+                    </word>
+                    <word id="w2">
+                        <value>skate</value>
+                        <clue><image src="p070b.jpg" title=""/></clue>
+                    </word>
+                    <word id="w3">
+                        <value>rideabike</value>
+                        <clue><image src="p070c.jpg" title=""/></clue>
+                    </word>
+                    <word id="w4">
+                        <value>run</value>
+                        <clue><image src="p070d.jpg" title=""/></clue>
+                    </word>
+                    <word id="w5">
+                        <value>dance</value>
+                        <clue><image src="p070e.jpg" title=""/></clue>
+                    </word>
+                    <word id="w6">
+                        <value>swim</value>
+                        <clue><image src="p070f.jpg" title=""/></clue>
+                    </word>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

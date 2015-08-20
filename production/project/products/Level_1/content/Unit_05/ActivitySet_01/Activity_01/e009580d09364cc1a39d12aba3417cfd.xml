@@ -1,0 +1,60 @@
+<activity id="e009580d09364cc1a39d12aba3417cfd" pseudoID="SC_L1_AB_Ch5_p40_ACT02" class="mm_unit5 mm_lesson3 mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageCenter">
+            <block class="mm_image">
+                <image src="p040abc.jpg" title=""/>
+            </block>
+        </block>
+        <block class="mm_typeInList">
+            <block class="mm_wordBoxSimple">
+                <list display="h" type="plain">
+                    <li>mall</li>
+                    <li>movie theater</li>
+                    <li>It's on Second Avenue</li>
+                    <li>It's across from the movie theater</li>
+                </list>
+            </block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>Where’s the <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">hospital</item>
+                            </acceptable>
+                        </typein>? <typein id="typein_2" example="y">
+                            <acceptable>
+                                <item id="item_1">It’s on First Avenue</item>
+                            </acceptable>
+                        </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>Where’s the <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">mall</item>
+                            </acceptable>
+                        </typein>? <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">It’s across from the movie theater</item>
+                            </acceptable>
+                        </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>Where’s the <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">movie theater</item>
+                            </acceptable>
+                        </typein>? <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">It’s on Second Avenue</item>
+                            </acceptable>
+                        </typein>.
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

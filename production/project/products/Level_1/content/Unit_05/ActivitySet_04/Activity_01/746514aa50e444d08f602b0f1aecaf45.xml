@@ -1,0 +1,35 @@
+<activity id="746514aa50e444d08f602b0f1aecaf45" pseudoID="SC_L1_AB_Ch5_p44_ACT01" class="mm_unit6 mm_lesson1 mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>What transportation is there in Bangkok? Choose.</p>
+    </rubric>
+    <main>
+
+        <block class="mm_listP2Col">
+            <list display="v" type="numbered">
+                <li>
+                    <p>There are a lot of these.</p>
+                    <p>
+                        <droppable id="droppable_1" example="y">cars and taxis</droppable></p>
+                </li>
+                <li>
+                    <p>They’re blue and red.</p>
+                    <p>
+                        <droppable id="droppable_2">tuk-tuks</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p>They have two wheels.</p>
+                    <p>
+                        <droppable id="droppable_3">motorcycles</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p>They’re on the river.</p>
+                    <p>
+                        <droppable id="droppable_4">river buses</droppable>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,18 @@
+<activity id="3a4e592469f1426d96dbf9afe41ea22f" pseudoID="SC_L1_AB_Ch3_p28_ACT01" class="mm_unit3 mm_lesson7 mm_activityNumber1 mm_wordBoxBorderSample" desktopDraggable="n">
+    <rubric>
+        <p>Complete the text.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexboxSet7030 mm_typeInList">
+        <block>
+            <p>What’s this? It’s a <droppable id="droppable_1" example="y">crocodile</droppable>. Crocodiles eat meat.</p>
+            <p>Can you see <droppable id="droppable_2">those</droppable> giraffes? Watch out, <droppable id="droppable_3">giraffes</droppable>!</p>
+            <p>This crocodile is <droppable id="droppable_4">hungry</droppable>.</p>
+            <p>Crocodiles eat giraffes and other <droppable id="droppable_5">animals</droppable>.</p>
+            </block>
+            <block>
+                <image src="p028a.jpg" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

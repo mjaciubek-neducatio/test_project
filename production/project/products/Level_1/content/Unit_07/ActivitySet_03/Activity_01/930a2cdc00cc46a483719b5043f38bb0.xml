@@ -1,0 +1,45 @@
+<activity id="930a2cdc00cc46a483719b5043f38bb0" pseudoID="SC_L1_AB_Ch7_p56_ACT02" class="mm_unit7 mm_lesson3 mm_activityNumber1">
+    <rubric>
+        <p>Read the story in your Student Book. Choose J (Jake) or D (Doodle).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio mm_flexContainer mm_flexboxSet2">
+            <!-- <block> REMOVE RESETNUMBERING ONCE LIST IS REARRANGED
+                <image src="p056a.jpg" title=""/>
+            </block> -->
+            <list display="v" type="numbered">
+                <li>
+                    <p>He’s small and green.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain" example="y">
+                        <item id="item_1">J</item>
+                        <item id="item_2" correct="y">D</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>He has two eyes.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">J</item>
+                        <item id="item_2">D</item>
+                    </radio>
+                </li>
+            </list>
+
+            <list display="v" type="numbered" start="3">
+                <li>
+                    <p>He has short legs.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">J</item>
+                        <item id="item_2" correct="y">D</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>He has one eye.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">J</item>
+                        <item id="item_2" correct="y">D</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

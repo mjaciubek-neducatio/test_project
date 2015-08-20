@@ -1,0 +1,23 @@
+<activity id="a171560ff18a4a6eaf3b738a30a32baa" pseudoID="SC_L3_AB_Ch8_p64_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Choose a game and complete. Then act out.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="plain">
+                <li>
+                    <p>What game are you playing?</p>
+                </li>
+                <li>
+                    <image src="speechLeft.jpg" title=""/><p>Oh, <droppable id="droppable_1">no</droppable>!</p>
+                </li>
+                <li>
+                    <image src="speechRight.jpg" title=""/><p>My <droppable id="droppable_2">turn</droppable>.</p>
+                </li>
+                <li>
+                    <image src="speechLeft.jpg" title=""/><p>OK, your <droppable id="droppable_3">turn</droppable>. <droppable id="droppable_4">Go</droppable> for it.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

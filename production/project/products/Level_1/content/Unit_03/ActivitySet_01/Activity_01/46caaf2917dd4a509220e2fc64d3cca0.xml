@@ -1,0 +1,42 @@
+<activity id="46caaf2917dd4a509220e2fc64d3cca0" pseudoID="SC_L1_AB_Ch3_p22_ACT01" class="mm_unit3 mm_lesson1 mm_activityNumber1">
+    <rubric>
+        <p>Find six animals.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordSearch mm_roundedWordSearch">
+        <block class="mm_wordSearchClues mm_listHFloat3Col mm_resetNumbering">
+                <list display="v" type="numbered">
+                    <li>
+                        <image src="p022a.jpg" title=""/>
+                    </li>
+                    <li>
+                        <image src="p022b.jpg" title=""/>
+                    </li>
+                    <li>
+                        <image src="p022c.jpg" title=""/>
+                    </li>
+                    <li>
+                        <image src="p022d.jpg" title=""/>
+                    </li>
+                    <li>
+                        <image src="p022e.jpg" title=""/>
+                    </li>
+                    <li>
+                        <image src="p022f.jpg" title=""/>
+                    </li>
+                </list>
+            </block>
+            <wordSearch id="wordsearch_1" useVertical="y">
+                <words>
+                    <word id="wordesearch_word_1" example="y">monkey</word>
+                    <word id="wordesearch_word_2">giraffe</word>
+                    <word id="wordesearch_word_3">lion</word>
+                    <word id="wordesearch_word_4">crocodile</word>
+                    <word id="wordesearch_word_5">tiger</word>
+                    <word id="wordesearch_word_6">elephant</word>
+                </words>
+            </wordSearch>
+            
+        </block>
+    </main>
+</activity>

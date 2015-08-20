@@ -1,0 +1,60 @@
+<activity desktopDraggable="n" class="mm_unit1 mm_activityNumber1" id="a5e2424138ac4518bd6b96ba3010b598" pseudoID="SC_L4_AB_Ch1_p6_ACT01">
+    <rubric>
+        <p>Write the languages.</p>
+    </rubric>
+    <main>
+        <block class="mm_droppableImage">
+            <image src="p006a.jpg" title=""/>
+            <block class="mm_droppableGaps">
+                    <p><sSpan class="mm_customNumber">1.</sSpan></p>
+                    <p><sSpan class="mm_customNumber">2.</sSpan></p>
+                    <p><sSpan class="mm_customNumber">3.</sSpan></p>
+                    <p><sSpan class="mm_customNumber">4.</sSpan></p>
+                    <p><sSpan class="mm_customNumber">5.</sSpan></p>
+                    <p><sSpan class="mm_customNumber">6.</sSpan></p>
+            </block>
+        </block>
+         
+            
+            <complexDroppableBlock restrict="y">
+    			<complexDroppables>
+					<item id="cd_1" rank="1">French</item>
+					<item id="cd_2" rank="2">Arabic</item>
+					<item id="cd_3" rank="3">Spanish</item>
+					<item id="cd_4" rank="4">Japanese</item>
+                    <item id="cd_5" rank="5">German</item>
+                    <item id="cd_6" rank="5">English</item>
+				</complexDroppables>
+                <block class="mm_flexContainer mm_flexboxSet2">
+                <block>
+				<list display="v" type="plain">
+					<li>
+                        <p class="mm_example"><sSpan class="mm_customNumber">1.</sSpan> Canada: <complexDroppable id="complexDroppable_1" example="y"><item id="cd_6"/></complexDroppable><complexDroppable id="complexDroppable_2"><item id="cd_1"/></complexDroppable></p>
+                    </li>
+                    <li>
+                    <p><sSpan class="mm_customNumber">2.</sSpan> France: <complexDroppable id="complexDroppable_3"><item id="cd_1"/></complexDroppable></p>
+                    </li>
+                    <li>
+                    <p><sSpan class="mm_customNumber">3.</sSpan> Germany: <complexDroppable id="complexDroppable_4"><item id="cd_5"/></complexDroppable></p>
+                    </li>
+                    </list>
+                </block>
+                <block>
+                    <list display="v" type="plain">
+                    <li>
+                    <p><sSpan class="mm_customNumber">4.</sSpan> Mexico: <complexDroppable id="complexDroppable_5"><item id="cd_3"/></complexDroppable></p>
+                    </li>
+                    <li>
+                    <p><sSpan class="mm_customNumber">5.</sSpan> Egypt: <complexDroppable id="complexDroppable_6"><item id="cd_2"/></complexDroppable></p>
+                    </li>
+                    <li>
+                    <p><sSpan class="mm_customNumber">6.</sSpan> Japan: <complexDroppable id="complexDroppable_7"><item id="cd_4"/></complexDroppable></p>
+                    </li>
+                </list>
+                </block>
+                </block>
+            </complexDroppableBlock>
+            
+            
+    </main>
+</activity>

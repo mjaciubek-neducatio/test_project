@@ -1,0 +1,40 @@
+.category {
+    text-align: center;
+    display: inline-block;
+/*     margin-left:10px;
+    margin-right:10px; */
+    border: 3px dotted #a8a9ad;
+    border-radius: 20px;
+    padding: 7px;
+    width: 15%;
+    box-sizing: border-box;
+}
+
+.category h3 {
+    position: relative;
+    text-decoration: underline;
+
+}
+
+.category h3:after {
+    content: url("../../production/project/products/Level_4/assets/images/p065a.png");
+    height: 120px;
+    width: 180px;
+    left: -7px;
+    text-align: center;
+    display: block;
+    visibility: visible;
+    position: relative;
+}
+
+.category:nth-child(2) h3:after {
+    content: url("../../production/project/products/Level_4/assets/images/p065b.png");
+}
+
+.category:nth-child(3) h3:after {
+    content: url("../../production/project/products/Level_4/assets/images/p065c.png");
+}
+
+.category:nth-child(4) h3:after {
+    content: url("../../production/project/products/Level_4/assets/images/p065d.png");
+}

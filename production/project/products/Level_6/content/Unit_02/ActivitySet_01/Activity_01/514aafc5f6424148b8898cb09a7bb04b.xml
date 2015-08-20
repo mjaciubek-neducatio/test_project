@@ -1,0 +1,14 @@
+<activity class="mm_unit2 mm_activityNumber1" id="514aafc5f6424148b8898cb09a7bb04b" pseudoID="SC_L6_AB_Ch2_p14_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Look and complete the leaflet.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_padder mm_boxShadow mm_customText">
+            <block class="mm_customBorder">
+                <h2>The Best Craft Fair in Town!</h2>
+                <image src="p014a.jpg" title=""/>
+                <p>Come and paint plates in the <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y">pottery</droppable></cSpan> class. Design and make a cool jacket in the <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2" rank="6">sewing</droppable></cSpan> workshop. Learn how to make a <cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3" rank="1">model</droppable></cSpan> of a castle or <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_4" rank="2">practice</droppable></cSpan> your photography and take home some fantastic pictures. If you like cooking, can we <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_5" rank="7">suggest</droppable></cSpan> a cooking class? Can’t <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_6" rank="3">decide</droppable></cSpan> what you want to do? If you’re not sure, just come and ask. We <cSpan class="mm_noWrap mm_inlineNumber">7 <droppable id="droppable_7" rank="4">offer</droppable></cSpan> a lot of classes. There’s something for everyone to <cSpan class="mm_noWrap mm_inlineNumber">8 <droppable id="droppable_8" rank="5">enjoy</droppable>.</cSpan></p>
+            </block>
+        </block>
+    </main>
+</activity>

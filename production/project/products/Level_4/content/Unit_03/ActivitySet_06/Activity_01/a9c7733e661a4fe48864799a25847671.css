@@ -1,0 +1,18 @@
+.mm_cWidth {
+    min-width: 55%;
+    display: inline-block;
+}
+.mm_customText {
+    padding: 0.437em;
+    border: 3px dotted #a8a9ad;
+}
+.mm_customText img {
+    border: 3px solid #000;
+}
+.mm_customText p {
+    margin-bottom: 0;
+}
+
+.mm_imageRight img {
+    width: 235px;
+}

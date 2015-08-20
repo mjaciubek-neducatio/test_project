@@ -1,0 +1,29 @@
+<activity class="mm_unit2 mm_activityNumber1" id="386780f696fd405da8157cde92a6cc05" pseudoID="SC_L4_AB_Ch2_p15_ACT04">
+    <rubric>
+        <p>Select the correct options.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_inlineDropdown">
+            <image src="p015a.png" title=""/>
+            <p>"You <dropDown id="dropDown_1">
+                    <item id="item_1" correct="y">should</item>
+                    <item id="item_2">shouldn’t</item>
+                </dropDown> go to bed early and you <dropDown id="dropDown_2">
+                    <item id="item_1" correct="y">should</item>
+                    <item id="item_2">shouldn’t</item>
+                </dropDown> get eight hours of sleep every night. You <dropDown id="dropDown_3">
+                    <item id="item_1">should</item>
+                    <item id="item_2" correct="y">shouldn’t</item>
+                </dropDown> stay up late. You <dropDown id="dropDown_4">
+                    <item id="item_1" correct="y">should</item>
+                    <item id="item_2">shouldn’t</item>
+                </dropDown> stay home for three days and you <dropDown id="dropDown_5">
+                    <item id="item_1">should</item>
+                    <item id="item_2" correct="y">shouldn’t</item>
+                </dropDown> talk. You <dropDown id="dropDown_6">
+                    <item id="item_1" correct="y">should</item>
+                    <item id="item_2">shouldn’t</item>
+                </dropDown> take this medicine for a week."</p>
+        </block>
+    </main>
+</activity>

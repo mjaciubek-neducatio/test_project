@@ -1,0 +1,32 @@
+<activity class="mm_unit5 mm_activityNumber2" id="f5a9b20af8e34af7a86ac812d3d07747" pseudoID="SC_L6_AB_Ch5_p41_ACT02" desktopDraggable="n">
+    <rubric>
+        <p>Complete the headlines with alliteration.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <image src="p041a.png" title=""/>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p><sSpan class="mm_cWidth">Frightening</sSpan><droppable id="droppable_1" example="y" rank="3">Floods</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Tsunami</sSpan><droppable id="droppable_2" rank="1">Sinks City</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Terrible</sSpan><droppable id="droppable_3" rank="4">Tale</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Horrible</sSpan><droppable id="droppable_4" rank="5">Hurricane</droppable>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Fantastic</sSpan><droppable id="droppable_5" rank="2">Photos</droppable>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

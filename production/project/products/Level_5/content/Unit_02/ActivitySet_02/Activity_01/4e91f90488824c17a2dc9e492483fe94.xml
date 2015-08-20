@@ -1,0 +1,76 @@
+<activity id="4e91f90488824c17a2dc9e492483fe94" pseudoID="SC_L5_AB_Ch2_p15_ACT05">
+    <rubric>
+        <p>What else did Peter say? Unscramble.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+
+                    <ordering id="ordering_1" capitalise="y" display="h" example="y" mark="item">
+                        <item id="item_1" rank="7">I’ve</item>
+                        <item id="item_2" rank="1">lived</item>
+                        <item id="item_3" rank="2">in</item>
+                        <item id="item_4" rank="3">my</item>
+                        <item id="item_5" rank="4">house</item>
+                        <item id="item_6" rank="8">for</item>
+                        <item id="item_7" rank="5">three</item>
+                        <item id="item_8" rank="6">years</item>
+                        <item id="item_9" rank="9">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="2">I’ve</item>
+                        <item id="item_2" rank="4">learned</item>
+                        <item id="item_3" rank="8">Japanese</item>
+                        <item id="item_4" rank="5">since</item>
+                        <item id="item_5" rank="1">I</item>
+                        <item id="item_6" rank="3">was</item>
+                        <item id="item_7" rank="6">five</item>
+                        <item id="item_8" rank="7">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="4">I’ve</item>
+                        <item id="item_2" rank="7">known</item>
+                        <item id="item_3" rank="3">my</item>
+                        <item id="item_4" rank="6">best</item>
+                        <item id="item_5" rank="9">friend</item>
+                        <item id="item_6" rank="2">for</item>
+                        <item id="item_7" rank="5">two</item>
+                        <item id="item_8" rank="1">years</item>
+                        <item id="item_9" rank="8">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="5">We’ve</item>
+                        <item id="item_2" rank="7">done</item>
+                        <item id="item_3" rank="6">karate</item>
+                        <item id="item_4" rank="3">at</item>
+                        <item id="item_5" rank="1">school</item>
+                        <item id="item_6" rank="2">since</item>
+                        <item id="item_7" rank="8">last</item>
+                        <item id="item_8" rank="4">year</item>
+                        <item id="item_9" rank="9">.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_5" capitalise="y" display="h" mark="item">
+                        <item id="item_1" rank="6">My</item>
+                        <item id="item_2" rank="5">mom</item>
+                        <item id="item_3" rank="2">has</item>
+                        <item id="item_4" rank="4">worked</item>
+                        <item id="item_5" rank="7">here</item>
+                        <item id="item_6" rank="3">for</item>
+                        <item id="item_7" rank="1">three</item>
+                        <item id="item_8" rank="9">years</item>
+                        <item id="item_9" rank="8">.</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,18 @@
+<activity id="446a3c83d9e3471da21be76f5132ac4b" pseudoID="SC_L5_AB_Ch1_p11_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_email mm_boxShadow mm_text">
+            <block>
+                <image class="mm_browserBar" src="p011b.png" title=""/>
+            </block>
+            <p><sSpan class="mm_label">TO:</sSpan><sSpan class="mm_value">Uncle Richard</sSpan><image class="mm_iconEmail" src="p011a.png" title=""/></p>
+            <block class="mm_content">
+                <p class="mm_heading">Hi, Uncle Richard</p>
+                <p>Guess what? Grandpa has a new computer and we had our first <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y" rank="6">video call</droppable> on Wednesday. He’s learning to <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="5">type</droppable> letters and send <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="8">emails</droppable>, too. We can’t <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="2">chat online</droppable> yet because he can’t type very fast. I used to listen to Grandpa’s old <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="7">records</droppable> but now he wants to <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="3">download</droppable> music! He has <sSpan class="mm_inlineNumber">7</sSpan><droppable id="droppable_7" rank="4">earphones</droppable> so that we can’t hear what he listens to. After school, I’m going to teach Grandpa how to <sSpan class="mm_inlineNumber">8</sSpan><droppable id="droppable_8" rank="1">text</droppable> on his new cell phone. You’ll get a message from him soon!</p>
+                <p class="mm_footer">Alex</p>
+            </block>
+        </block>
+    </main>
+</activity>

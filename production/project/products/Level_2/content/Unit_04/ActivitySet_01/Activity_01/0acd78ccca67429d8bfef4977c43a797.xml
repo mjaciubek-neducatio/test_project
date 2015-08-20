@@ -1,0 +1,61 @@
+<activity class="mm_unit4 mm_activityNumber1" id="0acd78ccca67429d8bfef4977c43a797">
+    <rubric>
+        <p>Unscramble the words.</p>
+    </rubric>
+    <main>
+        <block class="mm_exerciseBackground">
+            <block class="mm_imagePicture1">
+                <image src="p030a.png" title=""/>
+            </block>
+            <list display="v" type="numbered" class="mm_exerciseContent">
+                <li class="mm_exerciseItem1">
+                    <ordering id="ordering_1" display="h" example="y">
+                        <item id="item_1" rank="4">w</item>
+                        <item id="item_2" rank="3">a</item>
+                        <item id="item_3" rank="2">l</item>
+                        <item id="item_4" rank="1">k</item>
+                    </ordering>
+                </li>
+                <li class="mm_exerciseItem2">
+                    <ordering id="ordering_2" display="h">
+                        <item id="item_1" rank="2">s</item>
+                        <item id="item_2" rank="1">i</item>
+                        <item id="item_3" rank="3">t</item>
+                    </ordering>
+                </li>
+                <li class="mm_exerciseItem3">
+                    <ordering id="ordering_3" display="h">
+                        <item id="item_1" rank="2">e</item>
+                        <item id="item_2" rank="3">a</item>
+                        <item id="item_3" rank="1">t</item>
+                    </ordering>
+                </li>
+                <li class="mm_exerciseItem4">
+                    <ordering id="ordering_4" display="h">
+                        <item id="item_1" rank="4">j</item>
+                        <item id="item_2" rank="3">u</item>
+                        <item id="item_3" rank="2">m</item>
+                        <item id="item_4" rank="1">p</item>
+                    </ordering>
+                </li>
+                <li class="mm_exerciseItem5">
+                    <ordering id="ordering_5" display="h">
+                        <item id="item_1" rank="5">s</item>
+                        <item id="item_2" rank="1">l</item>
+                        <item id="item_3" rank="2">e</item>
+                        <item id="item_4" rank="4">e</item>
+                        <item id="item_5" rank="3">p</item>
+                    </ordering>
+                </li>
+                <li class="mm_exerciseItem6">
+                    <ordering id="ordering_6" display="h">
+                        <item id="item_1" rank="3">b</item>
+                        <item id="item_2" rank="2">a</item>
+                        <item id="item_3" rank="1">r</item>
+                        <item id="item_4" rank="4">k</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

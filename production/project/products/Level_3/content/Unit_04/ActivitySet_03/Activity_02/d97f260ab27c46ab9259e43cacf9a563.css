@@ -1,0 +1,12 @@
+.wordBox {
+	width: 74%;
+}
+.main div.block:first-child {
+	width: 20%;
+	float: right;
+}
+.main > div.block > p {
+	display: inline-block;
+	margin-top: 1.5em;
+    font-weight: 400;
+}

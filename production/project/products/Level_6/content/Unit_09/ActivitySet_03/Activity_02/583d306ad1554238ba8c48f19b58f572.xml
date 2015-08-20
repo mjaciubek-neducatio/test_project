@@ -1,0 +1,95 @@
+<activity class="mm_unit9 mm_activityNumber1" id="583d306ad1554238ba8c48f19b58f572" pseudoID="SC_L6_AB_Ch9_p75_ACT01">
+    <rubric>
+		<p>Write your name in the certificate in your book. Unscramble the words.</p>
+	</rubric>
+	<main>
+		<block class="mm_exBorder mm_boxShadow">
+			<block class="mm_exContent mm_padder mm_boxShadow mm_lineOrdering">
+				<p class="mm_title">
+            Great job! You’ve almost finished Story Central Level 6.
+				</p>
+				<block>
+					<image src="p075a.png" title=""/>
+					<image src="p075b.png" title=""/>
+				</block>
+				<p>This certificate is given to <sSpan class="mm_highlighted">[name]</sSpan><textInput id="textInput_1"/>for all your hard work this year.</p>
+            <p>We hope you’ve had fun and enjoyed the stories. You’ve shared some great<br/></p>
+				<p class="mm_inlineNumber">1</p> <ordering id="ordering_1" display="h" example="y">
+					<item id="item_1">i</item>
+					<item id="item_2">d</item>
+					<item id="item_3">e</item>
+					<item id="item_4">a</item>
+					<item id="item_5">s</item>
+				</ordering>
+            with us and talked about your
+				<p class="mm_inlineNumber">2</p><ordering id="ordering_2" display="h">
+					<item id="item_1" rank="5">h</item>
+					<item id="item_2" rank="3">o</item>
+					<item id="item_3" rank="1">p</item>
+					<item id="item_4" rank="2">e</item>
+					<item id="item_5" rank="4">s</item>
+				</ordering>
+            and dreams. We hope you always
+				<p class="mm_inlineNumber">3</p><ordering id="ordering_3" display="h">
+					<item id="item_1" rank="1">f</item>
+					<item id="item_2" rank="5">o</item>
+					<item id="item_3" rank="4">l</item>
+					<item id="item_4" rank="3">l</item>
+					<item id="item_5" rank="6">o</item>
+					<item id="item_6" rank="2">w</item>
+				</ordering>
+            your heart in life and enjoy everything that you do. You might want to be a successful
+				<p class="mm_inlineNumber">4</p><ordering id="ordering_4" display="h">
+					<item id="item_1" rank="11">m</item>
+					<item id="item_2" rank="2">i</item>
+					<item id="item_3" rank="3">l</item>
+					<item id="item_4" rank="10">l</item>
+					<item id="item_5" rank="9">i</item>
+					<item id="item_6" rank="4">o</item>
+					<item id="item_7" rank="8">n</item>
+					<item id="item_8" rank="5">a</item>
+					<item id="item_9" rank="7">i</item>
+					<item id="item_10" rank="1">r</item>
+					<item id="item_11" rank="6">e</item>
+				</ordering>
+            but remember the best things in life are
+				<p class="mm_inlineNumber">5</p><ordering id="ordering_5" display="h">
+					<item id="item_1" rank="4">f</item>
+					<item id="item_2" rank="2">r</item>
+					<item id="item_3" rank="1">e</item>
+					<item id="item_4" rank="3">e</item>
+					<suffix>.</suffix>
+				</ordering>
+            Don’t forget your friends. Good friends will help you
+				<p class="mm_inlineNumber">6</p><ordering id="ordering_6" display="h">
+					<item id="item_1" rank="6">s</item>
+					<item id="item_2" rank="7">u</item>
+					<item id="item_3" rank="4">c</item>
+					<item id="item_4" rank="2">c</item>
+					<item id="item_5" rank="3">e</item>
+					<item id="item_6" rank="1">e</item>
+					<item id="item_7" rank="5">d</item>
+				</ordering>
+            and will be there if you don’t. You’ve shown us what you can
+				<p class="mm_inlineNumber">7</p><ordering id="ordering_7" display="h">
+					<item id="item_1" rank="7">a</item>
+					<item id="item_2" rank="6">c</item>
+					<item id="item_3" rank="1">h</item>
+					<item id="item_4" rank="5">i</item>
+					<item id="item_5" rank="3">e</item>
+					<item id="item_6" rank="2">v</item>
+					<item id="item_7" rank="4">e</item>
+				</ordering>
+            so find your
+				<p class="mm_inlineNumber">8</p><ordering id="ordering_8" display="h">
+					<item id="item_1" rank="2">g</item>
+					<item id="item_2" rank="4">o</item>
+					<item id="item_3" rank="5">a</item>
+					<item id="item_4" rank="1">l</item>
+					<item id="item_5" rank="3">s</item>
+				</ordering>
+            <p>in life and go for it!</p>
+			</block>
+		</block>
+	</main>
+</activity>

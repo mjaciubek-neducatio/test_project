@@ -1,0 +1,29 @@
+<activity id="898dd06afe644b20bd509b3fd4ae9681" pseudoID="SC_L3_AB_ChW_p4_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>In Story Central, there are great new <droppable example="y" id="droppable_1">books</droppable> to read.</p>
+                </li>
+                <li>
+                    <p>You can play games and see your <droppable id="droppable_2">friends</droppable>.</p>
+                </li>
+                <li>
+                    <p>You can play and <droppable id="droppable_3">learn</droppable> at the same time.</p>
+                </li>
+                <li>
+                    <p>You can meet <droppable id="droppable_4">characters</droppable> from the books.</p>
+                </li>
+                <li>
+                    <p>You can find a <droppable id="droppable_5">costume</droppable> you can wear.</p>
+                </li>
+                <li>
+                    <p>You can bring a book to <droppable id="droppable_6">share</droppable> with your friends.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

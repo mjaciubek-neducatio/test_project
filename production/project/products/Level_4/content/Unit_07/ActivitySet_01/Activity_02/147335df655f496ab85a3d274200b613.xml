@@ -1,0 +1,27 @@
+<activity desktopDraggable="n" class="mm_unit7 mm_activityNumber2 mm_exerciseContentU07" id="147335df655f496ab85a3d274200b613" pseudoID="SC_L4_AB_Ch7_p54_ACT02">
+    <rubric>
+        <p>Complete the descriptions.</p>
+    </rubric>
+    <main>
+        <block class="mm_exerciseContent">
+            <image src="p054h.jpg" title=""/>
+            <list display="v" type="numbered">
+                <li>
+                    <p>Grandma is wearing <droppable id="droppable_1" example="y" rank="2">earrings</droppable> and a <cSpan class="mm_noWrap"><droppable id="droppable_2" rank="1">necklace</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Dad is wearing <droppable id="droppable_3" rank="4">gloves</droppable> and a <cSpan class="mm_noWrap"><droppable id="droppable_4" rank="5">scarf</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Mom is wearing a shirt with a lot of <droppable id="droppable_5" rank="6">buttons</droppable> and a <cSpan class="mm_noWrap"><droppable id="droppable_6" rank="7">belt</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Grandpa is wearing a <cSpan class="mm_noWrap"><droppable id="droppable_7" rank="3">tie</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>The daughter is holding a <cSpan class="mm_noWrap"><droppable id="droppable_8" rank="8">handbag</droppable>.</cSpan></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

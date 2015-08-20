@@ -1,0 +1,46 @@
+<activity id="d56b7b517689464fa62fa6c5f9e507d9" pseudoID="SC_L5_AB_Ch7_p54_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">You slice onions with a spoon.</p>
+                    <radio id="radio_1" displayType="itemSelect" display="h" name="" type="plain" example="y">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>You boil water and then you cook the pasta.</p>
+                    <radio id="radio_2" displayType="itemSelect" display="h" name="" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>A pan is usually made of metal.</p>
+                    <radio id="radio_3" displayType="itemSelect" display="h" name="" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>You can’t chop peppers into small pieces.</p>
+                    <radio id="radio_4" displayType="itemSelect" display="h" name="" type="plain">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>You usually fry food in oil.</p>
+                    <radio id="radio_5" displayType="itemSelect" display="h" name="" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

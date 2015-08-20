@@ -1,0 +1,63 @@
+.mm_email {
+    border-radius: 12px;
+    padding: 0;
+	padding-bottom: 0.875em;
+	background: rgba(219,239,230,1);
+background: -moz-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(219,239,230,1)), color-stop(49%, rgba(32,175,139,1)), color-stop(99%, rgba(219,239,230,1)), color-stop(100%, rgba(219,239,230,1)));
+background: -webkit-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: -o-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+background: linear-gradient(45deg, rgba(219,239,230,1) 0%, rgba(32,175,139,1) 49%, rgba(219,239,230,1) 99%, rgba(219,239,230,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbefe6', endColorstr='#dbefe6', GradientType=1 );
+    border: 2px solid #eeeeef;
+}
+
+.mm_content {
+    background-color: #f1f8f5;
+    margin: 0.875em;
+    border-radius: 20px;
+}
+
+.mm_iconEmail {
+    float: right;
+	position: relative;
+	bottom: 1.17em;
+    margin-right: 0.875em;
+}
+
+.mm_value {
+    background-color: #fff;
+	padding-left: .25em;
+	padding-right: 10em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.mm_label {
+    color: #000;
+	font-weight: bold;
+	text-align: right;
+	padding-right: .875em;
+	padding-left: .875em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.mm_content p {
+    display: inline;
+}
+.mm_content p:nth-child(1), .mm_content p:nth-child(26) {
+    display: block;
+}
+
+
+.mm_boldInfo {
+    font-weight: bold;
+}
+.mm_email .mm_content > p {
+    line-height: 25px;
+}
+.mm_email .mm_content .orderingContainer {
+    vertical-align: middle;
+}

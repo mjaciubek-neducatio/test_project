@@ -1,0 +1,18 @@
+.mm_imageRight .categories.draggable.categories2 {
+    text-align: left;
+}
+
+.mm_imageRight .categories.draggable.categories2 .category {
+    width: 30%;
+}
+
+.mm_imageRight {
+    positon: relative;
+}
+
+.mm_imageRight img {
+    float: none;
+    position: absolute;
+    right: 0;
+    top: 150px;
+}

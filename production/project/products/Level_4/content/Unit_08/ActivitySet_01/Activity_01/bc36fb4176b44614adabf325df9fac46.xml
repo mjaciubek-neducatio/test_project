@@ -1,0 +1,45 @@
+<activity desktopDraggable="n" class="mm_unit8 mm_activityNumber1" id="bc36fb4176b44614adabf325df9fac46" pseudoID="SC_L4_AB_Ch8_p62_ACT01">
+    <rubric>
+        <p>Look and complete.</p>
+    </rubric>
+    <main>
+            <block class="mm_exerciseContent">
+            <collapsibleBlock id="cb_1" open="y">
+    			<collapseButton captionWhenClosed="Show image" captionWhenOpened="Hide image"/>
+				<block>
+                    <image src="p062a.png" title=""/>
+                </block>
+            </collapsibleBlock>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>There are beautiful <droppable id="droppable_1" example="y" rank="5">decorations</droppable> across the street.</p>
+                </li>
+                <li>
+                    <p>The people are marching in a <cSpan class="mm_noWrap"><droppable id="droppable_2" rank="8">parade</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>There’s a dancing <droppable id="droppable_3" rank="6">dragon</droppable> at the front of the parade.</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_4" rank="1">Lanterns</droppable> are hanging from the trees.</p>
+                </li>
+                <li>
+                    <p>The people performing music are wearing bright <cSpan class="mm_noWrap"><droppable id="droppable_5" rank="3">costumes</droppable>.</cSpan></p>
+                </li>
+                <li>
+                    <p>You can see <droppable id="droppable_6" rank="7">fireworks</droppable> in the sky.</p>
+                </li>
+                <li>
+                    <p>There’s a <droppable id="droppable_7" rank="4">feast</droppable> on the table.</p>
+                </li>
+                <li>
+                    <p>A woman is giving a boy a <cSpan class="mm_noWrap"><droppable id="droppable_8" rank="2">gift</droppable>.</cSpan></p>
+                </li>
+            </list>
+        </block>
+        <block class="mm_exerciseImage">
+            
+        </block>
+    </main>
+</activity>

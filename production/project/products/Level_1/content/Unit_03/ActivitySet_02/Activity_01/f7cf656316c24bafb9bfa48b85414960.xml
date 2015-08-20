@@ -1,0 +1,41 @@
+<activity id="f7cf656316c24bafb9bfa48b85414960" pseudoID="SC_L1_AB_Ch3_p24_ACT02" class="mm_unit3 mm_lesson3 mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio mm_flexContainer mm_flexboxSet">
+            <list display="v" type="numbered">
+                <li>
+                    <p>The giraffe is happy.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain" example="y">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The baby giraffe is very tall.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+            </list>
+            <list display="v" type="numbered" start="3">
+                <li>
+                    <p>The elephant is hungry.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The trees are very tall.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

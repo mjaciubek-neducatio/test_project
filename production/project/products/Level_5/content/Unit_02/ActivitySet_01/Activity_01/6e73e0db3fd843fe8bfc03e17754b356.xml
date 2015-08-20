@@ -1,0 +1,29 @@
+<activity id="6e73e0db3fd843fe8bfc03e17754b356" pseudoID="SC_L5_AB_Ch2_p14_ACT02" class="mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">Love writing? Use our <droppable id="droppable_1" example="y">poetry</droppable> app for all your ideas.</p>
+                </li>
+                <li>
+                    <p>The best game in the world – but not the easiest! Use our <droppable id="droppable_2">chess</droppable> app to help you win every time!</p>
+                </li>
+                <li>
+                    <p>Cookies or cake? Decide what to make and start <droppable id="droppable_3">baking</droppable> with this fun app.</p>
+                </li>
+                <li>
+                    <p>If you like sports, you’ll love this <droppable id="droppable_4">karate</droppable> app. Learn all the moves!</p>
+                </li>
+                <li>
+                    <p>Make your pictures special with this <droppable id="droppable_5">photo</droppable> app.</p>
+                </li>
+                <li>
+                    <p>Learning to speak <droppable id="droppable_6">Japanese</droppable> is quick and easy with this app.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

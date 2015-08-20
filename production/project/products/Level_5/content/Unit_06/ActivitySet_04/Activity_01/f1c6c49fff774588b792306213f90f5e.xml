@@ -1,0 +1,30 @@
+<activity id="f1c6c49fff774588b792306213f90f5e" pseudoID="SC_L5_AB_Ch6_p50_ACT01">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <image src="p050a.png" title=""/>
+        </block>
+        <block class="mm_text">
+            <block class="mm_backgr">
+            <p class="mm_textInner mm_padder mm_handwritten">I’m really interested in the <i>Titanic</i> story. No one knows how many passengers were traveling on the ship <sSpan class="mm_inlineNumber mm_halfSpace">1</sSpan><dropDown id="dropDown_1" example="y">
+                    <item id="item_1" correct="y">when</item>
+                    <item id="item_2">while</item>
+                </dropDown> it sank. Why? Because some people didn’t buy tickets. They were called "stowaways" and they got onto the ship <sSpan class="mm_inlineNumber mm_halfSpace">2</sSpan><dropDown id="dropDown_2">
+                    <item id="item_1" correct="y">while</item>
+                    <item id="item_2">when</item>
+                </dropDown> it was preparing to leave. <sSpan class="mm_inlineNumber mm_halfSpace">3</sSpan><dropDown id="dropDown_3">
+                    <item id="item_1" correct="y">While</item>
+                    <item id="item_2">When</item>
+                </dropDown> the crew on the ship weren’t looking, they found places to hide. Some of the stowaways were probably hiding <sSpan class="mm_inlineNumber mm_halfSpace">4</sSpan><dropDown id="dropDown_4">
+                    <item id="item_1" correct="y">when</item>
+                    <item id="item_2">while</item>
+                </dropDown> the ship hit the iceberg. It was scary for them. <sSpan class="mm_inlineNumber mm_halfSpace">5</sSpan><dropDown id="dropDown_5">
+                    <item id="item_1">While</item>
+                    <item id="item_2" correct="y">When</item>
+                </dropDown> the accident happened, they were thinking about their new life.</p>
+            </block>
+        </block>
+    </main>
+</activity>

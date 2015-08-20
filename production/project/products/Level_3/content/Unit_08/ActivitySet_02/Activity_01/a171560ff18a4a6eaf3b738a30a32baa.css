@@ -1,0 +1,14 @@
+.main li img {
+	width: 80px;
+	display: inline-block;
+	float: left;
+	margin-right: 0.3em;
+}
+.main li {
+	clear: left;
+}
+.main li p {
+	line-height: 3em;
+	vertical-align: middle;
+	display: inline-block;
+}

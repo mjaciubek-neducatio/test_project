@@ -1,0 +1,31 @@
+/* .mm_imageMatchTarget .matchingContainer .matchTargetContainer {
+    margin-right: 5px;
+} */
+
+.mm_imageMatchTarget .matchTarget {
+    padding: 15px;
+}
+
+.mm_matchingCenter .matchItem,
+.mm_matchingCenter .matchTarget {
+    text-align: center;
+}
+.mm_customMatching .matchItems img, .mm_customMatching .matchItem {
+padding-left: 10px;
+}
+.mm_customMatching .matchItem {
+ padding-right: 10px;
+}
+
+/* .matchTargets {
+    padding-top: 244px;
+
+} */
+
+.matchTargetContainer:first-child {
+    margin-top: 92px;
+}
+
+.mm_vMatchingStaggeredItems .matchItems {
+   width: 30%;
+}

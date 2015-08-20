@@ -1,0 +1,60 @@
+<activity id="805670a435614a42aac0c3f0c0e27992" pseudoID="SC_L5_AB_Ch8_p63_ACT04">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                <p>"I have a dog named Muffin."</p>
+                    <p>She told us <typein id="typein_1" example="y">
+                        <acceptable>
+                            <item id="item_1">she had a dog named Muffin</item>
+                        </acceptable>
+                    </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>"I hate broccoli."</p>
+                    <p>She joked <typein id="typein_2">
+                        <acceptable>
+                            <item id="item_1">she hated broccoli</item>
+                            <item id="item_2">that she hated broccoli</item>
+                        </acceptable>
+                    </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>"Schools need more computers."</p>
+                    <p>She explained <typein id="typein_3">
+                        <acceptable>
+                            <item id="item_1">schools needed more computers</item>
+                            <item id="item_2">that schools needed more computers</item>
+                        </acceptable>
+                    </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>"I can’t dance very well."</p>
+                    <p>She said <typein id="typein_4">
+                        <acceptable>
+                            <item id="item_1">she couldn’t dance very well</item>
+                            <item id="item_2">that she couldn’t dance very well</item>
+                        </acceptable>
+                    </typein>.
+                    </p>
+                </li>
+                <li>
+                    <p>"Free time is important for students."</p>
+                    <p>She agreed <typein id="typein_5">
+                        <acceptable>
+                            <item id="item_1">free time was important for students</item>
+                            <item id="item_2">that free time was important for students</item>
+                        </acceptable>
+                    </typein>.
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

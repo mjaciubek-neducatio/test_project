@@ -1,0 +1,55 @@
+<activity class="mm_unit1 mm_activityNumber1" id="807da5b4015f4fde8db4030e235399e6">
+    <rubric>
+        <p>Find the errors and choose the correct word.</p>
+    </rubric>
+    <main>
+        <block class="mm_wordBox">
+            <list display="h" type="plain">
+                <li>leaves</li>
+                <li>light</li>
+                <li>flowers</li>
+                <li>soil</li>
+                <li>water</li>
+            </list>
+        </block>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">Put the bean in the dark <locating id="locating_1" example="y">water<dropDown>
+                                <item id="item_1" correct="y">soil</item>
+                                <item id="item_2">leaves</item>
+                            </dropDown>
+                        </locating>.</p>
+                </li>
+                <li>
+                    <p>Give the plant <locating id="locating_2">food<dropDown>
+                                <item id="item_1">soil</item>
+                                <item id="item_2" correct="y">water</item>
+                            </dropDown>
+                        </locating>.</p>
+                </li>
+                <li>
+                    <p>In the day, it’s <locating id="locating_3">dark<dropDown>
+                                <item id="item_1">flowers</item>
+                                <item id="item_2" correct="y">light</item>
+                            </dropDown>
+                        </locating>.</p>
+                </li>
+                <li>
+                    <p>The plant is short and it has green <locating id="locating_4">soil<dropDown>
+                                <item id="item_1" correct="y">leaves</item>
+                                <item id="item_2">flowers</item>
+                            </dropDown>
+                        </locating>.</p>
+                </li>
+                <li>
+                    <p>The plant has beautiful red <locating id="locating_5">beans<dropDown>
+                                <item id="item_1" correct="y">flowers</item>
+                                <item id="item_2">leaves</item>
+                            </dropDown>
+                        </locating>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

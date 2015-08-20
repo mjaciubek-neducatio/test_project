@@ -1,0 +1,46 @@
+<activity class="mm_unit2 mm_activityNumber2" id="fe716cc4241c415ca0bc25773bba4e02" pseudoID="SC_L4_AB_Ch2_p15_ACT05">
+    <rubric>
+        <p>Complete the sentences with <i>should</i> or<i> shouldn’t</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>“I have a headache.” – “You <typein id="typein_1">
+                            <acceptable>
+                                <item id="item_1">shouldn’t</item>
+                            </acceptable>
+                        </typein> watch so much TV.”</p>
+                </li>
+                <li>
+                    <p>“I can’t do my homework.” – “You <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">should</item>
+                            </acceptable>
+                        </typein> ask for help.”</p>
+                </li>
+                <li>
+                    <p>“I hurt my leg yesterday.” – “You <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">shouldn’t</item>
+                            </acceptable>
+                        </typein> play soccer today.”</p>
+                </li>
+                <li>
+                    <p>“I have a stomach ache.” – “You <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">shouldn’t</item>
+                            </acceptable>
+                        </typein> eat so much cake!”</p>
+                </li>
+                <li>
+                    <p>“I lost my dog at the park.” – “You <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">should</item>
+                            </acceptable>
+                        </typein> look for him.”</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

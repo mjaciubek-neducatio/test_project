@@ -1,0 +1,63 @@
+<activity class="mm_unit4 mm_activityNumber1" id="16d107aa640d410fbaf1da4e0a149b5a" pseudoID="SC_L4_AB_Ch4_p31_ACT04">
+    <rubric>
+        <p>Choose the correct options.</p>
+    </rubric>
+    <main>
+        <block class="mm_customImage">
+            <block class="mm_iconTick">
+                <image src="p031a.png" title=""/>
+            </block>
+            <block class="mm_iconCross">
+                <image src="p031b.png" title=""/>
+            </block>
+            <block class="mm_iconTick">
+                <image src="p031c.png" title=""/>
+            </block>
+            <block class="mm_iconTick">
+                <image src="p031d.png" title=""/>
+            </block>
+            <block class="mm_iconCross">
+                <image src="p031e.png" title=""/>
+            </block>
+        </block>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>
+                        <dropDown id="dropDown_1" example="y" disabled="y">
+                            <item id="item_1" correct="y">I’ve seen</item>
+                            <item id="item_2">I haven’t seen</item>
+                        </dropDown> a lot of comedies.</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_2">
+                            <item id="item_1">I’ve watched</item>
+                            <item id="item_2" correct="y">I haven’t watched</item>
+                        </dropDown> a horror movie.</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">I’ve met</item>
+                            <item id="item_2">I haven’t met</item>
+                        </dropDown> my favorite actor.</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_4">
+                            <item id="item_1">I’ve written</item>
+                            <item id="item_2" correct="y">I haven’t written</item>
+                        </dropDown> a story book.</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_5">
+                            <item id="item_1" correct="y">I’ve been</item>
+                            <item id="item_2">I haven’t been</item>
+                        </dropDown> to New York.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

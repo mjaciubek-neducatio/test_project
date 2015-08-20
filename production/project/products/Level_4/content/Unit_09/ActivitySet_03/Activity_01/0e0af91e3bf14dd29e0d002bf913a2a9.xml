@@ -1,0 +1,11 @@
+<activity desktopDraggable="n" class="mm_unit9 mm_activityNumber2" id="0e0af91e3bf14dd29e0d002bf913a2a9" pseudoID="SC_L4_AB_Ch9_p73_ACT02">
+    <rubric>
+        <p>Complete the story.</p>
+    </rubric>
+    <main>
+        <block class="mm_iCanReadBadge">
+            <image src="p041a.png" title=""/>
+            <p>Last month, I went on an adventure. It was fun. <cSpan class="mm_noWrap"><droppable id="droppable_1" example="y" rank="2">First</droppable>,</cSpan> we flew in a helicopter. <droppable id="droppable_2" rank="4">When</droppable> we landed on the island, we camped on the beach. <cSpan class="mm_noWrap"><droppable id="droppable_3" rank="1">Then</droppable>,</cSpan> we had lunch. <droppable id="droppable_4" rank="3">After</droppable> that, we climbed the mountain. <cSpan class="mm_noWrap"><droppable id="droppable_5" rank="5">Suddenly</droppable>,</cSpan> it started to rain – we couldn’t find shelter!</p>
+        </block>
+    </main>
+</activity>

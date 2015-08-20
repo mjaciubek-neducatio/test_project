@@ -1,0 +1,51 @@
+.mm_checkbox {
+    margin-bottom: 0;
+}
+
+.checkboxItemSelect {
+    white-space: nowrap;
+    font-size: 0.9em;
+}
+
+[class*='mm_flexboxSet'] .checkbox {
+    width: auto;
+    padding-left: 1em;
+}
+
+.mm_itemSelectBigButtons .checkboxItemSelect .selectable {
+    margin-left: 0.9em;
+    margin-right: 0.9em;
+}
+
+    
+.mm_flexboxSet > .mm_checkbox {
+        width: 50%;
+}
+
+.mm_checkboxItemSelectNumbers .checkboxItemSelect .checkbox:before {
+    padding-right: 0.25em;
+   font-weight: 700;
+   color: #F9B122;
+}
+.mm_checkboxItemSelectNumbers .checkboxItemSelect .example:before,
+.mm_checkboxItemSelectNumbers .checkboxItemSelect .selected:before {
+   color: #fff;
+}
+.mm_checkboxItemSelectNumbers .checkboxItemSelect .checkbox:nth-child(1):before {
+    content: "1.";
+}
+.mm_checkboxItemSelectNumbers .checkboxItemSelect .checkbox:nth-child(2):before {
+    content: "2.";
+}
+.mm_checkboxItemSelectNumbers .checkboxItemSelect .checkbox:nth-child(3):before {
+    content: "3.";
+}
+.mm_monkey .checkboxItemSelect .checkbox:nth-child(1):before {
+    content: "4.";
+}
+.mm_monkey .checkboxItemSelect .checkbox:nth-child(2):before {
+    content: "5.";
+}
+.mm_monkey .checkboxItemSelect .checkbox:nth-child(3):before {
+    content: "6.";
+}

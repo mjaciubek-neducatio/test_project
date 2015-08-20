@@ -1,0 +1,21 @@
+<activity id="0069d45bb17c4133827c528884f31038" pseudoID="SC_L3_AB_Ch6_p50_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Find the weather words.</p>
+    </rubric>
+    <main>
+        <block class="mm_border mm_roundedCorner">
+            <wordSnake id="wordSnake_1">
+                <words>
+                    <word id="wordSnake_word_1" example="y">brighter</word>
+                    <word id="wordSnake_word_2">chillier</word>
+                    <word id="wordSnake_word_3">warmer</word>
+                    <word id="wordSnake_word_4">icier</word>
+                    <word id="wordSnake_word_5">sunnier</word>
+                    <word id="wordSnake_word_6">colder</word>
+                    <word id="wordSnake_word_7">foggier</word>
+                    <word id="wordSnake_word_8">damper</word>
+                </words>
+            </wordSnake>
+        </block>
+    </main>
+</activity>

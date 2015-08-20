@@ -1,0 +1,23 @@
+/* WORDSNAKE */
+
+/* Activity specific wordsnake code */
+
+.mm_wordSnake .wordSnake {
+    -webkit-transform: rotate(-2deg);
+}
+.mm_wordSnake {
+	background-image: url(../../production/project/products/Level_1/assets/images/p025a.jpg);
+    padding: 140px 0;
+}
+
+.wordSnakeContainer ul {
+    padding-left: 0.1em;
+}
+
+.wordSnakeContainer .wordSnake li.letter {
+    border: none;
+    padding: 3px;
+    float: left;
+    line-height:0.65em;
+    font-size: 1.1em;
+}

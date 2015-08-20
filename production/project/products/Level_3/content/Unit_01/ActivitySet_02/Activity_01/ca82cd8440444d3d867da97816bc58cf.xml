@@ -1,0 +1,23 @@
+<activity id="ca82cd8440444d3d867da97816bc58cf" pseudoID="SC_L3_AB_Ch1_p8_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Complete. Then act out.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="plain">
+                <li>
+                    <image src="speechLeft.jpg" title=""/>
+                    <p>There are a lot of <droppable id="droppable_1" example="y">computers</droppable> in the library.<br/>You can use those for your <droppable id="droppable_2">homework</droppable>.</p>
+                </li>
+                <li>
+                    <image src="speechRight.jpg" title=""/>
+                    <p>Yes, and [name] knows all about computers. It’s a good<br/> <droppable id="droppable_3">idea</droppable> to <droppable id="droppable_4">listen</droppable> to what he/she says.</p>
+                </li>
+                <li>
+                    <image src="speechLeft2.jpg" title=""/>
+                    <p>That’s <droppable id="droppable_5">great</droppable>! Thank you.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

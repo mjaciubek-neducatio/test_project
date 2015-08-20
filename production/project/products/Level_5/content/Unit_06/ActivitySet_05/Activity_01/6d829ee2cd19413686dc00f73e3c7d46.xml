@@ -1,0 +1,13 @@
+<activity id="6d829ee2cd19413686dc00f73e3c7d46" pseudoID="SC_L5_AB_Ch6_p51_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        
+        <block class="mm_handwritten mm_backgr mm_padder mm_imageRight mm_boxShadow">
+            <image src="p051a.png" title=""/>
+            <p>It was stormy and the <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y">waves</droppable> were high when we saw the big ship. <br/>A Japanese <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="2">flag</droppable> was flying from the ship’s <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="6">mast</droppable>.<br/> The <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="1">captain</droppable> was on the ship with his men. They didn’t know it, but their lives were in danger.</p>
+            <p>We were <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="4">pirates</droppable> and we were planning to <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="5">destroy</droppable> their ship. Then we saw a boy who was swimming near us. While our ship was getting closer, he was making <sSpan class="mm_inlineNumber">7</sSpan><droppable id="droppable_7" rank="7">holes</droppable> in it. Water started to come in! I took a big piece of wood and jumped into the ocean. At least I could <sSpan class="mm_inlineNumber">8</sSpan><droppable id="droppable_8" rank="3">float</droppable> with the wood …</p>
+        </block>
+    </main>
+</activity>

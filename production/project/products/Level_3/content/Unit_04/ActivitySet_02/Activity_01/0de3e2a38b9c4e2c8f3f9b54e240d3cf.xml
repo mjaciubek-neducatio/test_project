@@ -1,0 +1,47 @@
+<activity id="0de3e2a38b9c4e2c8f3f9b54e240d3cf" pseudoID="SC_L3_AB_Ch4_p32_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Unscramble the sentences. Then act out.</p>
+    </rubric>
+    <main>
+        <block class="mm_horizontalOrdering">
+            <list display="v" type="plain">
+                <li>
+                    <sSpan class="mm_radioLabelNumber">A.</sSpan>
+                    <ordering id="ordering_1" capitalise="y" display="h">
+                        <item id="item_1">Come</item>
+                        <item id="item_2">and</item>
+                        <item id="item_3">see</item>
+                        <item id="item_4">this.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <sSpan class="mm_radioLabelNumber mm_topElement">B.</sSpan>
+                        <list display="v" type="plain" class="mm_inlineList">
+                            <li><ordering id="ordering_2" capitalise="y" display="h">
+                                <item id="item_1">Wow!</item>
+                                <item id="item_2">A</item>
+                                <item id="item_3">typewriter!</item>
+                            </ordering>
+                            </li>
+                            <li>
+                            <ordering id="ordering_3" capitalise="y" display="h">
+                                <item id="item_1">Isn’t</item>
+                                <item id="item_2">that</item>
+                                <item id="item_3">awesome?</item>
+                            </ordering>
+                            </li>
+                        </list>
+
+                </li>
+                <li>
+                    <sSpan class="mm_radioLabelNumber">A.</sSpan>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1">It</item>
+                        <item id="item_2">sure</item>
+                        <item id="item_3">is!</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

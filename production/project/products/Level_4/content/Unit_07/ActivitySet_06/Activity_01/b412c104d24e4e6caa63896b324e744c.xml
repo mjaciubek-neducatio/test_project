@@ -1,0 +1,57 @@
+<activity class="mm_unit7 mm_activityNumber1" id="b412c104d24e4e6caa63896b324e744c" pseudoID="SC_L4_AB_Ch7_p60_ACT01">
+    <rubric>
+        <p>Read and choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+    <block>
+        <collapsibleBlock id="text" open="y">
+        <collapseButton captionWhenClosed="Show the text" captionWhenOpened="Hide the text"/>
+            <block>
+                <block class="mm_headlines">
+                    <h2>Police Catch Thieves</h2>
+                </block>
+                <block class="mm_letter mm_boxShadow">
+                    <p>Fingerprints and footprints are not the only clues that the police look for. They also use technology to help them find thieves and solve crimes. Sometimes all they need is a simple piece of software. Some laptops have this software already. If your laptop doesn’t, you can buy an app. It doesn’t matter what your laptop’s location is – this app always knows where to find it. It works for cell phones, too.</p>
+                    <p>When thieves stole eight-year-old Tom Carter’s laptop, Tom’s parents thought that it was lost forever. But Tom used an app to find his laptop and showed the police a map. The police went there and caught the thieves. They found Tom’s computer – and 200 other stolen items!</p>
+                </block>    
+            </block>          
+        </collapsibleBlock>       
+        <block class="mm_radio mm_exerciseQustions">
+            <list display="v" type="numbered">
+                <li>
+                    <p><sSpan class="mm_cWidth">Some laptops don’t have the app.</sSpan>
+                    <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">The app tells you where your computer is.</sSpan>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">The app is only for laptops.</sSpan>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                    </p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Thieves stole a lot of things.</sSpan>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                    </p>
+                </li>
+            </list>
+        </block>
+        </block>
+    </main>
+</activity>

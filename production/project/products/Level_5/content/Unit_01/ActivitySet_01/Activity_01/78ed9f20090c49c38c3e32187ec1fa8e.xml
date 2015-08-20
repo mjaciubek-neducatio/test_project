@@ -1,0 +1,26 @@
+<activity id="78ed9f20090c49c38c3e32187ec1fa8e" pseudoID="SC_L5_AB_Ch1_p6_ACT03" desktopDraggable="n" class="mm_activityNumber3">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">If you want to know what a word means, use a <droppable id="droppable_1" example="y">dictionary</droppable>.</p>
+                </li>
+                <li>
+                    <p>When you hear the <droppable id="droppable_2">bell</droppable>, you can go outside.</p>
+                </li>
+                <li>
+                    <p>Don’t write in the book with your <droppable id="droppable_3">ink pen</droppable>. Always use a pencil!</p>
+                </li>
+                <li>
+                    <p>You can find the important facts in an <droppable id="droppable_4">encyclopedia</droppable>.</p>
+                </li>
+                <li>
+                    <p>We watched a DVD of the school trip on the teacher’s <droppable id="droppable_5">laptop</droppable>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

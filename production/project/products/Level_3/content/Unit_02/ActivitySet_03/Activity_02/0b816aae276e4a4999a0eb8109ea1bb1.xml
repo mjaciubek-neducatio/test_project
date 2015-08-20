@@ -1,0 +1,22 @@
+<activity id="0b816aae276e4a4999a0eb8109ea1bb1" pseudoID="SC_L3_AB_Ch2_p18_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Find five foods.</p>
+    </rubric>
+    <main>
+        <!-- <block>
+            <image src="p018a.jpg" title=""/>
+        </block> -->
+        <block>
+            <wordSnake id="wordSnake_1">
+                <words>
+                    <word id="wordSnake_word_1" example="y">cucumbers</word>
+                    <word id="wordSnake_word_2">potatoes</word>
+                    <word id="wordSnake_word_3">strawberries</word>
+                    <word id="wordSnake_word_4">apples</word>
+                    <word id="wordSnake_word_5">tomatoes</word>
+                    <word id="wordSnake_word_6">melon</word>
+                </words>
+            </wordSnake>
+        </block>
+    </main>
+</activity>

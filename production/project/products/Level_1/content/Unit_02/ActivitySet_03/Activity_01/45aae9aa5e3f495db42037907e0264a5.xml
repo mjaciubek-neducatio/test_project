@@ -1,0 +1,18 @@
+<activity id="45aae9aa5e3f495db42037907e0264a5" pseudoID="SC_L1_AB_Ch2_p17_ACT02" class="mm_unit2 mm_lesson4 mm_activityNumber2">
+    <rubric>
+        <p>Order the words to make the title.</p>
+    </rubric>
+    <main>
+        <block class="mm_horizontalOrdering mm_centeredContent">
+            <ordering id="ordering_1" capitalise="y" display="h" mark="item">
+                <item id="item_1">The</item>
+                <item id="item_2">Princess</item>
+                <item id="item_3">and</item>
+                <item id="item_4">the</item>
+                <item id="item_5">Teddy</item>
+                <item id="item_6">Bear</item>
+            </ordering>
+
+        </block>
+    </main>
+</activity>

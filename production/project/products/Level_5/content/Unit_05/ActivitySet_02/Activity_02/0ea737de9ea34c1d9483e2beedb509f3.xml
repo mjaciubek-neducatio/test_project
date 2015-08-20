@@ -1,0 +1,101 @@
+<activity id="0ea737de9ea34c1d9483e2beedb509f3" pseudoID="SC_L5_AB_Ch5_p39_ACT06" class="mm_activityNumber2">
+    <rubric>
+        <p>Complete. Then choose another item and tell a friend about it.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">What <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">’s</item>
+                            </acceptable>
+                        </typein> the robot <typein id="typein_2" example="y">
+                            <acceptable>
+                                <item id="item_1">made of</item>
+                            </acceptable>
+                        </typein>? It <typein id="typein_3" example="y">
+                            <acceptable>
+                                <item id="item_1">’s made of</item>
+                            </acceptable>
+                        </typein> wood.</p>
+                </li>
+                <li>
+                    <p class="mm_example">What <typein id="typein_4" example="y">
+                            <acceptable>
+                                <item id="item_1">’s</item>
+                            </acceptable>
+                        </typein> this bag <typein id="typein_5" example="y">
+                            <acceptable>
+                                <item id="item_1">used for</item>
+                            </acceptable>
+                        </typein>? It <typein id="typein_6" example="y">
+                            <acceptable>
+                                <item id="item_1">’s used for</item>
+                            </acceptable>
+                        </typein> shopping.</p>
+                </li>
+                <li>
+                    <p>What <typein id="typein_7">
+                            <acceptable>
+                                <item id="item_1">are</item>
+                            </acceptable>
+                        </typein> the boots <typein id="typein_8">
+                            <acceptable>
+                                <item id="item_1">made of</item>
+                            </acceptable>
+                        </typein>? They <typein id="typein_9">
+                            <acceptable>
+                                <item id="item_1">’re made of</item>
+                            </acceptable>
+                        </typein> leather.</p>
+                </li>
+                <li>
+                    <p>What <typein id="typein_10">
+                            <acceptable>
+                                <item id="item_1">’s</item>
+                            </acceptable>
+                        </typein> the cap <typein id="typein_11">
+                            <acceptable>
+                                <item id="item_1">used for</item>
+                            </acceptable>
+                        </typein>? It <typein id="typein_12">
+                            <acceptable>
+                                <item id="item_1">’s used for</item>
+                            </acceptable>
+                        </typein> sports.</p>
+                </li>
+                <li>
+                    <p>What <typein id="typein_13">
+                            <acceptable>
+                                <item id="item_1">’s</item>
+                            </acceptable>
+                        </typein> that pen <typein id="typein_14">
+                            <acceptable>
+                                <item id="item_1">used for</item>
+                            </acceptable>
+                        </typein>? It <typein id="typein_15">
+                            <acceptable>
+                                <item id="item_1">’s used for</item>
+                            </acceptable>
+                        </typein> coloring.</p>
+                </li>
+                <li>
+                    <p>What <typein id="typein_16">
+                            <acceptable>
+                                <item id="item_1">are</item>
+                            </acceptable>
+                        </typein> your sunglasses <typein id="typein_17">
+                            <acceptable>
+                                <item id="item_1">made of</item>
+                            </acceptable>
+                        </typein>? They're <typein id="typein_18">
+                            <acceptable>
+                                <item id="item_1">made of</item>
+                            </acceptable>
+                        </typein> plastic.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

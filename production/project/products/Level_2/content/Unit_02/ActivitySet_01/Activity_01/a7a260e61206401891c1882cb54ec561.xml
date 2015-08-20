@@ -1,0 +1,24 @@
+<activity class="mm_unit2 mm_activityNumber1" id="a7a260e61206401891c1882cb54ec561" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight">
+            <image src="p014a.jpg" title=""/>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>clothes</catName>
+                    <item id="item_1" example="y" rank="3">cap</item>
+                    <item id="item_2" rank="1">sweater</item>
+                    <item id="item_3" rank="4">sneakers</item>
+                    <item id="item_4" rank="6">jacket</item>
+                </category>
+                <category id="category_2">
+                    <catName>not clothes</catName>
+                    <item id="item_5" rank="2">lunch box</item>
+                    <item id="item_6" rank="5">water bottle</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

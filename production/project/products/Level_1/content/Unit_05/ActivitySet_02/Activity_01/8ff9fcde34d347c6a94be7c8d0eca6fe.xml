@@ -1,0 +1,31 @@
+<activity id="8ff9fcde34d347c6a94be7c8d0eca6fe" pseudoID="SC_L1_AB_Ch5_p41_ACT01" class="mm_unit5 mm_lesson4 mm_activityNumber1">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageMatchItem mm_hMatching4 mm_postitionNumbers mm_hMatchTarget1Line ">
+            <matching id="matching_1" display="h">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> <image src="p041a.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_1" rank="2">mall</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> <image src="p041b.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_4" rank="1">bus station</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> <image src="p041c.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_3" rank="4">park</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> <image src="p041d.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_2" rank="3">police station</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

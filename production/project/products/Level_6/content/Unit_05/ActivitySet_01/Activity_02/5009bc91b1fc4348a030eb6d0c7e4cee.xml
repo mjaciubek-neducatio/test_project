@@ -1,0 +1,31 @@
+<activity class="mm_unit5 mm_activityNumber1 mm_exContentU05" id="5009bc91b1fc4348a030eb6d0c7e4cee" pseudoID="SC_L6_AB_Ch5_p39_ACT05">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_blockMatchNumber">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan>“We thought there was a problem</matchItem>
+                    <matchTarget id="matchTarget_1" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan>because animals had started to do strange things.”</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan>“I’d learned about tsunamis at school</matchItem>
+                    <matchTarget id="matchTarget_2" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan>so I knew that the wave was dangerous.”</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan>“I hadn’t gone to the beach that day</matchItem>
+                    <matchTarget id="matchTarget_3" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan>because I didn’t feel very well.”</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan>“When we found our hotel</matchItem>
+                    <matchTarget id="matchTarget_4" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan>everyone had left.”</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan>“We didn’t want to stay in the town</matchItem>
+                    <matchTarget id="matchTarget_5" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan>but the tsunami had destroyed all the buses.”</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,39 @@
+<activity id="68502c12706644f295ffcf5ec5bcc725" pseudoID="SC_L5_AB_Ch5_p40_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose F (fantasy) or P (poem).</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered" class="mm_radio">
+                <li>
+                    <p>It tells you about what happened in a dream.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">F</item>
+                        <item id="item_2">P</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>You can read it with rhythm.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">F</item>
+                        <item id="item_2" correct="y">P</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>There are rhyming words at the end of lines.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">F</item>
+                        <item id="item_2" correct="y">P</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>It has weird creatures like a giant fish made of jell-o.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">F</item>
+                        <item id="item_2">P</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,29 @@
+<activity class="mm_unit3 mm_activityNumber1" id="11017a418c0249f483d0749b1142caa1" pseudoID="SC_L6_AB_Ch3_p28_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Read and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_textImage">
+            <block class="mm_innerBlock mm_padder">
+                <image src="p028a.jpg" title=""/>
+                <image src="p028b.jpg" title=""/>
+                <image src="p028c.jpg" title=""/>
+                <image src="p028d.jpg" title=""/>
+                <list display="v" type="numbered">
+                    <li>
+                        <p>I use a <droppable id="droppable_1" rank="2">reusable bag</droppable> for shopping. It was very cheap. It’s strong, it isn’t heavy and I can use it again and again. It’s made of recycled plastic.</p>
+                    </li>
+                    <li>
+                        <p>My mom has a fantastic <droppable id="droppable_2" rank="3">cart</droppable>. She buys a lot of heavy things but she doesn’t have to carry them – she just pulls it along on its wheels.</p>
+                    </li>
+                    <li>
+                        <p>I have a <droppable id="droppable_3" rank="1">basket</droppable>. It’s made of wicker, which comes from trees. It’s great for carrying fruit and vegetables, and it fits on the front of my bike. If everyone rides their bike to the store, we will use less fuel, too!</p>
+                    </li>
+                    <li>
+                        <p>A <droppable id="droppable_4" rank="4">backpack</droppable> is the best way to carry shopping. It’s better for your back and your arms are free. If you buy a good one, it will last forever.</p>
+                    </li>
+                </list>
+            </block>
+        </block>
+    </main>
+</activity>

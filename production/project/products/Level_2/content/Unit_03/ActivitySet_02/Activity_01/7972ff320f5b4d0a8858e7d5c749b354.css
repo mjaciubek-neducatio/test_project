@@ -1,0 +1,19 @@
+.mm_activityBackground1 {
+	background: url(../../production/project/products/Level_2/assets/images/p025a.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+    background-size: 588px;
+	padding-top: 125px; 
+	padding-bottom: 95px; 
+}
+
+.mm_checkboxHigher {
+    margin-top: -.4em;
+}
+
+.mm_itemSelectBigButtons .mm_checkbox .checkbox {
+    padding: 0.35em;
+    margin-bottom: 0.04em;
+    margin-top: 0em;
+}
+

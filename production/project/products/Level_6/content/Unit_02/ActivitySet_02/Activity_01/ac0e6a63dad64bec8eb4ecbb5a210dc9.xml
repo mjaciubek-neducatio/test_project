@@ -1,0 +1,59 @@
+<activity class="mm_unit2 mm_activityNumber3" id="ac0e6a63dad64bec8eb4ecbb5a210dc9" pseudoID="SC_L6_AB_Ch2_p16_ACT03">
+    <rubric>
+        <p>Correct the sentences.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>Icarus is Daedalus’s <locating id="locating_1" example="y">father<typein id="typein_1">
+                                <acceptable>
+                                    <item id="item_1">son</item>
+                                    <item id="item_2">SON</item>
+                                </acceptable>
+                            </typein>
+                        </locating>.</p>
+                </li>
+                <li>
+                    <p>They want to fly home to <locating id="locating_2">New York<typein id="typein_2">
+                                <acceptable>
+                                    <item id="item_1">Athens</item>
+                                    <item id="item_2">athens</item>
+                                    <item id="item_3">ATHENS</item>
+                                </acceptable>
+                            </typein>
+                        </locating>.</p>
+                </li>
+                <li>
+                    <p>Daedalus <locating id="locating_3">grows<typein id="typein_3">
+                                <acceptable>
+                                    <item id="item_1">makes</item>
+                                    <item id="item_2">MAKES</item>
+                                </acceptable>
+                            </typein>
+                        </locating> some wings.</p>
+                </li>
+                <li>
+                    <p>At first, Icarus thinks flying is <locating id="locating_4">easy<typein id="typein_4">
+                                <acceptable>
+                                    <item id="item_1">hard</item>
+                                    <item id="item_2">HARD</item>
+                                    <item id="item_3">difficult</item>
+                                    <item id="item_4">DIFFICULT</item>
+                                </acceptable>
+                            </typein>
+                        </locating>.</p>
+                </li>
+                <li>
+                    <p>They’re going to fly from the top of a <locating id="locating_5">tree<typein id="typein_5">
+                                <acceptable>
+                                    <item id="item_1">tower</item>
+                                    <item id="item_2">TOWER</item>
+                                </acceptable>
+                            </typein>
+                        </locating>.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

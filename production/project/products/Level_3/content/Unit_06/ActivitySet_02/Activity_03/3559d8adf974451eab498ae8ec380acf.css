@@ -1,0 +1,24 @@
+.mm_border {
+	width: 50%;
+	padding: 2em 2em 1.7em;
+}
+ul.plain > li {
+	margin-bottom: 0.3em;
+}
+ul.plain > li p {
+    font-size: 1.2em;
+    line-height: 1.6em;
+    text-align: left;
+}
+
+.mm_centeredItem {
+    margin: auto;
+}
+
+/* .interactiveText .selectable .selected{
+    background-color: #A05599;
+}
+
+.interactiveText .selectable .example.selected{
+    background-color: #AFAFAF;
+} */

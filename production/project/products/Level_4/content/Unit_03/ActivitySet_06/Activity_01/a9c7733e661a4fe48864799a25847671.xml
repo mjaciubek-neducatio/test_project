@@ -1,0 +1,52 @@
+<activity class="mm_unit3 mm_activityNumber1" id="a9c7733e661a4fe48864799a25847671" pseudoID="SC_L4_AB_Ch3_p28_ACT01">
+    <rubric>
+        <p>Read and choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_customText">
+            <image src="p028a.jpg" title=""/>
+            <h2>How Did the Dinosaurs Die Out?</h2>
+            <p>
+                <i>Scientists think that dinosaurs died out because Earth got too cold and there wasn’t any food. But they aren’t sure what caused this.</i>
+            </p>
+            <p>
+                <i>A meteorite hit Earth in Chicxulub in Mexico and some scientists think this is the reason. Others believe that a very big volcano in India erupted and made problems for the dinosaurs. Meteorites and volcanoes create clouds of dust.</i>
+            </p>
+            <p>
+                <i>This dust blocked the Sun. It was winter for a long time and food didn’t grow. Other scientists think that the weather changed on Earth over a long time – it got slowly colder and colder until the dinosaurs couldn’t survive.</i>
+            </p>
+        </block>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">Scientists think the dinosaurs got very hungry.</sSpan>
+                    <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio></p>
+                </li>
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">Scientists know why the Earth got cold.</sSpan>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio></p>
+                </li>
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">Volcanoes made Earth too hot.</sSpan>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect"> 
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio></p>
+                </li>
+                <li class="mm_radio">
+                    <p><sSpan class="mm_cWidth">Some scientists believe Earth got colder slowly.</sSpan>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,27 @@
+<activity class="mm_unit6 mm_activityNumber2" id="2bc869f1aac14b23b83095156efd3489">
+    <rubric>
+        <p>Read the story in your Student Book. Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingLeft">
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> I go to the kitchen</matchItem>
+                    <matchTarget id="matchTarget_1" rank="7"><sSpan class="mm_matchingNumber">c.</sSpan> and I drink my juice.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> I eat my breakfast</matchItem>
+                    <matchTarget id="matchTarget_2" rank="5"><sSpan class="mm_matchingNumber">a.</sSpan> with Aunt Sue-Sue.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Comb your hair,</matchItem>
+                    <matchTarget id="matchTarget_3" rank="8"><sSpan class="mm_matchingNumber">d.</sSpan> Sonny. Wash your face.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> It’s eight thirty.</matchItem>
+                    <matchTarget id="matchTarget_4" rank="6"><sSpan class="mm_matchingNumber">b.</sSpan> You’re late, late, late!</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

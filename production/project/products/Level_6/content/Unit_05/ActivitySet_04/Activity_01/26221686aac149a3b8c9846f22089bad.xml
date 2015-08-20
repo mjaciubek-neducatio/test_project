@@ -1,0 +1,27 @@
+<activity class="mm_unit5 mm_activityNumber1" id="26221686aac149a3b8c9846f22089bad" pseudoID="SC_L6_AB_Ch5_p44_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Put the sentences under <i>hurricane</i> or <i>earthquake</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_exContent">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>hurricane</catName>
+                    <item id="item_1">These bad storms can cause a lot of damage.</item>
+                    <item id="item_2">They begin when storms move over the warm ocean.</item>
+                    <item id="item_3">When they move to the land, they destroy trees and cause floods.</item>
+                    <item id="item_4">They bring wind, rain, and big waves.</item>
+                    <item id="item_5">Sometimes the bad weather lasts for a week or more.</item>
+                </category>
+                <category id="category_2">
+                    <catName>earthquake</catName>
+                    <item id="item_6">These are caused by moving rocks under the ground.</item>
+                    <item id="item_7">There’s usually no warning before the earth moves.</item>
+                    <item id="item_8">Buildings, roads, and bridges might be damaged by the shaking.</item>
+                    <item id="item_9">It usually lasts about a minute.</item>
+                    <item id="item_10">If they happen under the ocean, they can cause tsunamis.</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

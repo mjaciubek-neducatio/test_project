@@ -1,0 +1,25 @@
+<activity class="mm_unit6 mm_activityNumber2" id="b0bad8fbd4374f54adbbefe99bafef90" desktopDraggable="n">
+    <rubric>
+        <p>Put the phrases in two groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>morning</catName>
+                    <item id="item_1" example="y">get up</item>
+                    <item id="item_2">get dressed</item>
+                    <item id="item_3">comb my hair</item>
+                    <item id="item_4">eat breakfast</item>
+                    <item id="item_5">make my bed</item>
+                </category>
+                <category id="category_2">
+                    <catName>morning and night</catName>
+                    <item id="item_6">brush my teeth</item>
+                    <item id="item_7">take a shower</item>
+                     <item id="item_8">wash my face</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

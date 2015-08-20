@@ -1,0 +1,25 @@
+<activity id="e27e18f189ad4afda8c0ff82259f269d" pseudoID="SC_L1_AB_Ch6_p46_ACT02" class="mm_unit6 mm_lesson1 mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in two groups.</p>
+    </rubric>
+    <main>
+        <block class="mm_categoryIcons">
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>male</catName>
+                    <item id="item_1" example="y">uncle</item>
+                    <item id="item_2">dad</item>
+                    <item id="item_3">brother</item>
+                    <item id="item_4">grandpa</item>
+                </category>
+                <category id="category_2">
+                    <catName>female</catName>
+                    <item id="item_5">mom</item>
+                    <item id="item_6">sister</item>
+                    <item id="item_7">aunt</item>
+                    <item id="item_8">grandma</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

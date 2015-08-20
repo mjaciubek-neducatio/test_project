@@ -1,0 +1,20 @@
+<activity id="a3a325aa593a4e6ab485449f25dedeb4" pseudoID="SC_L1_AB_Ch6_p51_ACT02" class="mm_unit6 mm_lesson6 mm_activityNumber2 mm_activityBackgroundImage" desktopDraggable="n">
+    <rubric>
+        <p>Complete the email.</p>
+    </rubric>
+    <main>
+
+        <block class="mm_realia mm_laptop">
+            <p>Hi,</p>
+            <p>My name’s <droppable id="droppable_1" example="y">Sam</droppable>. I’m in Sydney.</p>
+            <p>I love Australia. I have a small <droppable id="droppable_2">house</droppable> and a yard.</p>
+            <p>I have a <droppable id="droppable_3">brother</droppable>. His name is Bobby.</p>
+            <p>I don’t have a sister. I have a <droppable id="droppable_4">cat</droppable> and a dog.</p>
+            <p>
+                <droppable id="droppable_5">Their</droppable> names are Flo and Bonzo.</p>
+            <p>Write soon.</p>
+            <p>Love,</p>
+            <p>Sam</p>
+        </block>
+    </main>
+</activity>

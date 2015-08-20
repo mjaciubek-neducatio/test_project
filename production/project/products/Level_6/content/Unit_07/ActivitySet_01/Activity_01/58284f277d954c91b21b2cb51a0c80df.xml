@@ -1,0 +1,54 @@
+<activity class="mm_unit7 mm_activityNumber1" id="58284f277d954c91b21b2cb51a0c80df" pseudoID="SC_L6_AB_Ch7_p55_ACT05">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_dialogue mm_indent80 mm_exContent">
+            <image src="p055a.jpg" title=""/>
+            <list display="v" type="plain">
+                <li class="mm_example">
+                    <p>
+                        <b><sSpan class="mm_inlineNumber">Kate:</sSpan></b>	Great photos! Did you take them <cSpan class="mm_noWrap mm_inlineNumber">1 <dropDown id="dropDown_1" example="y">
+                            <item id="item_1">themselves</item>
+                            <item id="item_2" correct="y">yourself</item>
+                        </dropDown>,</cSpan> Oliver?</p>
+                </li>
+                <li>
+                    <p>
+                        <b><sSpan class="mm_inlineNumber">Oliver:</sSpan></b>	Yes, Amy wants them for the school magazine. She couldn’t take them <cSpan class="mm_noWrap mm_inlineNumber">2 <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">herself</item>
+                            <item id="item_2">himself</item>
+                        </dropDown></cSpan> because she was climbing with you!</p>
+                </li>
+                <li>
+                    <p>
+                        <b><sSpan class="mm_inlineNumber">Kate:</sSpan></b>	We really enjoyed <cSpan class="mm_noWrap mm_inlineNumber">3 <dropDown id="dropDown_3">
+                            <item id="item_1">myself</item>
+                            <item id="item_2" correct="y">ourselves</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>
+                        <b><sSpan class="mm_inlineNumber">Oliver:</sSpan></b>	I could see that! You looked very happy with <cSpan class="mm_noWrap mm_inlineNumber">4 <dropDown id="dropDown_4">
+                            <item id="item_1">ourselves</item>
+                            <item id="item_2" correct="y">yourselves</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>
+                        <b><sSpan class="mm_inlineNumber">Kate:</sSpan></b>	Our instructor was really funny. He told us stories about <cSpan class="mm_noWrap mm_inlineNumber">5 <dropDown id="dropDown_5">
+                            <item id="item_1">herself</item>
+                            <item id="item_2" correct="y">himself</item>
+                        </dropDown>.</cSpan> Your turn now, Oliver! Here – let me help you with your helmet.</p>
+                </li>
+                <li>
+                    <p>
+                        <b><sSpan class="mm_inlineNumber">Oliver:</sSpan></b>	Thanks, Kate, but I can do it <cSpan class="mm_noWrap mm_inlineNumber">6 <dropDown id="dropDown_6">
+                            <item id="item_1" correct="y">myself</item>
+                            <item id="item_2">yourself</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

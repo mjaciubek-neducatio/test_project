@@ -1,0 +1,163 @@
+/* Story Central AB L4 mobile first styles */
+
+/************************** LAYOUT **************************/
+
+/* ACTIVITY BACKGROUND IMAGE */
+.activity {
+	background-image: url(../images/ABBackground.png);
+}
+
+
+/* RUBRIC ACTIVITY NUMBER */
+.rubric .rubricBody p:before {
+	background-image: url(../images/activityNumbersAB.png);
+}
+
+/************************** MODULE **************************/
+
+/*** MARKED COMPONENENTS ***/
+
+/*** UNMARKED COMPONENENTS ***/
+
+/*** CONTENT STYLING ***/
+
+/*** USEFUL ***/
+
+/************************** THEME **************************/
+
+
+.mm_matchingNumber,
+.caption,
+.main ol > li,
+li.mm_example,
+.generalUserColour,
+.generalInteractivityColour,
+.levelColor,
+.crosswordClueNumber,
+.locating_answer {
+	color: #5365A8;
+}
+
+.wordBox ul,
+.rcfWordSearchGridChosenWords .wordSearchWords,
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dragTarget.selected, /* selected dropped droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.checkboxItemSelect .selectable.selected, /* checbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper /* ordering */ {
+	background-color: #5365A8;
+}
+
+.mm_wordBox,
+.mm_border,
+.mm_imageBorder img,
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.checkboxItemSelect .selectable.selected, /* checbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */
+.category {
+	border-color: #5365A8;
+}
+
+.checkboxItemSelect .selectable.selected,
+.radioItemSelect .selectable.selected {
+	border-color: #5365A8 !important; /* !important to overwrite RCF core */
+}
+
+.matchingContainer .selected ~._jsPlumb_endpoint circle {
+	fill: #5365A8;
+}
+
+.typein input.text:focus,
+.typeinGroup input.typeinGroup:focus {
+	box-shadow: 2px 2px 19px #5365A8;
+}
+
+.mm_dialogue .mm_speaker {
+    color: #5365A8;
+}
+
+.rubricBody p.mm_spellingBee {
+    display: block;
+    float: right;
+    margin-right: 2em;
+}
+
+/* pale tint */
+table.crossword input.hiddenLetter {
+	background-color: #9ba9df;
+}
+
+/* paler tint */
+.rcfWordSearchGrid .ws-highlight,
+.rcfWordSearchGrid .ws-selected,
+.mobile .rcfWordSearchGrid .ws-start,
+.wordSearchContainer[data-draggable='n'] .rcfWordSearchGrid .ws-start,
+.rcfWordSearchGrid .ws-glowing,
+table.crossword input.editing,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover,
+table.crossword input.editing:focus {
+    background-color: #C0C3DF;
+}
+
+
+
+/* reset */
+.dropTarget li.dragItem,
+.dragTarget.populated {
+	color: #FFF;
+}
+
+.main ol > li > * {
+	color: #000;
+}
+.main ol > li.mm_example > *,
+.main ol > li .mm_example {
+	color: #888;
+}
+
+/*	UNMARKED ELEMENTS AND STYLE HELPERS */
+
+.mm_imageShadow img {
+    -webkit-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+       -moz-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+            box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+}
+
+.mm_boxShadow {
+    -webkit-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+       -moz-box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+            box-shadow: 2px 2px 6px 1px rgba(150, 150, 150, .85);
+}
+
+.mm_padder {
+    padding: .875em;
+}
+
+.mm_handwritten {
+    font-family: 'Shadows Into Light Two';
+    letter-spacing: 1px;
+    line-height: 1.6em;
+}
+
+.mm_handwritten .typein input.text,
+.mm_handwritten .typeinGroup input.typeinGroup {
+    font-family: 'Shadows Into Light Two';
+    letter-spacing: 1px;
+}
+
+.mm_letter {
+    padding: .875em;
+
+    border: 1px solid #e3e5dc;
+    background-color: #f6f7f0;
+}

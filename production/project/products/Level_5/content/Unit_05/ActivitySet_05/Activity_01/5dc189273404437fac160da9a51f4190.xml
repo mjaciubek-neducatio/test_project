@@ -1,0 +1,39 @@
+<activity id="5dc189273404437fac160da9a51f4190" pseudoID="SC_L5_AB_Ch5_p44_ACT01">
+    <rubric>
+        <p>Read and choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_background mm_boxShadow">
+            <block class="mm_text mm_handwritten">
+                <block>
+                    <h2>Chalk</h2>
+                    <image src="p044a.png" title=""/>
+                </block>
+                <p>Chalk is a type of <sSpan class="mm_inlineNumber mm_halfSpace">1</sSpan><dropDown id="dropDown_1" example="y">
+                        <item id="item_1">plastic</item>
+                        <item id="item_2" correct="y">rock</item>
+                    </dropDown> that is <sSpan class="mm_inlineNumber mm_halfSpace">2</sSpan><dropDown id="dropDown_2">
+                        <item id="item_1" correct="y">made</item>
+                        <item id="item_2">washed</item>
+                    </dropDown> under the ocean. This is too hard to draw with, so it’s made into chalk sticks for artists.</p>
+                <p>The chalk rock is <sSpan class="mm_inlineNumber mm_halfSpace">3</sSpan><dropDown id="dropDown_3">
+                        <item id="item_1" correct="y">ground</item>
+                        <item id="item_2">picked</item>
+                    </dropDown> into a powder. The chalk powder is <sSpan class="mm_inlineNumber mm_halfSpace">4</sSpan><dropDown id="dropDown_4">
+                        <item id="item_1">roasted</item>
+                        <item id="item_2" correct="y">mixed</item>
+                    </dropDown> with water and a color pigment to make a <sSpan class="mm_inlineNumber mm_halfSpace">5</sSpan><dropDown id="dropDown_5">
+                        <item id="item_1" correct="y">paste</item>
+                        <item id="item_2">pencil</item>
+                    </dropDown>. Then the paste is made into thin stick shapes and <br/><sSpan class="mm_inlineNumber mm_halfSpace">6</sSpan><dropDown id="dropDown_6">
+                        <item id="item_1" correct="y">dried</item>
+                        <item id="item_2">cooled</item>
+                    </dropDown> in an oven.</p>
+                <p>Oil is sometimes added to artists’ chalk to make it softer. And more pigment is added, so the color is darker than chalk that’s used for writing on <sSpan class="mm_inlineNumber mm_halfSpace">7</sSpan><dropDown id="dropDown_7">
+                        <item id="item_1">paper</item>
+                        <item id="item_2" correct="y">blackboards</item>
+                    </dropDown>.</p>
+            </block>
+        </block>
+    </main>
+</activity>

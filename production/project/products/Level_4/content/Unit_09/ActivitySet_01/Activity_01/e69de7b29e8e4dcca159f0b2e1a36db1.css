@@ -1,0 +1,24 @@
+.mm_matchingExNarrow {
+width: 88%
+}
+
+.mm_matchingExNarrow {
+    float: right;
+}
+
+.mm_exerciseImagesBlock {
+    margin-bottom: 15px;
+}
+
+.mm_fillInAct ol li {
+    margin-bottom:30px;
+}
+
+.mm_fillInAct {
+    margin-top: 20px;
+    float:left;
+}
+.mm_customMatching .matchItem {
+/*     text-align: left; - removed as numbers removed from lozenges */
+
+}

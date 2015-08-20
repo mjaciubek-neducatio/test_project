@@ -1,0 +1,31 @@
+<activity id="3f25a773b8194276afa9f6b6e098d4aa" class="mm_activityNumber1" pseudoID="SC_L3_AB_Ch6_p50_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in three groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <block class="mm_listHFloat3Col">
+            
+                <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                    <category id="category_1">
+                        <catName><image src="p050a.jpg" title=""/></catName>
+                        <item id="item_1" example="y">warm</item>
+                        <item id="item_2">bright</item>
+                    </category>
+                    <category id="category_2">
+                        <catName><image src="p050b.jpg" title=""/></catName>
+                        <item id="item_4">freezing</item>
+                        <item id="item_5">chilly</item>
+                        <item id="item_6">icy</item>
+                    </category>
+                    <category id="category_3">
+                        <catName><image src="p050c.jpg" title=""/></catName>
+                        <item id="item_7">foggy</item>
+                        <item id="item_8">stormy</item>
+                        <item id="item_9">damp</item>
+                    </category>
+                </categorise>
+            </block>
+        </block>
+    </main>
+</activity>

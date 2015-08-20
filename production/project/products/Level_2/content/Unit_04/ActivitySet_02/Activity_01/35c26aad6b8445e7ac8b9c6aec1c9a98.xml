@@ -1,0 +1,27 @@
+<activity class="mm_unit4 mm_activityNumber1" id="35c26aad6b8445e7ac8b9c6aec1c9a98" desktopDraggable="n">
+    <rubric>
+        <p>Complete in story order.</p>
+    </rubric>
+    <main>
+        <block>
+            <image src="p033a.png" title="" class="mm_exercisePicture1"/>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">Stitch is small. He’s eating <droppable id="droppable_1" example="y" rank="3">pizza</droppable>.</p>
+                </li>
+                <li>
+                    <p>Now he’s eating <droppable id="droppable_2" rank="5">ice cream</droppable>.</p>
+                </li>
+                <li>
+                    <p>It’s lunch time. He’s eating <droppable id="droppable_3" rank="1">pasta</droppable>.</p>
+                </li>
+                <li>
+                    <p>He’s eating the <droppable id="droppable_4" rank="2">table</droppable> now! He’s big!</p>
+                </li>
+                <li>
+                    <p>The professor is making a <droppable id="droppable_5" rank="4">drink</droppable>. Stitch is small again!</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

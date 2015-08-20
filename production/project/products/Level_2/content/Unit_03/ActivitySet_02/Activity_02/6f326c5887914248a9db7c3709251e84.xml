@@ -1,0 +1,54 @@
+<activity class="mm_unit3 mm_activityNumber1" id="6f326c5887914248a9db7c3709251e84" desktopDraggable="n">
+    <rubric>
+        <p>Complete with the words.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexContainer mm_flexboxSet3 mm_numbers">
+            <block>
+                <image src="p026a.jpg" title=""/>
+                <p class="mm_example">1. <droppable id="droppable_1" example="y" rank="8">wet</droppable>
+                </p>
+            </block>
+            <block>
+                <image src="p026b.jpg" title=""/>
+                <p>2. <droppable id="droppable_2" rank="1">hot</droppable>
+                </p>
+            </block>
+            <block>
+            <image src="p026c.jpg" title=""/>         
+            <p>3. <droppable id="droppable_3" rank="3">raining</droppable>
+            </p>
+        </block>
+        <block>
+            <image src="p026d.jpg" title=""/>
+            <p>4. <droppable id="droppable_4" rank="7">cloudy</droppable>
+            </p>
+        </block>
+        <block>
+            <image src="p026e.jpg" title=""/>
+            <p>5. <droppable id="droppable_5" rank="4">windy</droppable>
+            </p>
+        </block>
+        <block>
+            <image src="p026f.jpg" title=""/>
+            <p>6. <droppable id="droppable_6" rank="5">cold</droppable>
+            </p>
+        </block>
+        <block>
+            <image src="p026g.jpg" title=""/>
+            <p>7. <droppable id="droppable_7" rank="9">cool</droppable>
+            </p>
+        </block>
+        <block>
+            <image src="p026h.jpg" title=""/>
+            <p>8. <droppable id="droppable_8" rank="2">sunny</droppable>
+            </p>
+        </block>
+        <block>
+            <image src="p026i.jpg" title=""/>
+            <p>9. <droppable id="droppable_9" rank="6">snowing</droppable>
+            </p>
+        </block>
+        </block>
+    </main>
+</activity>

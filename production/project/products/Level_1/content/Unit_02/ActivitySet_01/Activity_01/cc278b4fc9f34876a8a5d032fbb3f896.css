@@ -1,0 +1,9 @@
+.mm_categoryIcons h3 {
+    background-image: url(../../production/project/products/Level_1/assets/images/p014Home.jpg);
+    padding-left: 54px;
+}
+
+.mm_categoryIcons .category:last-of-type h3 {
+    background-image: url(../../production/project/products/Level_1/assets/images/p014Yard.jpg);
+    padding-left: 62px;
+}

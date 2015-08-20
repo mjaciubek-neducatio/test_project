@@ -1,0 +1,41 @@
+<activity id="7310612e1fad45a4a633bf5c846d885a" pseudoID="SC_L5_AB_Ch1_p8_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">Mr Cunningham talks about things <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">in the past</item>
+                            <item id="item_2">now</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Zak wants to know the time, so he looks <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">in his bag</item>
+                            <item id="item_2">at the wall</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Zak <dropDown id="dropDown_3">
+                            <item id="item_1">likes</item>
+                            <item id="item_2" correct="y">doesn’t like</item>
+                        </dropDown> history.</p>
+                </li>
+                <li>
+                    <p>At lunchtime, Zak has to <dropDown id="dropDown_4">
+                            <item id="item_1">go outside</item>
+                            <item id="item_2" correct="y">sit at his desk</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>Zak is usually <dropDown id="dropDown_5">
+                            <item id="item_1">home</item>
+                            <item id="item_2" correct="y">on the playground</item>
+                        </dropDown> at lunchtime.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

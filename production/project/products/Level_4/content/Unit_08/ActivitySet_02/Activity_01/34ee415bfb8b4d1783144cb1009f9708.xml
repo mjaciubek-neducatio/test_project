@@ -1,0 +1,41 @@
+<activity class="mm_unit8 mm_activityNumber1" id="34ee415bfb8b4d1783144cb1009f9708" pseudoID="SC_L4_AB_Ch8_p63_ACT03">
+    <rubric>
+        <p>Choose the correct options.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>The person <dropDown id="dropDown_1" example="y" disabled="y">
+                            <item id="item_1" correct="y">who</item>
+                            <item id="item_2">that</item>
+                        </dropDown> made my birthday cake is my aunt.</p>
+                </li>
+                <li>
+                    <p>The food <dropDown id="dropDown_2">
+                            <item id="item_1">who</item>
+                            <item id="item_2" correct="y">that</item>
+                        </dropDown> we ate was delicious.</p>
+                </li>
+                <li>
+                    <p>The gifts <dropDown id="dropDown_3">
+                            <item id="item_1">who</item>
+                            <item id="item_2" correct="y">that</item>
+                        </dropDown> my friends brought are very nice.</p>
+                </li>
+                <li>
+                    <p>The person <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">who</item>
+                            <item id="item_2">that</item>
+                        </dropDown> organized the firework display is my uncle.</p>
+                </li>
+                <li>
+                    <p>The games <dropDown id="dropDown_5">
+                            <item id="item_1">who</item>
+                            <item id="item_2" correct="y">that</item>
+                        </dropDown> we played were really fun.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

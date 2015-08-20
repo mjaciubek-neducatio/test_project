@@ -1,0 +1,17 @@
+.mm_customImage {
+    width: 750px;
+    margin: 0 auto;
+}
+.mm_customHeading {
+    text-align: center;
+    color: #949599;
+}
+.mm_outerBackground {
+    background: 
+        url('../../production/project/products/Level_4/assets/images/borderBoxT.png') no-repeat top left,
+        url('../../production/project/products/Level_4/assets/images/borderBoxB.png') no-repeat bottom left;
+  padding: 2.5em 3.2em 2.2em 2.2em;
+}
+.wordBox {
+    width: 96%;
+}

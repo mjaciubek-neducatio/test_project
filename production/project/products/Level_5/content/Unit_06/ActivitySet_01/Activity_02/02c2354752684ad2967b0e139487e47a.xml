@@ -1,0 +1,76 @@
+<activity id="02c2354752684ad2967b0e139487e47a" pseudoID="SC_L5_AB_Ch6_p47_ACT06" class="mm_activityNumber2">
+    <rubric>
+    <p>Complete with the correct form of the verbs. Then say what you were doing when something happened.</p>
+    </rubric>
+    <main>
+    <block class="mm_colouredTextInsert">
+    <list display="v" type="numbered">
+        <li>
+            <p class="mm_example">The sun <locating id="locating_1" example="y">shine<typein id="typein_1">
+            <acceptable>
+                <item id="item_1">was shining</item>
+            </acceptable>
+            </typein>
+            </locating> when they <locating id="locating_2" example="y">leave<typein id="typein_2">
+            <acceptable>
+                <item id="item_1">left</item>
+            </acceptable>
+            </typein>
+            </locating> the house.</p>
+        </li>
+        <li>
+            <p>We <locating id="locating_3">read <typein id="typein_3">
+            <acceptable>
+                <item id="item_1">were reading</item>
+            </acceptable>
+            </typein>
+            </locating> when the train suddenly <locating id="locating_4">stop <typein id="typein_4">
+            <acceptable>
+                <item id="item_1">stopped</item>
+            </acceptable>
+            </typein>
+            </locating>.</p>
+        </li>
+        <li>
+            <p>I <locating id="locating_5">celebrate <typein id="typein_5">
+            <acceptable>
+                <item id="item_1">was celebrating</item>
+            </acceptable>
+            </typein>
+            </locating> when my aunt <locating id="locating_6">call <typein id="typein_6">
+            <acceptable>
+                <item id="item_1">called</item>
+            </acceptable>
+            </typein>
+            </locating> me.</p>
+        </li>
+        <li>
+            <p>The children <locating id="locating_7">sleep <typein id="typein_7">
+            <acceptable>
+                <item id="item_1">were sleeping</item>
+            </acceptable>
+            </typein>
+            </locating> when the storm <locating id="locating_8">start <typein id="typein_8">
+            <acceptable>
+                <item id="item_1">started</item>
+            </acceptable>
+            </typein>
+            </locating>.</p>
+        </li>
+        <li>
+            <p>We <locating id="locating_9">swim <typein id="typein_9">
+            <acceptable>
+                <item id="item_1">were swimming</item>
+            </acceptable>
+            </typein>
+            </locating> when we <locating id="locating_10">see <typein id="typein_10">
+            <acceptable>
+                <item id="item_1">saw</item>
+            </acceptable>
+            </typein>
+            </locating> the shark.</p>
+        </li>
+    </list>
+    </block>
+    </main>
+</activity>

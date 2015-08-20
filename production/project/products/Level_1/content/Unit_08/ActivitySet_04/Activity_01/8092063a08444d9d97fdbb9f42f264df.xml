@@ -1,0 +1,65 @@
+<activity id="8092063a08444d9d97fdbb9f42f264df" pseudoID="SC_L1_AB_Ch8_p67_ACT01" class="mm_unit8 mm_lesson6 mm_activityNumber1">
+    <rubric>
+        <p>Complete the menu.</p>
+    </rubric>
+    <main>
+        <block class="mm_realiaContainer mm_shadow">
+        <block class="mm_realia">
+            <h3>Lunch Menu</h3>
+            <block blockSet="y" class="mm_3colBB">
+                <block>
+                    <p>
+                        <image src="p067a.jpg" title=""><caption type="corner">1</caption></image>
+                        <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">burger</item>
+                            </acceptable>
+                        </typein> <br/>
+                        or<br/>
+                        <image src="p067b.jpg" title=""><caption type="corner">2</caption></image>
+                        <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">fish</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </block>
+                <block>
+                    <p>
+                        <image src="p067c.jpg" title=""><caption type="corner">3</caption></image>
+                        <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">salad</item>
+                            </acceptable>
+                        </typein> <br/>
+                        or<br/>
+                        <image src="p067d.jpg" title=""><caption type="corner">4</caption></image>
+                        <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">fries</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </block>
+                <block>
+                    <p>
+                        <image src="p067e.jpg" title=""><caption type="corner">5</caption></image>
+                        <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">ice cream</item>
+                            </acceptable>
+                        </typein> <br/>
+                        or<br/>
+                        <image src="p067f.jpg" title=""><caption type="corner">6</caption></image>
+                        <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">cake</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </block>
+            </block>
+        </block>
+        </block>
+    </main>
+</activity>

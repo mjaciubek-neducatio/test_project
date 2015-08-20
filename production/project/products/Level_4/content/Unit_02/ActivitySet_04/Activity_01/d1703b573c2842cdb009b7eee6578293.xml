@@ -1,0 +1,67 @@
+<activity class="mm_unit2 mm_activityNumber1" desktopDraggable="n" id="d1703b573c2842cdb009b7eee6578293" pseudoID="SC_L4_AB_Ch2_p17_ACT01">
+    <rubric>
+        <p>What did Lulu’s mom do? Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_handwritten">
+            <block class="mm_customImage">
+                <image src="p017a.jpg" title=""/>
+                <block class="mm_singleBlock mm_blockOne mm_example">
+                    <p>Lulu’s mom felt Lulu’s </p>
+                    <p>
+                        <droppable example="y" id="droppable_1">head</droppable>.</p>
+                </block>
+                <block class="mm_singleBlock mm_blockTwo">
+                    <p>FOOD</p>
+                    <p>She brought 
+                        <droppable id="droppable_2" rank="1">bread</droppable>
+                        and honey.</p>
+                </block>
+                <block class="mm_singleBlock mm_blockThree">
+                    <p>DRINK</p>
+                    <p>She brought 
+                        <cSpan class="mm_noWrap">
+                            <droppable id="droppable_3" rank="2">tea</droppable>.</cSpan>
+                    </p>
+                </block>
+                <block class="mm_singleBlock mm_blockFour">
+                    <p>MEDICINE</p>
+                    <p>She brought 
+                        <cSpan class="mm_noWrap">
+                            <droppable id="droppable_4" rank="4">cream</droppable>.</cSpan>
+                    </p>
+                </block>
+                <block class="mm_singleBlock mm_blockFive">
+                    <p>TO READ</p>
+                    <p>She brought books</p>
+                    <p>and 
+                        <cSpan class="mm_noWrap">
+                            <droppable id="droppable_5" rank="3">magazines</droppable>.</cSpan>
+                    </p>
+                </block>
+                <block class="mm_singleBlock mm_blockSix">
+                    <p>She called</p>
+                    <p>
+                        <cSpan class="mm_noWrap">
+                            <droppable id="droppable_6" rank="5">the doctor</droppable>.</cSpan>
+                    </p>
+                </block>
+                <block class="mm_arrowOne">
+                    <image src="p017b.png" title=""/>
+                </block>
+                <block class="mm_arrowTwo">
+                    <image src="p017b.png" title=""/>
+                </block>
+                <block class="mm_arrowThree">
+                    <image src="p017b.png" title=""/>
+                </block>
+                <block class="mm_arrowFour">
+                    <image src="p017b.png" title=""/>
+                </block>
+                <block class="mm_arrowFive">
+                    <image src="p017b.png" title=""/>
+                </block>
+            </block>
+        </block>
+    </main>
+</activity>

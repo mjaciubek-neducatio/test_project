@@ -1,0 +1,10 @@
+<activity class="mm_unit1 mm_activityNumber2" id="654afbab06f94c35872c715d2daecde1" pseudoID="SC_L6_AB_Ch1_p6_ACT02" desktopDraggable="n">
+    <rubric>
+        <p>Complete the rules for the game.</p>
+    </rubric>
+    <main>
+        <block class="mm_boxShadow mm_padder mm_handwritten">
+            <p>Can you find the treasure in the <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y">tomb</droppable>?</cSpan> You’re an <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2">archeologist</droppable>.</cSpan> You have to get past the two gold <cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3">statues</droppable></cSpan> – they’re the <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_4">guards</droppable></cSpan> of the tomb – and find your way to Tutankhamun. But hurry! You have to take the <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_5">mask</droppable></cSpan> from the face of the <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_6">mummy</droppable></cSpan> before the thieves get there! On the way, you can collect bracelets to wear on your arm. These give you extra powers. Oh, and watch out for snakes! Good luck!</p>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,11 @@
+.mm_matchingImage {
+    width: 600px;
+    margin: 0 auto;
+}
+.mm_customMatching {
+    width: 700px;
+    margin: 0 auto;
+}
+.mm_customMatching .matchItem, .mm_customMatching .matchTarget{
+    text-align: left;
+}

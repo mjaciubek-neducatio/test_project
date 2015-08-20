@@ -1,0 +1,28 @@
+<activity desktopDraggable="n" id="12524b3ef13f4fe484e0b23d9ce2f518" pseudoID="SC_L5_AB_Ch7_p60_ACT01">
+    <rubric>
+        <p>Read and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_text mm_padder">
+            <block class="mm_imageBlock">
+                <image src="p060a.png" title=""/>
+            </block>
+            <block class="mm_textBlock mm_padder">
+                <p>We know that food can be sweet, salty, 
+                    <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y" rank="5">bitter</droppable>,
+                    or sour. But do you know what umami is? Umami means "tasty/yummy" in 
+                    <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="2">Japanese</droppable>
+                    . It’s a flavor that’s found in meat, mushrooms, seaweed, and "smelly" foods like cheese. It makes everything taste better and everyone likes it, even babies! A lot of Asian food tastes of umami and that is why it’s so 
+                    <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="3">delicious</droppable>
+                    .</p>
+                <p>Food is often tastier when you add salt. But it isn’t good to eat too much 
+                    <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="6">salty</droppable>
+                    food so 
+                    <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="4">chefs</droppable>
+                    are now using umami. It can make food 
+                    <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="1">taste</droppable>
+                    really good.</p>
+            </block>
+        </block>
+    </main>
+</activity>

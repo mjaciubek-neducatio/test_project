@@ -1,0 +1,46 @@
+<activity id="6bcfe85e0be4457c885561491f5609e2" pseudoID="SC_L5_AB_Ch1_p7_ACT05">
+    <rubric>
+        <p>Choose. Then ask and answer.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">
+                        <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">Did</item>
+                            <item id="item_2">Were</item>
+                        </dropDown> women go out to work?</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_2">
+                            <item id="item_1">Who</item>
+                            <item id="item_2" correct="y">How</item>
+                        </dropDown> did people communicate?</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_3">
+                            <item id="item_1">How</item>
+                            <item id="item_2" correct="y">What</item>
+                        </dropDown> did they wear?</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_4">
+                            <item id="item_1">Why</item>
+                            <item id="item_2" correct="y">What</item>
+                        </dropDown> was life like for children?</p>
+                </li>
+                <li>
+                    <p>
+                        <dropDown id="dropDown_5">
+                            <item id="item_1">Was</item>
+                            <item id="item_2" correct="y">Did</item>
+                        </dropDown> they have cars?</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

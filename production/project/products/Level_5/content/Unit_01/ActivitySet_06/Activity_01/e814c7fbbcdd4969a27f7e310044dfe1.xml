@@ -1,0 +1,45 @@
+<activity id="e814c7fbbcdd4969a27f7e310044dfe1" pseudoID="SC_L5_AB_Ch1_p12_ACT01">
+    <rubric>
+        <p>Read and complete.</p>
+    </rubric>
+    <main>
+        <block>
+           
+            <block class="mm_letter mm_handwritten mm_padder mm_boxShadow mm_imageRight">
+            <image src="p012a.png" title=""/>
+                <p>Dear Friend,</p>
+                <p>Hello from the past! Congratulations! You found our time capsule.</p>
+                <p>We are from <sSpan class="mm_inlineNumber">1</sSpan><typein id="typein_1" example="y">
+                        <acceptable>
+                            <item id="item_1">Park Side</item>
+                        </acceptable>
+                    </typein> School in the <sSpan class="mm_inlineNumber">2</sSpan><typein id="typein_2">
+                        <acceptable>
+                            <item id="item_1">USA</item>
+                        </acceptable>
+                    </typein>. We buried this capsule in <sSpan class="mm_inlineNumber">3</sSpan><typein id="typein_3">
+                        <acceptable>
+                            <item id="item_1">1969</item>
+                        </acceptable>
+                    </typein>.</p><p> We like listening to <sSpan class="mm_inlineNumber">4</sSpan><typein id="typein_4">
+                        <acceptable>
+                            <item id="item_1">records</item>
+                        </acceptable>
+                    </typein>. We like reading <sSpan class="mm_inlineNumber">5</sSpan><typein id="typein_5">
+                        <acceptable>
+                            <item id="item_1">comic books</item>
+                        </acceptable>
+                    </typein>. Our favorite food is <sSpan class="mm_inlineNumber">6</sSpan><typein id="typein_6">
+                        <acceptable>
+                            <item id="item_1">pizza</item>
+                        </acceptable>
+                    </typein>. Our favorite sport is <sSpan class="mm_inlineNumber">7</sSpan><typein id="typein_7">
+                        <acceptable>
+                            <item id="item_1">soccer</item>
+                        </acceptable>
+                    </typein>. We hope you enjoyed our letter.</p>
+                <p>Have a great future!</p>
+            </block>
+        </block>
+    </main>
+</activity>

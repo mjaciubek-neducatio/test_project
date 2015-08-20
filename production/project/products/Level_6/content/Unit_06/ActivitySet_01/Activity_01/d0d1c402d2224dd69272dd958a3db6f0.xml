@@ -1,0 +1,17 @@
+<activity class="mm_unit6 mm_activityNumber1" id="d0d1c402d2224dd69272dd958a3db6f0" pseudoID="SC_L6_AB_Ch6_p46_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+    <block class="mm_background">
+        <block class="mm_exContent">
+            <p>I don’t want to clean<br/> theaters. I want to<br/> <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y" rank="4">perform</droppable></cSpan> in them<br/> and be famous.</p>
+            <p>I’m the only one on<br/> the <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2" rank="2">stage</droppable></cSpan><br/> and it’s scary.</p>
+            <p><sSpan class="mm_title">Can you sing or <br/>dance?</sSpan> Have an <br/><cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3" rank="6">audition</droppable></cSpan> today<br/> for our next <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_4" rank="7">musical</droppable>,</cSpan><br/> <i>The Singing Lion</i>.</p>
+            <p>
+               <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_5" capitalise="y" rank="1">Rehearsals</droppable></cSpan> <br/>for the show<br/> will be every<br/> day 7-9 p.m.</p>
+            <p>That girl’s got <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_6" rank="3">talent</droppable>.</cSpan><br/> One day she’s going to <br/>be a <cSpan class="mm_noWrap mm_inlineNumber">7 <droppable id="droppable_7" rank="5">superstar</droppable>.</cSpan></p>
+        </block>
+        </block>
+    </main>
+</activity>

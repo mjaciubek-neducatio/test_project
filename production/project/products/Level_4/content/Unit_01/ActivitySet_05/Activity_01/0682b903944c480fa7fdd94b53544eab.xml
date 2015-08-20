@@ -1,0 +1,37 @@
+<activity class="mm_unit1 mm_activityNumber3 mm_spellingCentral" id="0682b903944c480fa7fdd94b53544eab" pseudoID="SC_L4_AB_Ch1_p10_ACT03">
+    <rubric>
+        <p>Put the words in two groups.</p>
+        <p class="mm_spellingBee"><image src="spellingBee.png" title=""/></p>
+    </rubric>
+    <main>
+    <block/>
+        <block>
+            <matching id="matching_1" display="v">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan>pop</matchItem>
+                    <matchTarget id="matchTarget_1">corn</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan>amusement</matchItem>
+                    <matchTarget id="matchTarget_2">park</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan>roller</matchItem>
+                    <matchTarget id="matchTarget_3">coaster</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan>zip</matchItem>
+                    <matchTarget id="matchTarget_4">line</matchTarget>
+                </pair>
+                 <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan>play</matchItem>
+                    <matchTarget id="matchTarget_5">ground</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6"><sSpan class="mm_matchingNumber">6.</sSpan>ferris</matchItem>
+                    <matchTarget id="matchTarget_6">wheel</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

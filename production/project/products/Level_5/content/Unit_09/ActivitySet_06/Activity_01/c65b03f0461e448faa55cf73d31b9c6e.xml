@@ -1,0 +1,28 @@
+<activity id="c65b03f0461e448faa55cf73d31b9c6e" pseudoID="SC_L5_AB_Ch9_p75_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_tabletTemplate">
+            <block class="mm_buttonContainer">
+                <block class="mm_tabletButton">
+                </block>
+            </block>
+            <block class="mm_tabletContent">
+                <h2>How Cool Will Your s<sSpan>c</sSpan>h<sSpan>ool</sSpan>
+                    Be?</h2>
+                <p>I think my school will be better in the future. It’ll have 
+                    <br/><sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y">solar panels</droppable>
+                    on the roof to save money. We’ll have 
+                    <br/><sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="1">touch screen controls</droppable>
+                    in the classroom that are fun to use but won’t break! The school will also give us 
+                    <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="4">recyclable</droppable>
+                    pens and paper because they’re better for the planet. Our computers will be 
+                    <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="2">wireless</droppable>
+                    so that we can use them anywhere in the school. I hope the uniform will be more fashionable, too. Finally, I think my school will use electric buses but they won’t be 
+                   <br/><sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="3">driverless</droppable>
+                    .</p>
+            </block>
+        </block>
+    </main>
+</activity>

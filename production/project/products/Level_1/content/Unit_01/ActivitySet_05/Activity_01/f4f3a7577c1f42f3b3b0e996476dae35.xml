@@ -1,0 +1,27 @@
+<activity id="f4f3a7577c1f42f3b3b0e996476dae35" pseudoID="SC_L1_AB_Ch1_p11_ACT02" class="mm_unit1 mm_lesson5 mm_activityNumber2">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block class="mm_matchingRoundNumbers mm_matchingLeft">
+             <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> What color</matchItem>
+                    <matchTarget id="matchTarget_1" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> is the pencil?</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> It's</matchItem>
+                    <matchTarget id="matchTarget_2" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> blue.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> It's an orange</matchItem>
+                    <matchTarget id="matchTarget_3" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> notebook.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> It</matchItem>
+                    <matchTarget id="matchTarget_4" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> isn't an eraser.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

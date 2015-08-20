@@ -1,0 +1,16 @@
+.mm_imageBlockLeft {
+    float: left;
+    position: absolute;
+    top: 70px;
+}
+
+.mm_exerciseContent {
+    margin-left: 230px;
+}
+
+.mm_exerciseContent div img {
+    margin-bottom: 10px;
+}
+.main .typein input.text {
+    text-align: left;
+}

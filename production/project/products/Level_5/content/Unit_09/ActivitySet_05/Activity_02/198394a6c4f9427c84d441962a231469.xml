@@ -1,0 +1,54 @@
+<activity id="198394a6c4f9427c84d441962a231469" pseudoID="SC_L5_AB_Ch9_p74_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Unscramble. Then ask and answer.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="3">What</item>
+                        <item id="item_2" rank="6">will</item>
+                        <item id="item_3" rank="1">buildings</item>
+                        <item id="item_4" rank="8">look</item>
+                        <item id="item_5" rank="4">like</item>
+                        <item id="item_6" rank="5">in</item>
+                        <item id="item_7" rank="7">the</item>
+                        <item id="item_8" rank="2">future</item>
+                        <item id="item_9" rank="9">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="3">What</item>
+                        <item id="item_2" rank="5">will</item>
+                        <item id="item_3" rank="1">be</item>
+                        <item id="item_4" rank="4">on</item>
+                        <item id="item_5" rank="6">TV</item>
+                        <item id="item_6" rank="2">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="3">What</item>
+                        <item id="item_2" rank="1">will</item>
+                        <item id="item_3" rank="5">you</item>
+                        <item id="item_4" rank="2">eat</item>
+                        <item id="item_5" rank="4">?</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="2">Where</item>
+                        <item id="item_2" rank="1">will</item>
+                        <item id="item_3" rank="6">you</item>
+                        <item id="item_4" rank="5">go</item>
+                        <item id="item_5" rank="3">on</item>
+                        <item id="item_6" rank="7">vacation</item>
+                        <item id="item_7" rank="4">?</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

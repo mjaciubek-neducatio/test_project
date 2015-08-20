@@ -1,0 +1,158 @@
+/* Story Central AB L2 mobile first styles */
+
+/************************** BASE **************************/
+
+/************************** LAYOUT **************************/
+
+/* ACTIVITY BACKGROUND IMAGE */
+.activity {
+	background-image: url(../images/ABBackground.png);
+}
+
+
+/* RUBRIC ACTIVITY NUMBER */
+.rubric .rubricBody p:before {
+	background-image: url(../images/activityNumbersAB.png);
+}
+
+/************************** MODULE **************************/
+
+/*** MARKED COMPONENENTS ***/
+
+/*** UNMARKED COMPONENENTS ***/
+
+
+
+/*** CONTENT STYLING ***/
+
+.mm_listColumns ol,
+.mm_listColumns ul {
+	margin: 0;
+	list-style: none;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+.mm_listColumns4 ol li,
+.mm_listColumns4 ul li {
+	width: 23%;
+	margin-right: 2%;
+	box-sizing: border-box;
+}
+
+.mm_listColumns3 ol li,
+.mm_listColumns3 ul li {
+	width: 30%;
+	margin-right: 3%;
+	box-sizing: border-box;
+}
+
+/*speech bubbles fix*/
+.mm_speechBubbles .mm_bubble:after, .mm_speechBubbles .matchingContainer .matchItem:after {
+	left: 23px;
+	border-width: 13px 9px 0;
+	visibility: visible;
+}
+
+/*** USEFUL ***/
+
+/************************** THEME **************************/
+
+
+.mm_matchingNumber,
+.mm_inlineNumber,
+.caption,
+.main ol > li,
+li.mm_example,
+.generalUserColour,
+.generalInteractivityColour,
+.levelColor,
+.crosswordClueNumber,
+.locating_answer {
+	color: #E01E78;
+}
+
+.wordBox ul,
+.rcfWordSearchGridChosenWords .wordSearchWords,
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dragTarget.selected, /* selected dropped droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.checkboxItemSelect .selectable.selected, /* checbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper /* ordering */ {
+	background-color: #E01E78;
+	/*background-position:-5px -5px, -5px -5px;*/
+}
+
+.mm_wordBox,
+.mm_border,
+.mm_imageBorder img,
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.checkboxItemSelect .selectable.selected, /* checbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */
+.category {
+	border-color: #E01E78;
+}
+
+.checkboxItemSelect .selectable.selected,
+.radioItemSelect .selectable.selected {
+	border-color: #E01E78 !important; /* !important to overwrite RCF core */
+}
+
+.matchingContainer .selected ~._jsPlumb_endpoint circle {
+	fill: #E01E78;
+}
+
+.typein input.text:focus,
+.typeinGroup input.typeinGroup:focus {
+	box-shadow: 2px 2px 19px #E01E78;
+}
+
+/* pale tint */
+table.crossword input.hiddenLetter {
+	background-color: #e06ca2;
+}
+
+/* paler tint */
+.rcfWordSearchGrid .ws-highlight,
+.rcfWordSearchGrid .ws-selected,
+.mobile .rcfWordSearchGrid .ws-start,
+.wordSearchContainer[data-draggable='n'] .rcfWordSearchGrid .ws-start,
+.rcfWordSearchGrid .ws-glowing,
+table.crossword input.editing,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover,
+table.crossword input.editing:focus {
+    background-color: #F7CBE0;
+}
+
+
+
+/* reset */
+.dropTarget li.dragItem,
+.dragTarget.populated {
+	color: #FFF;
+}
+
+.main ol > li > * {
+	color: #000;
+}
+.main ol > li.mm_example > * {
+	color: #888;
+}
+.main ol > li .mm_example {
+	color: #888;
+}

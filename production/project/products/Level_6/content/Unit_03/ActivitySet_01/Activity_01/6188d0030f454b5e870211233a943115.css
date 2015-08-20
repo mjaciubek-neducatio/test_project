@@ -1,0 +1,42 @@
+.mm_customText {
+    background: #ffffff;
+	background: -moz-linear-gradient(top,  #ffffff 0%, #e7e7e8 59%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(59%,#e7e7e8));
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#e7e7e8 59%);
+	background: -o-linear-gradient(top,  #ffffff 0%,#e7e7e8 59%);
+	background: -ms-linear-gradient(top,  #ffffff 0%,#e7e7e8 59%);
+	background: linear-gradient(to bottom,  #ffffff 0%,#e7e7e8 59%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e7e7e8',GradientType=0 );
+}
+.mm_customImages {
+    background-color: #c7e7da;
+    padding: 0.437em;
+    border-radius: 10px;
+    text-align: center;
+}
+.mm_customImages img {
+    border-radius: 0.75em;
+}
+.mm_customBlock {
+    position: relative;
+    display: inline-block;
+    margin: 0 15px;
+}
+.mm_customNumber {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    background-color: #fff;
+    color: #1dad8a;
+    font-weight: 700;
+    border-radius: 50%;
+    border: 1px solid #1dad8a;
+    width: 1.45em;
+}
+.mm_customText h3 {
+    color: #1dad8a;
+    margin-bottom: .25em;
+}
+.mm_letterDroppable .dragTarget{
+    min-width: 0.75em;
+}

@@ -1,0 +1,22 @@
+.mm_textImage img {
+    position: relative;
+    display: inline-block;
+    margin: 0  30px;
+    padding-bottom: 20px;
+}
+.mm_textImage {
+    background: #ffffff;
+    background: -moz-linear-gradient(top, #ffffff 0%, #e7e7e8 53%, #e7e7e8 53%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(53%,#e7e7e8), color-stop(53%,#e7e7e8));
+    background: -webkit-linear-gradient(top, #ffffff 0%,#e7e7e8 53%,#e7e7e8 53%);
+    background: -o-linear-gradient(top, #ffffff 0%,#e7e7e8 53%,#e7e7e8 53%);
+    background: -ms-linear-gradient(top, #ffffff 0%,#e7e7e8 53%,#e7e7e8 53%);
+    background: linear-gradient(to bottom, #ffffff 0%,#e7e7e8 53%,#e7e7e8 53%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e7e7e8',GradientType=0 );
+    padding: 10px;
+    
+}
+.mm_innerBlock {
+    border: 3px dotted #9fd6c2;
+    padding: 10px;
+}

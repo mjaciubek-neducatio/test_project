@@ -1,0 +1,61 @@
+.mm_email {
+	border-radius: 12px;
+	padding: 0;
+	padding-bottom: 1em;
+	background: rgba(218,233,248,1);
+	background: -moz-linear-gradient(45deg, rgba(218,233,248,1) 0%, rgba(26,150,217,1) 51%, rgba(218,233,248,1) 100%);
+	background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(218,233,248,1)), color-stop(51%, rgba(26,150,217,1)), color-stop(100%, rgba(218,233,248,1)));
+	background: -webkit-linear-gradient(45deg, rgba(218,233,248,1) 0%, rgba(26,150,217,1) 51%, rgba(218,233,248,1) 100%);
+	background: -o-linear-gradient(45deg, rgba(218,233,248,1) 0%, rgba(26,150,217,1) 51%, rgba(218,233,248,1) 100%);
+	background: -ms-linear-gradient(45deg, rgba(218,233,248,1) 0%, rgba(26,150,217,1) 51%, rgba(218,233,248,1) 100%);
+	background: linear-gradient(45deg, rgba(218,233,248,1) 0%, rgba(26,150,217,1) 51%, rgba(218,233,248,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dae9f8', endColorstr='#dae9f8', GradientType=1 );
+    border: 2px solid #fff;
+    border-top: none;
+}
+
+.mm_email p {
+	padding: 0 .825em;
+}
+
+.mm_email .mm_label {
+	color: #000;
+	font-weight: bold;
+	text-align: right;
+	padding-right: .875em;
+	padding-left: .875em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.mm_email .mm_value {
+	background-color: #fff;
+	padding-left: .25em;
+	padding-right: 10em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.mm_email .mm_content {
+	background-color: #fff;
+	border-radius: 12px;
+	margin: .875em;
+}
+
+.mm_boxShadow .mm_browserBar, .mm_boxShadow .mm_iconEmail {
+	box-shadow: none;
+}
+
+.mm_iconEmail {
+	float: right;
+	position: relative;
+	bottom: 1.17em;
+}
+
+.mm_email .mm_content .mm_heading {
+	padding-top: .875em;
+}
+
+.mm_email .mm_content .mm_footer {
+	padding-bottom: .875em;
+}

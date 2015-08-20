@@ -1,0 +1,21 @@
+<activity class="mm_unit9 mm_activityNumber1" id="da5c193bab514380ad4cbed2357e1677">
+    <rubric>
+        <p>Unscramble the question.</p>
+    </rubric>
+    <main>
+        <block class="mm_centeredContent mm_customImage">
+            <image src="p074a.jpg" title=""/>
+            <ordering id="ordering_1" capitalise="n" display="h">
+                <item id="item_1" rank="5">Do</item>
+                <item id="item_2" rank="1">you</item>
+                <item id="item_3" rank="4">like</item>
+                <item id="item_4" rank="6">the</item>
+                <item id="item_5" rank="2">town</item>
+                <item id="item_6" rank="7">or</item>
+                <item id="item_7" rank="8">the</item>
+                <item id="item_8" rank="3">countryside</item>
+                <suffix>?</suffix>
+            </ordering>
+        </block>
+    </main>
+</activity>

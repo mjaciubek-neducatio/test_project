@@ -1,0 +1,17 @@
+/* .mm_wordBox {
+    width: 30%;
+}  */
+
+.mm_flexboxSet6040 {
+    width: 85%;
+}
+
+/* .mm_flexImageSet {
+    text-align: center;
+} */
+
+.mm_imageCenter .mm_image img {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 21%;
+}

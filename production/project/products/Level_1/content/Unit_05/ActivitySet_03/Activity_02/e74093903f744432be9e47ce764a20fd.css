@@ -1,0 +1,32 @@
+.matchingContainer.horizontal .matchItems {
+    margin-bottom: 180px;
+}
+
+.matchingContainer.horizontal .matchItem img {
+padding-top: 1em;
+background-color: #fff;
+    vertical-align: middle;
+}
+
+/* .mm_postitionNumbers .selected .mm_matchingNumber {
+    color: #F9B122;
+} */
+
+.matchTarget {
+	padding: 5px;
+}
+
+.matchItems .matchItemContainer {
+    margin-left: 0;
+    margin-right: 0;
+    width: 18.7%;
+    margin-left: -5%;
+
+}
+
+.matchItems .matchItemContainer:first-child {
+	margin-left: 0px;
+} 
+.mm_imageMatchItem .matchItemContainer:nth-child(even) {
+	margin-top: 130px;
+}

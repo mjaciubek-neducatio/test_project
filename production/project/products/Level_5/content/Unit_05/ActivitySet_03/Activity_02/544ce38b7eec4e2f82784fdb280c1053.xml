@@ -1,0 +1,43 @@
+<activity id="544ce38b7eec4e2f82784fdb280c1053" pseudoID="SC_L5_AB_Ch5_p40_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">The boy is <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">awake</item>
+                            <item id="item_2">asleep</item>
+                        </dropDown> now.</p>
+                </li>
+                <li>
+                    <p>His boat is made of <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">food.</item>
+                            <item id="item_2">things you can’t eat.</item>
+                        </dropDown>
+                    </p>
+                </li>
+                <li>
+                    <p>The queen’s castle is <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">very cold.</item>
+                            <item id="item_2">really warm.</item>
+                        </dropDown>
+                    </p>
+                </li>
+                <li>
+                    <p>The queen <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">is nice to</item>
+                            <item id="item_2">doesn’t like</item>
+                        </dropDown> the boy.</p>
+                </li>
+                <li>
+                    <p>In the strange land, <dropDown id="dropDown_5">
+                            <item id="item_1" correct="y">most things are</item>
+                            <item id="item_2">everything is</item>
+                        </dropDown> good to eat.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,7 @@
+.mm_cWidth {
+    min-width: 55%;
+    display: inline-block;
+}
+.dragTarget.populated {
+    min-width: 2.5em;   
+}

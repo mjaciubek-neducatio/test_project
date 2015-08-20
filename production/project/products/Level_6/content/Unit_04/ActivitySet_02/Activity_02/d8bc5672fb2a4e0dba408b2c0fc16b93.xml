@@ -1,0 +1,22 @@
+<activity class="mm_unit4 mm_activityNumber1" id="d8bc5672fb2a4e0dba408b2c0fc16b93" pseudoID="SC_L6_AB_Ch4_p33_ACT01">
+    <rubric>
+        <p>Put the story summary in order.</p>
+    </rubric>
+    <main>
+        <block class="mm_borderImage">
+            <image src="p033a.png" title=""/>
+            <block class="mm_customOrdering">
+                <ordering id="ordering_1" display="v" mark="item">
+                    <item id="item_1" rank="1" fixed="y">Neuron wanted to destroy the city of Washington.</item>
+                    <item id="item_2">The President called Brent to ask him for help.</item>
+                    <item id="item_3">Brent changed into his secret identity – Master Mind.</item>
+                    <item id="item_4">Neuron destroyed the chemical factory.</item>
+                    <item id="item_5">The President agreed to meet Neuron.</item>
+                    <item id="item_6">At the meeting, Neuron took off his glasses for a photo.</item>
+                    <item id="item_7">Master Mind saw Neuron’s eyes in a mirror.</item>
+                    <item id="item_8">Master Mind changed Neuron into a good person by controlling his mind.</item>
+                </ordering>
+            </block>
+        </block>
+    </main>
+</activity>

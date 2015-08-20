@@ -1,0 +1,59 @@
+<activity id="c00594ae43634e67b62964c169b349ff" pseudoID="SC_L5_AB_Ch5_p42_ACT01">
+    <rubric>
+        <p>Complete with the passive.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexContainer mm_flexboxSet2">
+            <block>
+                <block class="mm_text mm_boxShadow mm_padder mm_handwritten">
+                    <p>Do you like my painting of an imaginary land? All the houses 
+                         <sSpan class="mm_inlineNumber">1</sSpan> <locating id="locating_1" example="y">
+                            make 
+                            <typein id="typein_1">
+                                <acceptable>
+                                    <item id="item_1">are made</item></acceptable>
+                            </typein>
+                        </locating> of wood and glass. They’re bright because they
+                       <sSpan class="mm_inlineNumber">2</sSpan> <locating id="locating_2">
+                            paint
+                            <typein id="typein_2">
+                                <acceptable>
+                                    <item id="item_1">'re painted</item></acceptable>
+                            </typein>
+                        </locating> in different colors. There aren’t any cars or buses on the street but special trains 
+                        <sSpan class="mm_inlineNumber">3</sSpan> <locating id="locating_3">
+                            use
+                            <typein id="typein_3">
+                                <acceptable>
+                                    <item id="item_1">are used</item></acceptable>
+                            </typein>
+                        </locating> to take children to school. Interesting food 
+                        <sSpan class="mm_inlineNumber">4</sSpan> <locating id="locating_4">
+                            eat 
+                            <typein id="typein_4">
+                                <acceptable>
+                                    <item id="item_1">is eaten</item></acceptable>
+                            </typein>
+                        </locating> in this land. The chocolate is delicious and it 
+                        <br/><sSpan class="mm_inlineNumber">5</sSpan> <locating id="locating_5">
+                            grow
+                            <typein id="typein_5">
+                                <acceptable>
+                                    <item id="item_1">is grown</item></acceptable>
+                            </typein>
+                        </locating> on magic trees. You can talk to everyone because only one language 
+                        <sSpan class="mm_inlineNumber">6</sSpan> <locating id="locating_6">
+                            speak 
+                            <typein id="typein_6">
+                                <acceptable>
+                                    <item id="item_1">is spoken</item></acceptable>
+                            </typein>
+                        </locating>, but it isn’t English!</p>
+                    </block>
+                </block>
+            <block class="mm_imageRight">
+                <image src="p042a.jpg" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,32 @@
+<activity id="fc06e817e67a42cb90378937f16c7380" pseudoID="SC_L3_AB_Ch6_p48_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <p>What does the ant hill look like?</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y"><sSpan class="mm_inlineNumber">a.</sSpan> a mountain</item>
+                        <item id="item_2"><sSpan class="mm_inlineNumber">b.</sSpan> a volcano</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Why does Goanna lay her egg in the ant hill?</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1"><sSpan class="mm_inlineNumber">a.</sSpan> It’s cold and dark.</item>
+                        <item id="item_2" correct="y"><sSpan class="mm_inlineNumber">b.</sSpan> It’s deep and warm.</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Why is Goanna happy that there are ants near her egg?</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1"><sSpan class="mm_inlineNumber">a.</sSpan> They will protect her baby.</item>
+                        <item id="item_2" correct="y"><sSpan class="mm_inlineNumber">b.</sSpan> They will be food for her baby.</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,207 @@
+.main div.block {
+	position: relative;
+    padding-bottom: 0;
+    background-image: url(../../production/project/products/Level_3/assets/images/p018a.jpg);
+    background-position: 0px 96px;
+    margin-top: -80px;
+    margin-left: -24px;
+}
+#wordSnake_wordSnake_1 {position: relative; display: block; width:930px; height:498px;cursor: default;}
+#wordSnake_wordSnake_1>li[class^=w]:nth-of-type(n+0){display:block; position:absolute;
+-moz-transform-origin:50% 100%; -webkit-transform-origin:50% 100%; -o-transform-origin:50%
+100%; -ms-transform-origin:50% 100%; transform-origin:50% 100%; cursor: pointer;}
+
+#wordSnake_wordSnake_1 li{font-family:'Muli';font-size:27px;font-weight:regular;font-style:normal;
+line-height:0.65; white-space:pre; overflow:visible; padding:4px;position: absolute;}
+
+#wordSnake_1_L1 {-moz-transform: rotate(-5.4rad);-webkit-transform: rotate(-5.4rad);-o-transform:
+rotate(-5.4rad);-ms-transform: rotate(-5.4rad); transform: rotate(-5.4rad);
+width: 14px; height: 17px; left: 34.9px; top: 207.12px;}
+
+#wordSnake_1_L2 {-moz-transform: rotate(-5.51rad);-webkit-transform: rotate(-5.51rad);-o-transform:
+rotate(-5.51rad);-ms-transform: rotate(-5.51rad); transform: rotate(-5.51rad);
+width: 16px; height: 17px; left: 46.7px; top: 221.17px;}
+
+#wordSnake_1_L3 {-moz-transform: rotate(-5.62rad);-webkit-transform: rotate(-5.62rad);-o-transform:
+rotate(-5.62rad);-ms-transform: rotate(-5.62rad); transform: rotate(-5.62rad);
+width: 14px; height: 17px; left: 62.45px; top: 234.16px;}
+
+#wordSnake_1_L4 {-moz-transform: rotate(-5.71rad);-webkit-transform: rotate(-5.71rad);-o-transform:
+rotate(-5.71rad);-ms-transform: rotate(-5.71rad); transform: rotate(-5.71rad);
+width: 16px; height: 17px; left: 78.05px; top: 246.11px;}
+
+#wordSnake_1_L5 {-moz-transform: rotate(-5.81rad);-webkit-transform: rotate(-5.81rad);-o-transform:
+rotate(-5.81rad);-ms-transform: rotate(-5.81rad); transform: rotate(-5.81rad);
+width: 25px; height: 17px; left: 96.32px; top: 259.41px;}
+
+#wordSnake_1_L6 {-moz-transform: rotate(-5.88rad);-webkit-transform: rotate(-5.88rad);-o-transform:
+rotate(-5.88rad);-ms-transform: rotate(-5.88rad); transform: rotate(-5.88rad);
+width: 16px; height: 17px; left: 122.71px; top: 269.78px;}
+
+#wordSnake_1_L7 {-moz-transform: rotate(-5.94rad);-webkit-transform: rotate(-5.94rad);-o-transform:
+rotate(-5.94rad);-ms-transform: rotate(-5.94rad); transform: rotate(-5.94rad);
+width: 15px; height: 17px; left: 143.31px; top: 277.75px;}
+
+#wordSnake_1_L8 {-moz-transform: rotate(-5.98rad);-webkit-transform: rotate(-5.98rad);-o-transform:
+rotate(-5.98rad);-ms-transform: rotate(-5.98rad); transform: rotate(-5.98rad);
+width: 10px; height: 17px; left: 161.63px; top: 283.18px;}
+
+#wordSnake_1_L9 {-moz-transform: rotate(-6.01rad);-webkit-transform: rotate(-6.01rad);-o-transform:
+rotate(-6.01rad);-ms-transform: rotate(-6.01rad); transform: rotate(-6.01rad);
+width: 13px; height: 17px; left: 176.56px; top: 288.14px;}
+
+#wordSnake_1_L10 {-moz-transform: rotate(-6.05rad);-webkit-transform: rotate(-6.05rad);-o-transform:
+rotate(-6.05rad);-ms-transform: rotate(-6.05rad); transform: rotate(-6.05rad);
+width: 16px; height: 17px; left: 193.97px; top: 293.11px;}
+
+#wordSnake_1_L11 {-moz-transform: rotate(-6.08rad);-webkit-transform: rotate(-6.08rad);-o-transform:
+rotate(-6.08rad);-ms-transform: rotate(-6.08rad); transform: rotate(-6.08rad);
+width: 16px; height: 17px; left: 213.51px; top: 297.51px;}
+
+#wordSnake_1_L12 {-moz-transform: rotate(-6.11rad);-webkit-transform: rotate(-6.11rad);-o-transform:
+rotate(-6.11rad);-ms-transform: rotate(-6.11rad); transform: rotate(-6.11rad);
+width: 10px; height: 17px; left: 234.61px; top: 300.99px;}
+
+#wordSnake_1_L13 {-moz-transform: rotate(-6.14rad);-webkit-transform: rotate(-6.14rad);-o-transform:
+rotate(-6.14rad);-ms-transform: rotate(-6.14rad); transform: rotate(-6.14rad);
+width: 16px; height: 17px; left: 250.14px; top: 304.02px;}
+
+#wordSnake_1_L14 {-moz-transform: rotate(-6.16rad);-webkit-transform: rotate(-6.16rad);-o-transform:
+rotate(-6.16rad);-ms-transform: rotate(-6.16rad); transform: rotate(-6.16rad);
+width: 10px; height: 17px; left: 269.94px; top: 306.34px;}
+
+#wordSnake_1_L15 {-moz-transform: rotate(-6.19rad);-webkit-transform: rotate(-6.19rad);-o-transform:
+rotate(-6.19rad);-ms-transform: rotate(-6.19rad); transform: rotate(-6.19rad);
+width: 16px; height: 17px; left: 286.18px; top: 308.54px;}
+
+#wordSnake_1_L16 {-moz-transform: rotate(-6.21rad);-webkit-transform: rotate(-6.21rad);-o-transform:
+rotate(-6.21rad);-ms-transform: rotate(-6.21rad); transform: rotate(-6.21rad);
+width: 15px; height: 17px; left: 306.24px; top: 310.3px;}
+
+#wordSnake_1_L17 {-moz-transform: rotate(-6.23rad);-webkit-transform: rotate(-6.23rad);-o-transform:
+rotate(-6.23rad);-ms-transform: rotate(-6.23rad); transform: rotate(-6.23rad);
+width: 13px; height: 17px; left: 327.08px; top: 311.63px;}
+
+#wordSnake_1_L18 {-moz-transform: rotate(-6.25rad);-webkit-transform: rotate(-6.25rad);-o-transform:
+rotate(-6.25rad);-ms-transform: rotate(-6.25rad); transform: rotate(-6.25rad);
+width: 13px; height: 17px; left: 344.92px; top: 312.45px;}
+
+#wordSnake_1_L19 {-moz-transform: rotate(-6.27rad);-webkit-transform: rotate(-6.27rad);-o-transform:
+rotate(-6.27rad);-ms-transform: rotate(-6.27rad); transform: rotate(-6.27rad);
+width: 10px; height: 17px; left: 362.16px; top: 312.89px;}
+
+#wordSnake_1_L20 {-moz-transform: rotate(-6.28rad);-webkit-transform: rotate(-6.28rad);-o-transform:
+rotate(-6.28rad);-ms-transform: rotate(-6.28rad); transform: rotate(-6.28rad);
+width: 10px; height: 17px; left: 378.01px; top: 313.08px;}
+
+#wordSnake_1_L21 {-moz-transform: rotate(-6.3rad);-webkit-transform: rotate(-6.3rad);-o-transform:
+rotate(-6.3rad);-ms-transform: rotate(-6.3rad); transform: rotate(-6.3rad);
+width: 16px; height: 17px; left: 393.23px; top: 313px;}
+
+#wordSnake_1_L22 {-moz-transform: rotate(-6.32rad);-webkit-transform: rotate(-6.32rad);-o-transform:
+rotate(-6.32rad);-ms-transform: rotate(-6.32rad); transform: rotate(-6.32rad);
+width: 22px; height: 17px; left: 413.13px; top: 312.43px;}
+
+#wordSnake_1_L23 {-moz-transform: rotate(-6.35rad);-webkit-transform: rotate(-6.35rad);-o-transform:
+rotate(-6.35rad);-ms-transform: rotate(-6.35rad); transform: rotate(-6.35rad);
+width: 16px; height: 17px; left: 441.4px; top: 311.22px;}
+
+#wordSnake_1_L24 {-moz-transform: rotate(-6.36rad);-webkit-transform: rotate(-6.36rad);-o-transform:
+rotate(-6.36rad);-ms-transform: rotate(-6.36rad); transform: rotate(-6.36rad);
+width: 15px; height: 17px; left: 460.31px; top: 309.96px;}
+
+#wordSnake_1_L25 {-moz-transform: rotate(-6.38rad);-webkit-transform: rotate(-6.38rad);-o-transform:
+rotate(-6.38rad);-ms-transform: rotate(-6.38rad); transform: rotate(-6.38rad);
+width: 10px; height: 17px; left: 481.19px; top: 308.39px;}
+
+#wordSnake_1_L26 {-moz-transform: rotate(-6.4rad);-webkit-transform: rotate(-6.4rad);-o-transform:
+rotate(-6.4rad);-ms-transform: rotate(-6.4rad); transform: rotate(-6.4rad);
+width: 10px; height: 17px; left: 497.25px; top: 306.77px;}
+
+#wordSnake_1_L27 {-moz-transform: rotate(-6.41rad);-webkit-transform: rotate(-6.41rad);-o-transform:
+rotate(-6.41rad);-ms-transform: rotate(-6.41rad); transform: rotate(-6.41rad);
+width: 7px; height: 17px; left: 510.19px; top: 305.46px;}
+
+#wordSnake_1_L28 {-moz-transform: rotate(-6.42rad);-webkit-transform: rotate(-6.42rad);-o-transform:
+rotate(-6.42rad);-ms-transform: rotate(-6.42rad); transform: rotate(-6.42rad);
+width: 15px; height: 17px; left: 522.15px; top: 303.43px;}
+
+#wordSnake_1_L29 {-moz-transform: rotate(-6.44rad);-webkit-transform: rotate(-6.44rad);-o-transform:
+rotate(-6.44rad);-ms-transform: rotate(-6.44rad); transform: rotate(-6.44rad);
+width: 13px; height: 17px; left: 543.55px; top: 300.47px;}
+
+#wordSnake_1_L30 {-moz-transform: rotate(-6.46rad);-webkit-transform: rotate(-6.46rad);-o-transform:
+rotate(-6.46rad);-ms-transform: rotate(-6.46rad); transform: rotate(-6.46rad);
+width: 16px; height: 17px; left: 560.03px; top: 297.53px;}
+
+#wordSnake_1_L31 {-moz-transform: rotate(-6.48rad);-webkit-transform: rotate(-6.48rad);-o-transform:
+rotate(-6.48rad);-ms-transform: rotate(-6.48rad); transform: rotate(-6.48rad);
+width: 16px; height: 17px; left: 580.07px; top: 293.86px;}
+
+#wordSnake_1_L32 {-moz-transform: rotate(-6.5rad);-webkit-transform: rotate(-6.5rad);-o-transform:
+rotate(-6.5rad);-ms-transform: rotate(-6.5rad); transform: rotate(-6.5rad);
+width: 16px; height: 17px; left: 602.03px; top: 289.35px;}
+
+#wordSnake_1_L33 {-moz-transform: rotate(-6.52rad);-webkit-transform: rotate(-6.52rad);-o-transform:
+rotate(-6.52rad);-ms-transform: rotate(-6.52rad); transform: rotate(-6.52rad);
+width: 7px; height: 17px; left: 621.7px; top: 285.92px;}
+
+#wordSnake_1_L34 {-moz-transform: rotate(-6.54rad);-webkit-transform: rotate(-6.54rad);-o-transform:
+rotate(-6.54rad);-ms-transform: rotate(-6.54rad); transform: rotate(-6.54rad);
+width: 15px; height: 17px; left: 634.78px; top: 281.74px;}
+
+#wordSnake_1_L35 {-moz-transform: rotate(-6.56rad);-webkit-transform: rotate(-6.56rad);-o-transform:
+rotate(-6.56rad);-ms-transform: rotate(-6.56rad); transform: rotate(-6.56rad);
+width: 13px; height: 17px; left: 652.59px; top: 277.27px;}
+
+#wordSnake_1_L36 {-moz-transform: rotate(-6.58rad);-webkit-transform: rotate(-6.58rad);-o-transform:
+rotate(-6.58rad);-ms-transform: rotate(-6.58rad); transform: rotate(-6.58rad);
+width: 10px; height: 17px; left: 670.58px; top: 272.52px;}
+
+#wordSnake_1_L37 {-moz-transform: rotate(-6.6rad);-webkit-transform: rotate(-6.6rad);-o-transform:
+rotate(-6.6rad);-ms-transform: rotate(-6.6rad); transform: rotate(-6.6rad);
+width: 16px; height: 17px; left: 683.73px; top: 267.49px;}
+
+#wordSnake_1_L38 {-moz-transform: rotate(-6.64rad);-webkit-transform: rotate(-6.64rad);-o-transform:
+rotate(-6.64rad);-ms-transform: rotate(-6.64rad); transform: rotate(-6.64rad);
+width: 25px; height: 17px; left: 704.69px; top: 258.74px;}
+
+#wordSnake_1_L39 {-moz-transform: rotate(-6.68rad);-webkit-transform: rotate(-6.68rad);-o-transform:
+rotate(-6.68rad);-ms-transform: rotate(-6.68rad); transform: rotate(-6.68rad);
+width: 16px; height: 17px; left: 731.72px; top: 250.03px;}
+
+#wordSnake_1_L40 {-moz-transform: rotate(-6.71rad);-webkit-transform: rotate(-6.71rad);-o-transform:
+rotate(-6.71rad);-ms-transform: rotate(-6.71rad); transform: rotate(-6.71rad);
+width: 10px; height: 17px; left: 752.73px; top: 242.32px;}
+
+#wordSnake_1_L41 {-moz-transform: rotate(-6.74rad);-webkit-transform: rotate(-6.74rad);-o-transform:
+rotate(-6.74rad);-ms-transform: rotate(-6.74rad); transform: rotate(-6.74rad);
+width: 16px; height: 17px; left: 765.28px; top: 235.03px;}
+
+#wordSnake_1_L42 {-moz-transform: rotate(-6.79rad);-webkit-transform: rotate(-6.79rad);-o-transform:
+rotate(-6.79rad);-ms-transform: rotate(-6.79rad); transform: rotate(-6.79rad);
+width: 15px; height: 17px; left: 783.89px; top: 225.68px;}
+
+#wordSnake_1_L43 {-moz-transform: rotate(-6.84rad);-webkit-transform: rotate(-6.84rad);-o-transform:
+rotate(-6.84rad);-ms-transform: rotate(-6.84rad); transform: rotate(-6.84rad);
+width: 13px; height: 17px; left: 801.95px; top: 215.85px;}
+
+#wordSnake_1_L44 {-moz-transform: rotate(-6.91rad);-webkit-transform: rotate(-6.91rad);-o-transform:
+rotate(-6.91rad);-ms-transform: rotate(-6.91rad); transform: rotate(-6.91rad);
+width: 25px; height: 17px; left: 816.02px; top: 202.67px;}
+
+#wordSnake_1_L45 {-moz-transform: rotate(-6.99rad);-webkit-transform: rotate(-6.99rad);-o-transform:
+rotate(-6.99rad);-ms-transform: rotate(-6.99rad); transform: rotate(-6.99rad);
+width: 15px; height: 17px; left: 840.34px; top: 187.71px;}
+
+#wordSnake_1_L46 {-moz-transform: rotate(-7.06rad);-webkit-transform: rotate(-7.06rad);-o-transform:
+rotate(-7.06rad);-ms-transform: rotate(-7.06rad); transform: rotate(-7.06rad);
+width: 7px; height: 17px; left: 855.87px; top: 177.28px;}
+
+#wordSnake_1_L47 {-moz-transform: rotate(-7.14rad);-webkit-transform: rotate(-7.14rad);-o-transform:
+rotate(-7.14rad);-ms-transform: rotate(-7.14rad); transform: rotate(-7.14rad);
+width: 16px; height: 17px; left: 862.73px; top: 165.39px;}
+
+#wordSnake_1_L48 {-moz-transform: rotate(-7.26rad);-webkit-transform: rotate(-7.26rad);-o-transform:
+rotate(-7.26rad);-ms-transform: rotate(-7.26rad); transform: rotate(-7.26rad);
+width: 16px; height: 17px; left: 875.87px; top: 148.47px;}

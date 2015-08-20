@@ -1,0 +1,26 @@
+.crosswordClueContainer .across {
+    position: absolute;
+    left: 550px;
+}
+
+.crosswordClueContainer .down {
+    position: absolute;
+    left: 500px;
+    top: 160px;
+}
+
+.mm_italicsClue {
+    font-style: italic;
+}
+
+.mm_customCrossword .down, .mm_customCrossword .across {
+    width: 360px;
+}
+
+.mm_customCrossword .down {
+    margin-left: 30px;
+}
+
+.mm_customCrossword .across {
+    margin-left: -20px;
+}

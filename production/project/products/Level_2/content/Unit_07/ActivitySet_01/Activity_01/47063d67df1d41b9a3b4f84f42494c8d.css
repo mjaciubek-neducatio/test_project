@@ -1,0 +1,58 @@
+.rcfCrossword {
+	width: 560px;
+}
+.mm_crosswordImage {
+	float: right;
+	position: relative;
+}
+.mm_crosswordImage img {
+	float: none;
+}
+.mm_crosswordNumbers {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.mm_crosswordNumbers p {
+	position: absolute;
+	color: #E01E78;
+    font-weight: 700;
+}
+
+.mm_crosswordNumbers p:nth-child(1) {
+	top: 230px;
+	left: 135px;
+}
+.mm_crosswordNumbers p:nth-child(2) {
+	top: 230px;
+	left: 235px;
+}
+.mm_crosswordNumbers p:nth-child(3) {
+	top: 80px;
+	left: 55px;
+}
+.mm_crosswordNumbers p:nth-child(4) {
+	top: 50px;
+	left: 270px;
+}
+.mm_crosswordNumbers p:nth-child(5) {
+	top: 120px;
+	left: 210px;
+}
+.mm_crosswordNumbers p:nth-child(6) {
+	top: 42px;
+	left: 100px;
+}
+.mm_crosswordNumbers p:nth-child(7) {
+	top: 20px;
+	left: 145px;
+}
+.mm_crosswordNumbers p:nth-child(8) {
+	top: 15px;
+	left: 215px;
+}
+.across, .down {
+    visibility: hidden;
+}

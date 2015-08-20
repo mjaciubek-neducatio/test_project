@@ -1,0 +1,18 @@
+.mm_imageMatchItem .matchItem img {
+	width: 100%;
+}
+[class*='mm_hMatching'] .matchingContainer .matchItemContainer {
+	width: 109px;
+    margin-right: 0.5%;
+}
+.matchingContainer.horizontal .matchItems {
+	margin-bottom: 240px;
+}
+.mm_imageMatchItem .matchItem {
+    padding: 7px 7px 0 7px;
+}
+
+.mm_matchingNumber {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+}

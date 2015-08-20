@@ -1,0 +1,43 @@
+<activity id="4af2e649387b4108876ce2bb4a5a336d" pseudoID="SC_L5_AB_Ch8_p65_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Write what each person actually said.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>I said I was hungry. <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">"I’m hungry."</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>He told me he couldn’t help. <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">"I can’t help you."</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>He joked that I wore funny clothes. <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">"You wear funny clothes."</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+                <li>
+                    <p>I argued it was a bad idea. <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">"It’s a bad idea."</item>
+                            </acceptable>
+                        </typein>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

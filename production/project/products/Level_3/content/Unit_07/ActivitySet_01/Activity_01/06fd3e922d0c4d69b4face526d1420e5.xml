@@ -1,0 +1,150 @@
+<activity id="06fd3e922d0c4d69b4face526d1420e5" pseudoID="SC_L3_AB_Ch7_p54_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block>
+            <block>
+                <image src="p054a.jpg" title=""/>
+            </block>
+            <block class="mm_typeInList mm_listHFloat4Col mm_resetNumbering">
+                <list display="v" type="numbered">
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_1" example="y">r<typein id="typein_1">
+                                    <acceptable>
+                                        <item id="item_1">o</item>
+                                    </acceptable>
+                                </typein>w<typein id="typein_2">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                    </acceptable>
+                                </typein>ng</typeinGroup>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_4">d<typein id="typein_7">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>v<typein id="typein_8">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>ng</typeinGroup>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_5">j<typein id="typein_9">
+                                    <acceptable>
+                                        <item id="item_1">a</item>
+                                        <item id="item_2">A</item>
+                                    </acceptable>
+                                </typein>v<typein id="typein_10">
+                                    <acceptable>
+                                        <item id="item_1">e</item>
+                                        <item id="item_2">E</item>
+                                    </acceptable>
+                                </typein>l<typein id="typein_11">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>n</typeinGroup>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_2">h<typein id="typein_3">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>gh j<typein id="typein_4">
+                                    <acceptable>
+                                        <item id="item_1">u</item>
+                                        <item id="item_2">U</item>
+                                    </acceptable>
+                                </typein>mp</typeinGroup>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_6">d<typein id="typein_12">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>sc<typein id="typein_13">
+                                    <acceptable>
+                                        <item id="item_1">u</item>
+                                        <item id="item_2">U</item>
+                                    </acceptable>
+                                </typein>s</typeinGroup>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_7">b<typein id="typein_14">
+                                    <acceptable>
+                                        <item id="item_1">o</item>
+                                        <item id="item_2">O</item>
+                                    </acceptable>
+                                </typein>x<typein id="typein_15">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>ng</typeinGroup>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_3">wr<typein id="typein_5">
+                                    <acceptable>
+                                        <item id="item_1">e</item>
+                                        <item id="item_2">E</item>
+                                    </acceptable>
+                                </typein>stl<typein id="typein_6">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>ng</typeinGroup>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <typeinGroup id="typeinGroup_8">w<typein id="typein_16">
+                                    <acceptable>
+                                        <item id="item_1">e</item>
+                                        <item id="item_2">E</item>
+                                    </acceptable>
+                                </typein>
+                                <typein id="typein_17">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>ghtl<typein id="typein_18">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>ft<typein id="typein_19">
+                                    <acceptable>
+                                        <item id="item_1">i</item>
+                                        <item id="item_2">I</item>
+                                    </acceptable>
+                                </typein>ng</typeinGroup>
+                        </p>
+                    </li>
+                </list>
+            </block>
+        </block>
+    </main>
+</activity>

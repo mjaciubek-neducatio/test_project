@@ -1,0 +1,45 @@
+<activity class="mm_unit7 mm_activityNumber1" id="f1873c9c3e61407cb17e897a728eb203">
+    <rubric>
+        <p>Read and match.</p>
+    </rubric>
+    <main>
+        <block>
+            <h2>What's the matter?</h2>
+            <h2>Who can help?</h2>
+        </block>
+        <block class="mm_customMatching  mm_matchingLeft mm_imageMatchItemNoPad">
+            <matching id="matching_1" display="v">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">
+                        <image src="p060a.jpg" title=""/> <sSpan class="mm_matchingNumber">1.</sSpan> I’m not feeling well.</matchItem>
+                    <matchTarget id="matchTarget_1" rank="8"><sSpan class="mm_matchingNumber">b.</sSpan> doctor</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">
+                        <image src="p060b.jpg" title=""/> <sSpan class="mm_matchingNumber">2.</sSpan> <sSpan> My cat is sick.</sSpan></matchItem>
+                    <matchTarget id="matchTarget_2" rank="11"><sSpan class="mm_matchingNumber">e.</sSpan> vet</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">
+                        <image src="p060c.jpg" title=""/> <sSpan class="mm_matchingNumber">3.</sSpan> I’m not very good at math.</matchItem>
+                    <matchTarget id="matchTarget_3" rank="10"><sSpan class="mm_matchingNumber">d.</sSpan> teacher</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">
+                        <image src="p060d.jpg" title=""/> <sSpan class="mm_matchingNumber">4.</sSpan> There’s a fire.</matchItem>
+                    <matchTarget id="matchTarget_4" rank="7"><sSpan class="mm_matchingNumber">a.</sSpan> firefighter</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">
+                        <image src="p060e.jpg" title=""/> <sSpan class="mm_matchingNumber">5.</sSpan> Look! There’s a thief!</matchItem>
+                    <matchTarget id="matchTarget_5" rank="12"><sSpan class="mm_matchingNumber">f.</sSpan> police officer</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">
+                        <image src="p060f.jpg" title=""/> <sSpan class="mm_matchingNumber">6.</sSpan> I’m hungry!</matchItem>
+                    <matchTarget id="matchTarget_6" rank="9"><sSpan class="mm_matchingNumber">c.</sSpan> chef</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

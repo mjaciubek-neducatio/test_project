@@ -1,0 +1,12 @@
+.mm_awCircleNumbering {
+    display: inline-block;
+    padding: 0.1em 0.4em 0 0.4em;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #fff;
+    color: #8B3E8C;
+    font-weight: 700;
+    line-height: 1.25em;
+    /* box-shadow: 2px 2px 19px #333; */
+    border: solid 1px #8B3E8C;
+}

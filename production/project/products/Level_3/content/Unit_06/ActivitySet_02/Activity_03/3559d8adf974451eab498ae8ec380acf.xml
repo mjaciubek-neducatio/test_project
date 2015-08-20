@@ -1,0 +1,18 @@
+<activity id="3559d8adf974451eab498ae8ec380acf" pseudoID="SC_L3_AB_Ch6_p49_ACT05" class="mm_activityNumber2">
+    <rubric>
+        <p>Find the adjectives.</p>
+    </rubric>
+    <main>
+        <block class="mm_typeInList mm_itemCenter">
+            <block class="mm_border mm_roundedCorner mm_centeredItem">
+                <interactiveTextBlock id="itb_1" type="selectableWords">
+                    <list display="v" type="plain">
+                        <li>
+                            <p>It was a <eSpan id="eSpan_1" correct="y" example="y">beautiful</eSpan> night. There was a <eSpan id="eSpan_2" correct="y">bright</eSpan> moon. Goanna needed to find a <eSpan id="eSpan_3" correct="y">safe</eSpan> place. She saw a <eSpan id="eSpan_4" correct="y">small</eSpan> mountain. She dug a <eSpan id="eSpan_5" correct="y">deep</eSpan> nest.</p>
+                        </li>
+                    </list>
+                </interactiveTextBlock>
+            </block>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,17 @@
+.mm_exerciseImages2 {
+	float:right;
+}
+
+.mm_listImages {
+    width:80%;
+}
+
+.mm_listImages li {
+    min-height:100px;
+}
+
+.mm_exerciseImages {
+    border: 2px solid #676778;
+    border-radius: 10px;
+    float:right;
+}

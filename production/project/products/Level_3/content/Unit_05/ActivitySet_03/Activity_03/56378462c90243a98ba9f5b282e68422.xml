@@ -1,0 +1,68 @@
+<activity id="56378462c90243a98ba9f5b282e68422" pseudoID="SC_L3_AB_Ch5_p43_ACT05" class="mm_activityNumber2">
+    <rubric>
+        <p>Unscramble the sentences.</p>
+    </rubric>
+    <main>
+        <block class="mm_horizontalOrdering">
+            <list display="v" type="numbered">
+                <li>
+                    <ordering id="ordering_1" capitalise="y" example="y" display="h">
+                        <item id="item_1">I</item>
+                        <item id="item_2">went</item>
+                        <item id="item_3">on</item>
+                        <item id="item_4">a</item>
+                        <item id="item_5">school</item>
+                        <item id="item_6">trip</item>
+                        <item id="item_7">to </item>
+                        <item id="item_8">the</item>
+                        <item id="item_9">museum.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="y" display="h">
+                        <item id="item_1">The</item>
+                        <item id="item_2">bus</item>
+                        <item id="item_3">trip</item>
+                        <item id="item_4">took</item>
+                        <item id="item_5">two</item>
+                        <item id="item_6">hours.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="y" display="h">
+                        <item id="item_1">The</item>
+                        <item id="item_2">museum</item>
+                        <item id="item_3">was</item>
+                        <item id="item_4">a</item>
+                        <item id="item_5">lot</item>
+                        <item id="item_6">of</item>
+                        <item id="item_7">fun.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="y" display="h">
+                        <item id="item_1">They</item>
+                        <item id="item_2">didn’t</item>
+                        <item id="item_3">sell</item>
+                        <item id="item_4">toys</item>
+                        <item id="item_5">in</item>
+                        <item id="item_6">the</item>
+                        <item id="item_7">gift</item>
+                        <item id="item_8">shop.</item>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_5" capitalise="y" display="h">
+                        <item id="item_1">I</item>
+                        <item id="item_2">wrote</item>
+                        <item id="item_3">a</item>
+                        <item id="item_4">postcard</item>
+                        <item id="item_5">to</item>
+                        <item id="item_6">my</item>
+                        <item id="item_7">grandma.</item>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

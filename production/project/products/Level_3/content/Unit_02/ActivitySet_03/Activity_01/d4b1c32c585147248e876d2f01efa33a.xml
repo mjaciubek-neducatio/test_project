@@ -1,0 +1,23 @@
+<activity id="d4b1c32c585147248e876d2f01efa33a" pseudoID="SC_L3_AB_Ch2_p18_ACT01" class="mm_activityNumber1">
+    <rubric>
+        <p>Find ten fruit and vegetables.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_imageBorder mm_roundedImage mm_roundedWordSearch">
+            <wordSearch id="wordsearch_1" useDiagonal="n" useReverse="n">
+                <words>
+                    <word id="wordesearch_word_1" example="y">bananas</word>
+                    <word id="wordesearch_word_2">cabbages</word>
+                    <word id="wordesearch_word_3">potatoes</word>
+                    <word id="wordesearch_word_4">cucumbers</word>
+                    <word id="wordesearch_word_5">strawberries</word>
+                    <word id="wordesearch_word_6">carrots</word>
+                    <word id="wordesearch_word_7">peppers</word>
+                    <word id="wordesearch_word_8">grapes</word>
+                    <word id="wordesearch_word_9">oranges</word>
+                    <word id="wordesearch_word_10">pears</word>
+                </words>
+            </wordSearch>
+        </block>
+    </main>
+</activity>

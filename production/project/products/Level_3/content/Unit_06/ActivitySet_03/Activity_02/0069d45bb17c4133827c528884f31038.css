@@ -1,0 +1,21 @@
+.main div.block {
+	text-align: center;
+	background: url(../../production/project/products/Level_3/assets/images/wordBoxBgShine.png) top right no-repeat, url(../../production/project/products/Level_3/assets/images/wordBoxBg.png) top left repeat;
+	border-radius: 10px;
+	padding: 2em 1em;
+    padding: 2em 0.5em; /* platform fix */
+	overflow: visible;
+}
+.main div.block ul {
+	padding: 0 4em;
+}
+.wordSnake .wordSnake li.letter {
+	float: none;
+	display: inline-block;
+	margin-right: -6px;
+}
+
+.mm_roundedCorner > div { 
+    overflow: visible;
+    /* fix to override overflow:hidden rule in storycentral_ab_pk.css line 1085 */
+}

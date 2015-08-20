@@ -1,0 +1,2042 @@
+/*@import url(http://fonts.googleapis.com/css?family=Muli:300,400,300italic,400italic);*/
+
+@font-face {
+    font-family: 'Muli';
+    src: url('../fonts/Muli-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Muli';
+    src: url('../fonts/Muli-Italic.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Muli';
+    src: url('../fonts/Muli-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Muli';
+    src: url('../fonts/Muli-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Shadows Into Light Two';
+    src: url('../fonts/ShadowsIntoLightTwo-Regular.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+/*SET+RESET ANIMATIONS*/
+.main span.mark.correct,
+.main span.mark.wrong,
+.matchItems .matchItem.selected,
+.matchItems .matchItem.selected span,
+.rcfWordSearchGrid .ws-glowing,
+.rcfWordSearchGrid .ws-highlight,
+table.crossword input.editing,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover  {
+    -webkit-animation: none;
+    -moz-animation: none;
+    -o-animation: none;
+    animation: none;
+}
+
+
+/*.main span.mark.correct {
+	-webkit-animation: bounce 1s;
+	-moz-animation: bounce 1s;
+	-o-animation: bounce 1s;
+	animation: bounce 1s;
+}
+
+.main span.mark.wrong {
+	-webkit-animation: swing 0.5s;
+	-moz-animation: swing 0.5s;
+	-o-animation: swing 0.5s;
+	animation: swing 0.5s;
+}*/
+
+/* DISABLE DRAG IMAGE*/
+.activity img {
+    pointer-events: none;
+}
+
+
+
+/* story_central_ab_pk mobile-first styles */
+
+/*.rcfContentContainer.activityContent {
+	background-repeat: repeat-x;
+	background-position: top;
+	background-size: auto !important;
+}
+*/
+
+/* Viewer only, to simulate PPK height */
+.activity,
+.rcfContentContainer .activity {
+	position: relative;
+    max-height: auto;
+    overflow: auto;
+    overflow-x: hidden;
+    min-height: 535px;
+	max-height: 535px;
+}
+.rcfContentContainer .activityContainer {
+    width: 1000px;
+}
+
+/* =BASE 
+_________________________________________________________________________________________________________
+*/
+
+
+strong {
+	font-weight: bolder;
+}
+/*em {
+	color: #F9B122;
+}*/
+.activityContainer {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.activityContent {
+	background-color: rgba(0,0,0,.4);
+}
+.activity {
+	border: none;
+	font-weight: 300;
+	font-family: 'Muli' sans-serif;
+	/*min-height: 591px*/
+}
+.typein input.text,
+.typeinGroup input.typeinGroup { /* specific rules for these elements to ensure correct font display */
+	font-family: 'Muli' sans-serif;
+}
+.main {
+	font-size: 1.2em;
+}
+.mm_left {
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+}
+.mm_right {
+	display: inline;
+	float: right;
+}
+
+
+
+
+
+
+/* =LAYOUT 
+_________________________________________________________________________________________________________
+*/
+
+.main {
+	padding: 0 1em;
+}
+
+/* AUDIO */
+.audio {
+    font-weight: 400;
+}
+.inlinePlayer a {
+    width: 40px;
+    height: 33px;
+    cursor: pointer;
+}
+
+.inlinePlayer a.audioPlayButton:active,
+.inlinePlayer a.audioPlayButton {
+    background: url("../images/audioPlay.png") no-repeat top left;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+.inlinePlayer a.audioPauseButton:active,
+.inlinePlayer a.audioPauseButton {
+    background: url("../images/audioStop.png") no-repeat top left;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+a.audioPlayButton, a.videoPlayButton {
+    background: url("../images/large_play.png");
+    top: 5px;
+}
+a.audioStopButton, a.videoStopButton {
+    background: url("../images/large_stop.png");
+    top: 5px;
+}
+a.audioScriptButton {
+    background: url("../images/large_script.png");
+    top: 5px;
+}
+a.audioPauseButton, a.videoPauseButton {
+    background: url("../images/large_pause.png");
+    top: 5px;
+}
+
+.audioMuteButtonContainer {
+    display: none;
+}
+
+.audioContainer.large .audioInterface {
+    width: 230px;
+    height: 45px;
+}
+.audio.large .audioInterface, .audio.medium .audioInterface, .videoPlayerInterface {
+    background: none;
+    background-color: #0083ba;
+    border: none;
+    border-radius: 14px;
+    color: #FFF;
+}
+.audioSeekBar, .videoSeekBar {
+    background-color:  rgba(255,255,255,0.2);
+    /*height: 50%;*/
+}
+.audioProgress, .videoProgress {
+    background-color: rgba(255,255,255,0.6);
+    height: 10px;
+    top: 15px;
+}
+.audioPlayBar, .videoPlayBar {
+    background-color: #FCF3EC;
+}
+.audioCurrentTime, .audioDuration {
+    top: 29px;
+}
+
+.audio.large .audioScript {
+    width: 230px;
+}
+.audioScript {
+    border: 2px solid #E97E24;
+    top: 50px;
+    /*background: #FEF1D5;*/
+    background-color: #FFF;
+    border-radius: 14px;
+}
+
+.audioScript p {
+	font-size: 0.8em;
+	margin-bottom: 0.425em;
+}
+
+.script .playing {
+    background-color: #E97E24;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
+
+
+/* AudioScript ScrollBard*/
+.audioContainer ::-webkit-scrollbar {
+    width: 10px;
+}
+ 
+/* Track */
+.audioContainer ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+ 
+/* Handle */
+.audioContainer ::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(204,204,204,0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+.audioContainer ::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(204,204,204,0.4); 
+}
+
+
+/* FLEXBOX */
+
+[class*='mm_flexboxSet'],
+[class*='mm_flexImageSet'] {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	display: -webkit-box; /* ALL ATTRIBUTES BELOW TO BELT AND BRACES SUPPORT */
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap; 
+	justify-content: space-between;  /* LEAVE THIS AS IS FOR NOW BUT MAY NEED TO SET UP CENTERED/JUSTIFIED ALTERNATIVES */
+	}
+
+	/*  ALTERNATIVE COLUMN NUMBERS + WIDTHS  */
+
+	[class*='mm_flexboxSet'] > .block {
+		width: 50%;
+	}
+
+	.mm_flexboxSet2 > .block {
+		width: 50%;
+	}
+	.mm_flexboxSet3 > .block {
+		width: 33%;
+	}
+	.mm_flexboxSet4 > .block {
+		width: 25%;
+	}
+	.mm_flexBoxCenter {
+		justify-content: center;
+	}
+
+	.mm_flexBoxReverse {
+		flex-direction: row-reverse;
+	}
+
+	/* 2 COLUMNS: 25% / 75% ; */
+
+	.mm_flexboxSet2575 > .block:first-child {
+		width: 25%;
+	}
+	.mm_flexboxSet2575 > .block:last-child {
+		width: 75%;
+	}
+
+	/* 2 COLUMNS: 30% / 70% ; */
+
+	.mm_flexboxSet3070 > .block:first-child {
+		width: 30%;
+	}
+	.mm_flexboxSet3070 > .block:last-child {
+		width: 70%;
+	}
+
+	/* 2 COLUMNS: 40% / 60% ; */
+
+	.mm_flexboxSet4060 > .block:first-child {
+		width: 40%;
+	}
+	.mm_flexboxSet4060 > .block:last-child {
+		width: 60%;
+	}
+
+	/* 2 COLUMNS: 60% / 40% ; */
+
+	.mm_flexboxSet6040 > .block:first-child {
+		width: 60%;
+	}
+	.mm_flexboxSet6040 > .block:last-child {
+		width: 40%;
+	}
+
+	/* 2 COLUMNS: 70% / .0% ; */
+
+	.mm_flexboxSet7030 > .block:first-child {
+		width: 70%;
+	}
+	.mm_flexboxSet7030 > .block:last-child {
+		width: 30%;
+	}
+
+	/* 2 COLUMNS: 85% / 15% ; */
+
+	.mm_flexboxSet8515 > .block:first-child {
+		width: 85%;
+	}
+	.mm_flexboxSet8515 > .block:last-child {
+		width: 15%;
+}
+
+/*	DIALOGUE WITH INDENTATION  */
+
+.mm_dialogue .mm_speaker {
+	display: inline-block;
+	width: 20px;
+	font-weight: bold;
+	float: left;
+}
+.mm_dialogue  .mm_talk {
+	display: block;
+	margin-left: 30px;
+}
+
+.mm_dialogue.mm_indent25 .mm_speaker {
+    width: 15px;   
+}
+.mm_dialogue.mm_indent25 .mm_talk {
+    margin-left: 25px;   
+}
+
+.mm_dialogue.mm_indent30 .mm_speaker {
+    width: 20px;   
+}
+.mm_dialogue.mm_indent30 .mm_talk {
+    margin-left: 30px;   
+}
+
+.mm_dialogue.mm_indent40 .mm_speaker {
+    width: 30px;   
+}
+.mm_dialogue.mm_indent40 .mm_talk {
+    margin-left: 40px;   
+}
+
+.mm_dialogue.mm_indent50 .mm_speaker {
+    width: 40px;   
+}
+.mm_dialogue.mm_indent50 .mm_talk {
+    margin-left: 50px;   
+}
+.mm_dialogue.mm_indent60 .mm_speaker {
+    width: 35px;   
+}
+.mm_dialogue.mm_indent60 .mm_talk {
+    margin-left: 45px;   
+}
+.mm_dialogue.mm_indent70 .mm_speaker {
+    width: 45px;   
+}
+.mm_dialogue.mm_indent70 .mm_talk {
+    margin-left: 55px;   
+}
+.mm_dialogue.mm_indent80 .mm_speaker {
+    width: 55px;   
+}
+.mm_dialogue.mm_indent80 .mm_talk {
+    margin-left: 65px;   
+}
+.mm_dialogue.mm_indent100 .mm_speaker {
+    width: 70px;   
+}
+.mm_dialogue.mm_indent100 .mm_talk {
+    margin-left: 80px;   
+}
+.mm_dialogue.mm_indent120 .mm_speaker {
+    width: 110px;   
+}
+.mm_dialogue.mm_indent120 .mm_talk {
+    margin-left: 120px;   
+}
+.mm_dialogue.mm_indent150 .mm_speaker {
+    width: 100px; /* 140px in 768.css */
+}
+.mm_dialogue.mm_indent150 .mm_talk {
+    margin-left: 110px; /* 150px in 768.css */
+}
+.mm_dialogue ul p,
+.mm_dialogue .block p  {
+    padding-bottom: 0.875em;
+}
+/*	 DIALOGUE LIST IN NUMBERED LIST */
+	.mm_dialogue ol li ul,
+	.mm_dialogue ol li ul li {
+	    margin-left: 0;
+	    padding-left: 0;
+	}
+	.mm_dialogue ol li ul p {
+		padding-bottom: 0;
+	}
+	.mm_dialogue ol li .ordering li {
+		padding: 3px 6px;
+	}
+
+/* FIX NUMBERING POSITION FOR DIALOGUE INSIDE NUMBERED LIST */
+.mm_resetNumbering ul,
+.mm_resetNumbering ol {
+	counter-reset: li;
+	margin: 0;
+	padding: 0;
+}
+.mm_resetNumbering ul > li,
+.mm_resetNumbering ol > li {
+	position: relative;
+	list-style: none;
+	margin-bottom: 0;
+	padding: .2em 0 .6em 1.2em;
+}
+.mm_resetNumbering ol > li:before {
+	content: counter(li) ". "; /* number */
+	counter-increment: li;
+	position: absolute;
+	left: 0;
+	top: .25em; 
+	font-weight: bold;
+
+}
+.mm_typeInList.mm_resetNumbering ol > li:before {
+	top: .3em; 
+}
+.mm_selectableTextBlock.mm_resetNumbering ol > li:before {
+	top: .6em; 
+}
+.mm_resetNumbering ol.alpha > li:before {
+	content: counter(li, lower-alpha) ". "; /* alpha */
+}
+.mm_resetNumbering ul > li:before,
+.mm_dialogue .mm_resetNumbering ol > li:before {
+	top: .27em; 
+}
+.mm_resetNumbering ol li li {
+	position: relative;
+	padding: 3px 6px;
+	list-style: none;
+    margin-bottom: 2px;
+}
+.mm_resetNumbering ol.numbered li li:before,
+.mm_resetNumbering ol.alpha li li:before {
+	content: normal;
+	counter-increment: none;
+	position: relative;
+	left: auto;
+	top: auto; 
+}
+
+
+/*	Simple floated list items	*/ 
+/* ------------------------------------->> THESE RULES NEED TO BE COMBINED / MODULARISED 
+*/
+
+
+
+
+/*	Floated list items with nested lists (needs to be used with mm_resetNumbering)	*/
+
+
+[class*='mm_listHFloat'] > ul > li,
+[class*='mm_listHFloat'] > ol > li {
+    float: left;
+    display: inline-block;
+    box-sizing: border-box;
+	}
+
+	/*  ALTERNATIVE COLUMN NUMBERS + WIDTHS  */
+
+	.mm_listHFloat2Col > ul > li,
+	.mm_listHFloat2Col > ol > li {
+	    width: 45%;
+	}
+	.mm_listHFloat3Col > ul > li,
+	.mm_listHFloat3Col > ol > li {
+	    width: 29%;
+	}
+	.mm_listHFloat4Col > ul > li,
+	.mm_listHFloat4Col > ol > li {
+	    width: 25%;
+}
+
+.mm_listP2Col li p {
+	width: 30%;
+	display: inline-block;
+}
+[class*='mm_flexboxSet'].mm_listP2Col li p {
+	width: 45%;
+}
+
+
+
+/*	Two column floated list items with mm_resetNumbering for 'q&a's	*/
+
+.mm_questionAnswer ol > li {
+	clear: left;
+}
+.mm_questionAnswer ol > li:before {
+	top: .3em; /* adjusts number position to match content */
+}
+.mm_questionAnswer .mm_question,
+.mm_questionAnswer .mm_answer {
+	float: left;
+	width: 43%;
+}
+
+
+
+
+/* BLOCK SET --------------------------- */
+
+/*  3COL DEFAULT */
+.blockSet {
+	margin-bottom: .825em;
+	text-align: center;
+}
+.blockSet > .block {
+	display: inline-block;
+	max-width: 190px;
+	vertical-align: top;
+	border: 0;
+	text-align: center;
+	margin: 0 10px 10px;
+	box-sizing: border-box;
+}
+.blockSet > .block img {
+	max-width: 190px; /* IE8 fix */
+	}
+
+	/*  ALTERNATIVE COLUMN NUMBERS + WIDTHS  */
+	.mm_2colBB > .block img, /* IE8 fix */
+	.mm_2colBB > .block {
+		max-width: 300px;
+	}
+	.mm_4colBB > .block img, /* IE8 fix */
+	.mm_4colBB > .block {
+		max-width: 198px;
+	}
+	.blockSet.mm_5colBB > .block img, /* IE8 fix */
+	.blockSet.mm_5colBB > .block {
+		max-width: 124px;
+}
+.blockSet .imageContainer {
+	display: inline-block;
+	margin: 0 auto;
+	margin-bottom: .475em;
+}
+
+
+/* LAYOUT HELPERS FOR INDIVIDUAL ITEMS */
+
+.mm_imageCenter .mm_image {
+    text-align: center;
+    margin-left: auto;
+	margin-right: auto;
+}
+.mm_itemCenter .mm_centeredItem {
+	text-align: center;
+}
+.mm_reduceWidth {
+    position: relative;
+    width: 66%;
+}
+.mm_centeredContent {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
+}
+
+
+
+/* =MODULE
+_________________________________________________________________________________________________________
+*/
+
+.rubric {
+	background: transparent;
+	font-weight: bold;
+	font-size: 1.5em;
+	border: none;
+	vertical-align: middle;
+	line-height: 1em;
+	padding: 0 0 .875em;
+	position: relative;
+}
+.rubricBody p {
+	vertical-align: middle;
+	line-height: 1.5em;
+	float: left;
+	margin-left: 60px;
+}
+ol > li,
+.mm_radioLabelNumber,
+.mm_matchingNumber,
+.mm_inlineNumber {
+	font-weight: 700;
+}
+ol > li p,
+ul > li p {
+	font-weight: 400;
+}
+
+
+/* =MARKED ACTIVITIES --------------------------- */
+
+
+.typein input.text,
+.typeinGroup input.typeinGroup,
+.matchItem, .matchTarget,
+.desktop .checkboxItemSelect .selectable,
+.checkboxItemSelect .selectable,
+.radioItemSelect .selectable,
+.radioItemSelect .selectable.selected,
+.wordBox li.dragItem,
+.category li,
+.dropTarget .example,
+ul.ordering li, 
+ul.complexOrdering li,
+.mm_selectableText .selectable,
+.mm_wordBox, .mm_wordBoxSimple {
+ 	background-color: #fff;
+	border-radius: 0.5em;
+	border: 2px solid;
+	text-align: center;
+	}
+	.blockSet .wordBox {
+		text-align: center;
+	}
+	.desktop .checkboxItemSelect .selectable,
+	.checkboxItemSelect .selectable,
+	.radioItemSelect .selectable {		  /* I've put these in separate declaration 
+											 to add !important to these items only 
+											 - these rules should match the prevous set */
+		border-radius: 0.5em !important;  /* overwrite rcf core */
+		border: 2px solid  !important; 	  /* overwrite rcf core */
+		font-weight: 400;
+	}
+	.mm_selectableText .selectable {
+		border-color: transparent;
+}
+.matchItem, 
+.matchTarget,
+ul.ordering li, 
+ul.complexOrdering li,
+.mm_checkbox {
+	font-weight: bold;
+}
+.mm_matchingLeft .matchItem, 
+.mm_matchingLeft .matchTarget,
+.mm_matchItemLeft .matchItem, 
+.mm_matchTargetLeft .matchTarget {
+	text-align: left;
+}
+.mm_matchingLeft .matchItem, 
+.mm_matchingLeft .matchTarget,
+.mm_matchItemLeft .matchItem, 
+.mm_matchTargetLeft .matchTarget,
+.mm_textLeft,
+.mm_textLeft.checkboxItemSelect .selectable,
+.mm_numberedItemSelect.checkboxItemSelect .selectable {
+	text-align: left;
+}
+
+.mm_textRight {
+	text-align: right;
+}
+
+
+/* WORDBOX */
+.wordBox,
+.rcfWordSearchGridChosenWords {
+	position: relative;
+/*	z-index: 1;*/
+	margin: .425em 0 2em;
+	padding: .425em;
+	border-radius: 0px;
+	border: none;	
+	text-align: center;
+}
+.wordBox ul,
+.rcfWordSearchGridChosenWords ul {
+	border-radius: 10px;
+	padding: .875em .875em 0 .875em;
+}
+.mm_wordBox,
+.mm_wordBoxSimple {
+	display: inline-block;
+	text-align: center;
+	padding: .425em 1em;
+	font-weight: 500;
+}
+.wordBox li.dragItem {
+	font-weight: 500;
+}
+.rcfWordSearchGridChosenWords {
+	margin-bottom: 0;
+}
+
+
+/* DROPPABLES AND DRAG ITEMS */
+
+.dropTarget li.dragItem,
+.dragTarget li.example,
+.dropTarget li.example {
+    margin-left: .25em;
+    margin-right: .25em;
+    line-height: 1.45em;
+}
+.wordBox li.dragItem,
+.dragTarget, 
+.categorise .dragItem,
+.category li {
+	border-width: 2px;
+}
+.dragTarget, .dragTarget.populated {
+	vertical-align: middle;
+	text-align: center;
+	line-height: 1.5em;
+	min-height: 28px;
+	margin-bottom: 3px;
+	padding-bottom: 2px;
+}
+.dragTarget.inline.populated { /* force inline-block display */
+    display: inline-block;
+}
+
+
+/* CATEGORISE */
+
+.category {
+	border: 3px solid;
+	border-radius: .5em;
+}
+
+.categories2 .category {
+	width: 45%;
+	margin: 0 .9em;
+}
+.categories3 .category {
+	width: 25%;
+	margin: 0 .9em;
+}
+.category h3 {
+	background-color: transparent;
+	color: #000;
+	/*font-weight: bold;*/
+	font-size: 1.2em;
+	line-height: 1.5em;
+	/*margin: 0;*/
+}
+.category .dropTarget {
+	background-color: transparent;
+}
+.mm_vennCategory .categories3 .category {
+	margin: 0;
+}
+.mm_categoryIcons h3 {
+	display: inline;
+	line-height: 2.5em;
+	padding-left: 50px;
+	/*background-position: left middle;*/
+	/*background-repeat: no-repeat;*/
+}
+
+
+/* TYPEIN */
+
+.mm_typeInChar1 .markedTextInput {
+   max-width: 1em; 
+}
+.mm_typeInList li p {
+	margin-bottom: .425em;
+}
+
+
+/* ITEM SELECT */
+
+.mm_itemSelectBigButtons .checkboxList.vertical .markable,
+.radioList.vertical .markable {
+	display: block;
+}
+
+.checkboxItemSelect .selectable,
+.radioItemSelect .selectable {
+	font-weight: bold;
+}
+
+/* CHECKBOX */
+
+.mm_itemSelectBigButtons .mm_buttonRows1 {
+	padding-top: 5.25em;
+}
+.mm_itemSelectBigButtons .mm_buttonRows2 {
+	padding-top: 4em;
+}
+.mm_itemSelectBigButtons .mm_buttonRows3 {
+	padding-top: 2.75em;
+}
+.mm_itemSelectBigButtons .mm_checkbox {
+	text-align: center;
+}
+.mm_itemSelectBigButtons .checkbox {
+	/*width: 25%;*/
+	}
+	[class*='mm_flexboxSet'] .checkbox {
+		width: 40%;
+}
+.mm_itemSelectBigButtons .checkboxItemSelect.horizontal {
+	white-space: normal;
+}
+.mm_itemSelectBigButtons .checkboxItemSelect .selectable {
+	margin: 10px 1em 1em;
+	padding: .875em 0.5em;
+	background-color: #fff;
+}
+.mm_itemSelectBigButtons .checkboxItemSelect.horizontal {
+	margin-right: 0;
+}
+.checkboxItemSelect .selectable.disabled {
+	background: #eee;
+}
+.mm_itemSelectBigButtons .radioItemSelect img,
+.mm_itemSelectBigButtons .checkboxItemSelect img {
+	margin-bottom: 0;
+}
+.mm_itemSelectBigButtons .checkboxList.vertical input {
+	display: block;
+	float: left;
+	position: relative;
+	top: .4em; /*If changing, ensure that this is checked cross browser and on mobile and desktop */
+}
+.desktop .mm_itemSelectBigButtons .checkboxItemSelect.horizontal .selectable {
+	padding-left: 0.425em;
+	padding-right: 0.425em;
+}
+
+/* RADIO / CHECKBOX */
+
+.mobile .radioItemSelect.horizontal .selectable {
+    /*display: inline-block;*/
+}
+.radioItemSelect.horizontal {
+    margin-right: 0;
+}
+.mm_inlineRadio .radioItemSelect {
+	padding-left: .475em;
+}
+.radioItemSelect .selectable img {
+    border-radius: 7px;
+}
+li .radioItemSelect .selectable,
+p .radioItemSelect .selectable {
+	margin-top: .25em;
+    padding: .1em .5em;
+}
+.radioItemSelect.horizontal .selectable {
+    margin-right: .5em;
+}
+
+/* ITEM SELECT WITH SLASH AS SEPARATOR */
+.mm_itemSelectSeparator .radioItemSelect.horizontal .selectable:after {
+    content: "/";
+    position: absolute;
+    top: 0;
+    right: -16px;
+    color: #000;
+}
+.mm_itemSelectSeparator .radioItemSelect.horizontal .selectable {
+    margin-right: 1em;
+}
+.mm_itemSelectSeparator .radioItemSelect.horizontal .selectable:last-child:after {
+    content: "";
+    position: relative;
+}
+.mm_itemSelectSeparator .radioItemSelect.horizontal .selectable:last-child {
+    margin-right: 0;
+}
+
+.mm_itemSelectSeparator.mm_itemSelectSeparatorMargin .radioItemSelect.horizontal .selectable:last-child {
+    margin-right: 0.325em;
+}
+
+/* ITEM SELECT IN A SENTANCE */
+.mm_itemSelectSentence .markable:last-child {
+    margin-right: 0.15em;
+}
+
+/* CENTERED BIG BUTTON RADIO ACTIVITIES */
+.mm_itemSelectBigButtons .mm_radio {
+    text-align: center;
+}
+.mm_itemSelectBigButtons .mm_radio .markable {
+    margin-bottom: 0.875em;
+}
+
+
+/* ORDERING */
+
+.horizontal ul.ordering {
+    margin: 0.425em 0.2em;
+}
+
+.mm_centeredContent {
+	text-align: center;
+}
+
+.mm_horizontalOrdering > ol > li {
+	margin-bottom: 0;
+}
+
+.mm_horizontalOrdering p {
+	display: inline-block;
+}
+
+.orderingContainer {
+	display: inline-block;
+}
+
+ul.ordering li, 
+ul.complexOrdering li  { 
+	margin-bottom: 1px;
+	color: #000;
+	padding: 0.25em 0.425em;
+}
+
+ul.ordering li.fixed, 
+ul.complexOrdering li.fixed {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+li .orderingContainer,
+li .orderingContainer .ordering {
+	vertical-align: middle;
+}
+
+
+/* MATCHING */
+
+.matchItems > div, 
+.matchTargets > div {
+	border-width: 0;
+}
+.matchItem, 
+.matchTarget {
+	padding: 10px;
+}
+.matchItem img, 
+.matchTarget img {
+	border-radius: .5em;
+}
+/* NARROW MATCHING */
+.mm_matchingNarrow {
+	width: 76%;
+	margin-right: 12%;
+	margin-left: 12%;
+}
+
+/* MATCHING NUMBERS */ 
+
+.mm_matchingRoundNumbers .matchItem,
+.mm_matchingRoundNumbers .matchTarget {
+	margin: .875em 0;
+	padding-left: 1em;
+	position: relative;
+}
+.mm_matchingRoundNumbers .horizontal .matchItem,
+.mm_matchingRoundNumbers .horizontal .matchTarget {
+	margin: 0;
+	padding: 10px;
+}
+[class*='mm_postitionNumbers'] .matchItem,
+[class*='mm_postitionNumbers']  .matchTarget {
+	position: relative;
+}
+.mm_postitionNumbers .mm_matchingNumber,
+.mm_postitionNumbersItems .matchItem .mm_matchingNumber,
+.mm_postitionNumbersTarget .matchTarget .mm_matchingNumber {
+	position: absolute;
+	left: 5%;
+	top: 3%;
+	z-index: 500;
+}
+.mm_floatNumbers .mm_matchingNumber {
+	float: left;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+.mm_floatNumbers .matchItem img {
+	width: 80%;
+}
+.mm_matchingNumber {
+	padding-right: .25em;
+}
+
+.mm_matchingNumberingFix .matchItem {
+    padding-left: 2.25em;
+}
+.mm_matchingNumberingFix .mm_matchingNumber {
+    display: inline-block;
+    width: 1.25em;
+    margin-left: -1.75em;
+}
+
+/* BLOCK MATCHING NUMBER FOR BETTER INDENTATION IN ITEMS/TARGETS WITH MORE THAN ONE LINE */
+.mm_blockMatchNumber .mm_matchingNumber {
+    display: block;
+    width: 1em;
+    float: left;
+    padding-bottom: 1em;
+}
+
+
+/* HORIZONTAL MATCHING */
+[class*='mm_hMatching'] .matchingContainer  {
+	padding: 0;
+}
+.matchingContainer.horizontal .matchItems {
+	margin-bottom: 150px;
+}
+[class*='mm_hMatching'] .matchingContainer .matchItemContainer,
+[class*='mm_hMatching'] .matchingContainer .matchTargetContainer {
+	box-sizing: border-box;
+	margin-top: 15px;
+    margin-right: 2.5%;
+    text-align: center;
+    padding: 0;
+}
+[class*='mm_hMatching'] .matchingContainer .matchItemContainer:last-of-type,
+[class*='mm_hMatching'] .matchingContainer .matchTargetContainer:last-of-type {
+    margin-right: 0px;
+}
+
+/*  ALTERNATIVE COLUMN WIDTHS  */
+.mm_hMatching6 .matchingContainer .matchTargetContainer {
+	margin-top: 20px;
+}
+.mm_hMatching6 .matchItemContainer,
+.mm_hMatching6 .matchTargetContainer {
+    width: 14.56%;
+}
+.mm_hMatching5 .matchingContainer .matchTargetContainer {
+	margin-top: 20px;
+}
+.mm_hMatching5 .matchItemContainer,
+.mm_hMatching5 .matchTargetContainer {
+    width: 18%;
+}
+.mm_hMatching4 .matchItemContainer,
+.mm_hMatching4 .matchTargetContainer {
+    width: 23%;
+}
+
+.mm_hMatching3 .matchItemContainer,
+.mm_hMatching3 .matchTargetContainer {
+    width: 23%;
+}
+.mm_hMatching3 .matchItems,
+.mm_hMatching3 .matchTargets {
+	margin-left: 20%;
+}
+
+/* IMAGE MATCHING */
+.mm_imageMatchItemNoPad .matchItem,
+.mm_imageMatchTargetNoPad .matchTarget {
+	box-sizing: border-box;
+	padding: 0;
+}
+
+
+.mm_imageMatchItemNoPad .matchTarget img,
+.mm_imageMatchTargetNoPad .matchItem img {
+	border-radius: .5em;
+	border-radius: 0.4em;
+	width: 96%;
+	margin: 0 0 2%;
+}
+.mm_imageMatch .matchTarget,
+.mm_imageMatch .matchItem,
+.mm_imageMatchItem .matchItem,
+.mm_imageMatchTarget .matchTarget {
+	box-sizing: border-box;
+	padding: 0;
+	position: relative;
+}
+.mm_imageMatch .matchItem img,
+.mm_imageMatch .matchTarget img,
+.mm_imageMatchItem .matchItem img,
+.mm_imageMatchTarget .matchTarget img {
+	border-radius: .5em;
+	border-radius: 0.4em;
+	width: 94%;
+	margin: 3% 0;
+}
+.mm_hMatchTarget1Line .matchTarget,
+.mm_hMatchItem1Line .matchItem {
+	line-height: 1.5em;
+}
+
+/* DRAWING */
+.matchingContainer svg.showExampleAnswer path {
+	z-index: -1;
+}
+.matchingContainer svg.showExampleAnswer path {
+	z-index: -1;
+}
+.matchingContainer svg path {
+	stroke-width: 3px;
+}
+
+
+/* COMPACT MATCHING */
+.mm_compactMatching .matchItem,
+.mm_compactMatching .matchTarget {
+	padding: 10px;
+	position: relative;
+}
+
+/* NARROW MATCHING */
+.mm_matchingNarrow {
+	width: 76%;
+	margin-right: 12%;
+	margin-left: 12%;
+}
+
+/* CENTERED MATCHING */
+.mm_matchingCenter {
+    text-align: center;
+}
+
+/* HORIZONTAL MATCHING WITH STAGGERED ITEMS */
+/* Specify width of matchItems - this might need to be activity-specific */
+/* Set up vertival overlaps and staggering */
+.mm_hMatchingStaggeredItems .matchItemContainer:nth-child(even), 
+.mm_hMatchingStaggeredItems .matchItemContainer:nth-child(odd) {
+    margin-left: -2em;
+}
+.mm_hMatchingStaggeredItems .matchItemContainer:nth-child(even) {
+    margin-top: 4em;
+}
+/* Set up horizontal centering */
+.mm_hMatchingStaggeredItems .matchItemContainer:first-child,
+.mm_hMatchingStaggeredItems .matchItemContainer:first-child {
+    margin-left: 0px; /* Reset to allow following rule to correctly set up centering */
+}
+
+/* VERTICAL MATCHING WITH STAGGERED ITEMS */
+/* Specify width of matchItems - this might need to be activity-specific */
+/* Set up vertival overlaps and staggering */
+
+.mm_vMatchingStaggeredItems .matchItems,
+.mm_vMatchingStaggeredTargets .matchTargets {
+/*    max-width: 25%;
+}*/
+}
+.mm_vMatchingStaggeredItems .matchItemContainer:nth-child(even), 
+.mm_vMatchingStaggeredItems .matchItemContainer:nth-child(odd),
+.mm_vMatchingStaggeredTargets .matchTargetContainer:nth-child(even), 
+.mm_vMatchingStaggeredTargets .matchTargetContainer:nth-child(odd) {
+/*    margin-top: -55%;*/
+	margin-top: -1.5em;
+}
+.mm_vMatchingStaggeredItems .matchItemContainer:nth-child(odd),
+.mm_vMatchingStaggeredTargets .matchTargetContainer:nth-child(odd) {
+/*    margin-top: -55%;*/ 
+	margin-left: 52.5%;
+}
+.mm_vMatchingStaggeredItems .matchItemContainer:nth-child(even), 
+.mm_vMatchingStaggeredTargets .matchTargetContainer:nth-child(even) {
+    margin-right: 52.5%;
+}
+/* Set up horizontal centering */
+.mm_vMatchingStaggeredItems .matchItemContainer:first-child,
+.mm_vMatchingStaggeredTargets .matchTargetContainer:first-child {
+    margin-top: 0px; /* Reset to allow following rule to correctly set up centering */
+}
+
+
+
+/* WORDSNAKE */
+
+.mm_wordSnake {
+    /*-webkit-transform: rotate(-2deg);*/  /* placeholder - define this in activity css */
+	/* Firefox */
+	/*-moz-transform: rotate(-2deg);*/  /* placeholder - define this in activity css */
+	/* IE */
+	/*-ms-transform: rotate(-2deg)=;*/  /* placeholder - define this in activity css */
+	/* Opera */
+	/*-o-transform: rotate(-2deg);*/  /* placeholder - define this in activity css */
+	/*background-image: url(../../products/Level_1/assets/images/p010_ruler.png);*/  /* placeholder - define this in activity css */
+	background-repeat: no-repeat;
+	background-position: left center;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+}
+.wordSnakeContainer .wordSnake li.letter {
+	border: 0px solid #fff;
+	padding: 6px;
+	margin: 0px;
+	font-weight: bold;
+}
+.wordSnake li.letter .markContext {
+	top:-15px;
+}
+
+
+/* CROSSWORD */
+
+.rcfCrossword .crossword {
+	font-size: 1.2em;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+table.crossword td {
+	/*padding: 0;*/
+	/*margin: 0;*/
+	/*width: 1.2em;*/
+	/*height: 1.2em;*/
+	font-size: 1.2em;
+}
+table.crossword .word {
+	border: 2px solid;
+}
+table.crossword {
+  border-collapse: collapse;
+  /*border-spacing: 0;*/
+  vertical-align: middle;
+  background-color: transparent;
+}
+table.crossword input {
+	vertical-align: middle;;
+	height: 1em;
+	width: 1em;
+	margin: 0;
+	padding: 3px;
+	border-bottom: 1px solid;
+}
+table.crossword td .clueNumber {
+	top: 2px;
+	font-size: 0.4em;
+	left: -1px;
+	font-weight: bold;
+}
+.clueNumber:after {
+	content: ".";
+}
+.crosswordClueContainer .across,
+.crosswordClueContainer .down {
+	float: none;
+	display: inline-block;
+	margin-left: 2.5%;
+	border: 2px solid;
+	border-radius: .5em;
+	width: 15%;
+	padding: 0.425em;
+	overflow: hidden;
+	box-sizing: border-box;
+	vertical-align: top;
+	position: relative;
+}
+
+.clue {
+	font-weight: bold;
+	font-weight: 700;
+}
+
+.mm_clueText {
+	font-weight: normal;
+	font-weight: 300;
+}
+.crosswordClueContainer h3 {
+	margin-bottom: 0;
+	font-size: 1.2em;
+}
+.mm_pictureClues .crosswordClueContainer h3 {
+	padding-left: 2px;
+}
+.rcfCrossword {
+	width: 50%;
+	float: left;
+}
+.mm_across2Col .across,
+.mm_down2Col .down {
+	width: 30%;
+}
+.mm_clues3Col .across,
+.mm_clues3Col .down {
+	width: 50%;
+	margin-left: 0;
+}
+.mm_clues3Col .across {
+	margin-bottom: .5em;
+}
+.mm_clues3Col .across li,
+.mm_clues3Col .down li {
+	width: 32.5%;
+}
+.across li,
+.down li {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: inline-block;
+}
+.mm_pictureClues .across li,
+.mm_pictureClues .down li {
+	padding: 3px;
+	box-sizing: border-box;
+}
+.mm_pictureClues .across li,
+.mm_pictureClues .down li,
+.mm_pictureClues .across li img,
+.mm_pictureClues .down li img {
+	border-radius: .5em;
+}
+.mm_across2Col .across li,
+.mm_down2Col .down li {
+	width: 47%;
+}
+.crosswordClueContainer li {
+	color: #000;
+}
+
+/* WORDSEARCH */
+
+.rcfWordSearchGrid {
+	display: inline-block;
+    text-transform: lowercase;
+}
+/*.wordsContainer {
+	position: relative;
+}*/
+.rcfWordSearchGrid table td {
+	vertical-align: middle;
+}
+.mm_wordSearchClues {
+	float: right;
+	position: relative;
+	width: 60%;
+	margin: 0;
+} 
+.mm_wordSearchClues li {
+	margin-right: 1em;
+}
+/*.mm_roundedWordSearch */
+.rcfWordSearchGrid {
+	border-radius: .5em;
+	border: 2px solid;
+	overflow: hidden;
+	margin-bottom: .75em;
+}
+/*.mm_roundedWordSearch */
+.rcfTableGrid {
+	margin-bottom: 0;
+}
+/*.mm_roundedWordSearch */
+.rcfWordSearchGrid table td {
+	border-width: 0;
+}
+.rcfWordSearchGridChosenWords .wordSearchWords li .wordSearchSelection {
+	padding-right: 5px;
+}
+li .wordSearchSelection .removeWordListItem {
+	top: .35em;
+}
+.wordSearchSelection span {
+	text-transform: lowercase;
+}
+.mm_condensedWordSearch .rcfWordSearchGrid table td {
+    min-height: 20px;
+	height: 25px;
+	line-height: 1em;
+	width: 25px;
+}
+.mm_condensedWordSearch .rcfWordSearchGrid {
+    margin-bottom: 0.1em;  
+}
+.mm_wordSearchCentre .wordSearchGridContainer {
+    text-align: center;
+}
+
+/* LOCATING */
+/* POSITIONING */
+.locating_answer,
+.eSpan.selectableCat .answer,
+.locating .answered,
+.eSpan.selectableCat.answered {
+	background-color: transparent;
+}
+.locating .answered {
+	text-decoration: line-through;
+}
+
+/* DROPDOWN */
+.mm_inlineDropdown p {
+    line-height: 1.9;
+}
+
+/* MARK POSITIONING - SHOULD BE TOP RIGHT OF MARKED ITEM */
+.mark {
+	top: -0.55em;
+	right: -0.55em;
+	bottom: auto;
+}
+.typein .mark {
+	top: -0.45em;
+	right: -0.25em;
+	bottom: auto;
+}
+.matchTargetContainer .markContainer {
+	position: relative;
+}
+.matchTargetContainer .markContainer .mark {
+	position: absolute;
+	top: -0.25em;
+	right: -0.25em;
+}
+.category .mark {
+	top: -0.5em;
+	right: -1em;
+}
+.droppable .mark {
+	top: -0.6em;
+	right: -0.3em;
+}
+.wordSearchSelection .mark {
+	top: -0.6em;
+	right: -1.4em;
+}
+table.crossword td.word .horizontal.mark {
+	/*top: -.3em;
+	right: -1.6em;*/
+	right: -50px;
+}
+
+table.crossword td.word .vertical.mark {
+	/*top: .4em;
+	right: -1.65em;*/
+	top: 25px;
+	right: -25px;
+}
+.ordering.perList.horizontal .mark, 
+.complexOrdering.perList.horizontal .mark {
+    right: -0.05em;
+    top: .15em;
+}
+.ordering.perItem.horizontal .mark, 
+.complexOrdering.perItem.horizontal .mark {
+	top: -.6em;
+	right: -.85em;
+}
+.mm_horizontalOrderingSuffix .ordering.perList.horizontal .mark {
+	right: -0.5em;
+}
+.ordering.perItem.vertical .mark {
+	top: -0.55em;
+}
+.ordering.perList.vertical .mark, .complexOrdering.perList.vertical .mark {
+	right: -0.2em;
+	bottom: auto;
+}
+.ordering.mobile.perList.vertical .mark, .complexOrdering.mobile.perList.vertical .mark {
+	/*right: 45px;*/ /* Unused at present - placeholder */
+}
+
+
+/* DESIGN ELEMENTS */
+
+/* GENERIC MODULE STYLING - CHECK RCF-CORE AND REMOVE ANY DUPLCATION / OVERLAPPING CLASS USE */
+
+.mm_roundedCorner,
+.mm_roundedCorner > div,
+.mm_roundedImage > img,
+.blockSet.mm_BlockSetRoundedImage > div > img {
+	border-radius: 15px;
+	overflow: hidden;
+}
+.mm_border,
+.mm_imageBorder img {
+	border-style: solid;
+	border-width: 2px;
+}
+.mm_textShadow {
+	text-shadow: 2px 2px 10px rgba(50, 50, 50, .2);
+}
+.mm_whiteBorder {
+	border: 3px solid #fff;
+}
+.mm_inset {
+	padding: .875em;
+	box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,.50);
+}
+.mm_shadow {
+	-webkit-box-shadow: 10px 10px 15px 0 rgba(35,31,31,0.3);
+	box-shadow: 10px 10px 15px 0 rgba(35,31,31,0.3);
+}
+
+.mm_inlineQuestion p {
+	display: inline-block;
+	width: 50%;
+}
+
+
+.mm_awCircleNumbering {
+    display: inline-block;
+    padding: 0.1em 0.4em 0 0.4em;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #fff;
+    color: #8B3E8C;
+    font-weight: 700;
+    line-height: 1.25em;
+    /* box-shadow: 2px 2px 19px #333; */
+    border: solid 1px #8B3E8C;
+}
+
+/* SPEECHBUBBLES */
+
+.mm_speechBubbles.mm_resetNumbering ol > li:before {
+	vertical-align: middle;
+}
+.mm_speechBubbles .mm_bubble {
+    position: relative;
+    background-color: #fff;
+    border-radius: 14px;
+    border: 1px solid #ddd;
+    padding: 0.475em 0.875em;
+    margin-bottom: 0.25em;
+
+}
+/*.mm_speechBubbles .matchingContainer .matchItem:before,*/
+.mm_speechBubbles .mm_bubble:before {
+    content: "";
+    position: absolute;
+    bottom: -16px;
+    left: 22px;
+    border-width: 16px 10px 0;
+    border-style: solid;
+    border-color: #ddd transparent;
+    display: block;
+    width: 0;
+}
+.mm_speechBubbles .mm_bubble:after,
+.mm_speechBubbles .matchingContainer .matchItem:after {
+    content: "";
+    position: absolute;
+    bottom: -13px;
+    left: 25px;
+    border-width: 13px 7px 0;
+    border-style: solid;
+    border-color: #fff transparent;
+    display: block;
+    width: 0;
+}
+.mm_speechBubbles .matchingContainer .matchItem:hover:after,
+.mm_speechBubbles .matchingContainer .matchItem.selected:after {
+    border-color: #E97E24 transparent;
+}
+.mm_speechBubbles .example .matchItem:hover:after {
+    border-color: #FFF transparent;
+}
+.mm_speechBubbles .mm_caption {
+}
+
+/* ACTIVITY SPECIFIC BADGES */
+.mm_iCanReadBadge img {
+    display: inline;
+	position: relative;
+	float: right;
+	margin-top: -7.5%;
+	margin-right: -3.5%;
+	margin-left: 6%;
+}
+
+/* ACTIVITY SPECIFIC BACKGROUND IMAGE HELPER */
+
+.mm_activityBackgroundImage {
+    background-color: transparent;
+    position: relative;
+}
+.mm_activityBackgroundImage:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-position: right bottom;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    /* z-index: -1; */
+}
+
+/* RESET EXAMPLE FONT STYLE */
+.example,
+.mm_example,
+.mm_example p,
+.matchingContainer .example .mm_matchingNumber {
+	font-style: normal;
+}
+
+
+/* =THEME 
+_________________________________________________________________________________________________________*/
+
+
+/* ACTIVITY BACKGROUND IMAGE */
+.activity {
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: local;
+	background-size: 100%;	
+}
+
+/* RUBRIC ACTIVITY NUMBER */
+
+.rubric .rubricBody p:before {
+	content: "";
+	display: inline-block;
+	height: 60px;
+	width: 60px;
+	float: left;
+	top: -15px;
+	left: 0;
+	position: absolute;
+	padding-right: 10px;
+	background-repeat: no-repeat;
+	background-position-x: left;
+	overflow: visible;
+	}
+
+	/* OTHER NUMBERS */
+
+	.mm_activityNumber2 .rubric .rubricBody p:before {
+		background-position-x: -100px;
+	}
+	.mm_activityNumber3 .rubric .rubricBody p:before {
+		background-position-x: -200px;
+	}
+	.mm_activityNumber4 .rubric .rubricBody p:before {
+		background-position-x: -300px;
+}
+
+/* spelling bee rubric icon */
+.mm_spellingCentral .rubric {
+    margin-right: 150px;/*
+    margin-bottom: 0.875em;*/
+/*     min-height: 76px; */
+    position: relative;
+}
+.mm_spellingCentral .rubricContainer {
+	position: relative;
+}
+.mm_spellingCentral .rubricContainer:after {
+	position: absolute;
+	content: "";
+    height: 76px;
+    width: 140px;
+    top: 0;
+    right: 1em;
+    background-image: url(../images/spellingBee.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    visibility: visible;
+/*    -webkit-background-size: 98%;
+    background-size: 98%;*/
+}
+
+/*  MARKED ACTIVITIES */
+
+/*	SHARED THEME 		*/
+.typein input.text,
+.typeinGroup input.typeinGroup,
+.matchItem, .matchTarget,
+.desktop .mm_itemSelectBigButtons .checkboxItemSelect.horizontal .selectable,
+.radioItemSelect .selectable,
+ul.ordering li, 
+ul.complexOrdering li,
+.wordBox li.dragItem,
+table.crossword .word,
+table.crossword input {
+    border-color: #676778;
+}
+.desktop .checkboxItemSelect .selectable,
+.radioItemSelect .selectable {
+    border-color: #676778 !important; /* to force colour as using !important on line 464 */
+}
+
+.radioItemSelect .selectable,
+ul.ordering li, 
+ul.complexOrdering li,
+.typeinGroup input.typeinGroup  {
+	color: #000;
+}
+
+.main input.text.example, 
+.main .typeinGroup input.typeinGroup.example,
+.main input.text.example:focus, 
+.main .typeinGroup input.typeinGroup.example:focus {
+	box-shadow: none;
+}
+
+
+/* WORDBOX THEME */
+.wordBox,
+.rcfWordSearchGridChosenWords  {
+	background: none;
+	background: rgb(171,170,170); /* Old browsers */
+	background: linear-gradient(45deg,  rgba(171,170,170,1) 0%,rgba(236,236,236,1) 47%,rgba(236,236,236,1) 53%,rgba(171,170,170,1) 100%); /* W3C */
+	box-shadow: 5px 5px 15px 0 rgba(0,0,0,.3);
+}
+.wordBox ul,
+.rcfWordSearchGridChosenWords .wordSearchWords {
+	background: none;
+	border: none;
+	background-color:#bbb;
+	background-image: 
+	    linear-gradient(rgba(255,255,255,.5) 1px, transparent 1px),
+	    linear-gradient(90deg, rgba(255,255,255,0.5) 1px, transparent 1px);
+	background-size: 12px 12px, 12px 12px;
+	background-position:-12px -12px, -12px -12px;
+	box-shadow: inset 6px 6px 10px 0 rgba(0,0,0,0.22);
+}
+.wordBox li.dragItem {
+	background-color: #fff;
+	border-color: #fff;
+	box-shadow: 3px 2px 15px rgba(0,0,0,0.6);
+}
+.rcfWordSearchGridChosenWords .wordSearchWords li .wordSearchSelection {
+	background-color: #fff;
+	border-color: #fff;
+}
+
+/* DROPPABLES AND DRAG ITEMS THEME */
+.dragTarget {
+	border-color: #999;
+	border-radius: .5em;
+	/*cursor: default;*/
+}
+/* selected dropped droppables */
+/*.dragTarget.selected,
+.dropTarget li.selected {
+	border-color: #999;
+	box-shadow: 3px 2px 15px rgba(0,0,0,0.6);
+}*/
+/*.dragTarget.populated {
+	cursor: pointer;
+}*/
+.example .dragTarget.populated {
+	cursor: default;
+}
+
+/* MATCHING THEME */
+
+/* For positioned matching numbers that are on transparent images or outside image area */ 
+[class*='mm_postitionNumbers']:not(.mm_imageMatchItem) .selected .mm_matchingNumber {
+	color: #fff;
+}
+
+.matchingContainer ._jsPlumb_endpoint rect,
+.matchingContainer ._jsPlumb_endpoint circle {
+	fill: #676778;
+}
+._jsPlumb_endpoint rect 
+._jsPlumb_endpoint circle {
+	fill: red; /* this is just a pointer - this colour must be set in the activity css file */
+}
+.matchingContainer div:first-child path{
+    stroke: #BB4726;
+}
+.matchingContainer div:nth-child(2) path{
+    stroke: #1B844C;
+}
+.matchingContainer div:nth-child(3) path{
+    stroke: #BB8E26;
+}
+.matchingContainer div:nth-child(4) path{
+    stroke: #5E6DAA;
+}
+.matchingContainer div:nth-child(5) path{
+    stroke: #D66949;
+}
+.matchingContainer div:nth-child(6) path{
+    stroke: #00889C;
+}
+.matchingContainer div:nth-child(7) path{
+    stroke: #00A870;
+}
+.matchingContainer div:nth-child(8) path{
+    stroke: #FBB900;
+}
+.matchingContainer div:nth-child(9) path{
+    stroke: #EF7C00;
+}
+
+
+/* MATCHING THEME 2.0.63*/
+.matchingContainer svg:nth-of-type(1) path{
+    stroke: #BB4726;
+}
+.matchingContainer svg:nth-of-type(2) path{
+    stroke: #1B844C;
+}
+.matchingContainer svg:nth-of-type(3) path{
+    stroke: #BB8E26;
+}
+.matchingContainer svg:nth-of-type(4) path{
+    stroke: #5E6DAA;
+}
+.matchingContainer svg:nth-of-type(5) path{
+    stroke: #D66949;
+}
+.matchingContainer svg:nth-of-type(6) path{
+    stroke: #00889C;
+}
+.matchingContainer svg:nth-of-type(7) path{
+    stroke: #00A870;
+}
+.matchingContainer svg:nth-of-type(8) path{
+    stroke: #FBB900;
+}
+.matchingContainer svg:nth-of-type(9) path{
+    stroke: #EF7C00;
+}
+
+.matchingContainer svg.showExampleAnswer path {
+    stroke: #afafaf;
+}
+
+
+/* WORDSNAKE THEME */
+.wordSnake .letter.highlight0 {
+	background-color: #BB4726; /*#555;*/
+}
+.wordSnake .letter.highlight1 {
+	background-color: #1B844C; /* #777;*/
+}
+.wordSnake .letter.highlight2 {
+	background-color: #BB8E26; /* #999;*/
+}
+.wordSnake .letter.highlight3 {
+	background-color: #5E6DAA; /*#bbb;*/
+}
+.wordSnake .letter.highlight4 {
+	background-color: #D66949; /* #ddd;*/
+}
+.wordSnake .letter.highlight5 {
+	background-color: #00889C; /* #ddd;*/
+}
+.wordSnake .letter.highlight6 {
+	background-color: #00A870; /* #ddd;*/
+}
+.wordSnake .letter.highlight7 {
+	background-color: #FBB900; /* #ddd;*/
+}
+.wordSnake .letter.highlight8 {
+	background-color: #EF7C00; /* #ddd;*/
+}
+.wordSnake li.letter.ui-selecting {
+	background: #F9B122;
+	color: 000;
+}
+.wordSnake .range-selecting {
+	background: yellow;
+}
+
+/* CROSSWORD THEME */
+table.crossword input {
+	text-transform: lowercase;
+}
+
+.crosswordClueContainer .across,
+.crosswordClueContainer .down {
+	border-color: #989897;
+}
+
+table.crossword td .clueNumber {
+	color: #333;
+}
+
+/* WORDSEARCH THEME */
+/*.mm_roundedWordSearch */
+.rcfWordSearchGrid {
+	border-color: #999;
+}
+
+
+/* EXAMPLE COLOURS (CHECK THAT THESE ARE NOT BEING OVERRULED BY LEVEL.CSS) */
+
+/* EXAMPLE FONT COLOURS */
+.example,
+.mm_example,
+.mm_example p,
+.matchingContainer .example .mm_matchingNumber,
+.typein input.example,
+.typeinGroup input.typeinGroup.example {
+    color: #888;
+}
+.example .dragImageTarget.populated,
+.radioItemSelect.example .selectable { /* possibly combine this with .typeIn input rules */
+	color: #bfbfbf;
+}
+.example .dragTarget.populated,
+.ordering .example li,
+.example .dragTarget,
+.dropTarget li.example,
+.radioItemSelect.example .selectable.selected,
+.desktop .mm_checkbox .checkboxItemSelect .example,
+.example .mm_listNumber,
+.rcfWordSearchGrid td.example,
+table.crossword input.example,
+.wordSnake li.letter.example,
+ul.ordering li.ui-sortable-helper{
+	color: #fff;
+}
+
+ul.ordering.example li,
+ul.complexOrdering.example li {
+    cursor: default;
+}
+
+ul.ordering.example li.fixed,
+ul.complexOrdering.example li.fixed {
+    background-color: #afafaf;
+}
+ul.ordering.example li.suffix,
+ul.complexOrdering.example li.suffix {
+    background: none;
+    border-color: transparent;
+    color: #000;
+}
+
+/* EXAMPLE BACKGROUND COLOURS */
+.example .dragImageTarget.populated,
+.radioItemSelect.example .selectable { /* possibly combine this with .typeIn input rules */
+	background-color: #fff;
+}
+.example .dragTarget.populated,
+.ordering .example li,
+.example .dragTarget,
+.dropTarget li.example,
+.radioItemSelect.example .selectable.selected,
+.desktop .mm_checkbox .checkboxItemSelect .example,
+.example .mm_listNumber,
+.interactiveText .selectable .selected.example {
+	background-color: #afafaf;
+}
+.rcfWordSearchGrid td.example,
+table.crossword input.example,
+.wordSnake li.letter.example {
+    background-color: #bfbfbf;
+}
+
+/* EXAMPLE BORDER COLOURS */
+.example .dragImageTarget.populated,
+.radioItemSelect.example .selectable,
+.example .dragTarget.populated,
+.ordering .example li:not(.suffix),
+.example .dragTarget,
+.dropTarget li.example,
+.radioItemSelect.example .selectable.selected,
+.desktop .mm_checkbox .checkboxItemSelect .example,
+.example .mm_listNumber,
+.matchingContainer .example{
+	border-color: #afafaf !important;
+}
+
+.typein input.example,
+.typeinGroup input.typeinGroup.example {
+	border-color: #bfbfbf;
+}
+
+/* OTHER EXAMPLE COLOURS */
+.matchingContainer svg.showExampleAnswer path {
+	stroke: #afafaf;
+}
+
+.matchingContainer .example ._jsPlumb_endpoint rect,
+.matchingContainer .example ._jsPlumb_endpoint circle {
+	fill: #afafaf;
+}

@@ -1,0 +1,81 @@
+<activity class="mm_unit6 mm_activityNumber1" id="6114d7dd79e54a7f8125b8011926e757" pseudoID="SC_L4_AB_Ch6_p50_ACT01">
+    <rubric>
+        <p>Complete with the simple present or simple past.</p>
+    </rubric>
+    <main>
+        <block class="mm_activityContent">
+            <table class="mm_customTable">
+                <tr>
+                    <td>
+                        <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">find</item>
+                            </acceptable>
+                        </typein>
+                    </td>
+                    <td>found</td>
+                </tr>
+                <tr>
+                    <td>
+                        <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">hide</item>
+                            </acceptable>
+                        </typein>
+                    </td>
+                    <td>hid</td>
+                </tr>
+                <tr>
+                    <td>
+                        <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">steal</item>
+                            </acceptable>
+                        </typein>
+                    </td>
+                    <td>stole</td>
+                </tr>
+                <tr>
+                    <td>put on</td>
+                    <td>
+                        <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">put on</item>
+                            </acceptable>
+                        </typein>
+                    </td>
+                </tr>
+                <tr>
+                    <td>appear</td>
+                    <td>
+                        <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">appeared</item>
+                            </acceptable>
+                        </typein>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <typein id="typein_6">
+                            <acceptable>
+                                <item id="item_1">disappear</item>
+                            </acceptable>
+                        </typein>
+                    </td>
+                    <td>disappeared</td>
+                </tr>
+                <tr>
+                    <td>rub</td>
+                    <td>
+                        <typein id="typein_7">
+                            <acceptable>
+                                <item id="item_1">rubbed</item>
+                            </acceptable>
+                        </typein>
+                    </td>
+                </tr>
+            </table>
+        </block>
+    </main>
+</activity>

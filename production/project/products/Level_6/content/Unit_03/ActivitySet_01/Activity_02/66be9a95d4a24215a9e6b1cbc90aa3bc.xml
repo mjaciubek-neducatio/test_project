@@ -1,0 +1,56 @@
+<activity class="mm_unit3 mm_activityNumber2" id="66be9a95d4a24215a9e6b1cbc90aa3bc" pseudoID="SC_L6_AB_Ch3_p22_ACT02">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>
+                        <sSpan class="mm_cWidth">Wind is a type of energy.</sSpan>
+                        <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect" example="y">
+                            <item id="item_1" correct="y">T</item>
+                            <item id="item_2">F</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_cWidth">You can’t recycle plastic bottles.</sSpan>
+                        <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1">T</item>
+                            <item id="item_2" correct="y">F</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_cWidth">You waste water when you take a bath.</sSpan>
+                        <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1" correct="y">T</item>
+                            <item id="item_2">F</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_cWidth">A big population means a lot of people living in a place.</sSpan>
+                        <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1" correct="y">T</item>
+                            <item id="item_2">F</item>
+                        </radio>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <sSpan class="mm_cWidth">A lifestyle can be good or bad.</sSpan>
+                        <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                            <item id="item_1" correct="y">T</item>
+                            <item id="item_2">F</item>
+                        </radio>
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

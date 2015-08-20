@@ -1,0 +1,46 @@
+<activity id="efe962db6a504137b653d879ba3474b3" pseudoID="SC_L5_AB_Ch9_p70_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>A tram uses electricity to move.</p>
+                    <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect" example="y">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>A town isn’t as big as a village.</p>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Pollution makes the air very clean.</p>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>There’s more traffic in a city than in a village.</p>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>There’s usually more wildlife in natural areas.</p>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

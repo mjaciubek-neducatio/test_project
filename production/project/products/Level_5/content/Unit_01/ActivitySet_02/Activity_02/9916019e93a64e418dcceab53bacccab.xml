@@ -1,0 +1,47 @@
+<activity id="9916019e93a64e418dcceab53bacccab" pseudoID="SC_L5_AB_Ch1_p7_ACT06" class="mm_activityNumber2">
+    <rubric>
+        <p>Complete using the simple past.</p>
+    </rubric>
+    <main>
+        <block>
+            <block class="mm_wordBoxSimple">
+                <list display="h" type="plain">
+                    <li>work</li>
+                    <li><sSpan class="mm_exampleItem">write</sSpan></li>
+                    <li>wear</li>
+                    <li>have to</li>
+                    <li>use</li>
+                </list>
+            </block>
+            <list display="v" type="alpha">
+                <li>
+                    <p class="mm_example">People didn’t have telephones in their homes. They <typein id="typein_1" example="y">
+                        <acceptable>
+                            <item id="item_1">wrote</item>
+                        </acceptable>
+                    </typein> letters.</p>
+                </li>
+                <li>
+                    <p>The men went out to work. The women <typein id="typein_2"><acceptable>
+                            <item id="item_2">worked</item>
+                        </acceptable></typein> at home.</p>
+                </li>
+                <li>
+                    <p>There weren't many cars. People <typein id="typein_3"><acceptable>
+                            <item id="item_3">used</item>
+                        </acceptable></typein> horses for transportation.</p>
+                </li>
+                <li>
+                    <p>When they weren’t at school, children <typein id="typein_4"><acceptable>
+                            <item id="item_4">had to</item>
+                        </acceptable></typein> help at home.</p>
+                </li>
+                <li>
+                    <p>Women didn’t wear pants. They <typein id="typein_5"><acceptable>
+                            <item id="item_5">wore</item>
+                        </acceptable></typein> dresses and skirts.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

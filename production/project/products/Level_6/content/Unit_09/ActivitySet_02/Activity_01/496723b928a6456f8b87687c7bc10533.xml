@@ -1,0 +1,26 @@
+<activity class="mm_unit9 mm_activityNumber2" id="496723b928a6456f8b87687c7bc10533" pseudoID="SC_L6_AB_Ch9_p72_ACT02" desktopDraggable="n">
+    <rubric>
+        <p>Read the story in your Student Book. Is it like the traditional story of Cinderella? Put the sentences under <i>A Fairy Tale Life</i>, <i>Cinderella</i>, or <i>both</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>A Fairy Tale Life</catName>
+                    <item id="item_1">It’s set in our time.</item>
+                </category>
+                <category id="category_2">
+                    <catName>Cinderella</catName>
+                    <item id="item_2">It’s set in old times.</item>
+                </category>
+                <category id="category_3">
+                    <catName>both</catName>
+                    <item id="item_3">The main character is a young woman.</item>
+                    <item id="item_4">It’s a story about a poor person who becomes rich.</item>
+                    <item id="item_5">Her brothers or sisters aren’t nice.</item>
+                    <item id="item_6">It’s a type of fairy tale.</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,75 @@
+.mm_flexContainer {
+	float: right;
+	width: 64%;
+    left: 2em;
+    position: relative;
+}
+
+.mm_ImageWithHeading {
+	position: relative;
+   
+}
+
+.mm_ImageWithHeading h3 {
+	background-color: #fff;
+	position: absolute;
+	top: .2em;
+	left: 50%;
+	margin-left: -25%;
+}
+
+.mm_secondImage h3 {
+	margin-left: -35%;
+}
+
+.mm_number {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    width: 1em;
+    height: 1em;
+    line-height: 1.1em;
+    font-weight: bold;
+    background: #fff;
+    border: 1px solid #1981d0;
+    color: #1981d0;
+    border-left-width: 1px;
+    border-radius: 50%;
+}
+
+.mm_numberOne {
+    top: 5%;
+    left: 15%;
+}
+.mm_numberTwo {
+    top: 10%;
+    left: 65%;
+}
+.mm_numberThree {
+    top: 55%;
+    left: 5%;
+}
+.mm_numberFour {
+    top: 37%;
+    left: 60%;
+}
+.mm_numberFive {
+    top: 90%;
+    left: 18%;
+}
+.mm_numberSix {
+    top: 5%;
+    left: 78%;
+}
+.mm_numberSeven {
+    top: 35%;
+    left: 45%;
+}
+.mm_numberEight {
+    top: 57%;
+    left: 38%;
+}
+.mm_numberNine {
+    top: 78%;
+    left: 70%;
+}

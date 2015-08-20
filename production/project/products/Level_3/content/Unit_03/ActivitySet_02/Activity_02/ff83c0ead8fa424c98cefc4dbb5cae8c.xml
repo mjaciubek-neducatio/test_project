@@ -1,0 +1,27 @@
+<activity id="ff83c0ead8fa424c98cefc4dbb5cae8c" pseudoID="SC_L3_AB_Ch3_p25_ACT05" class="mm_activityNumber2">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> Mom was surprised</matchItem>
+                    <matchTarget id="matchTarget_1" rank="7"><sSpan class="mm_matchingNumber">c.</sSpan> because we made a cake.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> My brother was worried</matchItem>
+                    <matchTarget id="matchTarget_2" rank="6"><sSpan class="mm_matchingNumber">b.</sSpan> because it was his test.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> My teacher was happy</matchItem>
+                    <matchTarget id="matchTarget_3" rank="8"><sSpan class="mm_matchingNumber">d.</sSpan> because we did our homework.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> I was excited</matchItem>
+                    <matchTarget id="matchTarget_4" rank="5"><sSpan class="mm_matchingNumber">a.</sSpan> because it was my party.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

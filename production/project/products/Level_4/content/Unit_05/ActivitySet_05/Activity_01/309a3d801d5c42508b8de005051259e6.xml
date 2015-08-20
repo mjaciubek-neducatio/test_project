@@ -1,0 +1,31 @@
+<activity class="mm_unit5 mm_activityNumber1" id="309a3d801d5c42508b8de005051259e6" pseudoID="SC_L4_AB_Ch5_p43_ACT01">
+    <rubric>
+        <p>Read and choose the correct options.</p>
+    </rubric>
+    <main>
+        <block class="mm_email mm_boxShadow">
+            <block>
+                <image src="p043b.png" title=""/>
+            </block>
+                <image src="p043a.png" title="" class="mm_exerciseImage"/>
+            <block class="mm_exerciseContent">
+                <p>Hi Millie,</p>
+                <p>Thanks for your email. You replied really quickly! And thanks for the picture – I love it! When <dropDown id="dropDown_1" example="y" disabled="y">
+                        <item id="item_1" correct="y">did</item>
+                        <item id="item_2">have</item>
+                    </dropDown> you take it? Have you <dropDown id="dropDown_2">
+                        <item id="item_1">add</item>
+                        <item id="item_2" correct="y">added</item>
+                    </dropDown> it to your blog? I think it’s your best picture so far! Where did you <dropDown id="dropDown_3">
+                        <item id="item_1" correct="y">find</item>
+                        <item id="item_2">found</item>
+                    </dropDown> that hat? It’s really funny! <dropDown id="dropDown_4">
+                        <item id="item_1">Did</item>
+                        <item id="item_2" correct="y">Have</item>
+                    </dropDown> you printed it out yet? Please send me a copy to put on my bedroom wall!</p>
+                <p>Love,</p>
+                <p>Anna</p>
+            </block>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,40 @@
+<activity id="d5041235e3f64062898c8b53a53b4b70" pseudoID="SC_L1_AB_Ch3_p25_ACT03" class="mm_unit3 mm_lesson4 mm_activityNumber2">
+    <rubric>
+        <p>Order the words to make a sentence.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageCenter mm_horizontalOrdering mm_horizontalOrderingSuffix">
+            <block class="mm_image mm_roundedImage mm_imageBorder">
+                <image src="p024b.jpg"/>
+            </block>
+            <complexOrdering id="complexOrdering_1" display="h">
+                <items>
+                    <item id="co_1">Those</item>
+                    <item id="co_2">trees</item>
+                    <item id="co_3">are</item>
+                    <item id="co_4">tall</item>
+                    <item id="co_5">but</item>
+                    <item id="co_6">the</item>
+                    <item id="co_7">leaves</item>
+                    <item id="co_8">are</item>
+                    <item id="co_9">green</item>
+                    <suffix>.</suffix>
+                </items>
+                <alternativeOrderings>
+                    <order>
+                        <item id="co_1"/>
+                        <item id="co_7"/>
+                        <item id="co_3"/>
+                        <item id="co_9"/>
+                        <item id="co_5"/>
+                        <item id="co_6"/>
+                        <item id="co_2"/>
+                        <item id="co_8"/>
+                        <item id="co_4"/>
+                        <suffix>.</suffix>
+                    </order>
+                </alternativeOrderings>
+            </complexOrdering>
+        </block>
+    </main>
+</activity>

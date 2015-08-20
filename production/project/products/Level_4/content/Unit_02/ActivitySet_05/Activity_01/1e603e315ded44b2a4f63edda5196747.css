@@ -1,0 +1,8 @@
+.mm_customCrossword .down, .mm_customCrossword .across {
+    width:200px;
+    height: 430px;
+}
+.crosswordClueContainer li {
+    margin-bottom: .218em;
+    margin-top: .218em;
+}

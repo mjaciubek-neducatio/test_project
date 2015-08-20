@@ -1,0 +1,62 @@
+<activity desktopDraggable="n" class="mm_unit6 mm_activityNumber1" id="2561233cd4f24f30b1a061794bb3f414" pseudoID="SC_L4_AB_Ch6_p52_ACT01">
+    <rubric>
+		<p>Read and complete.</p>
+	</rubric>
+	<main>
+		<block>
+			<collapsibleBlock id="cb_1" open="y">
+				<collapseButton captionWhenClosed="Show text" captionWhenOpened="Hide text"/>
+				<block class="mm_browserContent mm_email mm_boxShadow">
+					<block class="mm_addressBar">
+						<image src="p052d.png" title=""/>
+					</block>
+					<block class="mm_exerciseContent">
+						<h2>Weather Magic</h2>
+						<block class="mm_flexcontainer mm_flexboxSet3">
+							<block class="mm_exerciseColumn1">
+								<h3>Moonbows</h3>
+								<p>Did you know that rainbows can happen at night? They’re called moonbows. Look for them when the moon is very bright and it’s raining. They’re really beautiful.</p>
+								<image src="p052a.png" title=""/>
+							</block>
+							<block class="mm_exerciseColumn2">
+								<image src="p052b.png" title=""/>
+								<h3>Contrails</h3>
+								<p>When planes fly, they sometimes make long white marks called contrails. This happens because the hot air from the plane changes to water and ice when it meets the cold sky.</p>
+							</block>
+							<block class="mm_exerciseColumn3">
+								<h3>Sun dogs</h3>
+								<p>When there’s ice in the atmosphere, you can see sun dogs. Sun dogs are pairs of bright spots that appear on a ring around the Sun. You see them all over the world and in any season.</p>
+								<image src="p052c.png" title=""/>
+							</block>
+						</block>
+
+					</block>
+					<block class="mm_customScroll">
+						<image src="p052e.png" title=""/>
+					</block>
+				</block>
+			</collapsibleBlock>
+		</block>
+		<block>
+			<complexDroppableBlock restrict="y">
+				<complexDroppables>
+					<item id="cd_1" rank="1">cold</item>
+					<item id="cd_2" rank="2">rainy</item>
+					<item id="cd_3" rank="3">hot</item>
+					<item id="cd_4" rank="4">bright</item>
+				</complexDroppables>
+				<list display="v" type="numbered">
+					<li>
+						<p>Moonbows can happen on a <complexDroppable id="complexDroppable_1"><item id="cd_2"/></complexDroppable> night when the moon is <cSpan class="mm_noWrap"><complexDroppable id="complexDroppable_2"><item id="cd_4"/></complexDroppable>.</cSpan></p>
+					</li>
+					<li>
+						<p>Contrails happen because <complexDroppable id="complexDroppable_3"><item id="cd_3"/></complexDroppable> air from the plane becomes <cSpan class="mm_noWrap"><complexDroppable id="complexDroppable_4"><item id="cd_1"/></complexDroppable>.</cSpan></p>
+					</li>
+					<li>
+						<p>Sun dogs can happen when the air is very <cSpan class="mm_noWrap"><complexDroppable id="complexDroppable_5"><item id="cd_1"/></complexDroppable>.</cSpan></p>
+					</li>
+				</list>
+			</complexDroppableBlock>
+		</block>
+	</main>
+</activity>

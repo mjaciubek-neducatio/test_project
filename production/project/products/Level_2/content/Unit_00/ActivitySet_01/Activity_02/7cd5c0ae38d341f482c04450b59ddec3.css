@@ -1,0 +1,21 @@
+.mm_pSmaller p {
+    margin-bottom: 0.4em;
+}
+
+.mm_number {
+    display: inline-block;
+    font-weight: bold;
+    color: #e01e78;
+    width: 18%;
+}
+
+.mm_customTable .droppable {
+    display: inline-block;
+    width: 70%;
+    padding-right: 5px;
+}
+
+.mm_customTable img {
+    margin-left: -20px;
+    margin-right: -20px;
+}

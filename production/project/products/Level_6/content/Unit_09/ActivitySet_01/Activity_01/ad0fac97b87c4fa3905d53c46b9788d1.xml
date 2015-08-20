@@ -1,0 +1,15 @@
+<activity class="mm_unit9 mm_activityNumber1" id="ad0fac97b87c4fa3905d53c46b9788d1" pseudoID="SC_L6_AB_Ch9_p70_ACT01" desktopDraggable="n">
+    <rubric>
+		<p>Complete the ad.</p>
+	</rubric>
+	<main>
+		<block class="mm_exContent mm_boxShadow mm_padder mm_imageRight">
+			<block class="mm_customBorderTop">
+			</block>
+			<image src="p070a.png" title=""/>
+			<p>Are you an <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y" rank="7">entrepreneur</droppable></cSpan> with fantastic ideas? Perhaps you’d like to <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2" rank="2">set up</droppable></cSpan> your own <cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3" rank="3">company</droppable>.</cSpan> Show your talent in the new smartphone app “Top Job!” You’re the <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_4" rank="1">boss</droppable></cSpan> and you make the decisions. First, you decide what you want to make – ice cream, cake, clothes? Just click on the <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_5" rank="8">product</droppable></cSpan> you like. Then invite your friends to play. You want to be <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_6" rank="4">successful</droppable></cSpan> so you need them. They <cSpan class="mm_noWrap mm_inlineNumber">7 <droppable id="droppable_7" rank="6">apply</droppable></cSpan> for jobs in the factory. Do <cSpan class="mm_noWrap mm_inlineNumber">8 <droppable id="droppable_8" rank="5">interviews</droppable></cSpan> to find the best people. <br/>But be careful! Your friends learn fast. Soon, they’ll want your job!</p>
+			<block class="mm_customBorderBottom">
+			</block>
+		</block>
+	</main>
+</activity>

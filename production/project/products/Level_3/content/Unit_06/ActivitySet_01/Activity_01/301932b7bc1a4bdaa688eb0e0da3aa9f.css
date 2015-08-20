@@ -1,0 +1,10 @@
+.wordBox {
+	margin-bottom: 1.5em;
+}
+.main img {
+	float: right;
+}
+.dragTarget.inline.populated {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+}

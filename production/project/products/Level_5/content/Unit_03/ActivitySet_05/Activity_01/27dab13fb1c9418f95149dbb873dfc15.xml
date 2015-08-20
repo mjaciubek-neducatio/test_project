@@ -1,0 +1,28 @@
+<activity id="27dab13fb1c9418f95149dbb873dfc15" pseudoID="SC_L5_AB_Ch3_p26_ACT01">
+    <rubric>
+        <p>Choose.</p>
+    </rubric>
+    <main>
+        <block class="mm_reading">
+            <block class="mm_image">
+                <image src="p026a.png" title=""/>
+            </block>
+            <block class="mm_letter mm_handwritten mm_boxShadow">
+                <p>I just read an <sSpan class="mm_inlineNumber mm_halfSpace">1</sSpan><dropDown id="dropDown_1">
+                        <item id="item_1">interested</item>
+                        <item id="item_2" correct="y">interesting</item>
+                    </dropDown> article about animals and sleeping. Do you know that cats can sleep for about 12 hours every day? When they’re <sSpan class="mm_inlineNumber mm_halfSpace">2</sSpan><dropDown id="dropDown_2">
+                        <item id="item_1">boring</item>
+                        <item id="item_2" correct="y">bored</item>
+                    </dropDown>, they just fall asleep. Giraffes are completely different. They only sleep for a few minutes and they sleep with their eyes open.<br/> 
+                    I think that’s <sSpan class="mm_inlineNumber mm_halfSpace">3</sSpan><dropDown id="dropDown_3">
+                        <item id="item_1" correct="y">frightening</item>
+                        <item id="item_2">frightened</item>
+                    </dropDown>, don’t you? When we we're on the school bus, Angelo always sleeps with his mouth open. I’m always very <sSpan class="mm_inlineNumber mm_halfSpace">4</sSpan><dropDown id="dropDown_4">
+                        <item id="item_1" correct="y">embarrassed</item>
+                        <item id="item_2">embarrassing</item>
+                    </dropDown> when I’m sitting next to him.</p>
+            </block>
+     </block>
+    </main>
+</activity>

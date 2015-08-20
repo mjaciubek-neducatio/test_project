@@ -1,0 +1,21 @@
+<activity class="mm_unit2 mm_activityNumber1" id="6ec21d5e3ac24be3a4b3f091546175ff" pseudoID="SC_L6_AB_Ch2_p17_ACT01">
+    <rubric>
+        <p>Put the events in the order of the story.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_customOrdering">
+            <image src="p017a.png" title=""/>
+            <image src="p017b.png" title=""/>
+            <ordering id="ordering_1" display="v" mark="item">
+                <item id="item_1" rank="1" fixed="y">Daedalus made some wings.</item>
+                <item id="item_2" rank="4">They practiced flying.</item>
+                <item id="item_3" rank="3">They climbed the tower.</item>
+                <item id="item_4" rank="2">They flew over the sea.</item>
+                <item id="item_5" rank="6">Icarus flew near the sun.</item>
+                <item id="item_6" rank="7">The wings began to melt.</item>
+                <item id="item_7" rank="8">The wings broke.</item>
+                <item id="item_8" rank="5">Icarus fell into the sea.</item>
+            </ordering>
+        </block>
+    </main>
+</activity>

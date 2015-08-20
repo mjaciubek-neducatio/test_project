@@ -1,0 +1,45 @@
+.mm_droppableImage {
+    position: relative;
+    width: 650px;
+    margin: 0 auto;
+}
+.mm_droppableGaps p {
+    position:absolute;
+    background-color: #fff;
+    border: 2px solid #5365A8;
+    padding: 3px;
+}
+.mm_droppableGaps .dragTarget {
+    display: block;
+}
+.mm_customNumber {
+    color:#5365A8;
+    font-weight: 700;
+}
+.mm_droppableGaps p:nth-child(1) {
+    top: 0px;
+    left: 130px;
+}
+.mm_droppableGaps p:nth-child(2) {
+    top: 110px;
+    left: 215px;
+}
+.mm_droppableGaps p:nth-child(3) {
+    top: 30px;
+    left: 390px;
+}
+.mm_droppableGaps p:nth-child(4) {
+    top: 210px;
+    left: 110px;
+}
+.mm_droppableGaps p:nth-child(5) {
+    top: 170px;
+    left: 380px;
+}
+.mm_droppableGaps p:nth-child(6) {
+    top: 210px;
+    left: 555px;
+}
+.main ul li {
+    margin-bottom: 0.875em;
+}

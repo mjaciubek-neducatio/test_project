@@ -1,0 +1,35 @@
+.mm_customMatching .matchTarget {
+    min-width: 150px;
+    padding-left: 1.75em;
+}
+.mm_customMatching .matchTargets {
+    margin-top: 0%;
+}
+.mm_customMatching .matchItem img {
+    padding-right: 0.437em;
+}
+.mm_customMatching .matchItem {
+    padding-right: 0.437em;
+}
+.mm_customMatching .matchItem img, .mm_customMatching .matchItem span {
+    vertical-align: middle;
+}
+.main .matchTargetContainer {
+    margin-bottom: 2.35em;
+}
+.main > div.block {
+    margin-bottom: 0.75em;
+}
+.main h2 {
+    color: #E01E78;
+    width: 49.5%;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 0.5em;
+}
+.main h2.lastChild {
+    text-align: right;
+}
+/* .rcfContentContainer .activity {
+    padding-bottom: 0;
+} */

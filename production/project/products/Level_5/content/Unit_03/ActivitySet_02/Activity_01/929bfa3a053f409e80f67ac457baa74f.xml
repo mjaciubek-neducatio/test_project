@@ -1,0 +1,39 @@
+<activity id="929bfa3a053f409e80f67ac457baa74f" pseudoID="SC_L5_AB_Ch3_p23_ACT05">
+    <rubric>
+        <p>Choose to make the second sentence mean the same as the first.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>The movie is worse than the book.</p>
+                    <p>The movie <dropDown id="dropDown_1">
+                            <item id="item_1" correct="y">isn’t as good as</item>
+                            <item id="item_2">is just as good as</item>
+                        </dropDown> the book.</p>
+                </li>
+                <li>
+                    <p>The photo is better than the painting.</p>
+                    <p>The painting <dropDown id="dropDown_2">
+                            <item id="item_1">is just as good as</item>
+                            <item id="item_2" correct="y">isn’t as good as</item>
+                        </dropDown> the photo.</p>
+                </li>
+                <li>
+                    <p>Your story is more realistic than my story.</p>
+                    <p>My story <dropDown id="dropDown_3">
+                            <item id="item_1">is just as realistic as</item>
+                            <item id="item_2" correct="y">isn’t as realistic as</item>
+                        </dropDown> your story.</p>
+                </li>
+                <li>
+                    <p>Will’s dream wasn’t as frightening as Emma’s dream.</p>
+                    <p>Emma’s dream <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">was more frightening than</item>
+                            <item id="item_2">was just as frightening as</item>
+                        </dropDown> Will’s dream.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

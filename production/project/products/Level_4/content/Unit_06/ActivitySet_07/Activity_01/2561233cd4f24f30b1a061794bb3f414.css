@@ -1,0 +1,86 @@
+.mm_exerciseImage {
+    float: left;
+    margin-left: 20px;
+}
+
+.mm_email {
+    border-radius: 12px;
+    padding: 0;
+	padding-bottom: 0.437em;
+    border: 3px solid #eeeeef;
+    border-radius: 12px;
+    padding: 0;
+}
+
+.mm_browserContent {
+    background: rgba(255,255,255,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(81,96,172,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(81,96,172,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(81,96,172,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(81,96,172,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(81,96,172,1) 100%);
+background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(81,96,172,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#5160ac', GradientType=1 );
+    margin-bottom: 1.75em;
+}
+
+.mm_addressBar {
+    margin-bottom: 0;
+}
+
+.mm_exerciseContent {
+    background: rgba(191,193,225,1);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(191,193,225,1) 0%, rgba(255,255,255,1) 13%, rgba(211,211,234,1) 26%, rgba(255,255,255,1) 37%, rgba(211,211,234,1) 47%, rgba(255,255,255,1) 59%, rgba(211,211,234,1) 72%, rgba(255,255,255,1) 86%, rgba(211,211,234,1) 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(191,193,225,1)), color-stop(13%, rgba(255,255,255,1)), color-stop(26%, rgba(211,211,234,1)), color-stop(37%, rgba(255,255,255,1)), color-stop(47%, rgba(211,211,234,1)), color-stop(59%, rgba(255,255,255,1)), color-stop(72%, rgba(211,211,234,1)), color-stop(86%, rgba(255,255,255,1)), color-stop(100%, rgba(211,211,234,1)));
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(191,193,225,1) 0%, rgba(255,255,255,1) 13%, rgba(211,211,234,1) 26%, rgba(255,255,255,1) 37%, rgba(211,211,234,1) 47%, rgba(255,255,255,1) 59%, rgba(211,211,234,1) 72%, rgba(255,255,255,1) 86%, rgba(211,211,234,1) 100%);
+    background: -o-radial-gradient(center, ellipse cover, rgba(191,193,225,1) 0%, rgba(255,255,255,1) 13%, rgba(211,211,234,1) 26%, rgba(255,255,255,1) 37%, rgba(211,211,234,1) 47%, rgba(255,255,255,1) 59%, rgba(211,211,234,1) 72%, rgba(255,255,255,1) 86%, rgba(211,211,234,1) 100%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(191,193,225,1) 0%, rgba(255,255,255,1) 13%, rgba(211,211,234,1) 26%, rgba(255,255,255,1) 37%, rgba(211,211,234,1) 47%, rgba(255,255,255,1) 59%, rgba(211,211,234,1) 72%, rgba(255,255,255,1) 86%, rgba(211,211,234,1) 100%);
+    background: radial-gradient(ellipse at center, rgba(191,193,225,1) 0%, rgba(255,255,255,1) 13%, rgba(211,211,234,1) 26%, rgba(255,255,255,1) 37%, rgba(211,211,234,1) 47%, rgba(255,255,255,1) 59%, rgba(211,211,234,1) 72%, rgba(255,255,255,1) 86%, rgba(211,211,234,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfc1e1', endColorstr='#d3d3ea', GradientType=1);
+    max-width: 90%;
+    margin-left: 1.75em;
+    padding: 1.75em 0 0 0;
+    margin-bottom: 0;
+}
+
+.mm_exerciseContent h2 {
+    padding-left: 0.65em;
+}
+
+.mm_exerciseContent, .mm_customScroll {
+    float: left;
+}
+
+.mm_customScroll {
+    padding: 3.5em 0 0 0.437em;
+}
+
+.mm_exerciseColumn1 {
+    background: #fff;
+    margin-bottom: 0;
+}
+
+.mm_exerciseColumn2 {
+    background: #d3d3ea;
+    margin-top: -60px;
+    margin-bottom: 0;
+}
+
+.mm_exerciseColumn3 {
+    background: #e7e7e8;
+    margin-top: -60px;
+    margin-bottom: 0;
+}
+
+.mm_exerciseColumn3 img {
+    margin-top: 30px;
+}
+
+.mm_exerciseColumn1 p, .mm_exerciseColumn1 h3, .mm_exerciseColumn2 p, .mm_exerciseColumn2 h3, .mm_exerciseColumn3 p, .mm_exerciseColumn3 h3 {
+    padding-left: 0.875em;
+    padding-right: 0.875em;
+}
+
+.mm_exerciseColumn1 h3, .mm_exerciseColumn2 h3, .mm_exerciseColumn3 h3 {
+    margin-bottom: 0;
+}

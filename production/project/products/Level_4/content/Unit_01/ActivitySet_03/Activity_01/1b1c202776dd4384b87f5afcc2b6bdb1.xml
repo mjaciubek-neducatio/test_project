@@ -1,0 +1,46 @@
+<activity class="mm_unit1 mm_activityNumber2" id="1b1c202776dd4384b87f5afcc2b6bdb1" pseudoID="SC_L4_AB_Ch1_p8_ACT02">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_radio mm_example">
+                    <p><sSpan class="mm_cWidth">The dancers are French.</sSpan>
+                    <radio id="radio_1" display="h" name="" type="plain" displayType="itemSelect" example="y">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio></p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Dad is singing with the dancers.</sSpan>
+                    <radio id="radio_2" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio></p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Sam and Emily are older than Claire.</sSpan>
+                    <radio id="radio_3" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio></p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Dad is going to find Claire.</sSpan>
+                    <radio id="radio_4" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio></p>
+                </li>
+                <li>
+                    <p><sSpan class="mm_cWidth">Emily is worried about her little sister.</sSpan>
+                    <radio id="radio_5" display="h" name="" type="plain" displayType="itemSelect">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

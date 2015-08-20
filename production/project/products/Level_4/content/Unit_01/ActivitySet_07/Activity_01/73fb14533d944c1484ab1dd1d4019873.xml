@@ -1,0 +1,37 @@
+<activity class="mm_unit1 mm_activityNumber1" id="73fb14533d944c1484ab1dd1d4019873" pseudoID="SC_L4_AB_Ch1_p12_ACT01">
+    <rubric>
+        <p>Read and choose the correct options.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_customText mm_padder mm_boxShadow">
+            <image src="p012ab.png" title=""/>
+            <h2>The History of Roller Coasters</h2>
+            <p>The first “roller coasters” were from Russia. They were slides of ice around 21 meters long. People sat on sleds of wood or ice to ride down them. They landed safely in sand at the bottom. Then, people in warmer places wanted roller coasters. The French made slides from wood and built carts with wheels. They put wax on the wood to make the carts go faster. People in the USA developed metal tracks with more twists and small trains. These are the roller coasters that we like to go on today!</p>
+        </block>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>People didn’t use <dropDown id="dropDown_1">
+                            <item id="item_1">ice</item>
+                            <item id="item_2" correct="y">stone</item>
+                            <item id="item_3">wood</item>
+                        </dropDown> to make roller coasters.</p>
+                </li>
+                <li>
+                    <p>In France, people sat in <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">carts</item>
+                            <item id="item_2">sleds</item>
+                            <item id="item_3">tracks</item>
+                        </dropDown> to ride roller coasters.</p>
+                </li>
+                <li>
+                    <p>In warmer places, they used wood and metal for roller coasters because there wasn’t any <cSpan class="mm_noWrap"><dropDown id="dropDown_3">
+                            <item id="item_1">sand</item>
+                            <item id="item_2">wax</item>
+                            <item id="item_3" correct="y">ice</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

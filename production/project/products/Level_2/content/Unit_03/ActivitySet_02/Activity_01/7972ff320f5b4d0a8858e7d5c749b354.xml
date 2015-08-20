@@ -1,0 +1,18 @@
+<activity class="mm_unit3 mm_activityNumber1 mm_itemSelectBigButtons" id="7972ff320f5b4d0a8858e7d5c749b354">
+    <rubric>
+        <p>What happens at the end of the story? Choose.</p>
+    </rubric>
+<main>
+    <block class="mm_checkbox mm_activityBackground1">
+        <block class="mm_checkboxHigher">
+            <checkbox id="checkbox_1" display="v" type="numbered" displayType="itemSelect">
+                <item id="item_1">The emperor is wearing a new suit.</item>
+                <item id="item_2">The people can see the suit.</item>
+                <item id="item_3" correct="y">The dressmakers are rich.</item>
+                <item id="item_4" correct="y">The emperor’s face is red.</item>
+                <item id="item_5">The emperor says, “Ha-ha-ha!”</item>
+            </checkbox>
+        </block>
+    </block>
+</main>
+</activity>

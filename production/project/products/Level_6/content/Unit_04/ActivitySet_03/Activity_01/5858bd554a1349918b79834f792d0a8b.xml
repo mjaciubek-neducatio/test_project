@@ -1,0 +1,56 @@
+<activity class="mm_unit4 mm_activityNumber1" id="5858bd554a1349918b79834f792d0a8b" pseudoID="SC_L6_AB_Ch4_p34_ACT01">
+    <rubric>
+        <p>Correct the questions.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>What would you do if I <locating id="locating_1" example="y">go<typein id="typein_1">
+                                <acceptable>
+                                    <item id="item_1">went</item>
+                                    <item id="item_2">WENT</item>
+                                </acceptable>
+                            </typein>
+                        </locating> home now?</p>
+                </li>
+                <li>
+                    <p>What <locating id="locating_2">do<typein id="typein_2">
+                                <acceptable>
+                                    <item id="item_1">would</item>
+                                    <item id="item_2">WOULD</item>
+                                </acceptable>
+                            </typein>
+                        </locating> you say if I made you a pizza?</p>
+                </li>
+                <li>
+                    <p>If you <locating id="locating_3">have<typein id="typein_3">
+                                <acceptable>
+                                    <item id="item_1">had</item>
+                                    <item id="item_2">HAD</item>
+                                </acceptable>
+                            </typein>
+                        </locating> some money, what would you buy?</p>
+                </li>
+                <li>
+                    <p>What <locating id="locating_4">we would<typein id="typein_4">
+                                <acceptable>
+                                    <item id="item_1">would we</item>
+                                    <item id="item_2">WOULD WE</item>
+                                </acceptable>
+                            </typein>
+                        </locating> do if I came to your house?</p>
+                </li>
+                <li>
+                    <p>If your best friend <locating id="locating_5">is<typein id="typein_5">
+                                <acceptable>
+                                    <item id="item_1">were</item>
+                                    <item id="item_2">WERE</item>
+                                </acceptable>
+                            </typein>
+                        </locating> sick, what would you do?</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

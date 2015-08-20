@@ -1,0 +1,12 @@
+.mm_pictures {
+    width: 90%;
+    padding-left: 11%;
+}
+.mm_resetNumbering ol > li {
+    padding-left: .875em;
+    width: 50%;
+}
+
+.mm_resetNumbering ol > li omg {
+    width: 100%;
+}

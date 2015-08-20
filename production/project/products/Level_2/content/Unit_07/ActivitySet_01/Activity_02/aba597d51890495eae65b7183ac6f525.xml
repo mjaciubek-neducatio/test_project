@@ -1,0 +1,28 @@
+<activity class="mm_unit7 mm_activityNumber2" id="aba597d51890495eae65b7183ac6f525" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in three groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>inside</catName>
+                    <item id="item_1">cleaner</item>
+                    <item id="item_2">teacher</item>
+                    <item id="item_3">doctor</item>
+                    <item id="item_4">chef</item>
+                    <item id="item_5" example="y">office worker</item>
+                </category>
+                <category id="category_2">
+                    <catName>inside and outside</catName>
+                    <item id="item_6">vet</item>
+                    <item id="item_7">police officer</item>
+                </category>
+                 <category id="category_3">
+                    <catName>outside</catName>
+                    <item id="item_8">firefighter</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

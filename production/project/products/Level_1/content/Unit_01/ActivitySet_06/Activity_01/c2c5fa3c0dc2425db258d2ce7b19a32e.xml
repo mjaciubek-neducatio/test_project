@@ -1,0 +1,41 @@
+<activity id="c2c5fa3c0dc2425db258d2ce7b19a32e" pseudoID="SC_L1_AB_Ch1_p12_ACT01" class="mm_unit1 mm_lesson7 mm_activityNumber1">
+    <rubric>
+        <p>Why are trees important? Match.</p>
+    </rubric>
+    <main>
+         <block class="mm_pictureMatching mm_hMatching5 mm_postitionNumbers mm_imageMatchNoPad mm_matchingRoundNumbers">
+            <matching display="h" id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan><image src="p012_drawings_1.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_1" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan><image src="p012_drawings_c.png" title=""/>
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan><image src="p012_drawings_2.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_2" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan><image src="p012_drawings_e.png" title=""/>
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan><image src="p012_drawings_3.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_3" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan><image src="p012_drawings_b.png" title=""/>
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan><image src="p012_drawings_4.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_4" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan><image src="p012_drawings_a.png" title=""/>
+                    </matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan><image src="p012_drawings_5.png" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_5" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan><image src="p012_drawings_d.png" title=""/>
+                    </matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

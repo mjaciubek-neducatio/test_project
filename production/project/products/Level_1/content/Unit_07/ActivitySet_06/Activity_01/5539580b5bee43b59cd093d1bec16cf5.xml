@@ -1,0 +1,51 @@
+<activity id="5539580b5bee43b59cd093d1bec16cf5" pseudoID="SC_L1_AB_Ch7_p59_ACT01" class="mm_unit7 mm_lesson6 mm_activityNumber1" desktopDraggable="n" wordBoxPosition="top">
+    <rubric>
+        <p>Look and complete the descriptions.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexboxSet mm_flexBoxCenter">
+            <block class="mm_reader mm_border mm_roundedCorner">
+                <image src="p059a.jpg" title=""/>
+            
+            
+            </block>
+            <block class="mm_reader mm_border mm_roundedCorner mm_imageLeft mm_tuba">
+                <image src="p059b.jpg" title=""/>
+                
+            </block>
+        </block>
+        
+        <block class="mm_flexboxSet mm_questions">
+            
+            <list display="v" type="numbered">
+                <li>
+                    <p>
+                        <droppable id="droppable_1" example="y">She has</droppable> three eyes.</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_2">She has</droppable> long hair.</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_3">She doesn’t have</droppable> eight toes.</p>
+                </li>
+            </list>
+            
+            <list display="v" start="4" type="numbered">
+                    <li>
+                        <p>
+                            <droppable id="droppable_4" example="y">He has</droppable> six ears.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <droppable id="droppable_5">He doesn’t have</droppable> any arms.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <droppable id="droppable_6">He has</droppable> one mouth.</p>
+                    </li>
+                </list>
+        </block>
+    </main>
+</activity>

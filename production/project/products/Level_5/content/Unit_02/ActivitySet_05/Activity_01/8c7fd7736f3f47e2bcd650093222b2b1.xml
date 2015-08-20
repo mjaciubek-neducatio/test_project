@@ -1,0 +1,30 @@
+<activity id="8c7fd7736f3f47e2bcd650093222b2b1" pseudoID="SC_L5_AB_Ch2_p20_ACT01" desktopDraggable="n" class="mm_limitScroll">
+    <rubric>
+        <p>Read and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexContainer mm_flexboxSet2 mm_boxShadow">
+            <block class="mm_padder">
+                <block class="mm_warped">
+                    <p><sSpan class="mm_w0">P</sSpan><sSpan class="mm_w1">i</sSpan><sSpan class="mm_w2">c</sSpan><sSpan class="mm_w3">k</sSpan><sSpan class="mm_w4"> </sSpan><sSpan class="mm_w5">U</sSpan><sSpan class="mm_w6">p</sSpan><sSpan class="mm_w7"> </sSpan><sSpan class="mm_w8">T</sSpan><sSpan class="mm_w9">r</sSpan><sSpan class="mm_w10">a</sSpan><sSpan class="mm_w11">s</sSpan><sSpan class="mm_w12">h</sSpan><sSpan class="mm_w13"> </sSpan><sSpan class="mm_w14">D</sSpan><sSpan class="mm_w15">a</sSpan><sSpan class="mm_w16">y</sSpan></p>
+                </block>
+                <block class="mm_text">
+                    <p>We’ve helped a village in Nicaragua get clean water. It’s changed their lives. Now we need money for more projects like this – and we need YOUR help to <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y">succeed</droppable>.</p>
+                    <p>
+                        <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2">Take part</droppable> in Pick Up Trash Day on July 15<sup>th</sup>. For every street we clean, we make $5 for Nicaragua. It <br/><sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3">might</droppable> be hard work, but it’s <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4">going to</droppable> be fun, too! Everyone who takes part gets a <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5">certificate</droppable>.</p>
+                    
+                </block>
+            </block>
+           <block class="mm_image">
+                <image src="AW_AB5_U2_L7_p20_a.png" title=""/>
+                <p class="mm_item6">
+                Go to our <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6">website</droppable> for more information or to give money.
+            </p>
+            </block>
+            
+            
+            
+        
+        </block>
+    </main>
+</activity>

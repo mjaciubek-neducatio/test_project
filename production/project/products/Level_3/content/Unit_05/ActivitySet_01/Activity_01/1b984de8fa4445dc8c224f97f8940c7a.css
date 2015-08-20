@@ -1,0 +1,27 @@
+.main img {
+	width: 200px;
+	display: block;
+	margin-bottom: 0.5em;
+	border-radius: 0.75em
+}
+.dragTarget, .dragTarget.populated {
+	min-width: 93px;
+	width: 93px;
+}
+.wordBox {
+	margin-bottom: 0.8em;
+	padding: 0.4em;
+}
+.wordBox ul, .mm_wordBox ul, .rcfWordSearchGridChosenWords ul {
+	padding: 0.5em 0 0 0.5em;
+}
+.wordBox li.dragItem, .mm_wordBox li, .rcfWordSearchGridChosenWords .wordSearchWords li .wordSearchSelection {
+	margin-bottom: 0.4em;
+	line-height: 1.1em;
+}
+.main div.block div.block {
+	margin-bottom: 0.5em;
+}
+.mm_resetNumbering ul > li, .mm_resetNumbering ol > li {
+	padding: 0.1em 0 0.2em 1.2em;
+}

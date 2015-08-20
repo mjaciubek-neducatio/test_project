@@ -1,0 +1,30 @@
+<activity id="fccdae4facc84ebb8aae5b151677bd30" pseudoID="SC_L3_AB_Ch8_p62_ACT01" class="mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Look and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_imageBorder mm_roundedImage">
+            <list display="v" type="numbered">
+                <li>
+                    <p>Do you need a paintbrush? <droppable id="droppable_1" example="y">Pick up</droppable> the one on the floor.</p>
+                </li>
+                <li>
+                    <p>I’m painting the door. Don’t <droppable id="droppable_2">open</droppable> it!</p>
+                </li>
+                <li>
+                    <p>Watch out! Don’t <droppable id="droppable_3">hit</droppable> your head on the shelf.</p>
+                </li>
+                <li>
+                    <p>That plane is <droppable id="droppable_4">fly</droppable>ing to London.</p>
+                </li>
+                <li>
+                    <p>The girl needs to <droppable id="droppable_5">move</droppable> the cat.</p>
+                </li>
+                <li>
+                    <p>He’s strong. He can <droppable id="droppable_6">push</droppable> the desk.</p>
+                </li>
+            </list>
+            <image src="p062a.jpg" title=""/>
+        </block>
+    </main>
+</activity>

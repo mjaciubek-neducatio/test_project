@@ -1,0 +1,65 @@
+<activity id="06fe581c4a2e4fcfb94293b4d5c3ac51" pseudoID="SC_L1_AB_Ch1_p7_ACT04" class="mm_unit6 mm_lesson2 mm_activityNumber1">
+    <rubric>
+        <p>Look and complete with <i>I have</i> or <i>I don't have</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexboxSet3070 mm_flexBoxReverse">
+            <block>
+                <image src="p047a.jpg" title=""/>
+            </block>
+            <block>
+                <list display="v" type="numbered">
+                    <li>
+                        <p>
+                            <typein id="typein_1" example="y">
+                                <acceptable>
+                                    <item id="item_1">I have</item>
+                                </acceptable>
+                            </typein> a mom and dad.</p>
+                        
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_2">
+                                <acceptable>
+                                    <item id="item_2">I don’t have</item>
+                                </acceptable>
+                            </typein> any sisters.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_3">
+                                <acceptable>
+                                    <item id="item_1">I have</item>
+                                </acceptable>
+                            </typein> two brothers.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_4">
+                                <acceptable>
+                                    <item id="item_1">I have</item>
+                                </acceptable>
+                            </typein> two grandmas.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_5">
+                                <acceptable>
+                                    <item id="item_1">I have</item>
+                                </acceptable>
+                            </typein> a grandpa.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_6">
+                                <acceptable>
+                                    <item id="item_2">I don’t have</item>
+                                </acceptable>
+                            </typein> any aunts or uncles.</p>
+                    </li>
+                </list>
+            </block>
+        </block>
+    </main>
+</activity>

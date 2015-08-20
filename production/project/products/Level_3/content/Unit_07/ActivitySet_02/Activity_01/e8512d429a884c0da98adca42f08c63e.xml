@@ -1,0 +1,46 @@
+<activity id="e8512d429a884c0da98adca42f08c63e" pseudoID="SC_L3_AB_Ch7_p56_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose <i>true</i> or <i> false</i>.</p>
+    </rubric>
+    <main>
+        <block class="mm_radio mm_inlineQuestion">
+            <list display="v" type="numbered">
+                <li>
+                    <p>Milo was alone in the forest.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" example="y" type="plain">
+                        <item id="item_1">true</item>
+                        <item id="item_2" correct="y">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Milo lifted the tree.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">true</item>
+                        <item id="item_2" correct="y">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The boy on the horse wanted to help Milo.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Milo was polite to the boy.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1">true</item>
+                        <item id="item_2" correct="y">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Milo wanted to do everything himself.</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" type="plain">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

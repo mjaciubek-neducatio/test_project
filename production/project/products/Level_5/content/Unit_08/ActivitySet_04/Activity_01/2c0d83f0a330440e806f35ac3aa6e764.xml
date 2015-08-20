@@ -1,0 +1,75 @@
+<activity id="2c0d83f0a330440e806f35ac3aa6e764" pseudoID="SC_L5_AB_Ch8_p66_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Unscramble the reported questions. Then tell a friend how people responded.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <ordering id="ordering_1" capitalise="n" display="h" example="y"> 
+                        <item id="item_1">I</item>
+                        <item id="item_2">asked</item>
+                        <item id="item_3">my</item>
+                        <item id="item_4">dad</item>
+                        <item id="item_5">if</item>
+                        <item id="item_6">he</item>
+                        <item id="item_7">liked</item>
+                        <item id="item_8">cooking</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="n" display="h" mark="item">
+                        <item id="item_1">I</item>
+                        <item id="item_2">asked</item>
+                        <item id="item_3">my</item>
+                        <item id="item_4">mom</item>
+                        <item id="item_5">who</item>
+                        <item id="item_6">her</item>
+                        <item id="item_7">favorite</item>
+                        <item id="item_8">actor</item>
+                        <item id="item_9">was</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="n" display="h" mark="item">
+                        <item id="item_1">She</item>
+                        <item id="item_2">asked</item>
+                        <item id="item_3">me</item>
+                        <item id="item_4">where</item>
+                        <item id="item_5">I</item>
+                        <item id="item_6">wanted</item>
+                        <item id="item_7">to</item>
+                        <item id="item_8">go</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="n" display="h" mark="item">
+                        <item id="item_1">My</item>
+                        <item id="item_2">friend</item>
+                        <item id="item_3">asked</item>
+                        <item id="item_4">me</item>
+                        <item id="item_5">what</item>
+                        <item id="item_6">happened</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_5" capitalise="n" display="h" mark="item">
+                        <item id="item_1">He</item>
+                        <item id="item_2">asked</item>
+                        <item id="item_3">me</item>
+                        <item id="item_4">which</item>
+                        <item id="item_5">soccer</item>
+                        <item id="item_6">team</item>
+                        <item id="item_7">I</item>
+                        <item id="item_8">liked</item>
+                        <suffix>.</suffix>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

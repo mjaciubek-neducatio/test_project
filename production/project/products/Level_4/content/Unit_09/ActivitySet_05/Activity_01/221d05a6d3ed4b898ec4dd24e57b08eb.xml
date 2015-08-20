@@ -1,0 +1,18 @@
+<activity desktopDraggable="n" class="mm_unit9 mm_activityNumber1 mm_activityContentU09" id="221d05a6d3ed4b898ec4dd24e57b08eb" pseudoID="SC_L4_AB_Ch9_p75_ACT01">
+    <rubric>
+        <p>Complete the email.</p>
+    </rubric>
+    <main>
+        <block class="mm_email mm_boxShadow">
+            <block class="mm_topBar">
+                <image src="p043b.png" title=""/>
+            </block>
+            <block class="mm_exerciseContent">
+            <p>Dear Penny,</p>
+            <p>I’m on safari in Africa with my family. It’s exciting! We’re going to travel by helicopter tomorrow. <droppable id="droppable_1" rank="4" example="y">I’ve</droppable> never flown in a helicopter before … I’m a little scared! There are a lot of things I want to do here! I’ve <droppable id="droppable_2" rank="6">never</droppable> ridden an elephant but I’d <droppable id="droppable_3" rank="2">like</droppable> to! And I’ve never seen giraffes close-up, but I’d like <cSpan class="mm_noWrap"><droppable id="droppable_4" rank="5">to</droppable>!</cSpan> I’d like to take pictures of them with my new smartphone. And <droppable id="droppable_5" rank="1">I’d</droppable> like to sail on the lake, <droppable id="droppable_6" rank="3">but</droppable> I’m too scared!</p>
+            <p>See you soon.<br/>
+            Miguel</p>
+        </block>
+        </block>
+    </main>
+</activity>

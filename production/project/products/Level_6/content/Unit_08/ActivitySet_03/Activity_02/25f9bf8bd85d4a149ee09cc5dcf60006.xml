@@ -1,0 +1,42 @@
+<activity class="mm_unit8 mm_activityNumber1" id="25f9bf8bd85d4a149ee09cc5dcf60006" pseudoID="SC_L6_AB_Ch8_p67_ACT01">
+    <rubric>
+		<p>Choose.</p>
+	</rubric>
+	<main>
+		<block class="mm_email mm_boxShadow">
+			<block>
+				<image class="mm_browserBar" src="p059a.png" title=""/>
+			</block>
+			<block class="mm_content mm_padder">
+				<block class="mm_emailText">
+					<image src="p067d.jpg" title="" class="mm_emailImage"/>
+					<p>My name’s Olivia, and I love photography and social networking. That’s why I’ve started this <cSpan class="mm_noWrap mm_inlineNumber">1 <dropDown id="dropDown_1" example="y">
+							<item id="item_1" correct="y">blog</item>
+							<item id="item_2">video</item>
+						</dropDown>.</cSpan> I usually write something every day and <cSpan class="mm_noWrap mm_inlineNumber">2 <dropDown id="dropDown_2">
+							<item id="item_1">search</item>
+							<item id="item_2" correct="y">upload</item>
+						</dropDown></cSpan> a few photos.<br/> I don’t take pictures of people. They’re always of the countryside or buildings. At first, only my friends at school knew about it. We used to <cSpan class="mm_noWrap mm_inlineNumber">3 <dropDown id="dropDown_3">
+							<item id="item_1">video</item>
+							<item id="item_2" correct="y">share</item>
+						</dropDown></cSpan> ideas for buying cameras or taking pictures. Soon, other people <cSpan class="mm_noWrap mm_inlineNumber">4 <dropDown id="dropDown_4">
+							<item id="item_1" correct="y">logged in</item>
+							<item id="item_2">blog</item>
+						</dropDown></cSpan> and began to leave comments. It’s a great way to make friends <cSpan class="mm_noWrap mm_inlineNumber">5 <dropDown id="dropDown_5">
+							<item id="item_1">search</item>
+							<item id="item_2" correct="y">online</item>
+						</dropDown></cSpan> with the same interests. I’ve just made my first <cSpan class="mm_noWrap mm_inlineNumber">6 <dropDown id="dropDown_6">
+							<item id="item_1" correct="y">video</item>
+							<item id="item_2">share</item>
+						</dropDown>.</cSpan> I’ll <cSpan class="mm_noWrap mm_inlineNumber">7 <dropDown id="dropDown_7">
+							<item id="item_1">search</item>
+							<item id="item_2" correct="y">post</item>
+						</dropDown></cSpan> it later today, but I don’t think it will <cSpan class="mm_noWrap mm_inlineNumber">8 <dropDown id="dropDown_8">
+							<item id="item_1" correct="y">go viral</item>
+							<item id="item_2">log in</item>
+						</dropDown>!</cSpan></p>
+				</block>
+			</block>
+		</block>
+	</main>
+</activity>

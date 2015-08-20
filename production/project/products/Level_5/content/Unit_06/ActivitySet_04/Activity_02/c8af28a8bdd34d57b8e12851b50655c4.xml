@@ -1,0 +1,48 @@
+<activity id="c8af28a8bdd34d57b8e12851b50655c4" pseudoID="SC_L5_AB_Ch6_p50_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Complete with <i>when</i> or <i>where</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>The teacher was talking <typein id="typein_1" example="y">
+                            <acceptable>
+                                <item id="item_1">while</item>
+                            </acceptable>
+                        </typein> you were looking out of the window.</p>
+                </li>
+                <li>
+                    <p>What were you doing <typein id="typein_2">
+                            <acceptable>
+                                <item id="item_1">when</item>
+                            </acceptable>
+                        </typein> the door opened?</p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_3">
+                            <acceptable>
+                                <item id="item_1">While</item>
+                            </acceptable>
+                        </typein> you were playing the piano, I left the room.</p>
+                </li>
+                <li>
+                    <p>
+                        <typein id="typein_4">
+                            <acceptable>
+                                <item id="item_1">When</item>
+                            </acceptable>
+                        </typein> the bell rang, you were eating your lunch.</p>
+                </li>
+                <li>
+                    <p>What were you doing <typein id="typein_5">
+                            <acceptable>
+                                <item id="item_1">while</item>
+                            </acceptable>
+                        </typein> I was looking for my bag?</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

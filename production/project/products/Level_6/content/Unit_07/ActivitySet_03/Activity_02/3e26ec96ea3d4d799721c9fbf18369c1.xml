@@ -1,0 +1,99 @@
+<activity class="mm_unit7 mm_activityNumber1" id="3e26ec96ea3d4d799721c9fbf18369c1" pseudoID="SC_L6_AB_Ch7_p59_ACT01">
+    <rubric>
+        <p>Unscramble the words.</p>
+    </rubric>
+    <main>
+        <block class="mm_email mm_boxShadow">
+            <block>
+                <image src="p059a.png" title=""/>
+            </block>
+            <p><sSpan class="mm_label">TO:</sSpan><sSpan class="mm_value">Lin</sSpan><image class="mm_iconEmail" src="p059b.png" title=""/></p>
+            <block class="mm_content mm_padder">
+            <p>Hi Lin,</p>
+            <p>My name’s Juan and I’m from Argentina. I’d love to be your pen pal. I have a lot of hobbies. I can’t cook but I love writing. I don’t play sports because I’m very </p>
+            <p class="mm_inlineNumber"><br/>1</p> <ordering id="ordering_1" display="h" example="y">
+                <item id="item_1">l</item>
+                <item id="item_2">a</item>
+                <item id="item_3">z</item>
+                <item id="item_4">y</item>
+            </ordering>
+            <p> but I’m going to start swimming lessons soon. I love meeting new friends – I’m not </p>
+            <p class="mm_inlineNumber">2</p> <ordering id="ordering_2" display="h">
+                <item id="item_1" rank="2">s</item>
+                <item id="item_2" rank="1">h</item>
+                <item id="item_3" rank="3">y</item>
+                <suffix>.</suffix>
+            </ordering>
+            <p> I have a good </p>
+            <p class="mm_inlineNumber">3</p> <ordering id="ordering_3" display="h">
+                <item id="item_1" rank="2">s</item>
+                <item id="item_2" rank="1">e</item>
+                <item id="item_3" rank="3">n</item>
+                <item id="item_4" rank="5">s</item>
+                <item id="item_5" rank="4">e</item>
+            </ordering>
+            <ordering id="ordering_4" display="h">
+                <item id="item_1" rank="2">o</item>
+                <item id="item_2" rank="1">f</item>
+            </ordering>
+            <ordering id="ordering_5" display="h">
+                <item id="item_1" rank="4">h</item>
+                <item id="item_2" rank="5">u</item>
+                <item id="item_3" rank="1">m</item>
+                <item id="item_4" rank="3">o</item>
+                <item id="item_5" rank="2">r</item>
+            </ordering>
+            <p> and enjoy telling jokes. My friends say I smile a lot – I’m always </p>
+            <p class="mm_inlineNumber"><br/>4</p> <ordering id="ordering_6" display="h">
+                <item id="item_1" rank="5">c</item>
+                <item id="item_2" rank="4">h</item>
+                <item id="item_3" rank="3">e</item>
+                <item id="item_4" rank="6">e</item>
+                <item id="item_5" rank="7">r</item>
+                <item id="item_6" rank="2">f</item>
+                <item id="item_7" rank="8">u</item>
+                <item id="item_8" rank="1">l</item>
+            </ordering>
+            <p> and never </p>
+            <p class="mm_inlineNumber">5</p> <ordering id="ordering_7" display="h">
+                <item id="item_1" rank="5">m</item>
+                <item id="item_2" rank="4">i</item>
+                <item id="item_3" rank="1">s</item>
+                <item id="item_4" rank="2">e</item>
+                <item id="item_5" rank="3">r</item>
+                <item id="item_6" rank="7">a</item>
+                <item id="item_7" rank="6">b</item>
+                <item id="item_8" rank="8">l</item>
+                <item id="item_9" rank="9">e</item>
+                <suffix>.</suffix>
+            </ordering>
+            <p> You won’t be </p>
+            <p class="mm_inlineNumber">6</p> <ordering id="ordering_8" display="h">
+                <item id="item_1" rank="4">l</item>
+                <item id="item_2" rank="1">o</item>
+                <item id="item_3" rank="5">n</item>
+                <item id="item_4" rank="2">e</item>
+                <item id="item_5" rank="6">l</item>
+                <item id="item_6" rank="3">y</item>
+            </ordering>
+            <p> if you write to me. Write and tell me all about your </p>
+            <p class="mm_inlineNumber"><br/>7</p> <ordering id="ordering_9" display="h">
+                <item id="item_1" rank="4">p</item>
+                <item id="item_2" rank="3">e</item>
+                <item id="item_3" rank="6">r</item>
+                <item id="item_4" rank="2">s</item>
+                <item id="item_5" rank="5">o</item>
+                <item id="item_6" rank="1">n</item>
+                <item id="item_7" rank="7">a</item>
+                <item id="item_8" rank="8">l</item>
+                <item id="item_9" rank="10">i</item>
+                <item id="item_10" rank="11">t</item>
+                <item id="item_11" rank="9">y</item>
+            </ordering>
+            <p> and your interests. I’m going to finish with a joke in English for you: <sSpan class="mm_boldInfo">Why is 6 scared of 7? Because 7 ATE 9.</sSpan> ☺☺☺</p>
+            <p>Have fun!</p>
+            <p>Juan</p>
+            </block>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,53 @@
+<activity class="mm_unit8 mm_activityNumber3 mm_spellingCentral" id="727b8dc9bafc40f9890a7cf0cbe1df78" pseudoID="SC_L6_AB_Ch8_p67_ACT03">
+    <rubric>
+        <p>Choose the word in each group that doesn’t have a <i>sh</i> sound.</p>
+    </rubric>
+    <main>
+       <block class="mm_radio">
+            <list display="v" type="numbered">
+                <li>
+                    <radio id="radio_1" display="h" displayType="itemSelect" name="" type="plain" example="y">
+                        <item id="item_1">share</item>
+                        <item id="item_2" correct="y">facts</item>
+                        <item id="item_3">action</item>
+                        <item id="item_4">sociable</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">patient</item>
+                        <item id="item_2">wish</item>
+                        <item id="item_3" correct="y">exist</item>
+                        <item id="item_4">population</item>
+                    </radio>
+                </li>
+    
+            
+                <li>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">information</item>
+                        <item id="item_2">shipwreck</item>
+                        <item id="item_3">musician</item>
+                        <item id="item_4" correct="y">technology</item>
+                    </radio>
+                </li>
+                <li>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">special</item>
+                        <item id="item_2" correct="y">voice</item>
+                        <item id="item_3">ocean</item>
+                        <item id="item_4">mustache</item>
+                    </radio>
+    			</li>
+                <li>
+                    <radio id="radio_5" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">vacation</item>
+                        <item id="item_2" correct="y">skirt</item>
+                        <item id="item_3">T-shirt</item>
+                        <item id="item_4">dishes</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,47 @@
+.main div.block {
+	background: url('../../production/project/products/Level_3/assets/images/p073a.jpg') -64px 0px no-repeat;
+	background-size: 1075px 360px;
+/* 	background-size: 112%; */
+	width: 100%;
+    padding-left: 1em;
+    padding-right: 1em;
+	height: 360px;
+	position: relative;
+    margin-top: -.425em;
+    margin-left: -1em;
+    margin-right: -1em;
+}
+.wordBox {
+	margin-bottom: 1em;
+}
+.main div.block li {
+	text-align: center;
+	position: absolute;
+}
+.main div.block li:nth-child(1) {
+	width: 151px;
+	top: 65px;
+	left: 48px;
+}
+.main div.block li:nth-child(2) {
+	width: 171px;
+	top: 197px;
+	left: 186px;
+}
+.main div.block li:nth-child(3) {
+	font-size: 0.95em;
+	line-height: 1.3em;
+	width: 176px;
+	top: 115px;
+	left: 351px;
+}
+.main div.block li:nth-child(4) {
+	top: 180px;
+	left: 502px;
+	width: 211px;
+}
+.main div.block li:nth-child(5) {
+	top: 150px;
+	left: 694px;
+	width: 254px;
+}

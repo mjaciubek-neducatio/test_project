@@ -1,0 +1,24 @@
+.mm_customText {
+    margin-bottom: 20px;
+    background-image: url(../../production/project/products/Level_4/assets/images/p036d.png);
+}
+.mm_customText img {
+    border: 1px solid #000;
+}
+.mm_firstImage img{
+    float: left;
+    margin-right: 0.875em;
+}   
+.mm_secondImage img {
+    float: right;
+    display: block;
+}
+.mm_cWidth {
+    min-width: 60%;
+    display: inline-block;
+}
+
+.mm_customText h2 {
+    color: #5365A8;
+    font-size: 1.75em;
+}

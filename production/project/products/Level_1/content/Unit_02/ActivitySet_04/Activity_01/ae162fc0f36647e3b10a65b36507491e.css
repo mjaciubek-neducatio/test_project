@@ -1,0 +1,9 @@
+.mm_centeredTable {
+    text-align: center;
+}
+
+.mm_centeredTable table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}

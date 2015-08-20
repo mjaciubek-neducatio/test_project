@@ -1,0 +1,46 @@
+<activity id="1aa92b36a36947e0a8fb598afa949eac" pseudoID="SC_L3_AB_Ch2_p16_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose <i>true</i> or <i>false</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p>Hamid and Ravi are brothers.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" example="y" name="" type="plain">
+                        <item id="item_1">true</item>
+                        <item id="item_2" correct="y">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>There are no trees where they live.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>The people of Gulzar have a lot of food.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">true</item>
+                        <item id="item_2" correct="y">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Ravi and Hamid lose the coin because they fight.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>A magic tree grows where the coin fell.</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">true</item>
+                        <item id="item_2">false</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,41 @@
+<activity id="f6c834a9f0794eb8abb6b016d9a07dac" pseudoID="SC_L1_AB_Ch3_p27_ACT01" class="mm_unit3 mm_lesson6 mm_activityNumber1">
+    <rubric>
+        <p>Look and choose the correct answers.</p>
+    </rubric>
+    <main>
+        <block class="mm_flexboxSet4060 mm_typeInList">
+            <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <p>
+                        <dropDown id="dropDown_1" example="y">
+                            <item id="item_1">It’s</item>
+                            <item id="item_2" correct="y">They’re</item>
+                        </dropDown> elephants.</p>
+                </li>
+                <li>
+                    <p>They’re <dropDown id="dropDown_2">
+                            <item id="item_1">black</item>
+                            <item id="item_2" correct="y">gray</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>They’re <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">big</item>
+                            <item id="item_2">small</item>
+                        </dropDown>.</p>
+                </li>
+                <li>
+                    <p>They <dropDown id="dropDown_4">
+                            <item id="item_1">are</item>
+                            <item id="item_2" correct="y">aren’t</item>
+                        </dropDown> scary.</p>
+                </li>
+            </list>
+            </block>
+            <block>
+                <image src="p027a.jpg" title=""/>
+            </block>
+        </block>
+    </main>
+</activity>

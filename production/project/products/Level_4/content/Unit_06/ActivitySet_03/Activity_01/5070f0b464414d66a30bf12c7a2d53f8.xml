@@ -1,0 +1,41 @@
+<activity class="mm_unit6 mm_activityNumber2" id="5070f0b464414d66a30bf12c7a2d53f8" pseudoID="SC_L4_AB_Ch6_p48_ACT02">
+    <rubric>
+        <p>Choose the correct options.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">Aladdin has a magic <cSpan class="mm_noWrap"><dropDown id="dropDown_1" example="y" disabled="y">
+                            <item id="item_1" correct="y">lamp</item>
+                            <item id="item_2">mirror</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Aladdin <dropDown id="dropDown_2">
+                            <item id="item_1" correct="y">cleans</item>
+                            <item id="item_2">paints</item>
+                        </dropDown> the lamp.</p>
+                </li>
+                <li>
+                    <p>Aladdin <cSpan class="mm_noWrap"><dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">has already seen a genie</item>
+                            <item id="item_2">hasn’t seen a genie yet</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>Aladdin wishes for <cSpan class="mm_noWrap"><dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">treasure</item>
+                            <item id="item_2">a feast</item>
+                        </dropDown>.</cSpan></p>
+                </li>
+                <li>
+                    <p>The neighbors <dropDown id="dropDown_5">
+                            <item id="item_1">have</item>
+                            <item id="item_2" correct="y">don’t have</item>
+                        </dropDown> a lot of money.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

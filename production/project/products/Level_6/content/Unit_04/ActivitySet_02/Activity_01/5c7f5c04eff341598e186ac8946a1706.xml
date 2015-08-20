@@ -1,0 +1,22 @@
+<activity class="mm_unit4 mm_activityNumber3" id="5c7f5c04eff341598e186ac8946a1706" pseudoID="SC_L6_AB_Ch4_p32_ACT03" desktopDraggable="n">
+    <rubric>
+        <p>Complete for Brent or Master Mind.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>Brent</catName>
+                    <item id="item_1" rank="2">He works in an office.</item>
+                    <item id="item_2" rank="4">He wears a white shirt.</item>
+                </category>
+                <category id="category_2">
+                    <catName>Master Mind</catName>
+                    <item id="item_3" rank="1">He’s a superhero.</item>
+                    <item id="item_4" rank="3">He works for the President.</item>
+                    <item id="item_5" rank="5">He wears a special costume.</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

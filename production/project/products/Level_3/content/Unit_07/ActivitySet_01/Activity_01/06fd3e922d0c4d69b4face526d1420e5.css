@@ -1,0 +1,17 @@
+.mm_listHFloat4Col > ol > li {
+	width: 25%;
+}
+.mm_listHFloat4Col > ol > li[value="1"], .mm_listHFloat4Col > ol > li[value="5"] {
+	width: 21%;
+}
+.mm_listHFloat4Col > ol > li[value="2"], .mm_listHFloat4Col > ol > li[value="6"] {
+	width: 21%;
+}
+.mm_listHFloat4Col > ol > li[value="4"], .mm_listHFloat4Col > ol > li[value="8"] {
+	width: 31%;
+}
+.main img {
+	margin: 0 auto;
+	width: 83%;
+	display: block;
+}

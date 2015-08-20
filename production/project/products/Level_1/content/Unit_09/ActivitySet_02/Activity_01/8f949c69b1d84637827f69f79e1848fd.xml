@@ -1,0 +1,89 @@
+<activity id="8f949c69b1d84637827f69f79e1848fd" pseudoID="SC_L1_AB_Ch9_p71_ACT03" class="mm_unit9 mm_lesson2 mm_activityNumber1">
+    <rubric>
+        <p>Look and complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageCenter">
+            <block class="mm_image mm_roundedImage mm_imageBorder">
+                <image src="p071a.jpg" title=""/>
+
+                <image src="p071b.jpg" title=""/>
+            </block>
+        </block>
+
+
+
+
+                <block class="mm_wordBoxSimple">
+                    <list display="h" type="plain">
+                        <li>can</li>
+                        <li>He</li>
+                        <li>She</li>
+                        <li>It</li>
+                        <li>can’t</li>
+                    </list>
+                </block>
+
+  
+        
+    
+
+                  
+            <block class="mm_typeInList mm_flexboxSet3">
+                <list display="v" type="numbered">
+                    <li>
+                        <p>
+                            <typein id="typein_1" example="y">
+                                <acceptable>
+                                    <item id="item_1">She can</item>
+                                </acceptable>
+                            </typein> run.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_2">
+                                <acceptable>
+                                    <item id="item_1">He can</item>
+                                </acceptable>
+                            </typein> play soccer.</p>
+                    </li>
+                </list>
+                <list display="v" type="numbered" start="3">
+                    <li>
+                        <p>
+                            <typein id="typein_3">
+                                <acceptable>
+                                    <item id="item_1">It can’t</item>
+                                </acceptable>
+                            </typein> ride a bike.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_4">
+                                <acceptable>
+                                    <item id="item_1">He can’t</item>
+                                </acceptable>
+                            </typein> skate.</p>
+                    </li>
+                </list>
+                <list display="v" type="numbered" start="5">
+                    <li>
+                        <p>
+                            <typein id="typein_5">
+                                <acceptable>
+                                    <item id="item_1">She can</item>
+                                </acceptable>
+                            </typein> dance.</p>
+                    </li>
+                    <li>
+                        <p>
+                            <typein id="typein_6">
+                                <acceptable>
+                                    <item id="item_1">It can’t</item>
+                                </acceptable>
+                            </typein> swim.</p>
+                    </li>
+                </list>
+        </block>
+    </main>
+</activity>

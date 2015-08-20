@@ -1,0 +1,29 @@
+<activity class="mm_unit3 mm_activityNumber2" id="71f64b86be0b42c791448a3b3aff672c" desktopDraggable="n">
+    <rubric>
+        <p>Put the words in three groups.</p>
+    </rubric>
+    <main>
+        <block>
+            <categorise id="categorise_1" desktopDisplay="draggable" mobileDisplay="touchable">
+                <category id="category_1">
+                    <catName>top of body</catName>
+                    <item id="item_1" example="y">T-shirt</item>
+                    <item id="item_2">shirt</item>
+                </category>
+                <category id="category_2">
+                    <catName>both</catName>
+                    <item id="item_3">dress</item>
+                </category>
+                 <category id="category_3">
+                    <catName>bottom of body</catName>
+                    <item id="item_4">pants</item>
+                    <item id="item_5">jeans</item>
+                    <item id="item_6">skirt</item>
+                    <item id="item_7">boots</item>
+                    <item id="item_8">shorts</item>
+                    <item id="item_9">shoes</item>
+                </category>
+            </categorise>
+        </block>
+    </main>
+</activity>

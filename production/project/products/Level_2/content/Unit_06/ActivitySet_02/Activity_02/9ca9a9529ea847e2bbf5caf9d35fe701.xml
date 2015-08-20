@@ -1,0 +1,31 @@
+<activity class="mm_unit6 mm_activityNumber1" id="9ca9a9529ea847e2bbf5caf9d35fe701" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_floatLeft">
+            <list display="v" type="alpha">
+                <li>
+                    <p class="mm_example">I <droppable id="droppable_1" example="y">drink</droppable> my juice.</p>
+                </li>
+                <li>
+                    <p>I <droppable id="droppable_2" rank="3">pack</droppable> my bag for school.</p>
+                </li>
+                <li>
+                    <p>I <droppable id="droppable_3" rank="5">open</droppable> my curtains.</p>
+                </li>
+            </list>
+            <list display="v" type="alpha" start="4">
+                <li>
+                    <p>I <droppable id="droppable_4" rank="4">eat</droppable> my breakfast.</p>
+                </li>
+                <li>
+                    <p>I <droppable id="droppable_5" rank="2">put on</droppable> my shoes.</p>
+                </li>
+                <li>
+                    <p>I <droppable id="droppable_6" rank="1">make</droppable> my bed.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

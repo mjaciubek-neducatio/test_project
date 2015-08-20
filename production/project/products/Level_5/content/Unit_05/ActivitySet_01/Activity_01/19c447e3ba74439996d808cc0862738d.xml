@@ -1,0 +1,46 @@
+<activity id="19c447e3ba74439996d808cc0862738d" pseudoID="SC_L5_AB_Ch5_p38_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Choose T (true) or F (false).</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered" class="mm_radio">
+                <li>
+                    <p class="mm_example">You can see your face in a silver cup.</p>
+                    <radio id="radio_1" display="h" displayType="itemSelect" example="y" name="" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Wood isn’t natural—people make it.</p>
+                    <radio id="radio_2" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Plastic is always hard.</p>
+                    <radio id="radio_3" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1">T</item>
+                        <item id="item_2" correct="y">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Glass usually breaks when it hits something.</p>
+                    <radio id="radio_4" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+                <li>
+                    <p>Wool is warmer than cotton.</p>
+                    <radio id="radio_5" display="h" displayType="itemSelect" name="" type="plain">
+                        <item id="item_1" correct="y">T</item>
+                        <item id="item_2">F</item>
+                    </radio>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

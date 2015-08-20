@@ -1,0 +1,33 @@
+<activity id="4f391ddbf6674b0e80d317d12a4d8381" pseudoID="SC_L3_AB_Ch5_p42_ACT03" class="mm_activityNumber3">
+    <rubric>
+        <p>Complete the puzzle with words ending in <i>–ell</i>.</p>
+    </rubric>
+    <main>
+        <block>
+            <crossword id="crossword_1">
+                <words>
+                    <word id="crossword_word_1" example="y">
+                        <value>spell</value>
+                        <clue><image src="p042d.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_2">
+                        <value>sell</value>
+                        <clue><image src="p042a.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_3">
+                        <value>smell</value>
+                        <clue><image src="p042e.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_4">
+                        <value>well</value>
+                        <clue><image src="p042b.jpg" title=""/></clue>
+                    </word>
+                    <word id="crossword_word_5">
+                        <value>tell</value>
+                        <clue><image src="p042c.jpg" title=""/></clue>
+                    </word>
+                </words>
+            </crossword>
+        </block>
+    </main>
+</activity>

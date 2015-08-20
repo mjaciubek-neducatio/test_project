@@ -1,0 +1,50 @@
+.mm_exBorder {
+    background-image: url(../../production/project/products/Level_6/assets/images/p075c.jpg);
+    background-size: cover;
+    padding: 1em;
+}
+
+.mm_exContent {
+    border-radius: 20px;
+    background-color: #fff;
+    border: 5px dotted #9fd6c2;
+    padding: 0.875em;
+}
+
+.mm_exContent div img:first-child {
+    position: absolute;
+    top: 495px;
+    left: -15px;
+}
+
+.mm_exContent div img:nth-child(2) {
+    position: absolute;
+    top: 495px;
+    left: 835px;
+}
+
+.mm_title {
+    font-weight: 700;
+    font-size:1.5em;
+    color: #1dad8a;
+}
+
+.mm_lineOrdering > p {
+    line-height: 30px;
+}
+.mm_lineOrdering .orderingContainer {
+    vertical-align: middle;
+}
+
+.mm_exContent p {
+    display: inline;
+}
+
+.mm_highlighted {
+    color: #1dad8a;
+}
+
+.mm_exContent p:last-child {
+    display: block;
+    margin-left: 1.75em;
+}

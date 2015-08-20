@@ -1,0 +1,38 @@
+<activity id="39d512cf90f442628de28133f19a2546" pseudoID="SC_L1_AB_Ch9_p72_ACT02" class="mm_unit9 mm_lesson3 mm_activityNumber2">
+    <rubric>
+        <p>Read the story in your Student Book. Choose the correct answers.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_speechBubbles">
+        <p class="mm_bubble">My name’s Tim.</p>
+            <image src="p072a.jpg" title=""/>
+            
+            <list display="v" type="numbered">
+                <li>
+                    <p>I <dropDown id="dropDown_1" example="y">
+                            <item id="item_1" correct="y">can</item>
+                            <item id="item_2">can’t</item>
+                        </dropDown> play the violin.</p>
+                </li>
+                <li>
+                    <p>I <dropDown id="dropDown_2">
+                            <item id="item_1">can</item>
+                            <item id="item_2" correct="y">can’t</item>
+                        </dropDown> drive a cart.</p>
+                </li>
+                <li>
+                    <p>I <dropDown id="dropDown_3">
+                            <item id="item_1" correct="y">can</item>
+                            <item id="item_2">can’t</item>
+                        </dropDown> sing.</p>
+                </li>
+                <li>
+                    <p>Fish <dropDown id="dropDown_4">
+                            <item id="item_1" correct="y">can</item>
+                            <item id="item_2">can’t</item>
+                        </dropDown> fly when I play my violin.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

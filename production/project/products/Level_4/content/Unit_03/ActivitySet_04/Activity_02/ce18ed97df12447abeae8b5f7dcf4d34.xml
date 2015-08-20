@@ -1,0 +1,21 @@
+<activity desktopDraggable="n" class="mm_unit3 mm_activityNumber2" id="ce18ed97df12447abeae8b5f7dcf4d34" pseudoID="SC_L4_AB_Ch3_p26_ACT02">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_customTypein mm_flexContainer mm_flexboxSet3">
+            <block class="mm_singleBlock">
+                <image src="p026a.jpg" title=""/>
+                <p>We’re <cSpan class="mm_noWrap"><droppable id="droppable_1" example="y">astronauts</droppable>!</cSpan> We’re flying in our <droppable id="droppable_2" rank="4">rocket</droppable> to see the <cSpan class="mm_noWrap"><droppable id="droppable_3" rank="2">solar system</droppable>.</cSpan></p>
+            </block>
+            <block class="mm_singleBlock"> 
+                <image src="p026b.jpg" title=""/>
+                <p>That’s our <cSpan class="mm_noWrap"><droppable id="droppable_4" rank="5">planet</droppable>,</cSpan> Earth. It’s in <droppable id="droppable_5" rank="3">orbit</droppable> around the Sun.</p>
+            </block>
+            <block class="mm_singleBlock">
+                <image src="p026c.jpg" title=""/>
+                <p>Careful! It’s a <cSpan class="mm_noWrap"><droppable id="droppable_6" rank="1">meteor</droppable>!</cSpan> It’s dangerous!</p>
+            </block>
+        </block>
+    </main>
+</activity>

@@ -1,0 +1,55 @@
+<activity class="mm_unit5 mm_activityNumber1" id="07a190fc20184e0dab1c5af90698e27e" pseudoID="SC_L6_AB_Ch5_p38_ACT01" seed="8">
+    <rubric>
+		<p>Complete the puzzle. Find the hidden word. Which disaster doesn't appear?</p>
+	</rubric>
+	<main>
+		<block class="mm_customCrossword">
+			<crossword id="crossword_1">
+				<words>
+					<word id="crossword_word_1" example="y">
+						<value>earthquake</value>
+						<clue>when the earth suddenly moves</clue>
+					</word>
+					<word id="crossword_word_2">
+						<value>erupt</value>
+						<clue>send smoke and fire into the sky</clue>
+					</word>
+					<word id="crossword_word_3">
+						<value>warning</value>
+						<clue>tells you about possible danger</clue>
+					</word>
+					<word id="crossword_word_4">
+						<value>protect</value>
+						<clue>stop something bad happening</clue>
+					</word>
+					<word id="crossword_word_5">
+						<value>tsunami</value>
+						<clue>a very large, powerful wave</clue>
+					</word>
+					<word id="crossword_word_6">
+						<value>shake</value>
+						<clue>move quickly and suddenly</clue>
+					</word>
+					<hiddenWord>hurricane</hiddenWord>
+				</words>
+			</crossword>
+			<block class="mm_customAnswer">
+				<p>Hidden word:
+					<typein id="typein_1">
+						<acceptable>
+							<item id="item_1">hurricane</item>
+							<item id="item_2">HURRICANE</item>
+						</acceptable>
+					</typein>
+				</p>
+			</block>
+			<block class="mm_blockImages mm_boxShadow">
+				<image src="p038a.jpg" title=""/>
+				<image src="p038b.jpg" title=""/>
+				<image src="p038c.jpg" title=""/>
+				<image src="p038d.jpg" title=""/>
+				<image src="p038e.jpg" title=""/>
+			</block>
+		</block>
+	</main>
+</activity>

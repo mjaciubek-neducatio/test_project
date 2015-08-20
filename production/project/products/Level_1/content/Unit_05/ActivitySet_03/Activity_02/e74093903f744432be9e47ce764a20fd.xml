@@ -1,0 +1,53 @@
+<activity id="e74093903f744432be9e47ce764a20fd" pseudoID="SC_L1_AB_Ch5_p42_ACT02" class="mm_unit5 mm_lesson7 mm_activityNumber1">
+    <rubric>
+        <p>Match the words with the correct outlines.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageMatchItem mm_hMatching6 mm_postitionNumbers mm_hMatchTarget1Line">
+            <matching id="matching_1" display="h">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1">
+                        <sSpan class="mm_matchingNumber">1.</sSpan>
+                        <image src="p042e.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_1">motorcycle</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2">
+                        <sSpan class="mm_matchingNumber">2.</sSpan>
+                        <image src="p042b.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_2">truck</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3">
+                        <sSpan class="mm_matchingNumber">3.</sSpan>
+                        <image src="p042a.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_3">van</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4">
+                        <sSpan class="mm_matchingNumber">4.</sSpan>
+                        <image src="p042d.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_4">bus</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5">
+                        <sSpan class="mm_matchingNumber">5.</sSpan>
+                        <image src="p042c.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_5">car</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_6" rank="6">
+                        <sSpan class="mm_matchingNumber">6.</sSpan>
+                        <image src="p042f.jpg" title=""/>
+                    </matchItem>
+                    <matchTarget id="matchTarget_6">taxi</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

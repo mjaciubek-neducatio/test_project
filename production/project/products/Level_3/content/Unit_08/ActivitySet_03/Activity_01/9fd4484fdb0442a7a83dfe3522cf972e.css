@@ -1,0 +1,26 @@
+/* .crosswordClueContainer li {
+	color: #000;
+}
+.crosswordClueContainer .across, .crosswordClueContainer .down {
+	margin: 0.2em 0 1em 0.75em;
+	padding: 1em 0.75em;
+	width: 87.5%;
+	height: 155px;
+}
+.crosswordClueContainer {
+	float: left;
+	width: 33%;
+} */
+
+.crosswordClueContainer li {
+    color: #000;
+}
+.crosswordClueContainer .across, .crosswordClueContainer .down {
+	margin-bottom: 1em;
+	padding: 1em 0.75em;
+	width: 87.5%;
+}
+.crosswordClueContainer {
+	float: left;
+	width: 33%;
+}

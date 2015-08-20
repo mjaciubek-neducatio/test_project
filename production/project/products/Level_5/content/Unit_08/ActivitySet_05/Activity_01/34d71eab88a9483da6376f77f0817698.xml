@@ -1,0 +1,46 @@
+<activity id="34d71eab88a9483da6376f77f0817698" pseudoID="SC_L5_AB_Ch8_p67_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_dialogue">
+            <list display="v" type="plain">
+                <li>
+                    <p> 
+                        <b>Harry:</b> Hi, Francesca. It’s Harry.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b>Francesca:</b> Sorry, can you <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" rank="3" example="y">repeat</droppable> your name? I can’t hear you.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b>Harry:</b> It’s Harry … I’m at home … in New York.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b>Francesca:</b> Oh, Harry, hi. It’s your American <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="1">accent</droppable>. It’s difficult to <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="2">understand</droppable>.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b>Harry:</b> I’ll speak slowly. Hey, I’m coming to see you on Thursday.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b>Francesca:</b> That’s nice. Do you <sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="4">mean</droppable> Tuesday or Thursday?
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b>Harry:</b> Thursday. You <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="6">pronounce</droppable> it "Thursday". Don’t worry. We can use <sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="5">signs</droppable> to talk when I get there!
+                    </p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

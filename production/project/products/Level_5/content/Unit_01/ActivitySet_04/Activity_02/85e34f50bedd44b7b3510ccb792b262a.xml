@@ -1,0 +1,70 @@
+<activity id="85e34f50bedd44b7b3510ccb792b262a" pseudoID="SC_L5_AB_Ch1_p10_ACT02" class="mm_activityNumber2">
+    <rubric>
+        <p>Unscramble the questions. Then ask and answer with a friend.</p>
+    </rubric>
+    <main>
+        <block>
+            <list display="v" type="numbered">
+                <li class="mm_example">
+                    <ordering id="ordering_1" capitalise="n" display="h" mark="item" example="y">
+                        <item id="item_1">Did</item>
+                        <item id="item_2">you</item>
+                        <item id="item_3">use</item>
+                        <item id="item_4">to</item>
+                        <item id="item_5">have</item>
+                        <item id="item_6">an</item>
+                        <item id="item_7">imaginary</item>
+                        <item id="item_8">friend</item>
+                        <suffix>?</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_2" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="1">Did</item>
+                        <item id="item_2" rank="8">you</item>
+                        <item id="item_3" rank="4">use</item>
+                        <item id="item_4" rank="2">to</item>
+                        <item id="item_5" rank="3">jump</item>
+                        <item id="item_6" rank="5">on</item>
+                        <item id="item_7" rank="6">your</item>
+                        <item id="item_8" rank="7">bed</item>
+                        <suffix>?</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_3" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="6">Did</item>
+                        <item id="item_2" rank="3">you</item>
+                        <item id="item_3" rank="5">use</item>
+                        <item id="item_4" rank="1">to</item>
+                        <item id="item_5" rank="2">eat</item>
+                        <item id="item_6" rank="4">broccoli</item>
+                        <suffix>?</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_4" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="5">Did</item>
+                        <item id="item_2" rank="4">you</item>
+                        <item id="item_3" rank="6">use</item>
+                        <item id="item_4" rank="2">to</item>
+                        <item id="item_5" rank="3">climb</item>
+                        <item id="item_6" rank="1">trees</item>
+                        <suffix>?</suffix>
+                    </ordering>
+                </li>
+                <li>
+                    <ordering id="ordering_5" capitalise="n" display="h" mark="item">
+                        <item id="item_1" rank="6">Did</item>
+                        <item id="item_2" rank="4">you</item>
+                        <item id="item_3" rank="1">use</item>
+                        <item id="item_4" rank="2">to</item>
+                        <item id="item_5" rank="3">do</item>
+                        <item id="item_6" rank="5">gymnastics</item>
+                        <suffix>?</suffix>
+                    </ordering>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

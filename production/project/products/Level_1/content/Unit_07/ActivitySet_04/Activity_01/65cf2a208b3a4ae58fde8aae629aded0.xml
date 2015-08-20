@@ -1,0 +1,30 @@
+<activity id="65cf2a208b3a4ae58fde8aae629aded0" pseudoID="SC_L1_AB_Ch7_p57_ACT01" class="mm_unit7 mm_lesson4 mm_activityNumber1" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+        <block class="mm_imageRight mm_typeInList">
+            <image src="p057a.jpg" title=""/>
+       
+         
+            
+            <list display="v" type="numbered">
+                <li>
+                    <p>What’s your <droppable id="droppable_1" example="y">name</droppable>?</p>
+                </li>
+                <li>
+                    <p>I’m not your <droppable id="droppable_2">mom</droppable>.</p>
+                </li>
+                <li>
+                    <p>Jake has a funny <droppable id="droppable_3">pet</droppable>.</p>
+                </li>
+                <li>
+                    <p>My <droppable id="droppable_4">arm</droppable> hurts.</p>
+                </li>
+                <li>
+                    <p>You’re a <droppable id="droppable_5">good</droppable> friend.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

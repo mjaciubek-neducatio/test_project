@@ -1,0 +1,90 @@
+<activity id="6c11d47ca98d484b9741838d3a7e7761" pseudoID="SC_L3_AB_Ch5_p41_ACT05" class="mm_activityNumber2">
+    <rubric>
+        <p>Correct the verbs.</p>
+    </rubric>
+    <main>
+        <block class="mm_typeInList mm_itemCenter">
+            <block class="mm_border mm_roundedCorner mm_centeredItem">
+                <list display="v" type="plain">
+                    <li>
+                        <p>Amun <locating id="locating_1" example="y">live<typein id="typein_1">
+                                    <acceptable>
+                                        <item id="item_1">lived</item>
+                                        <item id="item_2">LIVED</item>
+                                        <item id="item_3">Lived</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> beside the Nile River.</p>
+                    </li>
+                    <li>
+                        <p>Every day, he <locating id="locating_2">climb<typein id="typein_2">
+                                    <acceptable>
+                                        <item id="item_1">climbed</item>
+                                        <item id="item_2">CLIMBED</item>
+                                        <item id="item_3">Climbed</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> into his boat.</p>
+                    </li>
+                    <li>
+                        <p>He <locating id="locating_3">hunt<typein id="typein_3">
+                                    <acceptable>
+                                        <item id="item_1">hunted</item>
+                                        <item id="item_2">HUNTED</item>
+                                        <item id="item_3">Hunted</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> ducks and <locating id="locating_4">fish<typein id="typein_4">
+                                    <acceptable>
+                                        <item id="item_1">fished</item>
+                                        <item id="item_2">FISHED</item>
+                                        <item id="item_3">Fished</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> in the river.</p>
+                    </li>
+                    <li>
+                        <p>One day, he <locating id="locating_5">stop<typein id="typein_5">
+                                    <acceptable>
+                                        <item id="item_1">stopped</item>
+                                        <item id="item_2">STOPPED</item>
+                                        <item id="item_3">Stopped</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> his boat next to a pyramid.</p>
+                    </li>
+                    <li>
+                        <p>There <locating id="locating_6">is<typein id="typein_6">
+                                    <acceptable>
+                                        <item id="item_1">was</item>
+                                        <item id="item_2">WAS</item>
+                                        <item id="item_3">Was</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> a noise in the long grass.</p>
+                    </li>
+                    <li>
+                        <p>A big crocodile <locating id="locating_7">look<typein id="typein_7">
+                                    <acceptable>
+                                        <item id="item_1">looked</item>
+                                        <item id="item_2">LOOKED</item>
+                                        <item id="item_3">Looked</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> at him!</p>
+                    </li>
+                    <li>
+                        <p>Amun <locating id="locating_8">escape<typein id="typein_8">
+                                    <acceptable>
+                                        <item id="item_1">escaped</item>
+                                        <item id="item_2">ESCAPED</item>
+                                        <item id="item_3">Escaped</item>
+                                    </acceptable>
+                                </typein>
+                            </locating> in his boat.</p>
+                    </li>
+                </list>
+            </block>
+        </block>
+    </main>
+</activity>

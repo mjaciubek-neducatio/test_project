@@ -1,0 +1,33 @@
+.mm_customTypein li:nth-child(1) {
+    margin-left: 132px;
+}
+.mm_customTypein li:nth-child(2) {
+    margin-left: 78px;
+}
+.mm_customTypein li:nth-child(3) {
+    margin-left: 132px;
+}
+.mm_customTypein li:nth-child(4) {
+    margin-left: 51px;
+}
+.mm_customTypein li:nth-child(5) {
+    margin-left: 0;
+}
+.mm_customTypein input[data-rcfid="typein_1"], .mm_customTypein input[data-rcfid="typein_33"], .mm_customTypein input[data-rcfid="typein_16"], .mm_customTypein input[data-rcfid="typein_23"], .mm_customTypein input[data-rcfid="typein_43"]{
+    background: #dbefe6;
+}
+.mm_customAnswer {
+    position: absolute;
+    top: 120px;
+    left: 575px;
+    width: 200px;
+    text-align: center;
+    border: 2px solid #9fd6c2;
+    border-radius: 10px;
+    padding: 5px;
+}
+.mm_customAnswer p:nth-child(2) {
+    margin-top: -5px;
+    margin-bottom: 5px;
+    
+}

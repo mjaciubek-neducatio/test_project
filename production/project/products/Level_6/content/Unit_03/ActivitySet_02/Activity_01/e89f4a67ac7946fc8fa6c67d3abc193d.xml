@@ -1,0 +1,31 @@
+<activity class="mm_unit3 mm_activityNumber3" id="e89f4a67ac7946fc8fa6c67d3abc193d" pseudoID="SC_L6_AB_Ch3_p24_ACT03">
+    <rubric>
+        <p>Match.</p>
+    </rubric>
+    <main>
+        <block>
+            <matching id="matching_1">
+                <pair example="y">
+                    <matchItem id="matchItem_1" rank="1"><sSpan class="mm_matchingNumber">1.</sSpan> Amazu is angry because</matchItem>
+                    <matchTarget id="matchTarget_1" rank="2"><sSpan class="mm_matchingNumber">b.</sSpan> he can’t sleep.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_2" rank="2"><sSpan class="mm_matchingNumber">2.</sSpan> He can’t sleep because</matchItem>
+                    <matchTarget id="matchTarget_2" rank="4"><sSpan class="mm_matchingNumber">d.</sSpan> the frogs are croaking loudly.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_3" rank="3"><sSpan class="mm_matchingNumber">3.</sSpan> Ifeoma thinks bad things will happen</matchItem>
+                    <matchTarget id="matchTarget_3" rank="5"><sSpan class="mm_matchingNumber">e.</sSpan> if Obi destroys the frogs.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_4" rank="4"><sSpan class="mm_matchingNumber">4.</sSpan> If Obi kills the frogs, Amazu</matchItem>
+                    <matchTarget id="matchTarget_4" rank="3"><sSpan class="mm_matchingNumber">c.</sSpan> will give him a lot of money.</matchTarget>
+                </pair>
+                <pair>
+                    <matchItem id="matchItem_5" rank="5"><sSpan class="mm_matchingNumber">5.</sSpan> If there are no frogs,</matchItem>
+                    <matchTarget id="matchTarget_5" rank="1"><sSpan class="mm_matchingNumber">a.</sSpan> there will be new problems.</matchTarget>
+                </pair>
+            </matching>
+        </block>
+    </main>
+</activity>

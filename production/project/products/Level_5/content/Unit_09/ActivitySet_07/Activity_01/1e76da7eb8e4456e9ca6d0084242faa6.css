@@ -1,0 +1,28 @@
+.mm_exerciseContent {
+    background: #ffffff;
+	/* background: url('../../production/project/products/Level_5/assets/images/p076a.png') no-repeat 15% 65%, -moz-linear-gradient(left, #ffffff 0%, #9e9c9e 4%, #d9d9d9 6%, #ffffff 27%, #ffffff 91%, #f7f7f7 100%); */
+	background: url('../../production/project/products/Level_5/assets/images/p076a.png') no-repeat 15% 65%, -webkit-gradient(left top, right top, color-stop(0%, #ffffff), color-stop(4%, #9e9c9e), color-stop(6%, #d9d9d9), color-stop(27%, #ffffff), color-stop(91%, #ffffff), color-stop(100%, #f7f7f7));
+	background: url('../../production/project/products/Level_5/assets/images/p076a.png') no-repeat 15% 65%, -webkit-linear-gradient(left, #ffffff 0%, #9e9c9e 4%, #d9d9d9 6%, #ffffff 27%, #ffffff 91%, #f7f7f7 100%);
+	background: url('../../production/project/products/Level_5/assets/images/p076a.png') no-repeat 15% 65%, -o-linear-gradient(left, #ffffff 0%, #9e9c9e 4%, #d9d9d9 6%, #ffffff 27%, #ffffff 91%, #f7f7f7 100%);
+	background: url('../../production/project/products/Level_5/assets/images/p076a.png') no-repeat 15% 65%, -ms-linear-gradient(left, #ffffff 0%, #9e9c9e 4%, #d9d9d9 6%, #ffffff 27%, #ffffff 91%, #f7f7f7 100%);
+	background: url('../../production/project/products/Level_5/assets/images/p076a.png') no-repeat 15% 65%, linear-gradient(to right, #ffffff 0%, #9e9c9e 4%, #d9d9d9 6%, #ffffff 27%, #ffffff 91%, #f7f7f7 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f7f7f7', GradientType=1 );
+	padding: 0.875em 3.5em;
+	margin:1.75em;
+}
+
+.mm_dottedBorder {
+	border-top: 3px dotted #1f91d0;
+}
+
+.mm_dottedBorder2 {
+	border-top: 3px dotted #1f91d0;
+}
+
+.mm_imageRight img {
+	margin: 0;
+}
+
+.mm_spellingCentral .rubric {
+    min-height: 36px;
+}

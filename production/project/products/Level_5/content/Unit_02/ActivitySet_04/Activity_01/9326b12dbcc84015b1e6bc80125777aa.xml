@@ -1,0 +1,13 @@
+<activity id="9326b12dbcc84015b1e6bc80125777aa" pseudoID="SC_L5_AB_Ch2_p18_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Complete Scarlett's old diary entry.</p>
+    </rubric>
+    <main>
+        <block class="mm_letter mm_handwritten mm_boxShadow">
+            <block class="mm_images">
+                <image src="p018a.png" title=""/>
+            </block>
+                <p>Tomorrow, a famous artist <sSpan class="mm_inlineNumber">1</sSpan><droppable id="droppable_1" example="y" rank="4">is going to talk</droppable> to us. <br/>He <sSpan class="mm_inlineNumber">2</sSpan><droppable id="droppable_2" rank="2">’s going to bring</droppable> his paintings into the class so that we can see them. After lunch, he <sSpan class="mm_inlineNumber">3</sSpan><droppable id="droppable_3" rank="6">’s going to show</droppable> us how to draw animals because they're very difficult. I haven’t decided yet, but I <br/><sSpan class="mm_inlineNumber">4</sSpan><droppable id="droppable_4" rank="1">might study</droppable> art at college after school. Rufus doesn’t know if he wants to go to the talk or not. He says he <sSpan class="mm_inlineNumber">5</sSpan><droppable id="droppable_5" rank="5">might stay</droppable> home because he doesn’t like art very much. We have to take a picture to show the artist, but I <br/><sSpan class="mm_inlineNumber">6</sSpan><droppable id="droppable_6" rank="3">’m not going to take</droppable> this picture of Hamish – it’s awful!</p>
+        </block>
+    </main>
+</activity>

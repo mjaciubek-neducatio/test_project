@@ -1,0 +1,34 @@
+<activity id="a0329c3e77144142a2a422ccc39caff5" pseudoID="SC_L5_AB_Ch3_p25_ACT02" class="mm_activityNumber2" desktopDraggable="n">
+    <rubric>
+        <p>Complete.</p>
+    </rubric>
+    <main>
+    <block class="mm_image">
+                <image src="p049a.png" title=""/>
+            </block>
+        <block>
+            <list display="v" type="numbered">
+                <li>
+                    <p class="mm_example">
+                        <droppable id="droppable_1" example="y" rank="1">To my surprise</droppable>, a giant rabbit jumped out of a hole.</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_2" rank="3">Fortunately</droppable>, I found the key and could open the door.</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_3" rank="5">Unfortunately</droppable>, I was bigger than the door and couldn’t go into the garden.</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_4" rank="2">Soon</droppable> it’s going to get dark.</p>
+                </li>
+                <li>
+                    <p>
+                        <droppable id="droppable_5" rank="4">Finally</droppable>, I went to bed and fell asleep.</p>
+                </li>
+            </list>
+        </block>
+    </main>
+</activity>

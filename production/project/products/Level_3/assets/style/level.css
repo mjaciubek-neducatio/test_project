@@ -1,0 +1,179 @@
+/* ACTIVITY BACKGROUND IMAGE */
+.activity {
+	background-image: url(../images/ABBackground.png);
+}
+
+.activity,
+.rcfContentContainer .activity {
+    min-height: 631px;
+    max-height: 631px;
+}
+
+/* RUBRIC ACTIVITY NUMBER */
+.rubric .rubricBody p:before {
+	background-image: url(../images/activityNumbersAB.png);
+	}
+
+
+/*  COLOUR NOTES */
+.generalUserColour,
+.generalInteractivityColour,
+.levelColor,
+.locating_answer {
+	color: #a05599;
+}
+
+
+/*	UNMARKED ELEMENTS AND STYLE HELPERS */
+
+.mm_wordBoxSimple,
+.mm_border,
+.mm_imageBorder img,
+.category {
+	border-color: #a05599;
+}
+
+.mm_matchingNumber,
+.caption,
+ol > li,
+li.mm_example,
+.mm_radioLabelNumber,
+.mm_inlineNumber,
+.mm_awCircleNumbering{
+	color: #a05599;
+}
+
+ol > li p {
+	color: #000;
+}
+
+.selected .mm_inlineNumber{
+	color: #fff;
+}
+
+
+/* WORDBOX THEME */
+
+.wordBox ul,
+.mm_wordBox ul,
+.rcfWordSearchGridChosenWords .wordSearchWords {
+	background-color:#a05599;
+	background-position:-5px -5px, -5px -5px;
+}
+
+
+/* SHARED SELECTED ELEMENT COLOURS */
+
+/* SELECTED ITEM FONT COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.checkboxItemSelect.horizontal .selected, /* checkbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */
+.rcfWordSearchGrid .ws-selected,
+.selected .mm_matchingNumber,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+	color: #fff;
+}
+/*.crosswordClueContainer li,*/
+.mm_postitionNumbers .selected .mm_matchingNumber {
+	color: #a05599;
+}
+/*.crosswordClueNumber {
+	color: #a05599;	
+}*/
+
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+    color: #000;
+}
+
+/* SELECTED ITEM BACKGROUND COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dragTarget.selected, /* selected dropped droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+.checkboxItemSelect.horizontal .selected, /* checkbox item select */
+.radioItemSelect .selectable.selected, /* radio item select */
+ul.ordering li.ui-sortable-helper, /* ordering */ 
+.interactiveText .selectable .selected  /* interactiveText */ {
+    background-color: #a05599;
+}
+
+.rcfWordSearchGrid .ws-highlight,
+.rcfWordSearchGrid .ws-selected,
+.mobile .rcfWordSearchGrid .ws-start,
+.wordSearchContainer[data-draggable='n'] .rcfWordSearchGrid .ws-start,
+.rcfWordSearchGrid .ws-glowing,
+table.crossword input.editing,
+.crosswordClueContainer li.selected,
+.crosswordClueContainer li:hover {
+    background-color: #e2cce0;
+}
+
+table.crossword input.hiddenLetter {
+	background-color: #bc88b7;
+}
+
+table.crossword input.editing:focus {
+    background-color: #e2cce0;
+}
+
+/* SELECTED ITEM BORDER COLOURS */
+.matchItems .matchItem.selected,
+.mm_selectableText .selected,
+.populated, /* dropped droppables in droppable */
+.wordBox li.dragItem.selected, /* selected droppables */
+.dropTarget li.dragItem, /* dropped droppables in categorise */
+ul.ordering li.ui-sortable-helper, /* ordering */
+.category {
+	border-color: #a05599;
+}
+.desktop .checkboxItemSelect .selectable.selected,
+.radioItemSelect .selectable.selected {
+	border-color: #a05599  !important; /* separated from above + !important to overwrite RCF core */
+}
+table.crossword input.editing:focus {
+    background-color: #e2cce0;
+}
+
+/* SELECTED ITEM MARGINS */
+.desktop .radioItemSelect.horizontal .selectable:last-child, .desktop .checkboxItemSelect.horizontal .selectable:last-child {
+	margin-right: 0;
+}
+
+/* OTHER SELECTED ITEM COLOURS */
+.matchingContainer .selected ~._jsPlumb_endpoint circle {
+	fill: #a05599;
+}
+
+/* MATCHING ITEMS & TARGETS */
+.matchItem, .matchTarget {
+	text-align: left;
+}
+
+/* TYPEIN GLOW ON FOCUS */
+.typein input.text:focus,
+.typeinGroup input.typeinGroup:focus {
+	box-shadow: 2px 2px 19px #a05599;
+}
+
+/* DROPABLE TARGETS */
+.dragTarget.inline.populated {
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+/*LEVEL LAYOUT STYLES*/
+
+
+
+/*LEVEL MODULE STYLES*/
+
+

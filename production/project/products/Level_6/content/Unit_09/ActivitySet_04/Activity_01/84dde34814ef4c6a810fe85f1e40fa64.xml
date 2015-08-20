@@ -1,0 +1,17 @@
+<activity class="mm_unit9 mm_activityNumber1" id="84dde34814ef4c6a810fe85f1e40fa64" pseudoID="SC_L6_AB_Ch9_p76_ACT01" desktopDraggable="n">
+    <rubric>
+        <p>Read and complete.</p>
+    </rubric>
+    <main>
+            <block class="mm_exContent mm_boxShadow">
+                <block class="mm_customBorder mm_handwritten">
+                    <image src="p076b.png" title=""/>
+                    <p>Walt Disney</p>
+                </block>
+                <block class="mm_padder mm_imageRight">
+                    <image src="p076a.png" title=""/>
+                    <p>Walt Disney was born in 1901. When he was a child, he always loved <cSpan class="mm_noWrap mm_inlineNumber">1 <droppable id="droppable_1" example="y" rank="2">drawing</droppable>.</cSpan> Later, he started making short cartoons in his uncle’s garage with his brother. He had the <cSpan class="mm_noWrap mm_inlineNumber">2 <droppable id="droppable_2" rank="3">idea</droppable></cSpan> for Mickey Mouse after watching mice playing in his office. Mickey was very popular and soon after, Disney <cSpan class="mm_noWrap mm_inlineNumber">3 <droppable id="droppable_3" rank="6">achieved</droppable></cSpan> his goal and set up a cartoon factory. His company was very <cSpan class="mm_noWrap mm_inlineNumber">4 <droppable id="droppable_4" rank="1">successful</droppable></cSpan> and it grew bigger and bigger. Disney started making toys and other mouse <cSpan class="mm_noWrap mm_inlineNumber">5 <droppable id="droppable_5" rank="4">products</droppable>.</cSpan> Since he died in 1966, Disney has become one of the biggest media companies in the world. As the famous <cSpan class="mm_noWrap mm_inlineNumber">6 <droppable id="droppable_6" rank="5">entrepreneur</droppable></cSpan> <br/>said, “It was all started by a mouse.”</p>
+                </block>
+            </block>
+    </main>
+</activity>
